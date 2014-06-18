@@ -1,7 +1,7 @@
 USE giec
 
 UPDATE institutions
-SET name=SUBSTR(name,4)
+SET name=SUBSTR(name,5)
 WHERE name LIKE 'The %';
 
 SELECT COUNT(*)
