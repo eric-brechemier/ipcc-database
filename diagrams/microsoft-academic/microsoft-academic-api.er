@@ -1,3 +1,8 @@
+title {label:"Microsoft Academic API", font:"Helvetica-Bold", size:"100"}
+header {font:"Helvetica-Bold"}
+entity {font:"Helvetica"}
+relationship {font:"Helvetica"}
+
 [Affiliation]
 *ID  {label:"Int32"}
 OfficialName  {label:"String"}
