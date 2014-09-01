@@ -1,0 +1,131 @@
+[Affiliation]
+ID  {label:"Int32"}
+OfficialName  {label:"String"}
+DisplayName   {label:"String"}
+NativeName  {label:"String"}
+ParentID  {label:"Int32"}
+Homepage  {label:"String"}
+ShortName   {label:"String"}
+Type  {label:"Int32"}
+Longitude   {label:"Double"}
+Latitude  {label:"Double"}
+
+[Author]
+ID  {label:"Int32"}
+Name  {label:"String"}
+NativeName  {label:"String"}
+Affiliation   {label:"String"}
+AffiliationID   {label:"Int32"}
+Homepage  {label:"String"}
+Version   {label:"Int32"}
+LinkedInUrl   {label:"String"}
+WikipediaUrl  {label:"String"}
+TwitterUserName   {label:"String"}
+ResearchInterests   {label:"String"}
+
+[Category]
+mainID  {label:"Int32"}
+SubDomainID   {label:"Int32"}
+Name  {label:"String"}
+
+[Conf_Category]
+ConfCategoryID  {label:"Int32"}
+DomainID  {label:"Int32"}
+SubDomainID   {label:"Int32"}
+
+[Conference]
+ID  {label:"Int32"}
+ShortName   {label:"String"}
+FullName  {label:"String"}
+Homepage  {label:"String"}
+
+[Domain]
+ID  {label:"Int32"}
+Name  {label:"String"}
+
+[Jour_Category]
+CJourID   {label:"Int32"}
+DomainID  {label:"Int32"}
+SubDomainID   {label:"Int32"}
+
+[Journal]
+ID  {label:"Int32"}
+ShortName   {label:"String"}
+FullName  {label:"String"}
+Homepage  {label:"String"}
+
+[Keyword]
+ID  {label:"Int32"}
+DisplayName   {label:"String"}
+StemName  {label:"String"}
+Type  {label:"Int32"}
+Variation   {label:"String"}
+
+[OrganizationsByGeography]
+ID  {label:"Int32"}
+DisplayName   {label:"String"}
+Latitude  {label:"Double"}
+Longitude   {label:"Double"}
+
+[Paper]
+ID  {label:"Int32"}
+DocType   {label:"Byte"}
+Title   {label:"String"}
+Year  {label:"Int32"}
+ConfID  {label:"Int32"}
+JourID  {label:"Int32"}
+Volume  {label:"String"}
+Issue   {label:"String"}
+DOI   {label:"String"}
+ISBN  {label:"String"}
+Abstract  {label:"String"}
+Keyword   {label:"String"}
+
+[Paper_Author]
+PaperID   {label:"Int32"}
+SeqID   {label:"Int16"}
+AuthorID  {label:"Int32"}
+Name  {label:"String"}
+Affiliation   {label:"String"}
+AffiliationID   {label:"Int32"}
+
+[Paper_Category]
+CPaperID  {label:"Int32"}
+DomainID  {label:"Int32"}
+SubDomainID   {label:"Int32"}
+
+[Paper_Keyword]
+CPaperID  {label:"Int32"}
+KeywordID   {label:"Int32"}
+Type  {label:"Int32"}
+
+[Paper_Url]
+ID  {label:"Int32"}
+PaperID   {label:"Int32"}
+Url   {label:"String"}
+Rank  {label:"Int32"}
+
+[PaperAffiliationCount]
+paperCount  {label:"Int32"}
+DisplayName   {label:"String"}
+
+[PaperJournalCount]
+paperCount  {label:"Int32"}
+JournalFullName   {label:"String"}
+
+[PublicationsByYear]
+Year  {label:"Int32"}
+paperCount  {label:"Int32"}
+
+[TopOrganizationsByPapers]
+paperCount  {label:"Int32"}
+ID  {label:"Int32"}
+DisplayName   {label:"String"}
+
+[Paper_Ref]
+SrcID   {label:"Int32"}
+DstID   {label:"Int32"}
+SeqID   {label:"Int16"}
+SourceType  {label:"Byte"}
+Version   {label:"Int32"}
+
