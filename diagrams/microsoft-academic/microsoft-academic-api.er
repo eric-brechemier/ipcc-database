@@ -1,21 +1,23 @@
 [Affiliation]
-ID  {label:"Int32"}
+*ID  {label:"Int32"}
 OfficialName  {label:"String"}
 DisplayName   {label:"String"}
 NativeName  {label:"String"}
-ParentID  {label:"Int32"}
++ParentID  {label:"Int32"}
 Homepage  {label:"String"}
 ShortName   {label:"String"}
 Type  {label:"Int32"}
 Longitude   {label:"Double"}
 Latitude  {label:"Double"}
 
+Affiliation *--? Affiliation {label:"ParentID"}
+
 [Author]
-ID  {label:"Int32"}
+*ID  {label:"Int32"}
 Name  {label:"String"}
 NativeName  {label:"String"}
 Affiliation   {label:"String"}
-AffiliationID   {label:"Int32"}
++AffiliationID   {label:"Int32"}
 Homepage  {label:"String"}
 Version   {label:"Int32"}
 LinkedInUrl   {label:"String"}
@@ -23,57 +25,73 @@ WikipediaUrl  {label:"String"}
 TwitterUserName   {label:"String"}
 ResearchInterests   {label:"String"}
 
+Author *--? Affiliation {label: "AffiliationID"}
+
 [Category]
-mainID  {label:"Int32"}
-SubDomainID   {label:"Int32"}
+*+DomainID  {label:"Int32"}
+*SubDomainID   {label:"Int32"}
 Name  {label:"String"}
 
+Category *--1 Domain {label:"DomainID"}
+
 [Conf_Category]
-ConfCategoryID  {label:"Int32"}
-DomainID  {label:"Int32"}
-SubDomainID   {label:"Int32"}
+*+ConfCategoryID  {label:"Int32"}
++DomainID  {label:"Int32"}
++SubDomainID   {label:"Int32"}
+
+Conf_Category 1--1 Conference {label:"ConfCategoryID"}
+Conf_Category *--1 Domain {label:"DomainID"}
+Conf_Category *--? Category {label:"DomainID, SubDomainID"}
 
 [Conference]
-ID  {label:"Int32"}
+*ID  {label:"Int32"}
 ShortName   {label:"String"}
 FullName  {label:"String"}
 Homepage  {label:"String"}
 
 [Domain]
-ID  {label:"Int32"}
+*ID  {label:"Int32"}
 Name  {label:"String"}
 
 [Jour_Category]
-CJourID   {label:"Int32"}
-DomainID  {label:"Int32"}
-SubDomainID   {label:"Int32"}
+*+CJourID   {label:"Int32"}
++DomainID  {label:"Int32"}
++SubDomainID   {label:"Int32"}
+
+Jour_Category 1--1 Journal {label:"CJourID"}
+Jour_Category *--1 Domain {label:"DomainID"}
+Jour_Category *--? Category {label:"DomainID, SubDomainID"}
 
 [Journal]
-ID  {label:"Int32"}
+*ID  {label:"Int32"}
 ShortName   {label:"String"}
-FullName  {label:"String"}
++FullName  {label:"String"}
 Homepage  {label:"String"}
 
+Journal 1--? PaperJournalCount {label:"FullName"}
+
 [Keyword]
-ID  {label:"Int32"}
+*ID  {label:"Int32"}
 DisplayName   {label:"String"}
 StemName  {label:"String"}
 Type  {label:"Int32"}
 Variation   {label:"String"}
 
 [OrganizationsByGeography]
-ID  {label:"Int32"}
+*+ID  {label:"Int32"}
 DisplayName   {label:"String"}
 Latitude  {label:"Double"}
 Longitude   {label:"Double"}
 
+OrganizationsByGeography ?--1 Affiliation {label:"ID"}
+
 [Paper]
-ID  {label:"Int32"}
+*ID  {label:"Int32"}
 DocType   {label:"Byte"}
 Title   {label:"String"}
 Year  {label:"Int32"}
-ConfID  {label:"Int32"}
-JourID  {label:"Int32"}
++ConfID  {label:"Int32"}
++JourID  {label:"Int32"}
 Volume  {label:"String"}
 Issue   {label:"String"}
 DOI   {label:"String"}
@@ -81,51 +99,72 @@ ISBN  {label:"String"}
 Abstract  {label:"String"}
 Keyword   {label:"String"}
 
+Paper *--? Conference {label:"ConfID"}
+Paper *--? Journal {label:"JourID"}
+
 [Paper_Author]
-PaperID   {label:"Int32"}
-SeqID   {label:"Int16"}
-AuthorID  {label:"Int32"}
+*PaperID   {label:"Int32"}
+*SeqID   {label:"Int16"}
++AuthorID  {label:"Int32"}
 Name  {label:"String"}
-Affiliation   {label:"String"}
-AffiliationID   {label:"Int32"}
++Affiliation   {label:"String"}
++AffiliationID   {label:"Int32"}
+
+Paper_Author +--1 Paper {label:"PaperID"}
+Paper_Author +--1 Author {label:"AuthorID"}
+Paper_Author +--? PaperAffiliationCount {label:"Affiliation"}
+Paper_Author +--? Affiliation {label:"AffiliationID"}
 
 [Paper_Category]
-CPaperID  {label:"Int32"}
-DomainID  {label:"Int32"}
-SubDomainID   {label:"Int32"}
+*+CPaperID  {label:"Int32"}
++DomainID  {label:"Int32"}
++SubDomainID   {label:"Int32"}
+
+Paper_Category *--1 Paper {label:"CPaperID"}
+Paper_Category *--? Domain {label:"DomainID, SubDomainID=0"}
+Paper_Category *--? Category {label:"DomainID, SubDomainID"}
 
 [Paper_Keyword]
-CPaperID  {label:"Int32"}
-KeywordID   {label:"Int32"}
+*CPaperID  {label:"Int32"}
++KeywordID   {label:"Int32"}
 Type  {label:"Int32"}
 
+Paper_Keyword *--1 Paper {label:"CPaperID"}
+Paper_Keyword +--1 Keyword {label:"KeywordID"}
+
 [Paper_Url]
-ID  {label:"Int32"}
-PaperID   {label:"Int32"}
+*ID  {label:"Int32"}
++PaperID   {label:"Int32"}
 Url   {label:"String"}
 Rank  {label:"Int32"}
 
+Paper_Url *--1 Paper {label:"PaperID"}
+
 [PaperAffiliationCount]
 paperCount  {label:"Int32"}
-DisplayName   {label:"String"}
+*DisplayName   {label:"String"}
 
 [PaperJournalCount]
 paperCount  {label:"Int32"}
-JournalFullName   {label:"String"}
+*JournalFullName   {label:"String"}
 
 [PublicationsByYear]
-Year  {label:"Int32"}
+*Year  {label:"Int32"}
 paperCount  {label:"Int32"}
 
 [TopOrganizationsByPapers]
 paperCount  {label:"Int32"}
-ID  {label:"Int32"}
+*+ID  {label:"Int32"}
 DisplayName   {label:"String"}
 
+TopOrganizationsByPapers ?--1 Affiliation {label:"ID"}
+
 [Paper_Ref]
-SrcID   {label:"Int32"}
-DstID   {label:"Int32"}
-SeqID   {label:"Int16"}
+*+SrcID   {label:"Int32"}
+*+DstID   {label:"Int32"}
+*SeqID   {label:"Int16"}
 SourceType  {label:"Byte"}
 Version   {label:"Int32"}
 
+Paper_Ref *--1 Paper {label:"SrcID"}
+Paper_Ref *--1 Paper {label:"DstID"}
