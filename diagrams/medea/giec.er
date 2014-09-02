@@ -1,0 +1,145 @@
+title {label:"Database `giec` (IPCC)", font:"Helvetica-Bold", size:"100"}
+header {font:"Helvetica-Bold"}
+entity {font:"Helvetica"}
+relationship {font:"Helvetica"}
+
+[assessment_reports]
+*id {label:"int(10)"}
+year {label:"varchar(4)"}
+
+[author_departments]
+*+author_id {label:"int(10)"}
++department_id {label:"int(10)"}
+
+author_departments *--1 authors {label:"author_id"}
+author_departments *--1 departments {label:"department_id"}
+
+[author_institutions]
+*+author_id {label:"int(10)"}
++institution_id {label:"int(10)"}
+
+author_institutions *--1 authors {label:"author_id"}
+author_institutions *--1 institutions {label:"institution_id"}
+
+[authors]
+*id {label:"int(10)"}
+first_name {label:"varchar(255)"}
+last_name {label:"varchar(255)"}
+
+[chairman_offices]
+*id {label:"int(10)"}
++ar {label:"int(11)"}
++wg {label:"int(11)"}
+role {label:"varchar(255)"}
+rank {label:"int(11)"}
++author_id {label:"int(10)"}
++institution_id {label:"int(10)"}
++department_id {label:"int(10)"}
+
+chairman_offices +--1 assessment_reports {label:"ar"}
+chairman_offices +--1 working_groups {label:"wg = number, ar = assessment_report_id"}
+chairman_offices *--1 authors {label:"author_id"}
+chairman_offices *--? institution_countries {label:"institution_id"}
+chairman_offices *--? departments {label:"department_id"}
+
+[chapter_chapter_types]
+*+chapter_id {label:"int(10)"}
++chapter_type_id {label:"int(10)"}
+
+chapter_chapter_types +--1 chapters {label:"chapter_id"}
+chapter_chapter_types +--1 chapter_types {label:"chapter_type_id"}
+
+[chapter_types]
+*id {label:"int(10)"}
+*symbol {label:"varchar(3)"}
+name {label:"varchar(255)"}
+
+[chapters]
+*id {label:"int(10)"}
+number {label:"varchar(4)"}
+title {label:"varchar(255)"}
++wg {label:"int(11)"}
++ar {label:"int(11)"}
++assessment_report_id {label:"int(10)"}
++working_group_id {label:"int(10)"}
+
+chapters +--1 working_groups {label:"wg = number, ar = assessment_report_id"}
+chapters +--1 assessment_reports {label:"ar"}
+chapters +--1 assessment_reports {label:"assessment_report_id"}
+chapters +--1 working_groups {label:"working_group_id"}
+
+[countries]
+*id {label:"int(10)"}
+name {label:"varchar(255)"}
+
+[departments]
+*id {label:"int(10)"}
+name {label:"varchar(255)"}
++institution_id {label:"int(10)"}
+
+departments *--1 institution_countries {label:"institution_id"}
+
+[groupings]
+*id {label:"int(10)"}
++symbol {label:"varchar(255)"}
++country_id {label:"int(10)"}
+
+groupings +--1 groups {label:"symbol = symbol"}
+groupings +--1 countries {label:"country_id"}
+
+[groups]
+*id {label:"int(10)"}
+*symbol {label:"varchar(255)"}
+name {label:"varchar(255)"}
+type {label:"varchar(3)"}
+
+[institution_countries]
+*id {label:"int(10)"}
++institution_id {label:"int(10)"}
++country_id {label:"int(10)"}
+
+institution_countries *--1 institutions {label:"institution_id"}
+institution_countries *--1 countries {label:"country_id"}
+
+[institution_types]
+*id {label:"int(10)"}
+name {label:"varchar(255)"}
+*symbol {label:"varchar(5)"}
+
+[institutions]
+*id {label:"int(10)"}
+name {label:"varchar(255)"}
++institution_type_id {label:"int(10)"}
+
+institutions +--1 institution_types {label:"institution_type_id"}
+
+[participations]
+*id {label:"int(10)"}
++ar {label:"int(11)"}
++wg {label:"int(11)"}
++chapter {label:"varchar(4)"}
++role {label:"varchar(4)"}
++author_id {label:"int(10)"}
++institution_country_id {label:"int(10)"}
++department_id {label:"int(10)"}
+
+participations +--1 assessment_reports {label:"ar"}
+participations +--+ working_groups {label:"wg = number, ar = assessment_report_id"}
+participations +--1 roles {label:"role = symbol"}
+participations *--1 authors {label:"author_id"}
+participations +--1 institution_countries {label:"institution_country_id"}
+participations +--? departments {label:"department_id"}
+
+[roles]
+*id {label:"int(10)"}
+*symbol {label:"varchar(4)"}
+name {label:"varchar(255)"}
+rank {label:"int(11)"}
+
+[working_groups]
+*id {label:"int(10)"}
+*number {label:"int(11)"}
+title {label:"varchar(255)"}
+*assessment_report_id {label:"int(10)"}
+
+working_groups +--1 assessment_reports {label:"assessment_report_id"}
