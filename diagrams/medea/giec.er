@@ -125,7 +125,7 @@ institutions +--1 institution_types {label:"institution_type_id"}
 
 participations +--1 assessment_reports {label:"ar"}
 participations +--+ working_groups {label:"wg = number, ar = assessment_report_id"}
-participations +--1 chapters {label:"chapter = number"}
+participations +--1 chapters {label:"ar = ar, wg = wg, chapter = number"}
 participations +--1 roles {label:"role = symbol"}
 participations *--1 authors {label:"author_id"}
 participations +--1 institution_countries {label:"institution_country_id"}
