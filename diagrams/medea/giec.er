@@ -26,6 +26,12 @@ author_institutions *--1 institution_countries {label:"institution_id"}
 first_name {label:"varchar(255)"}
 last_name {label:"varchar(255)"}
 
+[author_aliases]
+*alias {label:"varchar(255)"}
+author_id {label:"int(10)"}
+
+author_aliases +--1 authors {label:"author_id"}
+
 [chairman_offices]
 *id {label:"int(10)"}
 +ar {label:"int(11)"}
@@ -72,6 +78,12 @@ chapters +--1 working_groups {label:"working_group_id"}
 *id {label:"int(10)"}
 name {label:"varchar(255)"}
 
+[country_aliases]
+*alias {label:"varchar(255)"}
+country_id {label:"int(10)"}
+
+country_aliases +--1 countries {label:"country_id"}
+
 [departments]
 *id {label:"int(10)"}
 name {label:"varchar(255)"}
@@ -112,6 +124,12 @@ name {label:"varchar(255)"}
 +institution_type_id {label:"int(10)"}
 
 institutions +--1 institution_types {label:"institution_type_id"}
+
+[institution_aliases]
+*alias {label:"varchar(255)"}
+institution_id {label:"int(10)"}
+
+institution_aliases +--1 institutions {label:"institution_id"}
 
 [participations]
 *id {label:"int(10)"}
