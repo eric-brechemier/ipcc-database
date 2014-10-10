@@ -19,7 +19,7 @@ author_departments *--1 departments {label:"department_id"}
 +institution_id {label:"int(10)"}
 
 author_institutions *--1 authors {label:"author_id"}
-author_institutions *--1 institutions {label:"institution_id"}
+author_institutions *--1 institution_countries {label:"institution_id"}
 
 [authors]
 *id {label:"int(10)"}
