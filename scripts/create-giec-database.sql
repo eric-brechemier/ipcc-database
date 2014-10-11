@@ -9,6 +9,13 @@ CREATE TABLE IF NOT EXISTS `assessment_reports` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
+CREATE TABLE IF NOT EXISTS `author_aliases` (
+  `alias` varchar(255) PRIMARY KEY
+    COMMENT 'main or alternate form of author full name, including misspellings',
+  `author_id` int(10) REFERENCES `authors` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
 CREATE TABLE IF NOT EXISTS `author_departments` (
   `author_id` int(10) unsigned NOT NULL,
   `department_id` int(10) unsigned NOT NULL,
@@ -123,6 +130,14 @@ CREATE TABLE IF NOT EXISTS `countries` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
+CREATE TABLE IF NOT EXISTS `country_aliases` (
+  `alias` varchar(255) PRIMARY KEY
+    COMMENT
+    'main or alternate form of country name, including misspellings',
+  `country_id` int(10) REFERENCES `countries` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
 CREATE TABLE IF NOT EXISTS `departments` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,
@@ -153,6 +168,14 @@ CREATE TABLE IF NOT EXISTS `groups` (
   `name` varchar(255) DEFAULT NULL,
   `type` varchar(3) DEFAULT NULL,
   PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `institution_aliases` (
+  `alias` varchar(255) PRIMARY KEY
+    COMMENT
+    'main or alternate form of institution name, including misspellings',
+  `institution_id` int(10) REFERENCES `institutions` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
