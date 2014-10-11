@@ -23,6 +23,9 @@ ALTER TABLE institution_countries
 DROP FOREIGN KEY institutions_type_fk;
 
 ALTER TABLE institutions
+ADD PRIMARY KEY (id);
+
+ALTER TABLE institutions
 ADD CONSTRAINT institutions_type_fk FOREIGN KEY (institution_type_id)
 REFERENCES institution_types (id);
 
