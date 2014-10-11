@@ -2,6 +2,8 @@ CREATE DATABASE IF NOT EXISTS `giec`
 DEFAULT CHARACTER SET utf8
 ;
 
+USE `giec`
+
 CREATE TABLE IF NOT EXISTS `assessment_reports` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `year` varchar(4) DEFAULT NULL,
