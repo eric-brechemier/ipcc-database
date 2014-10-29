@@ -84,7 +84,7 @@ import institution_countries \
 
 import author_institutions author_id,@skip,institution_id,@skip,@skip
 
-import departments id,name,institution_id,@skip
+import departments id,name,institution_id,@skip,@skip
 import author_departments author_id,@skip,department_id,@skip
 
 import chairman_offices \
