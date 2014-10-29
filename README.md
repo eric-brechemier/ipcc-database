@@ -1,7 +1,9 @@
 ipcc-database
 =============
 
-Discussion about IPCC database (not the actual database)
+A database of authors who contributed to the IPCC Assessment Reports,
+including contributions chapter per chapter (participations) with roles,
+institutions and countries.
 
 ## Attribution
 
@@ -15,9 +17,3 @@ Discussion about IPCC database (not the actual database)
              "École Nationale Supérieure des Arts Décoratifs"
 [Medialab]: http://www.medialab.sciences-po.fr/
                "Sciences Po Médialab"
-
-## Contact
-
-You can request a copy of the 'giec' database from Sciences Po
-by sending an email with a description of your intended use case
-to <medialab@sciencespo.fr>.
