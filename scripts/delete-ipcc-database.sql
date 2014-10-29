@@ -1,1 +1,1 @@
-DROP DATABASE `ipcc`;
+DROP DATABASE IF EXISTS `ipcc`;
