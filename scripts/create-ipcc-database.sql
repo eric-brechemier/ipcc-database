@@ -4,9 +4,10 @@ DEFAULT CHARACTER SET utf8
 
 USE `ipcc`
 
-CREATE TABLE IF NOT EXISTS `assessment_reports` (
+CREATE TABLE IF NOT EXISTS `authors` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `year` varchar(4) DEFAULT NULL,
+  `first_name` varchar(255) DEFAULT NULL,
+  `last_name` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
@@ -18,17 +19,79 @@ CREATE TABLE IF NOT EXISTS `author_aliases` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
-CREATE TABLE IF NOT EXISTS `author_departments` (
-  `author_id` int(10) unsigned NOT NULL,
-  `department_id` int(10) unsigned NOT NULL,
-  PRIMARY KEY (`author_id`,`department_id`),
-  KEY `author_departments_department_fk` (`department_id`),
-  CONSTRAINT `author_departments_author_fk`
-    FOREIGN KEY (`author_id`)
-    REFERENCES `authors` (`id`),
-  CONSTRAINT `author_departments_department_fk`
-    FOREIGN KEY (`department_id`)
-    REFERENCES `departments` (`id`)
+CREATE TABLE IF NOT EXISTS `institution_types` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) DEFAULT NULL,
+  `symbol` varchar(5) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `institutions` (
+  `id` int(10) unsigned NOT NULL DEFAULT '0',
+  `name` varchar(255) DEFAULT NULL,
+  `institution_type_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `institutions_type_fk` (`institution_type_id`),
+  CONSTRAINT `institutions_type_fk`
+    FOREIGN KEY (`institution_type_id`)
+    REFERENCES `institution_types` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `institution_aliases` (
+  `alias` varchar(255) PRIMARY KEY
+    COMMENT
+    'main or alternate form of institution name, including misspellings',
+  `institution_id` int(10) REFERENCES `institutions` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `countries` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `country_aliases` (
+  `alias` varchar(255) PRIMARY KEY
+    COMMENT
+    'main or alternate form of country name, including misspellings',
+  `country_id` int(10) REFERENCES `countries` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `groups` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `symbol` varchar(255) DEFAULT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  `type` varchar(3) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `groupings` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `symbol` varchar(255) DEFAULT NULL,
+  `country_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `index_groupings_country` (`country_id`),
+  CONSTRAINT `groupings_country_fk`
+    FOREIGN KEY (`country_id`)
+    REFERENCES `countries` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `institution_countries` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `institution_id` int(10) DEFAULT NULL,
+  `country_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `index_institutions_country` (`country_id`),
+  CONSTRAINT `institutions_country_fk`
+    FOREIGN KEY (`country_id`)
+    REFERENCES `countries` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
@@ -46,11 +109,29 @@ CREATE TABLE IF NOT EXISTS `author_institutions` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
-CREATE TABLE IF NOT EXISTS `authors` (
+CREATE TABLE IF NOT EXISTS `departments` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `first_name` varchar(255) DEFAULT NULL,
-  `last_name` varchar(255) DEFAULT NULL,
-  PRIMARY KEY (`id`)
+  `name` varchar(255) DEFAULT NULL,
+  `institution_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `index_departments_institution` (`institution_id`),
+  CONSTRAINT `departments_institution_fk`
+    FOREIGN KEY (`institution_id`)
+    REFERENCES `institution_countries` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `author_departments` (
+  `author_id` int(10) unsigned NOT NULL,
+  `department_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`author_id`,`department_id`),
+  KEY `author_departments_department_fk` (`department_id`),
+  CONSTRAINT `author_departments_author_fk`
+    FOREIGN KEY (`author_id`)
+    REFERENCES `authors` (`id`),
+  CONSTRAINT `author_departments_department_fk`
+    FOREIGN KEY (`department_id`)
+    REFERENCES `departments` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
@@ -82,29 +163,25 @@ CREATE TABLE IF NOT EXISTS `chairman_offices` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
-CREATE TABLE IF NOT EXISTS `chapter_chapter_types` (
-  `chapter_id` int(10) unsigned NOT NULL,
-  `chapter_type_id` int(10) unsigned NOT NULL,
-  PRIMARY KEY (`chapter_id`,`chapter_type_id`),
-  KEY `index_chapter_chapter_types_chapter` (`chapter_id`),
-  KEY `index_chapter_chapter_types_chapter_type` (`chapter_type_id`),
-  CONSTRAINT `chapter_chapter_types_chapter_fk`
-    FOREIGN KEY (`chapter_id`)
-    REFERENCES `chapters` (`id`),
-  CONSTRAINT `chapter_chapter_types_chapter_type_fk`
-    FOREIGN KEY (`chapter_type_id`)
-    REFERENCES `chapter_types` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `chapter_types` (
+CREATE TABLE IF NOT EXISTS `assessment_reports` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `symbol` varchar(3) DEFAULT NULL,
-  `name` varchar(255) DEFAULT NULL,
+  `year` varchar(4) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
+CREATE TABLE IF NOT EXISTS `working_groups` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `number` int(11) DEFAULT NULL,
+  `title` varchar(255) DEFAULT NULL,
+  `assessment_report_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `index_working_groups_assessment_report` (`assessment_report_id`),
+  CONSTRAINT `working_groups_assessment_report_fk`
+    FOREIGN KEY (`assessment_report_id`)
+    REFERENCES `assessment_reports` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
 CREATE TABLE IF NOT EXISTS `chapters` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `number` varchar(4) DEFAULT NULL,
@@ -125,91 +202,35 @@ CREATE TABLE IF NOT EXISTS `chapters` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
-CREATE TABLE IF NOT EXISTS `countries` (
+CREATE TABLE IF NOT EXISTS `chapter_types` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `symbol` varchar(3) DEFAULT NULL,
   `name` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
-CREATE TABLE IF NOT EXISTS `country_aliases` (
-  `alias` varchar(255) PRIMARY KEY
-    COMMENT
-    'main or alternate form of country name, including misspellings',
-  `country_id` int(10) REFERENCES `countries` (`id`)
+CREATE TABLE IF NOT EXISTS `chapter_chapter_types` (
+  `chapter_id` int(10) unsigned NOT NULL,
+  `chapter_type_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`chapter_id`,`chapter_type_id`),
+  KEY `index_chapter_chapter_types_chapter` (`chapter_id`),
+  KEY `index_chapter_chapter_types_chapter_type` (`chapter_type_id`),
+  CONSTRAINT `chapter_chapter_types_chapter_fk`
+    FOREIGN KEY (`chapter_id`)
+    REFERENCES `chapters` (`id`),
+  CONSTRAINT `chapter_chapter_types_chapter_type_fk`
+    FOREIGN KEY (`chapter_type_id`)
+    REFERENCES `chapter_types` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
-CREATE TABLE IF NOT EXISTS `departments` (
+CREATE TABLE IF NOT EXISTS `roles` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `symbol` varchar(4) DEFAULT NULL,
   `name` varchar(255) DEFAULT NULL,
-  `institution_id` int(10) unsigned NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `index_departments_institution` (`institution_id`),
-  CONSTRAINT `departments_institution_fk`
-    FOREIGN KEY (`institution_id`)
-    REFERENCES `institution_countries` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `groupings` (
-  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `symbol` varchar(255) DEFAULT NULL,
-  `country_id` int(10) unsigned NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `index_groupings_country` (`country_id`),
-  CONSTRAINT `groupings_country_fk`
-    FOREIGN KEY (`country_id`)
-    REFERENCES `countries` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `groups` (
-  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `symbol` varchar(255) DEFAULT NULL,
-  `name` varchar(255) DEFAULT NULL,
-  `type` varchar(3) DEFAULT NULL,
+  `rank` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `institution_aliases` (
-  `alias` varchar(255) PRIMARY KEY
-    COMMENT
-    'main or alternate form of institution name, including misspellings',
-  `institution_id` int(10) REFERENCES `institutions` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `institution_countries` (
-  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `institution_id` int(10) DEFAULT NULL,
-  `country_id` int(10) unsigned NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `index_institutions_country` (`country_id`),
-  CONSTRAINT `institutions_country_fk`
-    FOREIGN KEY (`country_id`)
-    REFERENCES `countries` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `institution_types` (
-  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `name` varchar(255) DEFAULT NULL,
-  `symbol` varchar(5) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `institutions` (
-  `id` int(10) unsigned NOT NULL DEFAULT '0',
-  `name` varchar(255) DEFAULT NULL,
-  `institution_type_id` int(10) unsigned NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `institutions_type_fk` (`institution_type_id`),
-  CONSTRAINT `institutions_type_fk`
-    FOREIGN KEY (`institution_type_id`)
-    REFERENCES `institution_types` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
@@ -236,27 +257,5 @@ CREATE TABLE IF NOT EXISTS `participations` (
   CONSTRAINT `participations_department_fk`
     FOREIGN KEY (`department_id`)
     REFERENCES `departments` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `roles` (
-  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `symbol` varchar(4) DEFAULT NULL,
-  `name` varchar(255) DEFAULT NULL,
-  `rank` int(11) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-;
-
-CREATE TABLE IF NOT EXISTS `working_groups` (
-  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `number` int(11) DEFAULT NULL,
-  `title` varchar(255) DEFAULT NULL,
-  `assessment_report_id` int(10) unsigned NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `index_working_groups_assessment_report` (`assessment_report_id`),
-  CONSTRAINT `working_groups_assessment_report_fk`
-    FOREIGN KEY (`assessment_report_id`)
-    REFERENCES `assessment_reports` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
