@@ -1,0 +1,1364 @@
+id,institution_id,Institution (INFO),country_id,Country (INFO)
+1,1,N/A,1,N/A
+2,1,N/A,2,Albania
+3,1,N/A,3,Algeria
+877,877,Institut Hydrométéorologique de Formation et de Recherches (IHFR),3,Algeria
+4,1,N/A,4,Antigua
+1096,1096,Antigua Public Utilities Authority (APUA),4,Antigua
+5,1,N/A,5,Argentina
+170,170,Universidad de Buenos Aires,5,Argentina
+355,355,Fundacion Bariloche,5,Argentina
+407,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),5,Argentina
+503,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,5,Argentina
+520,520,"Universidad del CEMA,Buenos Aires",5,Argentina
+614,614,Instituto Torcuato di Tella,5,Argentina
+650,650,Business Council for Sustainable Development Argentina,5,Argentina
+748,748,"Instituto Argentino de Nivología,Glaciología y Ciencias Ambientales",5,Argentina
+793,793,Universidad Nacional de Córdoba,5,Argentina
+943,943,Universidad Nacional de San Luis,5,Argentina
+1095,1095,Instituto Oswaldo Cruz,5,Argentina
+1107,1107,Universidad Nacional de la Plata,5,Argentina
+1147,1147,Fundacion Instituto Latinoamericano de Politicas Sociales (ILAPS),5,Argentina
+1350,1350,Instituto Antartico Argentino,5,Argentina
+6,1,N/A,6,Australia
+125,125,University of New South Wales,6,Australia
+154,154,Antarctic Climate and Ecosystems Cooperative Research Centre,6,Australia
+157,157,Australian Bureau of Meteorology,6,Australia
+163,163,University of Tasmania,6,Australia
+171,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),6,Australia
+216,216,Monash University,6,Australia
+230,230,Australian National University,6,Australia
+244,244,University of New England,6,Australia
+250,250,Bureau of Meteorology,6,Australia
+300,300,University of Melbourne,6,Australia
+311,311,Griffith University,6,Australia
+330,330,Australian Antarctic Division,6,Australia
+356,356,World Bank,6,Australia
+365,365,University of Queensland,6,Australia
+368,368,Macquarie University,6,Australia
+374,374,Victoria University,6,Australia
+422,422,Consultant,6,Australia
+491,491,Australian Bureau of Agricultural and Resource Economics (ABARE),6,Australia
+559,559,Murdoch University,6,Australia
+610,610,Curtin University,6,Australia
+645,645,Australian Centre for Sustainable Mining Practices (ACSMP),6,Australia
+757,757,University of Wollongong,6,Australia
+785,785,Insurance Australia Group,6,Australia
+794,794,University of Western Australia,6,Australia
+807,807,University of Adelaide,6,Australia
+811,811,James Cook University,6,Australia
+907,907,Allen Consulting Group,6,Australia
+926,926,CRA International,6,Australia
+998,998,University of Sydney,6,Australia
+1098,1098,Queensland Centre for Climate Applications (QCCA)/,6,Australia
+1106,1106,Environment Australia,6,Australia
+1112,491,Australian Bureau of Agricultural and Resource Economics (ABARE),6,Australia
+1118,1118,BHP-Billiton Newcastle Research Laboratories,6,Australia
+1121,1121,Australian Institute of Marine Science (AIMS),6,Australia
+1242,1242,"Department of Education,Science and Training",6,Australia
+1305,1305,Department of Primary Industries and Energy,6,Australia
+1355,1355,Huonbrook Environment and Heritage,6,Australia
+7,1,N/A,7,Austria
+221,221,University of Innsbruck,7,Austria
+376,376,International Institute for Applied Systems Analysis (IIASA),7,Austria
+497,497,Austrian Energy Agency (AEA),7,Austria
+556,556,Alpen Adria University,7,Austria
+601,601,University of Graz,7,Austria
+663,663,Central Institute for Meteorology and Geodynamics,7,Austria
+906,906,Joanneum Research Graz,7,Austria
+955,955,Federal Ministry for Environment,7,Austria
+980,470,International Atomic Energy Agency (IAEA),7,Austria
+1027,1027,University of Vienna,7,Austria
+1301,1301,University of Technology Graz,7,Austria
+8,1,N/A,8,Bangladesh
+291,291,United Nations Environment Programme (UNEP),8,Bangladesh
+369,288,International Institute for Environment and Development (IIED),8,Bangladesh
+499,499,Bright Green Energy Foundation,8,Bangladesh
+574,574,North South University,8,Bangladesh
+761,761,Bangladesh Unnayan Parishad (BUP),8,Bangladesh
+763,763,Bangladesh Centre for Advanced Studies (BCAS),8,Bangladesh
+815,815,University of Chittagong,8,Bangladesh
+1366,1366,Bangladesh Institute of Development Studies (BIDS),8,Bangladesh
+9,1,N/A,9,Barbados
+423,289,University of the West Indies,9,Barbados
+435,435,International policy center for inclusive growth,9,Barbados
+10,1,N/A,10,Belgium
+194,194,Université Catholique de Louvain,10,Belgium
+214,214,Vrije Universiteit Brussel,10,Belgium
+649,649,University of Antwerp,10,Belgium
+733,733,University of Liege,10,Belgium
+910,910,Facultés Universitaires Catholique de Mons,10,Belgium
+1036,1036,Universiteit Antwerpen,10,Belgium
+1051,1051,Belgian Institute for Space Aeronomy,10,Belgium
+1282,1282,Royal Meteorological Institute,10,Belgium
+11,1,N/A,11,Belize
+885,885,Caribbean Community Climate Change Centre,11,Belize
+12,1,N/A,12,Benin
+759,759,University of Abomey-Calavi,12,Benin
+1082,1082,Benin National Meteorological Service,12,Benin
+1278,1278,National University of Benin,12,Benin
+13,1,N/A,13,Bermuda
+665,665,Bermuda Institute of Ocean Sciences,13,Bermuda
+1246,1246,Bermuda Biological Research Station,13,Bermuda
+14,1,N/A,14,Bolivia
+788,788,Ministry of Sustainable Development,14,Bolivia
+15,1,N/A,15,Botswana
+151,151,University of Botswana,15,Botswana
+654,654,Energy Environment Computer and Geophysical Applications Group (EECG Consultants),15,Botswana
+16,1,N/A,16,Brazil
+158,158,University of Sao Paulo,16,Brazil
+173,173,National Institute for Space Research (INPE),16,Brazil
+329,329,Oswaldo Cruz Foundation (FIOCRUZ),16,Brazil
+342,342,Federal University of Rio de Janeiro,16,Brazil
+453,453,Conservation International,16,Brazil
+512,512,University of Brasília,16,Brazil
+551,551,Pontifical Catholic University of Rio de Janeiro,16,Brazil
+594,594,São Paulo State Environment Secretariat,16,Brazil
+596,596,Ministry of Science and Technology,16,Brazil
+628,628,Research Institute for Applied Economics (IPEA),16,Brazil
+802,802,Instituto Nacional de Pesquisas da Amazonia,16,Brazil
+836,836,Esquel Group Foundation Brazil (FGEB),16,Brazil
+842,842,Universidade Estadual Paulista,16,Brazil
+986,986,Centro de Sensoriamento Remoto,16,Brazil
+1046,1046,Agencia Espacial Brasileira,16,Brazil
+1180,1180,Universidade Estadual de Campinas (UNICAMP),16,Brazil
+1195,1195,Biomass Users Network (BUN),16,Brazil
+1336,324,United Nations Development Programme (UNDP),16,Brazil
+1378,1378,Fundacao Getulio Vargas,16,Brazil
+1414,1414,Universidade do Estado de Sao Paulo,16,Brazil
+17,1,N/A,17,Bulgaria
+609,609,Burgas University,17,Bulgaria
+18,1,N/A,18,Cambodia
+19,1,N/A,19,Cameroon
+417,324,United Nations Development Programme (UNDP),19,Cameroon
+20,1,N/A,20,Canada
+164,164,Environment Canada,20,Canada
+197,197,Institute of Ocean Sciences,20,Canada
+238,238,University of Ottawa,20,Canada
+277,277,University of Victoria,20,Canada
+283,283,Pacific Climate Impacts Consortium (PCIC),20,Canada
+310,310,Carleton University,20,Canada
+313,313,University of Toronto,20,Canada
+326,326,University of British Columbia,20,Canada
+328,328,Trent University,20,Canada
+335,335,University of Alberta,20,Canada
+385,385,Institute for Catastrophic Loss Reduction,20,Canada
+395,332,Independent Consultant,20,Canada
+494,494,Concordia University,20,Canada
+535,535,Margaree Consultants Inc.,20,Canada
+620,620,"Ecosystem Sciences Branch,Department of Fisheries and Oceans",20,Canada
+657,657,Consortium Ouranos,20,Canada
+676,676,Fisheries and Oceans Canada,20,Canada
+705,705,Université du Quebec a Montreal,20,Canada
+714,714,University of Quebec at Montreal,20,Canada
+719,719,University of Calgary,20,Canada
+728,728,Dalhousie University,20,Canada
+735,735,McGill University,20,Canada
+741,741,Geological Survey of Canada,20,Canada
+766,766,University of Waterloo,20,Canada
+781,781,Canadian Climate Program Board,20,Canada
+787,787,Simon Fraser University,20,Canada
+790,790,Natural Resources Canada,20,Canada
+803,803,Bedford Institute of Oceanography,20,Canada
+818,331,Organization for Economic Cooperation and Development (OECD),20,Canada
+861,861,University of Guelph,20,Canada
+869,869,Memorial University of Newfoundland,20,Canada
+908,908,British Columbia Ministry of Environment,20,Canada
+919,919,Canada Centre for Remote Sensing,20,Canada
+924,924,International Institute for Sustainable Development,20,Canada
+934,934,Hardner & Gullison Associates LLC,20,Canada
+941,941,Agriculture and Agri-Food Canada (AAFC),20,Canada
+1043,1043,Northern Geothermal,20,Canada
+1045,1045,York University Canada,20,Canada
+1088,1088,Pacific Biological Station,20,Canada
+1104,1104,University of Windsor,20,Canada
+1152,1152,Saskatchewan Research Council,20,Canada
+1236,1236,ESSA Ltd,20,Canada
+1241,1241,Pacific Geoscience Centre,20,Canada
+1391,1391,Quebec,20,Canada
+21,1,N/A,21,Chad
+858,858,Centre Régional AGRHYMET,21,Chad
+882,882,ICRISAT,21,Chad
+22,1,N/A,22,Chile
+144,144,University of Chile,22,Chile
+172,172,Direccion Meteorologica de Chile,22,Chile
+410,410,Pontificia Universidad Catolica de Chile,22,Chile
+672,672,Centro de Estudios Cientificos (CECS),22,Chile
+895,895,UN Economic Commission for LatinAmerican and the Caribbean (ECLAC),22,Chile
+1087,332,Independent Consultant,22,Chile
+23,1,N/A,23,China
+140,140,Peking University,23,China
+141,141,State Key Laboratory for Cryospheric Science,23,China
+187,187,China Meteorological Administration,23,China
+190,190,Beijing Normal University,23,China
+213,213,Lanzhou University,23,China
+233,233,Chinese Academy of Sciences,23,China
+314,314,Third Institute of Oceanography Chinese State Oceanic Administration,23,China
+351,351,Chinese Institute of Environment and Sustainable Development in Agriculture,23,China
+399,399,Agro-environment and Sustainable Development Institute,23,China
+401,401,Chinese Center for Disease Control and Prevention,23,China
+406,406,Institute of Environment and Sustainable Development in Agriculture,23,China
+483,483,Shenyang Agricultural University,23,China
+484,484,"Center for Strategic Environmental Assessment, Nankai University",23,China
+485,485,China Institute of Water Resources and Hydropower Research,23,China
+492,492,Chinese Academy of Social Sciences (CASS),23,China
+516,516,Tsinghua University,23,China
+525,525,Energy Research Institute,23,China
+563,563,China Academy of Urban Planning and Design (CAUPD),23,China
+651,651,"China CDM Fund Management Center,Ministry of Finance",23,China
+655,655,National Center for Climate Strategy Study and International Cooperation (NRDC),23,China
+713,713,Hong Kong Observatory,23,China
+772,772,Huazhong Agricultural University,23,China
+800,800,Tongji University,23,China
+820,820,Chinese Academy of Agricultural Science,23,China
+830,830,City University of Hong Kong,23,China
+833,833,China Water Information Centre,23,China
+834,834,United Nations Development Programme (UNDP) - GEF,23,China
+896,896,South China Sea Institute of Oceanology,23,China
+918,918,Institute of Soil Science Chinese Academy of Sciences,23,China
+928,928,Chinese Research Academy of Environmental Science,23,China
+953,953,China Academy of Building Research,23,China
+971,971,Nanjing Agricultural University,23,China
+972,972,USDA Forest Service,23,China
+999,999,Renmin University of China,23,China
+1058,1058,Nanjing University,23,China
+1117,1117,Second Institute of Oceanography,23,China
+1119,1119,Agrometeorology Institute,23,China
+1120,1120,Hydrological Forecasting and Water Control Center,23,China
+1154,1154,Ministry of Water Resources,23,China
+1212,1212,State Environmental Protection Administration,23,China
+1213,1213,National Meteorological Centre,23,China
+1263,1263,Meteorological Institute,23,China
+1276,1276,China Institute for Marine Development Strategy,23,China
+1288,1288,Chinese Academy of Forestry,23,China
+1317,1317,Forestry University of Beijing,23,China
+1381,1381,Ministry of Power Industry,23,China
+1398,1398,State Meteorological Administration,23,China
+24,1,N/A,24,Colombia
+319,319,Universidad Nacional de Colombia,24,Colombia
+476,476,Inter-American Development Bank,24,Colombia
+552,376,International Institute for Applied Systems Analysis (IIASA),24,Colombia
+25,1,N/A,25,Costa Rica
+318,318,Organization of American States,25,Costa Rica
+555,555,Universidad de Costa Rica,25,Costa Rica
+783,783,National Meteorological Institute,25,Costa Rica
+26,1,N/A,26,Cuba
+463,463,Cuban Environment Agency,26,Cuba
+489,489,"Ministry of Science,Technology and Environment",26,Cuba
+592,592,Havana University Centre for Environmental Studies,26,Cuba
+643,643,Cuban Observatory for Science and Technology,26,Cuba
+923,923,Ministery of Science Technology and the Environment,26,Cuba
+973,973,Centro de Investigaciones de Economia Mundial (CIEM),26,Cuba
+1207,1207,Ministerio de Ciencia,26,Cuba
+1269,1269,Forestry Research Institute,26,Cuba
+27,1,N/A,27,Czech Republic
+1010,1010,Masaryk University,27,Czech Republic
+28,1,N/A,28,Denmark
+179,179,Danish Meteorological Institute,28,Denmark
+440,440,University of Copenhagen,28,Denmark
+506,506,Risoe National Laboratory,28,Denmark
+540,557,Technical University of Denmark,28,Denmark
+557,557,Technical University of Denmark,28,Denmark
+777,777,International Council for the Exploration of the Sea,28,Denmark
+817,817,National Environmental Research Institute,28,Denmark
+856,856,Danish Institute of Agricultural Sciences,28,Denmark
+1353,1353,Roskilde University,28,Denmark
+1358,1358,Geological Survey of Greenland,28,Denmark
+1413,1413,Institute of Plant Ecology,28,Denmark
+29,1,N/A,29,Ecuador
+30,1,N/A,30,Egypt
+286,286,University of Alexandria,30,Egypt
+345,345,National Water Research Center,30,Egypt
+488,488,Integral Environmental Solutions,30,Egypt
+493,493,Egyptian Environmental Affairs Agency,30,Egypt
+770,770,Central Laboratory for Agricultural Climate,30,Egypt
+31,1,N/A,31,El Salvador
+32,1,N/A,32,Ethiopia
+1421,1421,National Meteorological Services Agency,32,Ethiopia
+33,1,N/A,33,Fiji
+480,480,Secretariat of the Pacific Community - Applied Geoscience and Technology Division (SOPAC),33,Fiji
+847,847,South Pacific Regional Environment Programme,33,Fiji
+34,1,N/A,34,Finland
+223,223,Finnish Meteorological Institute,34,Finland
+274,274,University of Helsinki,34,Finland
+322,322,Finnish Environment Institute,34,Finland
+359,359,MTT Agrifood Research Finland,34,Finland
+564,564,"United Nations University,World Institute for Development Economics Research",34,Finland
+824,824,University of Joensuu,34,Finland
+946,946,Finnish Forest Research Institute,34,Finland
+961,961,Benviroc Ltd,34,Finland
+974,974,Statistics Finland,34,Finland
+994,994,Technical Research Centre of Finland,34,Finland
+1187,1187,European Forest Institute,34,Finland
+1307,1307,University of Finland,34,Finland
+1321,1321,National Public Health Institute,34,Finland
+35,1,N/A,35,France
+167,167,Institut Pierre Simon Laplace (IPSL),35,France
+174,174,Laboratoire d'Etudes en Géophysique et Océanographie Spatiale (LEGOS),35,France
+228,228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),35,France
+249,249,Météo-France,35,France
+257,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),35,France
+306,306,Institut de Recherche pour le Developpement (IRD),35,France
+331,331,Organization for Economic Cooperation and Development (OECD),35,France
+344,344,Universite de La Rochelle - National Centre for Scientific Research (CNRS),35,France
+352,352,Centre National de la Recherche Scientifique (CNRS),35,France
+360,356,World Bank,35,France
+388,388,Universite Paris 8,35,France
+392,392,Universite Paris-Sud 11,35,France
+456,456,Institut National de la Recherche Agronomique (INRA),35,France
+515,515,Université de Limoges,35,France
+550,550,University of Toulouse,35,France
+587,587,Centre international de recherche sur l'environnement et le développement (CIRED),35,France
+745,745,European Centre for Research and Advanced Training in Scientific Computation,35,France
+776,776,Universite de Bourgogne,35,France
+796,796,Environnement Conseil (TEC),35,France
+862,862,Université Paris VI Pierre et Marie Curie,35,France
+874,874,National Institute for Agricultural Research,35,France
+883,883,Laboratoire d'Ecologie Alpine UMR-CNRS,35,France
+904,356,World Bank,35,France
+911,911,International Energy Agency,35,France
+979,979,CSTB Building Research Center,35,France
+1008,1008,Laboratoire d'Optique Atmospherique,35,France
+1018,1018,CEA,35,France
+1135,1135,Nice University,35,France
+1171,1171,Institut d'Economie et de Politique de l'Energie,35,France
+1221,1221,Centre National de Recherches Meteorologiques,35,France
+1223,1223,Centre des Faibles Radioactivites,35,France
+1226,1226,Universite des Science & Technologie de Lille,35,France
+1232,1232,LMCE/DSM,35,France
+1239,1239,Institut de Mecanique de Grenoble,35,France
+1249,1249,Electricite de France (EDF),35,France
+1274,1274,Center d'Etude Spatiale du Rayonnement,35,France
+1277,1277,IFREMER,35,France
+1287,1287,St. Jerome Institut Mediterranean,35,France
+1293,1293,ORSTOM,35,France
+1314,1314,CEFE,35,France
+1370,1370,Universite de Versailles,35,France
+1393,1393,Direction de la Meteorologie Nationale,35,France
+1397,1397,Institut National des Sciences de l'Univers,35,France
+1409,1409,University of Pans,35,France
+36,1,N/A,36,Germany
+137,137,Alfred Wegener Institute for Polar and Marine Research,36,Germany
+143,143,University of Bremen,36,Germany
+169,169,Max-Planck Institute for Meteorology,36,Germany
+183,183,Freie Universität Berlin,36,Germany
+192,192,Deutsches Zentrum fur Luft und Raumfahrt,36,Germany
+200,200,Potsdam Institute for Climate Impact Research,36,Germany
+212,212,Max-Planck Institute for Biogeochemistry,36,Germany
+234,234,Justus-Liebig University Giessen,36,Germany
+264,264,University of Hamburg,36,Germany
+285,285,Goethe University Frankfurt,36,Germany
+305,305,United Nations University - Institute for Environment and Human Security,36,Germany
+349,349,Munich Reinsurance Company,36,Germany
+364,364,Global Climate Forum,36,Germany
+372,372,"Climate Service Center, Hamburg",36,Germany
+457,457,Helmholtz Zentrum Geesthacht,36,Germany
+510,510,University of Leipzig,36,Germany
+522,522,Mercator Research Institute on Global Commons and ClimateChange (MCC),36,Germany
+542,542,"Wuppertal Institute for Climate,Environment and Energy",36,Germany
+558,558,KFW German Development Bank,36,Germany
+562,562,Ecofys,36,Germany
+579,579,University of Göttingen,36,Germany
+582,376,International Institute for Applied Systems Analysis (IIASA),36,Germany
+593,593,Centre for European Economic Research (ZEW),36,Germany
+599,599,Kühne Logistics University,36,Germany
+618,618,Institut für Volkswirtschaftslehre/University Rostock,36,Germany
+668,668,Deutsches Klimarechenzentrum,36,Germany
+694,694,Deutscher Wetterdienst,36,Germany
+706,706,GKSS Research Centre,36,Germany
+710,710,Institut fur Meteorologie und Klimaforschung Universitat Karlsruhe,36,Germany
+732,732,Leibniz Institute for MarineSciences,36,Germany
+739,739,University of Mainz,36,Germany
+742,742,Max Planck Institute for Solar System Research,36,Germany
+743,743,Institut fur Meereskunde Zentrum fur Meeres und Klimaforschung,36,Germany
+764,764,University of Kassel,36,Germany
+799,799,Technical University of Munich,36,Germany
+804,331,Organization for Economic Cooperation and Development (OECD),36,Germany
+838,838,Nord-Sud Zentrum fur Entwicklungsforschung,36,Germany
+839,317,World Health Organization (WHO),36,Germany
+925,925,Biocarbon Consult,36,Germany
+940,940,University of Flensburg,36,Germany
+944,944,Fraunhofer Institute for Systems and Innovation Research,36,Germany
+1002,1002,Max-Planck Institute for Chemistry,36,Germany
+1005,1005,Universitat Kiel,36,Germany
+1011,1011,Institute of Atmospheric Physics Germany,36,Germany
+1020,1020,University of Bonn,36,Germany
+1021,1021,Institute for Baltic Sea Research,36,Germany
+1023,1023,Institut fur Chemie der KFA Julich GmbH,36,Germany
+1035,1035,Universitaet Wuerzburg,36,Germany
+1040,1040,Institut fuer Chemie und Dynamik der Geosphaere,36,Germany
+1047,1047,M&D Consulting,36,Germany
+1056,1056,Universitat Bonn,36,Germany
+1066,1066,Institute for World Forestry and Ecology,36,Germany
+1067,1067,Institut fur Klimafolgenforschung,36,Germany
+1072,1072,Institut fuer Geophysik und Meteorologie,36,Germany
+1079,1079,Institut fur Meereskunde an der Universitat Kiel,36,Germany
+1115,1115,Centre for Tropical Marine Ecology,36,Germany
+1144,1144,Credit Suisse,36,Germany
+1145,1145,University of Bayreuth,36,Germany
+1166,1166,Institute of Energy Economics and the Rational Use of Energy,36,Germany
+1173,1173,University of Heidelberg,36,Germany
+1191,1191,Universitaet Essen,36,Germany
+1227,1227,Institut fur Tropospharenforschung,36,Germany
+1240,1240,Universitat Heidelberg,36,Germany
+1253,1253,Bayreuth University,36,Germany
+1279,1279,Bavarian Academy of Sciences,36,Germany
+1286,1286,Agricultural Institute for Climate Research,36,Germany
+1297,1297,University of Freiburg,36,Germany
+1302,1302,Federal Institute of Hydrology,36,Germany
+1303,1303,University of Muenster,36,Germany
+1341,1341,Department of Land Evaluation Methods,36,Germany
+1346,1346,Federal Ministry of Environment,36,Germany
+1362,1362,GEOMAR,36,Germany
+1380,1380,Forschungszentrum Jülich,36,Germany
+1400,1400,Meteorologisches Institut,36,Germany
+1405,1405,Institut fur Physikahsche und Theoretisch Chemie,36,Germany
+1415,1415,Institut fur Meteorologie und Geophysics,36,Germany
+37,1,N/A,37,Ghana
+347,347,University of Ghana Medical School,37,Ghana
+537,537,Energy Commission,37,Ghana
+38,1,N/A,38,Greece
+353,353,National Observatory of Athens,38,Greece
+1037,1037,Environmental Chemical Processes Laboratory,38,Greece
+39,1,N/A,39,Guatemala
+323,323,Universidad del Valle de Guatemala,39,Guatemala
+40,1,N/A,40,Guinea
+41,1,N/A,41,Hong Kong
+603,603,City University,41,Hong Kong
+1289,1289,University of Hong Kong,41,Hong Kong
+42,1,N/A,42,Hungary
+161,161,Eotvos Lorand University,42,Hungary
+470,470,International Atomic Energy Agency (IAEA),42,Hungary
+611,611,Budapest University of Technology and Economics,42,Hungary
+647,647,Central European University,42,Hungary
+852,852,Szent István University,42,Hungary
+1354,1354,Water Resource Research Center,42,Hungary
+1356,422,Consultant,42,Hungary
+43,1,N/A,43,Iceland
+390,390,Stefansson Arctic Institute,43,Iceland
+890,890,Marine Research Institute,43,Iceland
+1230,1230,Orkustofnun (National Energy Authority),43,Iceland
+1295,462,United Nations University,43,Iceland
+44,1,N/A,44,India
+134,134,Indian Institute of Tropical Meteorology,44,India
+150,150,Indian Institute of Technology,44,India
+159,159,Indian Institute of Science,44,India
+178,178,Indian Space Research Organisation,44,India
+203,203,Centre for Mathematical Modeling and Computer Simulation,44,India
+206,206,Wadia Institute of Himalayan Geology,44,India
+254,254,Physical Research Laboratory,44,India
+272,272,National Institute of Oceanography,44,India
+290,290,International Water Management Institute,44,India
+303,303,Energy and Resources Institute,44,India
+334,334,Institute of Economic Growth,44,India
+386,386,University of Delhi,44,India
+415,415,HELVETAS Swiss Intercooperation,44,India
+432,432,Indian Institute of Technology Bombay,44,India
+443,443,Indian Institute for Human Settlements,44,India
+524,524,Deloitte Touche Tohmatsu India Pvt. Ltd.,44,India
+534,534,Centre for Policy Research,44,India
+547,547,"Indian Institute of Management,Ahmedabad",44,India
+598,598,Energy & Resources Institute (TERI),44,India
+607,607,Ashoka Trust for Research in Ecology and the Environment (ATREE),44,India
+612,612,Integrated Research and Action for Development (IRADe),44,India
+613,613,Indian Agricultural Research Institute,44,India
+623,623,Jadavpur University,44,India
+625,625,Indian Institute of Technology Delhi,44,India
+636,636,"Indian Statistical Institute,Delhi",44,India
+762,762,Jawaharlal Nehru University,44,India
+769,769,India Meteorological Department,44,India
+822,822,Maulana Azad National Institute of Technology,44,India
+829,829,CESDAC,44,India
+844,844,ERM India Pvt,44,India
+878,878,Halcrow Consulting India,44,India
+897,897,Indian Institute of Management,44,India
+900,900,National Institute of Advanced Studies,44,India
+915,915,Tata Energy Research Institute (TERI),44,India
+929,929,Government of India,44,India
+935,935,Asian Development Bank,44,India
+948,948,Global Change Programme Jadavpur University,44,India
+977,977,Reliance Industries Ltd.,44,India
+978,376,International Institute for Applied Systems Analysis (IIASA),44,India
+1085,1085,University of Kashmir,44,India
+1157,1157,Indira Gandhi Institute of Development Research,44,India
+1165,1165,Ministry of Environment and Forests,44,India
+1184,1184,Development Alternatives,44,India
+1200,1200,Centre For Wind Energy Technology (C-WET),44,India
+1237,1237,Centre for Atmospheric Sciences,44,India
+1251,1251,Bhabha Atomic Research Centre,44,India
+1266,1266,Indian Council of Agriculture Research,44,India
+1300,1300,Central Arid Zone Research Institute,44,India
+1312,332,Independent Consultant,44,India
+1337,1337,National Institute of Hydrology,44,India
+1348,771,International Fertilizer Development Center (IFDC),44,India
+45,1,N/A,45,Indonesia
+152,152,"Agency for Meteorology,Climatology and Geophysics",45,Indonesia
+913,913,Bogor Agricultural University,45,Indonesia
+984,984,PT Ecosecurities,45,Indonesia
+989,989,Ministry of Environment Indonesia,45,Indonesia
+1149,1149,BPPT,45,Indonesia
+46,1,N/A,46,Iran
+253,253,Iranian Meteorological Organization,46,Iran
+568,568,Islamic Republic of Iran Meteorological Organization (IRIMO),46,Iran
+696,696,National Center for Climatology,46,Iran
+47,1,N/A,47,Ireland
+792,792,University College Cork,47,Ireland
+881,881,National University of Ireland,47,Ireland
+884,884,Economic and Social Research Institute,47,Ireland
+968,968,University College Dublin,47,Ireland
+48,1,N/A,48,Israel
+870,870,Blaustein Institute for Desert Research,48,Israel
+1204,1204,University of Haifa,48,Israel
+1257,1257,Interuniversity Institute for Marine Sciences,48,Israel
+49,1,N/A,49,Italy
+193,193,Institute of Atmospheric Sciences and Climate,49,Italy
+304,304,University of Florence,49,Italy
+354,354,Abdus Salam International Centre for Theoretical Physics,49,Italy
+473,473,University of Tuscia and Euro-Mediterranean Center for Climate Change,49,Italy
+507,507,Fondazione Eni Enrico Mattei (FEEM),49,Italy
+586,586,Euro Mediterranean Center on Climate Change (CMCC),49,Italy
+644,644,Food and Agriculture Organization (FAO),49,Italy
+662,662,Italian National Agency for New Technologies Energy and the Environment (ENEA),49,Italy
+679,679,European Commission Joint Research Centre,49,Italy
+692,692,National Research Council,49,Italy
+717,717,National Institute for Geophysics and Volcanology,49,Italy
+837,356,World Bank,49,Italy
+1044,1044,Universite Degli Studi dellâ Aquila,49,Italy
+1075,1075,Enviroment Institute of European Commission,49,Italy
+1125,1125,WHO-European Centre for Environment and Health,49,Italy
+1168,1168,University of Venice,49,Italy
+1243,1243,European Commission,49,Italy
+1258,1258,University of Bologna,49,Italy
+1260,1260,IMGA-CNR,49,Italy
+1291,1291,Dipartimento di Scienze della Terra,49,Italy
+1385,1385,ISTAT,49,Italy
+50,1,N/A,50,Jamaica
+339,288,International Institute for Environment and Development (IIED),50,Jamaica
+675,289,University of the West Indies,50,Jamaica
+51,1,N/A,51,Japan
+129,129,National Institute for Environmental Studies,51,Japan
+148,148,University of Tokyo,51,Japan
+156,156,Hokkaido University,51,Japan
+225,225,Meteorological Research Institute,51,Japan
+267,267,Kyushu University,51,Japan
+282,282,Nagoya University,51,Japan
+366,993,University of Tsukuba,51,Japan
+412,412,Ibaraki University,51,Japan
+448,448,National Institute of Advanced Industrial Science and Technology,51,Japan
+464,464,Kyoto University,51,Japan
+465,462,United Nations University,51,Japan
+466,466,International Centre for Water Hazard and Risk Management,51,Japan
+495,495,Research Institute of Innovative Technology for the Earth (RITE),51,Japan
+565,565,Kogakuin University,51,Japan
+597,597,"Graduate School of Environmental Studies,Tohoku University",51,Japan
+604,604,Building Research Institute,51,Japan
+639,639,Central Research Institute of Electric Power Industry,51,Japan
+642,642,Japan Science and Technology Agency (JST),51,Japan
+660,660,Frontier Research Center for Global Change,51,Japan
+690,690,National Institute of Polar Research,51,Japan
+698,698,Tohoku Gakuin University,51,Japan
+723,723,Secretariat of Council for Science and Technology Policy Cabinet Office,51,Japan
+726,726,Hokkaido National Fisheries Research Institute,51,Japan
+751,751,Japanese Society of Snow and Ice,51,Japan
+851,851,Keio University,51,Japan
+938,938,Railway Technical Research Institute,51,Japan
+947,947,Toyota Central R&D Labs Inc,51,Japan
+957,957,Forestry and Forest Products Research Institute,51,Japan
+964,964,Faculty of Law Sophia University,51,Japan
+965,965,Tokyo Institute of Technology,51,Japan
+969,969,Nippon Steel Corporation,51,Japan
+982,982,Osaka University,51,Japan
+985,985,Ministry of Economy Trade and Industry,51,Japan
+993,993,University of Tsukuba,51,Japan
+1029,1029,Japan Environment Agency,51,Japan
+1033,1033,Research Institute for Global Change,51,Japan
+1052,1052,Japan Meteorological Agency,51,Japan
+1071,1071,National Institute for Resources and Environment,51,Japan
+1114,1114,Yamanashi Institute of Environmental Sciences,51,Japan
+1143,1143,National Institute of Public Health,51,Japan
+1174,1174,Japan Forest Technical Ass.,51,Japan
+1183,1183,Tokyo University of Agriculture & Technology,51,Japan
+1193,1193,National Institute of Agro-Environmental Sciences,51,Japan
+1194,1194,Japan Automobile Research Institute (JARI),51,Japan
+1196,1196,Science University of Tokyo,51,Japan
+1206,1206,Global Industrial and Social Progress Research Institute (GISPRI),51,Japan
+1256,1256,National Research Institute for Earth Science & Disaster Prevention,51,Japan
+1304,1304,Ministry of Transport,51,Japan
+1324,1324,Environment Agency,51,Japan
+1327,1327,Obirin University,51,Japan
+1345,1345,IEEJ,51,Japan
+1360,1360,Aichi University,51,Japan
+1365,1365,Kwansei Gakuin University,51,Japan
+1403,1403,International Christian University,51,Japan
+1420,1420,Institute of Geoscience,51,Japan
+52,1,N/A,52,Kazakhstan
+1137,875,UNFCCC Secretariat,52,Kazakhstan
+53,1,N/A,53,Kenya
+378,378,Strathmore University,53,Kenya
+427,427,University of Nairobi,53,Kenya
+646,646,African Technology Policy Studies (ATPS) Network,53,Kenya
+659,659,Kenya Meteorological Department,53,Kenya
+724,724,IGAD Climate Prediction and Application Centre,53,Kenya
+805,805,Kenya Medical Research Institute,53,Kenya
+901,901,Climate Network Africa,53,Kenya
+995,995,Ministry of Research Technical Training and Technology,53,Kenya
+996,291,United Nations Environment Programme (UNEP),53,Kenya
+1325,1325,KEFRI,53,Kenya
+1326,1326,Kenya Marine and Fisheries Research Institute,53,Kenya
+54,1,N/A,54,Kiribati
+55,1,N/A,55,Kuwait
+56,1,N/A,56,Laos
+773,773,Mekong River Commission,56,Laos
+57,1,N/A,57,Lithuania
+949,949,Lithuanian Energy Institute,57,Lithuania
+58,1,N/A,58,Madagascar
+441,441,Madagascar National Weather Service,58,Madagascar
+59,1,N/A,59,Malawi
+1285,1285,Department of Forestry,59,Malawi
+60,1,N/A,60,Malaysia
+269,269,National University of Malaysia,60,Malaysia
+590,590,Third World Network,60,Malaysia
+653,653,Universiti Teknologi MARA,60,Malaysia
+859,859,Global Environment Centre,60,Malaysia
+1081,1081,Malaysian Meteorological Service,60,Malaysia
+1113,1113,Universiti Sains Malaysia,60,Malaysia
+1201,1201,Forest Research Institute Malaysia (FRIM),60,Malaysia
+61,1,N/A,61,Maldives
+287,287,"Ministry of Housing,Environment and Energy",61,Maldives
+62,1,N/A,62,Malta
+309,309,University of Malta,62,Malta
+778,778,Foundation for International Studies,62,Malta
+63,1,N/A,63,Mauritius
+866,866,Consultant to Indian Ocean Commission,63,Mauritius
+1140,1140,Mauritius Meteorological Services,63,Mauritius
+64,1,N/A,64,Mexico
+236,236,Universidad Nacional Autonoma de Mexico (UNAM),64,Mexico
+296,296,Centro Mario Molina,64,Mexico
+373,373,"United Nations Educational,Scientific and Cultural Organization (UNESCO)",64,Mexico
+402,402,Centro de Investigaciones Biologicas del Noroeste,64,Mexico
+449,449,El Colegio de la Frontera Norte,64,Mexico
+514,514,Universidad Autonoma de Baja California Sur,64,Mexico
+528,528,Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades,64,Mexico
+546,546,Universidad Autonoma de Baja California Sur (UABCS),64,Mexico
+567,567,Autonomous University of Southern Baja California,64,Mexico
+930,930,Mexican Petroleum Institute,64,Mexico
+1100,1100,College of Forest Resources,64,Mexico
+1116,1116,National University,64,Mexico
+1126,1126,North American Center for Environmental Information and Communication,64,Mexico
+1142,1142,Ciudad Universitaria,64,Mexico
+1267,1267,Instituto de Geografia,64,Mexico
+1323,1323,Pan American Health Organization,64,Mexico
+65,1,N/A,65,Moldova
+332,332,Independent Consultant,65,Moldova
+786,786,Regionica,65,Moldova
+66,1,N/A,66,Monaco
+727,470,International Atomic Energy Agency (IAEA),66,Monaco
+67,1,N/A,67,Montenegro
+608,376,International Institute for Applied Systems Analysis (IIASA),67,Montenegro
+68,1,N/A,68,Mongolia
+865,865,Institute of Meteorology and Hydrology Mongolia,68,Mongolia
+69,1,N/A,69,Morocco
+191,191,Direction de la Meteorologie Nationale Maroc,69,Morocco
+363,363,Institut National de Recherche Halieutique,69,Morocco
+379,379,Ecole Nationale Forestiere d'Ingenieurs,69,Morocco
+572,572,University Hassan II,69,Morocco
+600,600,Université Cadi Ayyad,69,Morocco
+765,765,Ministry of Agriculture Rural Development and Fishing,69,Morocco
+70,1,N/A,70,Mozambique
+808,808,Ministry of Health,70,Mozambique
+71,1,N/A,71,Namibia
+447,447,University of Stellenbosch,71,Namibia
+72,1,N/A,72,Nepal
+879,879,Government of Nepal,72,Nepal
+1084,1084,Water and Energy Commission Secretariat,72,Nepal
+1283,1283,ICIMOD,72,Nepal
+73,1,N/A,73,New Zealand
+196,196,Victoria University of Wellington,73,New Zealand
+280,280,National Institute of Water and Atmospheric Research,73,New Zealand
+307,307,National Institute of Water and Atmosphere,73,New Zealand
+316,316,University of Waikato,73,New Zealand
+350,350,University of Otago,73,New Zealand
+420,420,AgResearch,73,New Zealand
+442,442,New Zealand Agricultural Greenhouse Gas Research Centre,73,New Zealand
+482,482,University of Auckland,73,New Zealand
+569,569,Motu Economic and Public Policy Research,73,New Zealand
+633,633,Massey University,73,New Zealand
+750,750,National Climate Center,73,New Zealand
+774,774,Landcare Research,73,New Zealand
+825,825,Earthwise Consulting,73,New Zealand
+927,927,Ford-Robertson Initiatives (FRI) Ltd,73,New Zealand
+1141,1141,Ministry for the Environment,73,New Zealand
+1153,1153,Wellington School of Medicine,73,New Zealand
+1245,1245,Hort Research,73,New Zealand
+1331,1331,MAF Fisheries,73,New Zealand
+74,1,N/A,74,Nigeria
+357,357,High Commission of Niger Valley Development,74,Nigeria
+758,758,Obafemi Awolowo University,74,Nigeria
+853,791,International Development Research Centre,74,Nigeria
+899,899,Centre for Energy Research and Development,74,Nigeria
+936,936,University of Maiduguri,74,Nigeria
+1101,1101,Office of the Prime Minister,74,Nigeria
+1128,1128,University of Nigeria,74,Nigeria
+1275,1275,University of Lagos,74,Nigeria
+1411,1411,University of Ibadan,74,Nigeria
+1412,1412,Ahmadu Bello University,74,Nigeria
+75,1,N/A,75,Norway
+133,133,University of Bergen,75,Norway
+198,198,Center for International Climate and Environmental Research,75,Norway
+241,241,Center for International Climate and Environment (CICERO),75,Norway
+278,278,Norwegian Polar Institute,75,Norway
+341,341,Institute of Marine Research,75,Norway
+346,346,Norwegian University of Life Sciences,75,Norway
+367,367,Nordland Research Institute,75,Norway
+424,424,University of Oslo,75,Norway
+511,511,Vista Analysis,75,Norway
+561,561,Norwegian University of Science & Technology,75,Norway
+584,584,Frischsenteret,75,Norway
+637,637,World Wildlife Fund (WWF),75,Norway
+666,666,Norwegian Meteorological Institute,75,Norway
+681,681,Bjerknes Centre for Climate Research,75,Norway
+682,682,Nansen Environmental and Remote Sensing Center,75,Norway
+902,902,Statistics Norway,75,Norway
+987,987,Marintek,75,Norway
+1070,1070,Norwegian Institute for Air Research,75,Norway
+1111,1111,Terrestrial Ecology Research Institute,75,Norway
+1155,1155,Ministry of Environment Norway,75,Norway
+1188,1188,Ministry of Finance,75,Norway
+1205,1205,Norwegian Forest Research Institute,75,Norway
+1250,1250,Telemark College of Engineering,75,Norway
+1344,1344,Norwegian Water Resources and Energy Administration,75,Norway
+76,1,N/A,76,Oman
+176,176,Sultan Qaboos University,76,Oman
+945,945,University of Nizwa,76,Oman
+77,1,N/A,77,Qatar
+78,1,N/A,78,Pakistan
+371,371,Global Change Impact Studies Centre,78,Pakistan
+1367,1367,Sustainable Development Policy Institute,78,Pakistan
+79,1,N/A,79,Papua New Guinea
+80,1,N/A,80,Peru
+315,315,Universidad Nacional Mayor de San Marcos,80,Peru
+931,422,Consultant,80,Peru
+1167,1167,Comision Nac.de Cambio Clim.,80,Peru
+1175,324,United Nations Development Programme (UNDP),80,Peru
+1199,1199,Group for the Analysis of Development (Grade),80,Peru
+81,1,N/A,81,Philippines
+389,389,University of the Philippines Los Baños,81,Philippines
+391,391,World Agroforestry Center,81,Philippines
+437,437,Manila Observatory,81,Philippines
+863,863,Philippine Atmospheric Geophysical and Astronomical Services Administration,81,Philippines
+1024,1024,Weather Bureau,81,Philippines
+1349,1349,IRRI,81,Philippines
+82,1,N/A,82,Poland
+387,387,Polish Academy of Sciences,82,Poland
+656,656,University of Warsaw,82,Poland
+886,886,Adam Mickiewicz University,82,Poland
+1048,1048,Institute of Meteorology & Water Management,82,Poland
+1296,1296,Research Institute of Forestry,82,Poland
+1352,1352,Academy of Agriculture,82,Poland
+1394,1394,Institute of Geography and Spatial Organization,82,Poland
+83,1,N/A,83,Portugal
+275,275,Instituto de Meteorologia,83,Portugal
+450,450,University of Lisbon,83,Portugal
+768,768,Environmental Change Institute,83,Portugal
+1099,1099,Universidade Nova de Lisboa,83,Portugal
+84,1,N/A,84,Puerto Rico
+85,1,N/A,85,Romania
+165,165,National Institute of Meteorology and Hydrology (NIMH),85,Romania
+671,671,National Meteorological Administration,85,Romania
+86,1,N/A,86,Russian Federation
+139,139,A.M. Obukhov Institute of Atmospheric Physics,86,Russian Federation
+205,205,P.P. Shirshov Institute of Oceanography,86,Russian Federation
+222,222,Voeikov Main Geophysical Observatory,86,Russian Federation
+239,239,Institute of Atmospheric Physics,86,Russian Federation
+263,263,Russian Federation Academy of Sciences,86,Russian Federation
+293,293,Institute of Geography,86,Russian Federation
+294,294,State Hydrological Institute,86,Russian Federation
+444,444,Institute of Forecasting Russian Academy of Science,86,Russian Federation
+500,500,Center for Energy Efficiency (CENEF),86,Russian Federation
+622,622,Institute of Global Climate and Ecology,86,Russian Federation
+680,680,Institute of Numerical Mathematics,86,Russian Federation
+981,981,Russian Academy of Agricultural Sciences,86,Russian Federation
+1042,1042,St Petersburg University,86,Russian Federation
+1060,1060,Chief Climatology Department,86,Russian Federation
+1069,1069,RIHMI-WDCB,86,Russian Federation
+1146,1146,All Russian Research Institute of Agricultural Meteorology,86,Russian Federation
+1162,1162,Tsentr po Effektivnomu Ispolzovanlu Energii,86,Russian Federation
+1176,1176,Center for Environmental Economics,86,Russian Federation
+1220,1220,Hydrometeorological Research Centre of Russian Federation,86,Russian Federation
+1234,1234,Institute of Experimental Meteorology,86,Russian Federation
+1235,1235,Russian Federation Agricultural Academy,86,Russian Federation
+1311,1311,Russian Federal Research Institute of Fisheries and Oceanography,86,Russian Federation
+87,1,N/A,87,Samoa
+433,433,Secretariat of the Pacific Regional Environment Programme,87,Samoa
+831,700,World Meteorological Organization (WMO),87,Samoa
+875,875,UNFCCC Secretariat,87,Samoa
+88,1,N/A,88,Saudi Arabia
+630,630,King Abdulaziz City for Science and Technology,88,Saudi Arabia
+903,903,Saudi Aramco,88,Saudi Arabia
+1159,1159,King Saud University,88,Saudi Arabia
+1268,1268,King Abdulaziz University,88,Saudi Arabia
+1270,1270,Imam Muhammed Ibn Saudi Islamic University,88,Saudi Arabia
+89,1,N/A,89,Senegal
+261,261,Service Météorologique,89,Senegal
+336,336,University Cheikh Anta Diop of Dakar,89,Senegal
+405,405,Environment and Fisheries Department,89,Senegal
+471,471,International Fund for Agricultural Development (IFAD),89,Senegal
+693,693,Laboratory of Atmospheric Physics,89,Senegal
+791,791,International Development Research Centre,89,Senegal
+1382,1382,ENDA - TM Programme-Energie.,89,Senegal
+90,1,N/A,90,Seychelles
+760,760,National Meteorological Service,90,Seychelles
+860,860,Ministry of Industries and International Business,90,Seychelles
+91,1,N/A,91,Sierra Leone
+920,920,University of Sierra Leone,91,Sierra Leone
+92,1,N/A,92,Singapore
+481,422,Consultant,92,Singapore
+894,894,National University of Singapore,92,Singapore
+93,1,N/A,93,Slovakia
+1150,1150,Slovak Technical University,93,Slovakia
+94,1,N/A,94,Slovenia
+377,377,University of Ljubljana,94,Slovenia
+95,1,N/A,95,South Africa
+149,149,University of Cape Town,95,South Africa
+262,262,South African Weather Service,95,South Africa
+327,327,Rhodes University,95,South Africa
+381,332,Independent Consultant,95,South Africa
+411,411,South African National Biodiversity Institute,95,South Africa
+426,426,South African National Space Agency (SANSA) South Africa,95,South Africa
+446,446,Ethekwini Municipality,95,South Africa
+454,454,Council for Scientific and Industrial Research (CSIR),95,South Africa
+467,467,United Nations University's World Institute for Development Economics Research,95,South Africa
+478,478,University of the Witwatersrand,95,South Africa
+560,560,Centre for Environmental Economics and Policy in Africa (CEEPA),95,South Africa
+840,840,National Botanical Institute,95,South Africa
+872,872,University of KwaZulu-Natal,95,South Africa
+992,992,Eskom,95,South Africa
+1329,1329,Roodeplaat Grasland Institute,95,South Africa
+1342,1342,Department of Agriculture,95,South Africa
+96,1,N/A,96,South Korea
+155,155,Yonsei University,96,South Korea
+229,229,National Institute of Meteorological Research,96,South Korea
+375,375,Jeju National University,96,South Korea
+577,577,Ajou University,96,South Korea
+578,578,Korea Environment Institute,96,South Korea
+588,588,Keimyung University,96,South Korea
+708,708,Seoul National University,96,South Korea
+712,712,"Meteorological Research Institute (METRI),Korean Meteorological Administration",96,South Korea
+954,954,Council on Energy and Environment Korea,96,South Korea
+1185,1185,Korea Energy Economics Institute,96,South Korea
+1374,1374,Construction and Economy Research Institute of Korea,96,South Korea
+97,1,N/A,97,Spain
+184,184,University of Castilla - La Mancha,97,Spain
+189,189,Catalan Institute of Climate Sciences,97,Spain
+202,202,Universidad Complutense de Madrid,97,Spain
+301,301,Spanish Council for Scientific Research,97,Spain
+370,370,Polytechnic University of Madrid,97,Spain
+403,403,Universidad de Cantabria,97,Spain
+408,408,Basque Centre for Climate Change,97,Spain
+445,445,University of Vic,97,Spain
+474,474,University of Barcelona,97,Spain
+513,513,University of Lleida,97,Spain
+585,585,University of Vigo,97,Spain
+615,615,Institute for Research in Technology,97,Spain
+658,658,University of Las Palmas de Gran Canaria,97,Spain
+983,983,Fundación CEAM,97,Spain
+1012,1012,University Rovira I Virgili,97,Spain
+1061,1061,Fundacion para la Investigacion del Clima,97,Spain
+1335,1335,Estacion Experimental de Zonas Aridas,97,Spain
+1373,1373,Institute for Prospective Technologies,97,Spain
+98,1,N/A,98,Sri Lanka
+288,288,International Institute for Environment and Development (IIED),98,Sri Lanka
+891,891,University of Sri Jayew Ardenepura,98,Sri Lanka
+963,963,Munasinghe Institute for Development,98,Sri Lanka
+1197,1197,University of Colombo,98,Sri Lanka
+1377,356,World Bank,98,Sri Lanka
+99,1,N/A,99,Sudan
+429,429,African Development Bank,99,Sudan
+487,487,University of Khartoum,99,Sudan
+641,641,Private Sector Consultant,99,Sudan
+857,857,High Council for Environment and Natural Resources (HCENR),99,Sudan
+1388,1388,Forest National Corporation,99,Sudan
+100,1,N/A,100,Swaziland
+101,1,N/A,101,Sweden
+177,177,University of Gothenburg,101,Sweden
+260,260,Swedish Meteorological and Hydrological Institute,101,Sweden
+384,384,Stockholm Environment Institute,101,Sweden
+400,400,Karolinska Institutet,101,Sweden
+425,425,Lund University,101,Sweden
+452,452,Umea University,101,Sweden
+701,701,Stockholm University,101,Sweden
+782,782,Royal Swedish Academy of Sciences,101,Sweden
+1007,867,Retired,101,Sweden
+1017,1017,Gateborg University,101,Sweden
+1062,1062,University of Stockholm,101,Sweden
+1086,1086,Chalmers University of Technology,101,Sweden
+1130,1130,Department of Water and Environmental Studies,101,Sweden
+1217,1217,Swedish University of Agricultural Sciences,101,Sweden
+1308,324,United Nations Development Programme (UNDP),101,Sweden
+1315,1315,University of Agricultural Sciences,101,Sweden
+102,1,N/A,102,Switzerland
+126,126,University of Bern,102,Switzerland
+136,136,ETH Zurich,102,Switzerland
+162,162,Eawag,102,Switzerland
+246,246,University of Zurich,102,Switzerland
+438,438,University of Neuchatel,102,Switzerland
+621,621,Intercooperation,102,Switzerland
+689,689,Federal Office of Meteorology and Climatology Meteo-Swiss,102,Switzerland
+700,700,World Meteorological Organization (WMO),102,Switzerland
+725,725,Swiss Federal Institute of Technology,102,Switzerland
+753,753,University of Geneva,102,Switzerland
+806,806,Conservatoire et Jardin botaniques de Genève,102,Switzerland
+812,812,Swiss Tropical Institute,102,Switzerland
+827,827,University of Basel,102,Switzerland
+893,893,Graduate Institute of International Studies,102,Switzerland
+1055,1055,Geographisches Institut ETH,102,Switzerland
+1065,1065,Institut fur Klimaforschung ETH,102,Switzerland
+1170,1170,IPCC Secretariat,102,Switzerland
+1172,1172,World Business Council for Sustainable Development,102,Switzerland
+1273,1273,ProClim,102,Switzerland
+1292,1292,World Conservation Union,102,Switzerland
+1306,1306,Swiss Federal Institute for Forest Snow and Landscape Research,102,Switzerland
+1310,1310,Geobotanik,102,Switzerland
+1351,317,World Health Organization (WHO),102,Switzerland
+1371,1371,Paul Scherrer Institute,102,Switzerland
+103,1,N/A,103,Taiwan
+1259,1259,Central Weather Bureau,103,Taiwan
+104,1,N/A,104,Tanzania
+362,362,Sokoine University of Agriculture,104,Tanzania
+383,383,Ardhi University,104,Tanzania
+416,416,University of Dar-es-Salaam,104,Tanzania
+1198,1198,"Center for Energy,Environment,Science and Technology",104,Tanzania
+1343,1343,Ministry of Water Energy and Minerals,104,Tanzania
+1410,1410,Directorate of Meteorology,104,Tanzania
+105,1,N/A,105,Thailand
+531,531,Asian Institute of Technology,105,Thailand
+545,545,King Mongkut's University of Technology,105,Thailand
+670,670,Ramkhamhaeng University,105,Thailand
+1333,1333,Thailand Environment Institute,105,Thailand
+106,1,N/A,106,The Gambia
+337,332,Independent Consultant,106,The Gambia
+704,704,Department of Water Resources,106,The Gambia
+107,1,N/A,107,The Netherlands
+226,226,Royal Netherlands Meteorological Institute (KNMI),107,The Netherlands
+273,273,University of Utrecht,107,The Netherlands
+302,302,"Vrije Universiteit,Amsterdam",107,The Netherlands
+396,396,Wageningen University,107,The Netherlands
+475,475,Red Cross / Red Crescent Climate Centre,107,The Netherlands
+526,526,University of Nijmegen,107,The Netherlands
+530,530,Netherlands Environmental Assessment Agency,107,The Netherlands
+549,549,Tilburg University,107,The Netherlands
+648,648,Energy research Centre of the Netherlands (ECN) / Columbia University,107,The Netherlands
+789,789,WIJ Delft Hydraulics,107,The Netherlands
+814,814,Commission on Geomorphological Response to Environmental Change,107,The Netherlands
+821,821,International Secretariat for Dialogue on Water and Climate,107,The Netherlands
+887,887,Delft University of Technology,107,The Netherlands
+888,888,National Institute for Public Health and the Environment (RIVM),107,The Netherlands
+889,889,UNESCO,107,The Netherlands
+912,562,Ecofys,107,The Netherlands
+917,917,Brinkman Climate Change Consultancy,107,The Netherlands
+942,942,University of Groningen,107,The Netherlands
+951,951,Technical University Eindhoven,107,The Netherlands
+966,966,ALTERRA Research Institute of the Green Environment,107,The Netherlands
+991,991,Treeness Consult,107,The Netherlands
+997,997,Stichting Natuur en Milieu,107,The Netherlands
+1074,1074,Institute for Marine and Atmospheric Research,107,The Netherlands
+1091,1091,National Institute for Coastal and Marine Management,107,The Netherlands
+1110,1110,Greenpeace International,107,The Netherlands
+1122,1122,Maastricht University,107,The Netherlands
+1151,1151,Landbouw Universiteit Wageningen,107,The Netherlands
+1189,1189,Centraal Planbureau (CPB),107,The Netherlands
+1211,1211,ECN Policy Studies,107,The Netherlands
+1320,1320,University of Limburg,107,The Netherlands
+1386,1386,University of Twente,107,The Netherlands
+108,1,N/A,108,Togo
+109,1,N/A,109,Trinidad and Tobago
+289,289,University of the West Indies,109,Trinidad and Tobago
+867,867,Retired,109,Trinidad and Tobago
+1057,1057,Environment Management Authority,109,Trinidad and Tobago
+110,1,N/A,110,Tunisia
+292,292,"Ministry of Agriculture,Water Resources and Fisheries",110,Tunisia
+988,988,Sahara and Sahel Observatory (OSS) Tunis,110,Tunisia
+111,1,N/A,111,Turkey
+876,876,Istanbul Technical University,111,Turkey
+898,470,International Atomic Energy Agency (IAEA),111,Turkey
+112,1,N/A,112,Turkmenistan
+1309,1309,National Institute of Deserts,112,Turkmenistan
+113,1,N/A,113,USA
+124,124,National Aeronautics and Space Administration (NASA),113,USA
+132,132,University of Washington,113,USA
+135,135,University of Miami,113,USA
+166,166,National Center for Atmospheric Research (NCAR),113,USA
+168,168,Ohio State University,113,USA
+175,175,University of South Florida,113,USA
+180,180,Oregon State University,113,USA
+181,181,Lawrence Berkeley National Laboratory,113,USA
+185,185,Columbia University,113,USA
+188,188,National Oceanographic and Atmospheric Administration (NOAA),113,USA
+195,195,Pennsylvania State University,113,USA
+199,199,University of Virginia,113,USA
+201,201,Lawrence Livermore National Laboratory,113,USA
+207,207,Iowa State University,113,USA
+208,208,University of New Mexico,113,USA
+209,209,University of California Los Angeles,113,USA
+215,215,Harvard University,113,USA
+224,224,George Mason University,113,USA
+227,227,U.S. Department of Energy,113,USA
+235,235,Cornell University,113,USA
+237,237,University of Hawaii,113,USA
+242,242,Boston University,113,USA
+243,243,Cooperative Institute for Research in Environmental Sciences (CIRES),113,USA
+247,247,University of Michigan,113,USA
+248,248,University of Colorado,113,USA
+251,251,University of California Irvine,113,USA
+252,252,University of Texas-Austin,113,USA
+255,255,Colorado State University,113,USA
+256,256,Pacific Northwest National Laboratory,113,USA
+258,258,Rutgers University,113,USA
+259,259,University of California San Diego,113,USA
+268,268,Scripps Institute of Oceanography,113,USA
+270,270,"Climate Central,Inc.",113,USA
+271,271,Oak Ridge National Laboratory,113,USA
+297,297,National Renewable Energy Laboratory (NREL),113,USA
+298,298,University of California Berkeley,113,USA
+299,299,National Institute of Environmental Health Sciences,113,USA
+308,308,Monterey Bay Aquarium Research Institute,113,USA
+312,312,U.S. Geological Survey,113,USA
+320,320,Massachusetts Institute of Technology,113,USA
+321,321,University of South Carolina,113,USA
+333,333,University of Ohio,113,USA
+338,338,Stanford University,113,USA
+340,340,Global Climate Adaptation Partnership,113,USA
+348,348,California State University,113,USA
+361,361,Columbia Business School,113,USA
+380,380,Exxon Mobil Corporation,113,USA
+382,382,University New Hampshire,113,USA
+394,394,Dickinson College,113,USA
+397,397,RAND Corporation,113,USA
+404,404,Centers for Disease Control and Prevention,113,USA
+409,409,Texas A&M University,113,USA
+414,414,University of Maryland,113,USA
+418,418,Instituto de Pesquisa Ambiental da Amazonia (IPAM),113,USA
+419,419,Industrial Economics Inc,113,USA
+428,428,Princeton University,113,USA
+430,430,University of Arizona,113,USA
+431,431,International START Secretariat,113,USA
+458,458,Environmental Defense Fund,113,USA
+459,459,Stratus Consulting Inc.,113,USA
+460,460,City University of New York,113,USA
+461,461,Woods Hole Oceanographic Institution,113,USA
+462,462,United Nations University,113,USA
+486,486,Wesleyan University,113,USA
+502,502,George Washington University,113,USA
+504,504,University of Southern California,113,USA
+505,505,Electric Power Research Institute (EPRI),113,USA
+508,508,Georgetown University,113,USA
+509,509,Georgia Institute of Technology,113,USA
+543,543,California Clean Energy Fund Innovations (CalCEF),113,USA
+544,544,University of California,113,USA
+573,573,Stockholm Environment Institute Boston,113,USA
+583,583,University of Pennsylvania,113,USA
+589,589,World Resources Institute,113,USA
+616,616,US Green Building Council,113,USA
+617,291,United Nations Environment Programme (UNEP),113,USA
+619,619,Kansas State University,113,USA
+624,624,Center for Integrative Environmental Research,113,USA
+627,627,University of Wisconsin-Madison,113,USA
+629,629,Yale University,113,USA
+632,632,Tulane University,113,USA
+640,640,University of California Santa Barbara,113,USA
+652,652,Duke University,113,USA
+661,661,University of Chicago,113,USA
+664,664,Northwest Research Associates,113,USA
+667,667,Carnegie Institute of Washington,113,USA
+669,669,Univerity of California Merced,113,USA
+674,674,State University of New York Stony Brook,113,USA
+677,677,University of Alabama Huntsville,113,USA
+678,678,University of Missouri-St. Louis,113,USA
+684,684,University of Kansas,113,USA
+685,685,Colby College,113,USA
+686,686,Heliophysics Inc.,113,USA
+687,687,National Snow and Ice Data Center,113,USA
+688,688,Hunter College,113,USA
+691,691,Colorado School of Mines,113,USA
+695,695,Purdue University,113,USA
+703,703,Los Alamos National Laboratory,113,USA
+711,711,Illinois State Water Survey,113,USA
+715,715,Naval Research Laboratory,113,USA
+716,716,Climate Institute,113,USA
+718,718,University of Minnesota,113,USA
+722,722,Remote Sensing Systems,113,USA
+729,729,Loyola Marymount University,113,USA
+731,731,University of Wisconsin,113,USA
+736,736,Lehigh University,113,USA
+737,737,Brookhaven National Laboratory,113,USA
+738,738,University of Georgia,113,USA
+744,744,Harvard-Smithsonian Center for Astrophysics,113,USA
+746,746,EG&G Technical Services Inc.,113,USA
+747,747,State University of New York Albany,113,USA
+749,749,College of Wooster,113,USA
+752,752,University of California Santa Cruz,113,USA
+754,754,North Carolina State University,113,USA
+755,755,University of Alaska,113,USA
+767,767,Montana State University,113,USA
+771,771,International Fertilizer Development Center (IFDC),113,USA
+775,775,National Environmental Trust,113,USA
+784,784,Arizona State University,113,USA
+797,797,Exponent,113,USA
+809,809,Bowdoin College,113,USA
+816,816,H. John Heinz III Center for Science Economics and the Environment,113,USA
+819,819,Southern Oregon University,113,USA
+823,332,Independent Consultant,113,USA
+826,826,University of North Dakota,113,USA
+835,835,University of Nebraska,113,USA
+841,841,University of Montana,113,USA
+843,843,Union of Concerned Scientists,113,USA
+845,845,Risk Management Solutions,113,USA
+848,848,Southwest Watershed Research Center,113,USA
+849,849,U.S. Department of Agriculture,113,USA
+850,850,University of Delaware,113,USA
+854,854,Bard College,113,USA
+871,871,Portland State University,113,USA
+873,873,Resources for the Future,113,USA
+905,905,U.S. Environmental Protection Agency (EPA),113,USA
+909,909,L. S. Bernstein & Associates L.L.C.,113,USA
+914,914,Landfills + Inc,113,USA
+916,911,International Energy Agency,113,USA
+921,921,Research Triangle Institute (RTI) International,113,USA
+922,922,CalRecovery Inc.,113,USA
+937,937,Alliance to Save Energy,113,USA
+939,939,Natural Resources Defence Council (NRDC),113,USA
+950,950,National Commission on Energy Policy,113,USA
+958,958,DuPont Fluoroproducts,113,USA
+959,959,National Council for Air and Stream Improvement,113,USA
+960,960,HELIO International,113,USA
+962,962,Tufts University,113,USA
+975,975,Argonne National Laboratory,113,USA
+976,976,Syracuse University,113,USA
+990,875,UNFCCC Secretariat,113,USA
+1000,1000,California Institute of Technology,113,USA
+1004,1004,Mathsoft Data Analysis Products Division,113,USA
+1006,1006,Quaternary Research,113,USA
+1009,1009,University of Massachusetts,113,USA
+1013,1013,Program in Atmospheric and Oceanic Sciences,113,USA
+1015,1015,Northern Illinois University,113,USA
+1016,1016,University of Illinois at Urbana-Champaign,113,USA
+1019,1019,Aerospace Engineering,113,USA
+1022,1022,Creighton University,113,USA
+1026,1026,American Meteorological Society,113,USA
+1031,1031,Woods Hole Research Center,113,USA
+1032,1032,Center for Ocean-Land-Atmosphere Studies,113,USA
+1034,1034,Atmospheric & Environmental Research Inc.,113,USA
+1038,1038,Carnegie Mellon University,113,USA
+1039,1039,Marine Biological Laboratory,113,USA
+1049,1049,New Mexico Institute of Mining and Technology,113,USA
+1050,1050,University of New Hampshire,113,USA
+1054,1054,Institute for Computational Earth System Science,113,USA
+1063,1063,Hampton University,113,USA
+1068,1068,University of Arkansas,113,USA
+1073,1073,University of Wyoming,113,USA
+1077,356,World Bank,113,USA
+1083,1083,Office of the US Global Change Research Program,113,USA
+1090,1090,Office of Science and Technology Policy (OSTP),113,USA
+1092,1092,National Marine Fisheries Service,113,USA
+1094,1094,Winrock International,113,USA
+1103,1103,University Corporation for Atmospheric Research (UCAR),113,USA
+1105,1105,Harvard Medical School,113,USA
+1108,1108,Institute of Ecosystem Studies,113,USA
+1124,1124,INSTAAR,113,USA
+1129,1129,San Diego State University,113,USA
+1132,1132,University of Texas,113,USA
+1134,1134,Johns Hopkins School of Public Health,113,USA
+1138,1138,Agricultural Research Service,113,USA
+1139,1139,American Bird Conservancy,113,USA
+1148,1148,U.S. Army Institute for Water Resources,113,USA
+1156,1156,Southern Company Services,113,USA
+1163,1163,Tellus Institute,113,USA
+1164,1164,International Petroleum Industry Environmental Conservation Association (IPIECA),113,USA
+1177,1177,Centre for Business and the Environment,113,USA
+1178,1178,Climate Technology Initiative,113,USA
+1179,1179,Brandeis University,113,USA
+1202,1202,ICF Consulting,113,USA
+1208,1208,Council on Foreign Relations,113,USA
+1214,1214,National Weather Service,113,USA
+1215,1215,University of Oregon,113,USA
+1216,1216,Merrill Lynch Derivative Products,113,USA
+1218,1218,Indiana University,113,USA
+1219,1219,State University of New York,113,USA
+1222,1222,Howard University,113,USA
+1228,1228,Old Dominion University,113,USA
+1229,1229,Skidaway Institution of Oceanography,113,USA
+1233,1233,W/NMC2,113,USA
+1238,1238,University of Oklahoma,113,USA
+1244,1244,University of Technology,113,USA
+1247,1247,Florida State University,113,USA
+1248,1248,Dow Chemical Co.,113,USA
+1254,1254,Naval Postgraduate School,113,USA
+1261,1261,Brown University,113,USA
+1284,1284,Battelle Institute,113,USA
+1294,1294,U.S. Forest Service,113,USA
+1298,1110,Greenpeace International,113,USA
+1313,1313,Northern Prairie Science Center,113,USA
+1318,1318,Social Science Research Council,113,USA
+1319,1319,WWF,113,USA
+1322,1322,Florida Institute of Technology,113,USA
+1330,1330,ABT Associates Inc.,113,USA
+1334,1334,International Institute for Energy Conservation,113,USA
+1347,1347,Cooperative Institute for Research in the Integrated Ocean Sciences,113,USA
+1357,1357,U.S. Army Corps of Engineers,113,USA
+1361,1361,Wilfrid Laurier University,113,USA
+1368,1368,Institute for International Economics,113,USA
+1369,1369,Global Environment Facility,113,USA
+1372,1372,American Council for an Energy Efficient Economy,113,USA
+1375,1375,International Project for Sustainable Energy Paths,113,USA
+1376,1376,IDEA Inc.,113,USA
+1383,1383,Council of Economic Advisors,113,USA
+1384,1384,Teisberg Associates,113,USA
+1404,1404,New York University,113,USA
+1406,1406,Clarkson University,113,USA
+1408,1408,Institute of Tropical Forestry,113,USA
+1417,1417,University of New York,113,USA
+114,1,N/A,114,USSR
+1395,294,State Hydrological Institute,114,USSR
+1396,1396,Main Geophysical Observatory,114,USSR
+1401,239,Institute of Atmospheric Physics,114,USSR
+115,1,N/A,115,Uganda
+595,595,Makerere University,115,Uganda
+116,1,N/A,116,Ukraine
+439,439,National Academy of Sciences,116,Ukraine
+529,529,"United Nations Environment Programme (UNEP,Nairobi)",116,Ukraine
+828,828,University of Ukraine,116,Ukraine
+117,1,N/A,117,United Kingdom
+130,130,University of Leeds,117,United Kingdom
+131,131,University of Exeter,117,United Kingdom
+146,146,British Antarctic Survey,117,United Kingdom
+153,153,University of Oxford,117,United Kingdom
+160,160,University of Bristol,117,United Kingdom
+182,182,Met Office,117,United Kingdom
+204,204,University of Reading,117,United Kingdom
+211,211,University of Edinburgh,117,United Kingdom
+217,217,Permanent Service for Mean Sea Level (PSMSL),117,United Kingdom
+219,219,National Oceanography Centre,117,United Kingdom
+231,231,University of East Anglia,117,United Kingdom
+232,232,Manchester Metropolitan University,117,United Kingdom
+240,240,Swansea University,117,United Kingdom
+245,245,European Centre for Medium-Range Weather Forecasts (ECMWF),117,United Kingdom
+266,266,University of Rowan,117,United Kingdom
+276,276,University of Cambridge,117,United Kingdom
+279,279,Proudman Oceanographic Laboratory,117,United Kingdom
+317,317,World Health Organization (WHO),117,United Kingdom
+358,358,London School of Hygiene and Tropical Medicine,117,United Kingdom
+413,413,University of Greenwich,117,United Kingdom
+421,421,University of Southampton,117,United Kingdom
+434,434,King's College London,117,United Kingdom
+451,288,International Institute for Environment and Development (IIED),117,United Kingdom
+468,468,University of Sussex,117,United Kingdom
+469,469,School of Geography & Environment University of Southampton,117,United Kingdom
+472,472,Plymouth Marine Laboratory,117,United Kingdom
+490,490,"Centre for Energy,Environment and Sustainability / Univesity of Sheffield",117,United Kingdom
+498,498,University of York / Stockholm Environment Institute (SEI),117,United Kingdom
+519,519,University of Surrey,117,United Kingdom
+541,541,University of Bath,117,United Kingdom
+566,566,University of Strathclyde,117,United Kingdom
+575,575,Senior Energy & Climate Change Expert,117,United Kingdom
+634,634,UK Energy Research Centre (UKERC),117,United Kingdom
+635,635,University of Aberdeen,117,United Kingdom
+638,638,University College London,117,United Kingdom
+683,683,Open University,117,United Kingdom
+697,697,Imperial College London,117,United Kingdom
+699,699,Cardiff University,117,United Kingdom
+702,702,Environmental Systems Science Centre,117,United Kingdom
+707,707,British Atmospheric Data Centre,117,United Kingdom
+721,721,University of Manchester,117,United Kingdom
+740,740,National Centre for Atmospheric Science,117,United Kingdom
+756,756,Environment Agency of England and Wales,117,United Kingdom
+779,779,Loughborough University,117,United Kingdom
+780,780,Newcastle University,117,United Kingdom
+795,422,Consultant,117,United Kingdom
+798,798,Sir Alister Hardy Foundation for Ocean Science,117,United Kingdom
+801,801,European Bank for Reconstruction and Development (EBRD),117,United Kingdom
+855,855,Heriot-Watt University,117,United Kingdom
+864,864,Centre for Ecology and Hydrology at Wallingford,117,United Kingdom
+868,868,Environment Agency of Thames,117,United Kingdom
+880,880,Catholic Agency for Overseas Development,117,United Kingdom
+892,892,Paul Watkiss Associates,117,United Kingdom
+932,932,Golder Associates (UK) Ltd.,117,United Kingdom
+933,933,Carbon Trust,117,United Kingdom
+952,952,University of Liverpool,117,United Kingdom
+967,967,Department for Business Enterprise and Regulatory Reform (BERR),117,United Kingdom
+1001,1001,Rutherford Appleton Laboratory,117,United Kingdom
+1003,1003,University of Bradford,117,United Kingdom
+1014,1014,Southampton Oceanography Centre,117,United Kingdom
+1028,1028,European Ozone Research Coordinating Unit,117,United Kingdom
+1041,1041,Institute of Terrestrial Ecology,117,United Kingdom
+1076,1076,Scott Polar Research Institute,117,United Kingdom
+1078,1078,University of Derby,117,United Kingdom
+1080,1080,Bidston Observatory,117,United Kingdom
+1089,1089,Overseas Development Institute,117,United Kingdom
+1093,1093,University of Newcastle upon Tyne,117,United Kingdom
+1097,1097,British Trust for Ornithology,117,United Kingdom
+1109,1109,London Medical School,117,United Kingdom
+1123,1123,Climate Change Research Initiative,117,United Kingdom
+1127,1127,Middlesex University,117,United Kingdom
+1133,1133,Jackson Environment Institute,117,United Kingdom
+1136,1136,University of Wales Swansea,117,United Kingdom
+1160,911,International Energy Agency,117,United Kingdom
+1161,1161,London Business School,117,United Kingdom
+1169,1169,Personal,117,United Kingdom
+1182,1182,Global Energy & Environmental Consultants,117,United Kingdom
+1192,1192,Oxford Centre for the Environment Ethics & Society (OCEES),117,United Kingdom
+1210,1210,University of London,117,United Kingdom
+1224,1224,James Rennell Centre (NERC),117,United Kingdom
+1225,1225,Institute of Oceanographic Sciences,117,United Kingdom
+1231,1231,University of Manchester Institute of Science and Technology (UMIST),117,United Kingdom
+1262,1262,University of Sheffield,117,United Kingdom
+1264,1264,University of Durham,117,United Kingdom
+1265,1265,Royal Institute of International Affairs,117,United Kingdom
+1271,1271,St. George's Medical School,117,United Kingdom
+1280,1280,Institute of Arable Crops Research,117,United Kingdom
+1281,1281,Cranfield University,117,United Kingdom
+1290,1290,Fire and Life Assurance Corp.,117,United Kingdom
+1299,1299,University of East London,117,United Kingdom
+1316,1316,DRA,117,United Kingdom
+1328,1328,University of Leicester,117,United Kingdom
+1338,1338,Ministry of Agriculture Fisheries and Food,117,United Kingdom
+1339,1339,University of Nottingham,117,United Kingdom
+1340,1340,ETSU,117,United Kingdom
+1364,1364,World Energy Council,117,United Kingdom
+1379,1379,Centre for Social and Economic Research on the Global Environment (CSERGE),117,United Kingdom
+1387,1387,Foundation for International Environmental Law and Development,117,United Kingdom
+1389,1389,Hatherly Laboratories,117,United Kingdom
+1390,1390,Global Atmosphere Division,117,United Kingdom
+1392,1392,St David's University College,117,United Kingdom
+1399,1399,Harwell Laboratory,117,United Kingdom
+1402,1402,Institute of Freshwater Ecology,117,United Kingdom
+1407,1407,University of Essex,117,United Kingdom
+1416,1416,Institute of Hydrology,117,United Kingdom
+1418,1418,York University United Kingdom,117,United Kingdom
+1419,1419,National Environment Research Council,117,United Kingdom
+118,1,N/A,118,Uruguay
+846,846,Universidad de la República,118,Uruguay
+956,956,Carbosur,118,Uruguay
+970,970,Ministry of Livestock Agriculture and Fisheries,118,Uruguay
+119,1,N/A,119,Uzbekistan
+1131,1131,KazNIIMOSK,119,Uzbekistan
+120,1,N/A,120,Venezuela
+477,477,Universidad Simon Bolivar,120,Venezuela
+1059,1059,Universidad Central Venezuela,120,Venezuela
+1252,1252,Instituto Venezolano de Investigaciones Cientificas,120,Venezuela
+1272,1272,University of Merida,120,Venezuela
+1332,875,UNFCCC Secretariat,120,Venezuela
+121,1,N/A,121,Vietnam
+343,343,Hanoi University of Science,121,Vietnam
+810,810,Centre for Environment Research Education and Development,121,Vietnam
+832,832,Institute of Meteorology and Hydrology Vietnam,121,Vietnam
+122,1,N/A,122,Zambia
+210,210,University of Zambia,122,Zambia
+220,220,Zambia Meteorological Department,122,Zambia
+518,518,Africa Carbon Credit Exchange,122,Zambia
+605,605,National Institute for Scientific and Industrial Research,122,Zambia
+123,1,N/A,123,Zimbabwe
+324,324,United Nations Development Programme (UNDP),123,Zimbabwe
+517,517,University of Zimbabwe,123,Zimbabwe
+1053,1053,Zimbabwe Drought Monitoring Centre,123,Zimbabwe
+1190,1190,Southern Center for Energy and Environment,123,Zimbabwe
+1363,1363,Zimbabwe Meteorological Services,123,Zimbabwe

@@ -1,0 +1,37 @@
+id,symbol,name,type
+1,AG,African Group,GEO
+2,APG,Asian-Pacific Group,GEO
+3,GRULAC,Latin American and Caribbean Group,GEO
+4,EEG,Eastern European Group,GEO
+5,WEOG,Western Europe and Other States Group,GEO
+6,NA,Non Available,GEO
+7,WMONA,Non Available,WMO
+8,AFR,Africa,WMO
+9,SWP,South-West Pacific,WMO
+10,ASI,Asia,WMO
+11,EUR,Europe,WMO
+12,NAC,"North America, Central America and the Caribbean",WMO
+13,SAM,South America,WMO
+14,DdC,Developed Countries,ECO
+15,EiT,Economies in Transition,ECO
+16,DgE,Developing Economies,ECO
+17,OCDE,OECD,ECO
+18,BRICS,BRICS,ECO
+19,G8,G8,ECO
+20,G20,G20,ECO
+21,G77,G77,ECO
+22,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,CLI
+23,A1,Annex I,CLI
+24,NA1,Non-Annex I,CLI
+25,LCDs,Least Developed Countries,CLI
+26,AOSIS,Alliance of Small Island States,CLI
+27,EU,European Union,CLI
+28,UG,Umbrella Group,CLI
+29,CfRN,Coalition of Rainforest Nations,CLI
+30,CACAM,"Central Asia, Caucasus and Moldova",CLI
+31,OPEC,Organization of the Petroleum Exporting Countries,CLI
+32,LAS,League of Arab States,CLI
+33,EiG,Environmental Integrity Group,CLI
+34,AILAC,Alliance of Latin America and the Caribbean,CLI
+35,ALBA,Bolivarian Alliance for the Peoples of our America,CLI
+36,OIF,Organisation Internationale de la Francophonie,CLI
