@@ -1,4 +1,4 @@
-title {label:"Database `giec` (IPCC Database)", font:"Helvetica-Bold", size:"100"}
+title {label:"Database `ipcc` (IPCC Database)", font:"Helvetica-Bold", size:"100"}
 header {font:"Helvetica-Bold"}
 entity {font:"Helvetica"}
 relationship {font:"Helvetica"}

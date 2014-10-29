@@ -1,8 +1,8 @@
-CREATE DATABASE IF NOT EXISTS `giec`
+CREATE DATABASE IF NOT EXISTS `ipcc`
 DEFAULT CHARACTER SET utf8
 ;
 
-USE `giec`
+USE `ipcc`
 
 CREATE TABLE IF NOT EXISTS `assessment_reports` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
