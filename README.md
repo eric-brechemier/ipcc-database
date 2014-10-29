@@ -15,7 +15,7 @@ The import script creates a new database named `ipcc` (deleting
 the previous database of the same name, if any) and loads data
 from the CSV files in the folder `data` into tables. Extra columns
 are included in the CSV files with names to explicit the identifiers;
-these columns, which include "(info)" in their names, are skipped
+these columns, which include "(INFO)" in their names, are skipped
 at import; they are absent from created tables.
 
 ### Export from MySQL to CSV
