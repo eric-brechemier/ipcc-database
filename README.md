@@ -9,7 +9,7 @@ institutions and countries.
 
 ### Import from CSV to MySQL
 
-Run `import.sh`.
+Run `import-from-csv-to-mysql.sh`.
 
 The import script creates a new database named `ipcc` (deleting
 the previous database of the same name, if any) and loads data
@@ -20,7 +20,7 @@ at import; they are absent from created tables.
 
 ### Export from MySQL to CSV
 
-Run `export.sh`.
+Run `export-from-mysql-to-csv.sh`.
 
 The export script exports tables of the database `ipcc` to CSV files
 in the folder `data`, adding extra columns with names to explicit
