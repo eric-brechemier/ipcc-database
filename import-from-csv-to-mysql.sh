@@ -88,7 +88,7 @@ import departments id,name,institution_id,@skip,@skip
 import author_departments author_id,@skip,department_id,@skip
 
 import chairman_offices \
-  id,ar,wg,role,rank,author_id,@skip,institution_id,@skip,department_id,@skip
+  id,ar,wg,role,rank,author_id,@skip,institution_id,@skip,@skip,department_id,@skip
 
 import assessment_reports id,year
 import working_groups id,number,title,assessment_report_id
