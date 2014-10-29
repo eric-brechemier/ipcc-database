@@ -1,0 +1,11 @@
+SELECT
+  author_aliases.*,
+  CONCAT(
+    authors.first_name,
+    ' ',
+    authors.last_name
+  ) AS `Author (INFO)`
+FROM author_aliases
+JOIN authors
+ON author_aliases.author_id = authors.id
+;
