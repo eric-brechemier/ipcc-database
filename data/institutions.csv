@@ -195,7 +195,7 @@ id,name,institution_type_id,Institution Type (INFO)
 329,Oswaldo Cruz Foundation (FIOCRUZ),11,Public Research Organisation
 330,Australian Antarctic Division,5,Government Agency
 331,Organization for Economic Cooperation and Development (OECD),8,International Institution
-332,Independent Consultant,7,Individual
+332,Independent Consultant,13,Consultants / Individuals
 333,University of Ohio,6,Higher Education Institution
 334,Institute of Economic Growth,11,Public Research Organisation
 335,University of Alberta,6,Higher Education Institution
@@ -274,10 +274,10 @@ id,name,institution_type_id,Institution Type (INFO)
 415,HELVETAS Swiss Intercooperation,9,Non-Governmental Organization
 416,University of Dar-es-Salaam,6,Higher Education Institution
 418,Instituto de Pesquisa Ambiental da Amazonia (IPAM),4,Foundation
-419,Industrial Economics Inc,3,Consultants
+419,Industrial Economics Inc,13,Consultants / Individuals
 420,AgResearch,2,Company
 421,University of Southampton,6,Higher Education Institution
-422,Consultant,7,Individual
+422,Consultant,13,Consultants / Individuals
 424,University of Oslo,6,Higher Education Institution
 425,Lund University,6,Higher Education Institution
 426,South African National Space Agency (SANSA) South Africa,5,Government Agency
@@ -299,7 +299,7 @@ id,name,institution_type_id,Institution Type (INFO)
 443,Indian Institute for Human Settlements,6,Higher Education Institution
 444,Institute of Forecasting Russian Academy of Science,1,Academy of Science
 445,University of Vic,6,Higher Education Institution
-446,Ethekwini Municipality,7,Individual
+446,Ethekwini Municipality,13,Consultants / Individuals
 447,University of Stellenbosch,6,Higher Education Institution
 448,National Institute of Advanced Industrial Science and Technology,11,Public Research Organisation
 449,El Colegio de la Frontera Norte,6,Higher Education Institution
@@ -310,7 +310,7 @@ id,name,institution_type_id,Institution Type (INFO)
 456,Institut National de la Recherche Agronomique (INRA),11,Public Research Organisation
 457,Helmholtz Zentrum Geesthacht,11,Public Research Organisation
 458,Environmental Defense Fund,4,Foundation
-459,Stratus Consulting Inc.,3,Consultants
+459,Stratus Consulting Inc.,13,Consultants / Individuals
 460,City University of New York,6,Higher Education Institution
 461,Woods Hole Oceanographic Institution,6,Higher Education Institution
 462,United Nations University,8,International Institution
@@ -357,7 +357,7 @@ id,name,institution_type_id,Institution Type (INFO)
 508,Georgetown University,12,Non Available
 509,Georgia Institute of Technology,6,Higher Education Institution
 510,University of Leipzig,12,Non Available
-511,Vista Analysis,3,Consultants
+511,Vista Analysis,13,Consultants / Individuals
 512,University of Brasília,12,Non Available
 513,University of Lleida,12,Non Available
 514,Universidad Autonoma de Baja California Sur,6,Higher Education Institution
@@ -368,7 +368,7 @@ id,name,institution_type_id,Institution Type (INFO)
 519,University of Surrey,12,Non Available
 520,"Universidad del CEMA,Buenos Aires",12,Non Available
 522,Mercator Research Institute on Global Commons and ClimateChange (MCC),12,Non Available
-524,Deloitte Touche Tohmatsu India Pvt. Ltd.,3,Consultants
+524,Deloitte Touche Tohmatsu India Pvt. Ltd.,13,Consultants / Individuals
 525,Energy Research Institute,11,Public Research Organisation
 526,University of Nijmegen,12,Non Available
 528,Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades,12,Non Available
@@ -376,7 +376,7 @@ id,name,institution_type_id,Institution Type (INFO)
 530,Netherlands Environmental Assessment Agency,5,Government Agency
 531,Asian Institute of Technology,12,Non Available
 534,Centre for Policy Research,12,Non Available
-535,Margaree Consultants Inc.,3,Consultants
+535,Margaree Consultants Inc.,13,Consultants / Individuals
 537,Energy Commission,12,Non Available
 540,Technical University of Denmark,12,Non Available
 541,University of Bath,6,Higher Education Institution
@@ -396,7 +396,7 @@ id,name,institution_type_id,Institution Type (INFO)
 559,Murdoch University,12,Non Available
 560,Centre for Environmental Economics and Policy in Africa (CEEPA),6,Higher Education Institution
 561,Norwegian University of Science & Technology,12,Non Available
-562,Ecofys,3,Consultants
+562,Ecofys,13,Consultants / Individuals
 563,China Academy of Urban Planning and Design (CAUPD),12,Non Available
 564,"United Nations University,World Institute for Development Economics Research",12,Non Available
 565,Kogakuin University,12,Non Available
@@ -475,7 +475,7 @@ id,name,institution_type_id,Institution Type (INFO)
 651,"China CDM Fund Management Center,Ministry of Finance",12,Non Available
 652,Duke University,6,Higher Education Institution
 653,Universiti Teknologi MARA,12,Non Available
-654,Energy Environment Computer and Geophysical Applications Group (EECG Consultants),3,Consultants
+654,Energy Environment Computer and Geophysical Applications Group (EECG Consultants),13,Consultants / Individuals
 655,National Center for Climate Strategy Study and International Cooperation (NRDC),12,Non Available
 656,University of Warsaw,12,Non Available
 657,Consortium Ouranos,9,Non-Governmental Organization
@@ -609,8 +609,8 @@ id,name,institution_type_id,Institution Type (INFO)
 792,University College Cork,6,Higher Education Institution
 793,Universidad Nacional de Córdoba,6,Higher Education Institution
 794,University of Western Australia,6,Higher Education Institution
-796,Environnement Conseil (TEC),3,Consultants
-797,Exponent,3,Consultants
+796,Environnement Conseil (TEC),13,Consultants / Individuals
+797,Exponent,13,Consultants / Individuals
 798,Sir Alister Hardy Foundation for Ocean Science,4,Foundation
 799,Technical University of Munich,6,Higher Education Institution
 800,Tongji University,6,Higher Education Institution
@@ -634,7 +634,7 @@ id,name,institution_type_id,Institution Type (INFO)
 821,International Secretariat for Dialogue on Water and Climate,9,Non-Governmental Organization
 822,Maulana Azad National Institute of Technology,6,Higher Education Institution
 824,University of Joensuu,6,Higher Education Institution
-825,Earthwise Consulting,3,Consultants
+825,Earthwise Consulting,13,Consultants / Individuals
 826,University of North Dakota,6,Higher Education Institution
 827,University of Basel,6,Higher Education Institution
 828,University of Ukraine,6,Higher Education Institution
@@ -650,7 +650,7 @@ id,name,institution_type_id,Institution Type (INFO)
 841,University of Montana,6,Higher Education Institution
 842,Universidade Estadual Paulista,6,Higher Education Institution
 843,Union of Concerned Scientists,4,Foundation
-844,ERM India Pvt,3,Consultants
+844,ERM India Pvt,13,Consultants / Individuals
 845,Risk Management Solutions,2,Company
 846,Universidad de la República,6,Higher Education Institution
 847,South Pacific Regional Environment Programme,8,International Institution
@@ -671,8 +671,8 @@ id,name,institution_type_id,Institution Type (INFO)
 863,Philippine Atmospheric Geophysical and Astronomical Services Administration,5,Government Agency
 864,Centre for Ecology and Hydrology at Wallingford,5,Government Agency
 865,Institute of Meteorology and Hydrology Mongolia,11,Public Research Organisation
-866,Consultant to Indian Ocean Commission,7,Individual
-867,Retired,7,Individual
+866,Consultant to Indian Ocean Commission,13,Consultants / Individuals
+867,Retired,13,Consultants / Individuals
 868,Environment Agency of Thames,5,Government Agency
 869,Memorial University of Newfoundland,6,Higher Education Institution
 870,Blaustein Institute for Desert Research,6,Higher Education Institution
@@ -683,7 +683,7 @@ id,name,institution_type_id,Institution Type (INFO)
 875,UNFCCC Secretariat,8,International Institution
 876,Istanbul Technical University,6,Higher Education Institution
 877,Institut Hydrométéorologique de Formation et de Recherches (IHFR),11,Public Research Organisation
-878,Halcrow Consulting India,3,Consultants
+878,Halcrow Consulting India,13,Consultants / Individuals
 879,Government of Nepal,5,Government Agency
 880,Catholic Agency for Overseas Development,9,Non-Governmental Organization
 881,National University of Ireland,6,Higher Education Institution
@@ -697,7 +697,7 @@ id,name,institution_type_id,Institution Type (INFO)
 889,UNESCO,8,International Institution
 890,Marine Research Institute,11,Public Research Organisation
 891,University of Sri Jayew Ardenepura,6,Higher Education Institution
-892,Paul Watkiss Associates,3,Consultants
+892,Paul Watkiss Associates,13,Consultants / Individuals
 893,Graduate Institute of International Studies,6,Higher Education Institution
 894,National University of Singapore,6,Higher Education Institution
 895,UN Economic Commission for LatinAmerican and the Caribbean (ECLAC),8,International Institution
@@ -710,7 +710,7 @@ id,name,institution_type_id,Institution Type (INFO)
 903,Saudi Aramco,2,Company
 905,U.S. Environmental Protection Agency (EPA),5,Government Agency
 906,Joanneum Research Graz,2,Company
-907,Allen Consulting Group,3,Consultants
+907,Allen Consulting Group,13,Consultants / Individuals
 908,British Columbia Ministry of Environment,5,Government Agency
 909,L. S. Bernstein & Associates L.L.C.,2,Company
 910,Facultés Universitaires Catholique de Mons,6,Higher Education Institution
@@ -718,7 +718,7 @@ id,name,institution_type_id,Institution Type (INFO)
 913,Bogor Agricultural University,6,Higher Education Institution
 914,Landfills + Inc,2,Company
 915,Tata Energy Research Institute (TERI),9,Non-Governmental Organization
-917,Brinkman Climate Change Consultancy,3,Consultants
+917,Brinkman Climate Change Consultancy,13,Consultants / Individuals
 918,Institute of Soil Science Chinese Academy of Sciences,1,Academy of Science
 919,Canada Centre for Remote Sensing,5,Government Agency
 920,University of Sierra Leone,6,Higher Education Institution
@@ -726,7 +726,7 @@ id,name,institution_type_id,Institution Type (INFO)
 922,CalRecovery Inc.,2,Company
 923,Ministery of Science Technology and the Environment,5,Government Agency
 924,International Institute for Sustainable Development,9,Non-Governmental Organization
-925,Biocarbon Consult,3,Consultants
+925,Biocarbon Consult,13,Consultants / Individuals
 926,CRA International,2,Company
 927,Ford-Robertson Initiatives (FRI) Ltd,2,Company
 928,Chinese Research Academy of Environmental Science,1,Academy of Science
@@ -761,7 +761,7 @@ id,name,institution_type_id,Institution Type (INFO)
 958,DuPont Fluoroproducts,2,Company
 959,National Council for Air and Stream Improvement,4,Foundation
 960,HELIO International,9,Non-Governmental Organization
-961,Benviroc Ltd,3,Consultants
+961,Benviroc Ltd,13,Consultants / Individuals
 962,Tufts University,6,Higher Education Institution
 963,Munasinghe Institute for Development,9,Non-Governmental Organization
 964,Faculty of Law Sophia University,6,Higher Education Institution
@@ -788,7 +788,7 @@ id,name,institution_type_id,Institution Type (INFO)
 987,Marintek,2,Company
 988,Sahara and Sahel Observatory (OSS) Tunis,8,International Institution
 989,Ministry of Environment Indonesia,5,Government Agency
-991,Treeness Consult,3,Consultants
+991,Treeness Consult,13,Consultants / Individuals
 992,Eskom,2,Company
 993,University of Tsukuba,6,Higher Education Institution
 994,Technical Research Centre of Finland,5,Government Agency
@@ -836,11 +836,11 @@ id,name,institution_type_id,Institution Type (INFO)
 1040,Institut fuer Chemie und Dynamik der Geosphaere,11,Public Research Organisation
 1041,Institute of Terrestrial Ecology,6,Higher Education Institution
 1042,St Petersburg University,6,Higher Education Institution
-1043,Northern Geothermal,3,Consultants
+1043,Northern Geothermal,13,Consultants / Individuals
 1044,Universite Degli Studi dellâ Aquila,6,Higher Education Institution
 1045,York University Canada,6,Higher Education Institution
 1046,Agencia Espacial Brasileira,5,Government Agency
-1047,M&D Consulting,3,Consultants
+1047,M&D Consulting,13,Consultants / Individuals
 1048,Institute of Meteorology & Water Management,11,Public Research Organisation
 1049,New Mexico Institute of Mining and Technology,6,Higher Education Institution
 1050,University of New Hampshire,6,Higher Education Institution
@@ -853,7 +853,7 @@ id,name,institution_type_id,Institution Type (INFO)
 1057,Environment Management Authority,5,Government Agency
 1058,Nanjing University,6,Higher Education Institution
 1059,Universidad Central Venezuela,6,Higher Education Institution
-1060,Chief Climatology Department,7,Individual
+1060,Chief Climatology Department,13,Consultants / Individuals
 1061,Fundacion para la Investigacion del Clima,4,Foundation
 1062,University of Stockholm,6,Higher Education Institution
 1063,Hampton University,6,Higher Education Institution
@@ -955,7 +955,7 @@ id,name,institution_type_id,Institution Type (INFO)
 1166,Institute of Energy Economics and the Rational Use of Energy,6,Higher Education Institution
 1167,Comision Nac.de Cambio Clim.,5,Government Agency
 1168,University of Venice,6,Higher Education Institution
-1169,Personal,7,Individual
+1169,Personal,13,Consultants / Individuals
 1170,IPCC Secretariat,8,International Institution
 1171,Institut d'Economie et de Politique de l'Energie,6,Higher Education Institution
 1172,World Business Council for Sustainable Development,8,International Institution
@@ -966,7 +966,7 @@ id,name,institution_type_id,Institution Type (INFO)
 1178,Climate Technology Initiative,5,Government Agency
 1179,Brandeis University,6,Higher Education Institution
 1180,Universidade Estadual de Campinas (UNICAMP),6,Higher Education Institution
-1182,Global Energy & Environmental Consultants,3,Consultants
+1182,Global Energy & Environmental Consultants,13,Consultants / Individuals
 1183,Tokyo University of Agriculture & Technology,6,Higher Education Institution
 1184,Development Alternatives,9,Non-Governmental Organization
 1185,Korea Energy Economics Institute,11,Public Research Organisation
@@ -985,7 +985,7 @@ id,name,institution_type_id,Institution Type (INFO)
 1199,Group for the Analysis of Development (Grade),4,Foundation
 1200,Centre For Wind Energy Technology (C-WET),11,Public Research Organisation
 1201,Forest Research Institute Malaysia (FRIM),11,Public Research Organisation
-1202,ICF Consulting,3,Consultants
+1202,ICF Consulting,13,Consultants / Individuals
 1204,University of Haifa,6,Higher Education Institution
 1205,Norwegian Forest Research Institute,11,Public Research Organisation
 1206,Global Industrial and Social Progress Research Institute (GISPRI),2,Company
@@ -1153,14 +1153,14 @@ id,name,institution_type_id,Institution Type (INFO)
 1381,Ministry of Power Industry,5,Government Agency
 1382,ENDA - TM Programme-Energie.,8,International Institution
 1383,Council of Economic Advisors,5,Government Agency
-1384,Teisberg Associates,3,Consultants
+1384,Teisberg Associates,13,Consultants / Individuals
 1385,ISTAT,11,Public Research Organisation
 1386,University of Twente,6,Higher Education Institution
 1387,Foundation for International Environmental Law and Development,4,Foundation
 1388,Forest National Corporation,11,Public Research Organisation
 1389,Hatherly Laboratories,11,Public Research Organisation
 1390,Global Atmosphere Division,5,Government Agency
-1391,Quebec,7,Individual
+1391,Quebec,13,Consultants / Individuals
 1392,St David's University College,6,Higher Education Institution
 1393,Direction de la Meteorologie Nationale,5,Government Agency
 1394,Institute of Geography and Spatial Organization,11,Public Research Organisation

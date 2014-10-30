@@ -1,13 +1,12 @@
 id,name,symbol
 1,Academy of Science,AS
 2,Company,COMP
-3,Consultants,CONS
 4,Foundation,FND
 5,Government Agency,GA
 6,Higher Education Institution,HEI
-7,Individual,INDV
 8,International Institution,INT
 9,Non-Governmental Organization,NGO
 10,Other,OTHER
 11,Public Research Organisation,PRO
 12,Non Available,N/A
+13,Consultants / Individuals,CO/IN
