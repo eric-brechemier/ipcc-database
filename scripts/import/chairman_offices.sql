@@ -26,4 +26,5 @@ JOIN countries
 ON institution_countries.country_id = countries.id
 JOIN departments
 ON chairman_offices.department_id = departments.id
+ORDER BY chairman_offices.id
 ;

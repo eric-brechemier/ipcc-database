@@ -12,4 +12,7 @@ JOIN authors
 ON author_departments.author_id = authors.id
 JOIN departments
 ON author_departments.department_id = departments.id
+ORDER BY
+  author_departments.author_id,
+  author_departments.department_id
 ;

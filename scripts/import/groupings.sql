@@ -9,4 +9,7 @@ JOIN groups
 ON groupings.symbol = groups.symbol
 JOIN countries
 ON groupings.country_id = countries.id
+ORDER BY
+  groupings.id,
+  groupings.country_id
 ;

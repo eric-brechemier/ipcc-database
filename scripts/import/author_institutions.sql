@@ -17,4 +17,7 @@ JOIN institutions
 ON institution_countries.institution_id = institutions.id
 JOIN countries
 ON institution_countries.country_id = countries.id
+ORDER BY
+  author_institutions.author_id,
+  author_institutions.institution_id
 ;

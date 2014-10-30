@@ -4,4 +4,7 @@ SELECT
 FROM country_aliases
 JOIN countries
 ON country_aliases.country_id = countries.id
+ORDER BY
+  country_aliases.country_id,
+  country_aliases.alias
 ;
