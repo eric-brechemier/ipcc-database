@@ -36,7 +36,7 @@ convertLine()
   result=''
   separator=''
 
-  # loop over fields in each line, using TAB a separator
+  # loop over fields in each line, using TAB as separator
   oldIFS="$IFS"
   IFS="$tab"
   for field in $fields
