@@ -1,7 +1,8 @@
 #!/bin/sh
 # Convert TSV to CSV
 # by replacing tabs with commas
-# after quoting the fields which contain commas
+# after quoting the fields which contain commas or double-quotes
+# (double quotes inside quoted fields are doubled for escaping)
 #
 # Usage:
 #   tsv2csv.sh < input.tsv > output.csv
@@ -41,6 +42,12 @@ convertLine()
   for field in $fields
   do
     case "$field" in
+      *$quote*)
+        # fields which contain a double-quote must be quoted
+        # with each double-quote doubled from " to "" for escaping
+        escapedField=$(echo "$field" | sed -e "s/$quote/$quote$quote/g")
+        result="$result$separator$quote$escapedField$quote"
+      ;;
       *$comma*)
         # fields which contain a comma must be quoted
         result="$result$separator$quote$field$quote"

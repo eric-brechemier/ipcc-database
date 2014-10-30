@@ -340,7 +340,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 283,1,2,2,CA,2470,John M. Reilly,849,U.S. Department of Agriculture,USA,NULL,NULL
 285,1,2,2,CA,2494,V. Richter,27,N/A,Czech Republic,NULL,NULL
 292,1,2,2,CA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
-297,1,2,2,CA,2602,Michael James "Jim" Salinger,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
+297,1,2,2,CA,2602,"Michael James ""Jim"" Salinger",280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
 300,1,2,2,CA,2623,A. Sastri,44,N/A,India,NULL,NULL
 326,1,2,2,CA,2779,S.K. Sinha,613,Indian Agricultural Research Institute,India,NULL,NULL
 327,1,2,2,CA,2782,Oleg D. Sirotenko,114,N/A,USSR,NULL,NULL
@@ -1903,7 +1903,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2965,3,1,2,LA,1392,Jean Jouzel,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 2797,3,1,2,LA,1834,M.E. Mann,199,University of Virginia,USA,NULL,NULL
 2631,3,1,2,LA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
-2427,3,1,2,LA,2602,Michael James "Jim" Salinger,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
+2427,3,1,2,LA,2602,"Michael James ""Jim"" Salinger",280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
 2203,3,1,2,LA,3153,M. Wang,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
 3105,3,1,2,RE,1091,R. Hallgren,1026,American Meteorological Society,USA,NULL,NULL
 2635,3,1,2,RE,2156,B.S. Nyenzi,1053,Zimbabwe Drought Monitoring Centre,Zimbabwe,NULL,NULL
@@ -2669,7 +2669,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2536,3,1,TS,CA,2385,I. Colin Prentice,212,Max-Planck Institute for Biogeochemistry,Germany,NULL,NULL
 2512,3,1,TS,CA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 2501,3,1,TS,CA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
-2428,3,1,TS,CA,2602,Michael James "Jim" Salinger,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
+2428,3,1,TS,CA,2602,"Michael James ""Jim"" Salinger",280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
 2396,3,1,TS,CA,2674,Robert (Bob) J. Scholes,454,Council for Scientific and Industrial Research (CSIR),South Africa,228,"Division of Water, Environment and Forest Technology"
 2329,3,1,TS,CA,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
 2300,3,1,TS,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
@@ -4650,7 +4650,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4123,4,2,11,LA,1124,Nicholas Harvey,807,University of Adelaide,Australia,NULL,NULL
 4187,4,2,11,LA,1253,Mark Howden,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,77,CSIRO Sustainable Ecosystems
 4191,4,2,11,LA,1269,Lesley Hughes,368,Macquarie University,Australia,NULL,NULL
-4921,4,2,11,LA,2602,Michael James "Jim" Salinger,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
+4921,4,2,11,LA,2602,"Michael James ""Jim"" Salinger",280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
 5210,4,2,11,LA,3170,Richard A. Warrick,316,University of Waikato,New Zealand,NULL,NULL
 3838,4,2,11,RE,571,Michael J. Coughlan,250,Bureau of Meteorology,Australia,NULL,NULL
 4582,4,2,11,RE,2012,Henrik Moller,73,N/A,New Zealand,NULL,NULL
