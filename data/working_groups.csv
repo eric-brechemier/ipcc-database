@@ -1,0 +1,16 @@
+id,number,title,assessment_report_id
+1,1,Scientific Assessment of Climate Change,1
+2,1,The Science of Climate Change,2
+3,1,The Scientific Basis,3
+4,1,The Physical Science Basis,4
+5,1,The Physical Science Basis,5
+6,2,Impacts Assessments of Climate Change,1
+7,2,"Impacts, adaptations, and mitigation of Climate Change",2
+8,2,"Impacts, Adaptation and Vulnerability",3
+9,2,"Impacts, Adaptation and Vulnerability",4
+10,2,"Impacts, Adaptation and Vulnerability",5
+11,3,The IPCC Responses Strategies,1
+12,3,Economic and Social Dimensions of Climate Change,2
+13,3,Mitigation,3
+14,3,Mitigation of Climate Change,4
+15,3,Mitigation of Climate Change,5

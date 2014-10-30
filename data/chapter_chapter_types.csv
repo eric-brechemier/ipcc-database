@@ -1,0 +1,65 @@
+chapter_id,AR (INFO),WG (INFO),Chapter (INFO),chapter_type_id,Chapter Type (INFO)
+1,1,1,1,1,Greenhouse Gases
+1,1,1,1,2,Aerosols
+2,1,1,2,14,Radiative Forcing
+3,1,1,3,4,Climate Processes
+3,1,1,3,5,Model Evaluation
+4,1,1,4,5,Model Evaluation
+5,1,1,5,6,Equilibrium Climate Change
+6,1,1,6,7,Projections of Global Climate Change
+7,1,1,7,8,Observate Climate Variability
+8,1,1,8,9,Detection and Attribution
+9,1,1,9,10,Sea Level Change
+10,1,1,10,11,Effects on Ecosystems
+11,1,1,11,12,Advancing Understanding
+13,2,1,1,13,Climate System: Overview
+14,2,1,2,14,Radiative Forcing
+15,2,1,3,8,Observate Climate Variability
+16,2,1,4,4,Climate Processes
+17,2,1,5,5,Model Evaluation
+18,2,1,6,7,Projections of Global Climate Change
+19,2,1,7,10,Sea Level Change
+20,2,1,8,9,Detection and Attribution
+21,2,1,9,11,Effects on Ecosystems
+22,2,1,10,11,Effects on Ecosystems
+23,2,1,11,12,Advancing Understanding
+24,3,1,1,13,Climate System: Overview
+25,3,1,2,8,Observate Climate Variability
+26,3,1,3,15,Carbon Cycle and Biogeochemistry
+27,3,1,4,16,Atmosphere and Surface
+28,3,1,5,2,Aerosols
+29,3,1,6,14,Radiative Forcing
+30,3,1,7,4,Climate Processes
+31,3,1,8,5,Model Evaluation
+32,3,1,9,7,Projections of Global Climate Change
+33,3,1,10,17,Regional Downscaling
+34,3,1,11,10,Sea Level Change
+35,3,1,12,9,Detection and Attribution
+36,3,1,13,18,Scenario Development
+37,3,1,14,12,Advancing Understanding
+38,4,1,1,19,History of Climate Change: Overview
+39,4,1,2,14,Radiative Forcing
+40,4,1,3,16,Atmosphere and Surface
+41,4,1,4,20,Cryosphere
+42,4,1,5,10,Sea Level Change
+42,4,1,5,21,Oceans
+43,4,1,6,22,Paleoclimate
+44,4,1,7,15,Carbon Cycle and Biogeochemistry
+45,4,1,8,5,Model Evaluation
+46,4,1,9,9,Detection and Attribution
+47,4,1,10,7,Projections of Global Climate Change
+48,4,1,11,17,Regional Downscaling
+49,5,1,1,23,Introduction
+50,5,1,2,16,Atmosphere and Surface
+51,5,1,3,21,Oceans
+52,5,1,4,20,Cryosphere
+53,5,1,5,22,Paleoclimate
+54,5,1,6,15,Carbon Cycle and Biogeochemistry
+55,5,1,7,2,Aerosols
+56,5,1,8,14,Radiative Forcing
+57,5,1,9,5,Model Evaluation
+58,5,1,10,9,Detection and Attribution
+59,5,1,11,7,Projections of Global Climate Change
+60,5,1,12,7,Projections of Global Climate Change
+61,5,1,13,10,Sea Level Change
+62,5,1,14,17,Regional Downscaling

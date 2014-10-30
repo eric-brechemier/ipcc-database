@@ -1,0 +1,24 @@
+id,symbol,name
+1,GHG,Greenhouse Gases
+2,AER,Aerosols
+3,RAD,Radiative Forcing
+4,CLI,Climate Processes
+5,MOD,Model Evaluation
+6,EQU,Equilibrium Climate Change
+7,PRO,Projections of Global Climate Change
+8,OBS,Observate Climate Variability
+9,DET,Detection and Attribution
+10,SEA,Sea Level Change
+11,EFF,Effects on Ecosystems
+12,ADV,Advancing Understanding
+13,OVE,Climate System: Overview
+14,RAD,Radiative Forcing
+15,CAR,Carbon Cycle and Biogeochemistry
+16,ATM,Atmosphere and Surface
+17,REG,Regional Downscaling
+18,SCE,Scenario Development
+19,HIS,History of Climate Change: Overview
+20,CRY,Cryosphere
+21,OCE,Oceans
+22,PAL,Paleoclimate
+23,INT,Introduction

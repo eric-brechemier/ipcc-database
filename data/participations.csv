@@ -1,0 +1,1389 @@
+id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution (INFO),Country (INFO),department_id,Department (INFO)
+74,1,1,1,LA,775,James W. Elkins,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+79,1,1,1,LA,821,F. Fehsenfeld,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+84,1,1,1,LA,876,Paul Fraser,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+177,1,1,1,LA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+220,1,1,1,LA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+258,1,1,1,LA,2284,G. Pearman,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+339,1,1,1,LA,2902,W. Su,233,Chinese Academy of Sciences,China,149,Research Centie for Eco-Environmental Science
+343,1,1,1,LA,2987,A.M. Thompson,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+9,1,1,2,LA,112,A.J. Apling,1390,Global Atmosphere Division,United Kingdom,285,Department of the Environment
+28,1,1,2,LA,272,J.P. Blanchet,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+316,1,1,2,LA,2747,G.Y. Shi,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+377,1,1,2,LA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+275,1,1,3,LA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+404,1,1,4,CLA,3341,Q.-C. Zeng,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+10,1,1,4,LA,122,Phillip A. Arkin,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
+26,1,1,4,LA,239,André Berger,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+32,1,1,4,LA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+43,1,1,4,LA,379,K. Bryan,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+180,1,1,4,LA,1703,P. Levelle,167,Institut Pierre Simon Laplace (IPSL),France,67,Laboratoire d'Ecologie de l'Ecole Normale
+374,1,1,4,LA,3204,R.T. Wetherald,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+204,1,1,5,CLA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+27,1,1,5,LA,239,André Berger,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+33,1,1,5,LA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+48,1,1,5,LA,435,V. Canuto,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+139,1,1,5,LA,1279,N. Husson,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+262,1,1,5,LA,2308,E. Perrott,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+276,1,1,5,LA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+333,1,1,5,LA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+375,1,1,5,LA,3204,R.T. Wetherald,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+44,1,1,6,CLA,379,K. Bryan,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+110,1,1,6,LA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+205,1,1,6,LA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+277,1,1,6,LA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+286,1,1,6,LA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+334,1,1,6,LA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+378,1,1,6,LA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+83,1,1,7,CLA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+8,1,1,7,LA,100,J.K. Angell,188,National Oceanographic and Atmospheric Administration (NOAA),USA,106,Air Resources Laboratory
+11,1,1,7,LA,122,Phillip A. Arkin,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
+54,1,1,7,LA,483,M. Chelliah,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
+68,1,1,7,LA,678,H.F. Diaz,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+86,1,1,7,LA,899,Congbin Fu,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+106,1,1,7,LA,1040,A Gruber,188,National Oceanographic and Atmospheric Administration (NOAA),USA,116,Satellite Data and Information Service
+129,1,1,7,LA,1190,K. Higuchi,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+235,1,1,7,LA,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+255,1,1,7,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+284,1,1,7,LA,2483,R.W. Reynolds,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
+291,1,1,7,LA,2548,C.F. Ropelewski,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
+387,1,1,7,LA,3265,S. Woodruff,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+379,1,1,8,CLA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+22,1,1,8,LA,226,TL Bell,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+73,1,1,8,LA,750,Ye Duzheng,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+111,1,1,8,LA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+120,1,1,8,LA,1144,Y. Hayashi,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+206,1,1,8,LA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+256,1,1,8,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+278,1,1,8,LA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+401,1,1,8,LA,3319,D. Ye,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+407,1,1,8,LA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+240,1,1,9,CLA,2174,H Oeschger,126,University of Bern,Switzerland,14,Physics Institute
+368,1,1,9,CLA,3170,Richard A. Warrick,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+108,1,1,9,LA,1075,Wilfreid Haeberli,136,ETH Zurich,Switzerland,34,Versuchsanstalt fur Wasserbau Institut
+279,1,1,9,LA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+95,1,1,10,LA,1006,J Goudrian,396,Wageningen University,The Netherlands,212,Agricultural Department
+122,1,1,10,LA,1150,I. Heany,1402,Institute of Freshwater Ecology,United Kingdom,286,Windermere Laboratory
+181,1,1,10,LA,1709,Sydney Levitus,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+209,1,1,10,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+210,1,1,11,CLA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+281,1,1,11,LA,2446,I. Rasool,124,National Aeronautics and Space Administration (NASA),USA,10,OSSA
+96,1,1,12,CA,1006,J Goudrian,396,Wageningen University,The Netherlands,212,Agricultural Department
+149,1,1,12,CA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+168,1,1,12,CA,1533,J. Knox,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+272,1,1,12,CA,2383,Michael Prather,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+280,1,1,12,CA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+344,1,1,12,CA,2987,A.M. Thompson,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+369,1,1,12,CA,3170,Richard A. Warrick,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+380,1,1,12,CA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+163,1,2,2,CA,1501,M.D. King,124,National Aeronautics and Space Administration (NASA),USA,62,Goddard Laboratory of the Atmosphere
+185,1,2,2,CA,1737,C.S. Lingle,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+203,1,2,2,CA,1830,S. Manabe,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+236,1,2,2,CA,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+292,1,2,2,CA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+154,1,3,4,CLA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+540,2,1,2,CLA,55,D.L. Albritton,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+768,2,1,2,LA,663,R.G. Derwent,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+819,2,1,2,LA,788,Ian G. Enting,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+823,2,1,2,LA,790,P. Eraser,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+1039,2,1,2,LA,1301,I.S.A Isaksen,424,University of Oslo,Norway,220,Geophysics
+1512,2,1,2,LA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+1691,2,1,2,LA,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+1711,2,1,2,LA,2850,Jayaraman Srinivasan,124,National Aeronautics and Space Administration (NASA),USA,5,Langley Research Center
+1847,2,1,2,LA,3223,Tom M.L. Wigley,1103,University Corporation for Atmospheric Research (UCAR),USA,279,Office for Interdisciplinary Earth Studies
+638,2,1,2,CA,310,Olivier Boucher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+672,2,1,2,CA,401,J. Butler,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+785,2,1,2,CA,698,E. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+816,2,1,2,CA,775,James W. Elkins,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+970,2,1,2,CA,1135,Didier Hauglustaine,352,Centre National de la Recherche Scientifique (CNRS),France,206,Service d'Aeronomie
+972,2,1,2,CA,1146,J. Haywood,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+1049,2,1,2,CA,1315,Daniel Jacob,215,Harvard University,USA,135,Department of Earth and Planetary Sciences
+1097,2,1,2,CA,1452,C. David Keeling,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+1178,2,1,2,CA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+1319,2,1,2,CA,1973,B. Miller,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+1326,2,1,2,CA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+1334,2,1,2,CA,2020,Steve Montzka,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+1391,2,1,2,CA,2147,P. Novelli,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+1749,2,1,2,CA,2956,Pieter Tans,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+1833,2,1,2,CA,3196,Ray Weiss,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+1845,2,1,2,CA,3217,Tim Whorf,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+1371,2,1,3,CLA,2123,Neville Nicholls,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1085,2,1,3,LA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+1441,2,1,3,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+561,2,1,3,CA,101,J. Angella,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+650,2,1,3,CA,343,Keith R. Briffa,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+690,2,1,3,CA,457,Daniel R. Cayan,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+714,2,1,3,CA,511,J. Churo,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,80,CSIRO Division of Oceanography
+727,2,1,3,CA,556,Edward Cook,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+780,2,1,3,CA,680,Sandra Myrna Diaz,793,Universidad Nacional de Córdoba,Argentina,267,Instituto Multidisciplinario de Biologia Vegetal (IMBIV)
+793,2,1,3,CA,728,W. Drosdowsky,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+804,2,1,3,CA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+817,2,1,3,CA,776,W. Elliott,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+856,2,1,3,CA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+876,2,1,3,CA,915,D. Gaffen,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+943,2,1,3,CA,1075,Wilfreid Haeberli,136,ETH Zurich,Switzerland,34,Versuchsanstalt fur Wasserbau Institut
+996,2,1,3,CA,1208,Martin Hoelzle,136,ETH Zurich,Switzerland,34,Versuchsanstalt fur Wasserbau Institut
+1007,2,1,3,CA,1219,Greg Holland,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1016,2,1,3,CA,1237,L. Hopkins,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1030,2,1,3,CA,1273,Mike Hulme,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+1122,2,1,3,CA,1531,R. Knight,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+1150,2,1,3,CA,1587,G. Kukla,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+1197,2,1,3,CA,1709,Sydney Levitus,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+1255,2,1,3,CA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+1401,2,1,3,CA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
+1407,2,1,3,CA,2186,G. Ohring,188,National Oceanographic and Atmospheric Administration (NOAA),USA,116,Satellite Data and Information Service
+1503,2,1,3,CA,2411,F. Quinn,188,National Oceanographic and Atmospheric Administration (NOAA),USA,121,Great Lakes Environmental Research Lab
+1568,2,1,3,CA,2548,C.F. Ropelewski,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
+1704,2,1,3,CA,2842,R.W. Spencer,124,National Aeronautics and Space Administration (NASA),USA,8,Marshall Space Flight Center
+1514,2,1,4,LA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+639,2,1,4,CA,310,Olivier Boucher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+763,2,1,4,CA,646,A. Del Genio,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+959,2,1,4,CA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+1294,2,1,4,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+1513,2,1,4,CA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+1547,2,1,4,CA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+1825,2,1,4,CA,3182,Andrew J. Weaver,277,University of Victoria,Canada,179,School of Earth and Ocean Sciences
+625,2,1,5,LA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+857,2,1,5,LA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+1269,2,1,5,LA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1826,2,1,5,LA,3182,Andrew J. Weaver,277,University of Victoria,Canada,179,School of Earth and Ocean Sciences
+1876,2,1,5,LA,3341,Q.-C. Zeng,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+848,2,1,5,CA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+864,2,1,5,CA,878,C. Fredericksen,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+960,2,1,5,CA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+1173,2,1,5,CA,1647,Ngar-Cheung Lau,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+1276,2,1,5,CA,1903,N. Mcfarlane,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+1295,2,1,5,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+1482,2,1,5,CA,2361,J. Polcher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+1487,2,1,5,CA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1515,2,1,5,CA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+1683,2,1,5,CA,2798,I. Smith,1160,International Energy Agency,United Kingdom,282,Coal Research
+1728,2,1,5,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+1878,2,1,5,CA,3346,R. Zhang,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+1888,2,1,5,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+1296,2,1,6,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+1327,2,1,6,LA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+1729,2,1,6,LA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+1827,2,1,6,LA,3182,Andrew J. Weaver,277,University of Victoria,Canada,179,School of Earth and Ocean Sciences
+1848,2,1,6,LA,3223,Tom M.L. Wigley,1103,University Corporation for Atmospheric Research (UCAR),USA,279,Office for Interdisciplinary Earth Studies
+608,2,1,6,CA,231,Martin Beniston,136,ETH Zurich,Switzerland,169,Institute of Geography
+626,2,1,6,CA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+726,2,1,6,CA,549,Robert Colman,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+734,2,1,6,CA,573,Peter M. Cox,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+849,2,1,6,CA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+871,2,1,6,CA,899,Congbin Fu,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+906,2,1,6,CA,1000,H. Gordon,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+921,2,1,6,CA,1024,Jonathan M. Gregory,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+987,2,1,6,CA,1178,Kevin Hennessy,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+1008,2,1,6,CA,1219,Greg Holland,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1086,2,1,6,CA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+1123,2,1,6,CA,1534,Thomas Knutson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+1169,2,1,6,CA,1636,René Laprise,714,University of Quebec at Montreal,Canada,259,Departement des Sciences de la Terra et de l'Atmosphere
+1270,2,1,6,CA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1277,2,1,6,CA,1906,J.L. McGregor,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+1353,2,1,6,CA,2070,James M. Murphy,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+1516,2,1,6,CA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+1518,2,1,6,CA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+1549,2,1,6,CA,2511,J. Roads,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+1579,2,1,6,CA,2574,Gary L. Russell,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+1842,2,1,6,CA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+1889,2,1,6,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+1402,2,1,7,LA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
+544,2,1,7,CA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
+618,2,1,7,CA,264,R. Bindschadler,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+850,2,1,7,CA,850,N. Flemming,1225,Institute of Oceanographic Sciences,United Kingdom,283,Deacon Labotatory
+922,2,1,7,CA,1024,Jonathan M. Gregory,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+944,2,1,7,CA,1075,Wilfreid Haeberli,136,ETH Zurich,Switzerland,34,Versuchsanstalt fur Wasserbau Institut
+1519,2,1,7,CA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+1849,2,1,7,CA,3223,Tom M.L. Wigley,1103,University Corporation for Atmospheric Research (UCAR),USA,279,Office for Interdisciplinary Earth Studies
+564,2,1,8,LA,110,Assaf Anyamba,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+595,2,1,8,LA,190,T.P. Barnett,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+1850,2,1,8,LA,3223,Tom M.L. Wigley,1103,University Corporation for Atmospheric Research (UCAR),USA,279,Office for Interdisciplinary Earth Studies
+728,2,1,8,CA,556,Edward Cook,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+764,2,1,8,CA,649,Thomas L. Delworth,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+912,2,1,8,CA,1011,N. Graham,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+923,2,1,8,CA,1024,Jonathan M. Gregory,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+961,2,1,8,CA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+1087,2,1,8,CA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+1103,2,1,8,CA,1482,Haroon Kheshgi,380,Exxon Mobil Corporation,USA,210,Research and Engineering Company
+1297,2,1,8,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+1328,2,1,8,CA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+1354,2,1,8,CA,2070,James M. Murphy,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+1372,2,1,8,CA,2123,Neville Nicholls,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1488,2,1,8,CA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+1890,2,1,8,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+725,2,1,9,CA,543,G. Collatz,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+1424,2,1,9,CA,2228,Jonathan Overpeck,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+1548,2,1,9,CA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+1001,2,1,10,LA,1212,E. Hofmann,1228,Old Dominion University,USA,284,Crittenton Hall
+1271,2,1,11,CLA,1893,Gordon McBean,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+541,2,1,TS,LA,55,D.L. Albritton,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+1272,2,1,TS,LA,1893,Gordon McBean,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+1373,2,1,TS,LA,2123,Neville Nicholls,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+777,2,2,A,CA,678,H.F. Diaz,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+778,2,2,2,LA,678,H.F. Diaz,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+1626,2,2,2,CA,2691,Carlos Scoppa,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina,213,Centro de Investigacion de Recursos Naturales
+609,2,2,5,CLA,231,Martin Beniston,136,ETH Zurich,Switzerland,169,Institute of Geography
+1330,2,2,5,CA,2009,Ulf Molau,177,University of Gothenburg,Sweden,82,Department of Systematic Botany
+945,2,2,7,LA,1075,Wilfreid Haeberli,136,ETH Zurich,Switzerland,34,Versuchsanstalt fur Wasserbau Institut
+1499,2,2,7,LA,2397,Terry D. Prowse,164,Environment Canada,Canada,55,National Water Research Institute
+655,2,2,7,CA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+825,2,2,8,LA,800,John Everett,188,National Oceanographic and Atmospheric Administration (NOAA),USA,120,National Marine Fisheries Service
+1315,2,2,8,LA,1972,Edward L. Miles,132,University of Washington,USA,26,College of Ocean and Fisheries Sciences
+1393,2,2,9,LA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+605,2,2,10,CLA,211,Bryson C. Bates,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
+703,2,2,10,CA,492,C. Chen,185,Columbia University,USA,96,Consortium for International Earth Science Information Network
+973,2,2,10,CA,1153,R. Hecky,676,Fisheries and Oceans Canada,Canada,248,Freshwater Institute
+1335,2,2,11,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
+789,2,2,12,LA,711,B.C. Douglas,188,National Oceanographic and Atmospheric Administration (NOAA),USA,107,National Oceanographic Data Center
+1570,2,2,13,LA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+826,2,2,16,CLA,800,John Everett,188,National Oceanographic and Atmospheric Administration (NOAA),USA,120,National Marine Fisheries Service
+685,2,2,18,LA,439,Rodolfo Carcavallo,170,Universidad de Buenos Aires,Argentina,73,Centro de Investigaciones Biometeorologicas
+749,2,2,18,CA,599,Susana I. Curto De Casas,170,Universidad de Buenos Aires,Argentina,73,Centro de Investigaciones Biometeorologicas
+1721,2,2,19,LA,2873,G. Stevens,331,Organization for Economic Cooperation and Development (OECD),France,199,Nuclear Energy Agency (NEA)
+1336,2,2,20,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
+1343,2,2,25,LA,2044,Richard H. Moss,414,University of Maryland,USA,215,Joint Global Change Research Institute
+1509,2,2,25,LA,2426,P.S. Ramakrishnan,762,Jawaharlal Nehru University,India,264,School of Environmental Sciences
+962,2,2,26,CLA,1108,Hideo Harasawa,129,National Institute for Environmental Studies,Japan,15,Social and Environmental Systems Division
+606,2,2,TS,LA,211,Bryson C. Bates,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
+610,2,2,TS,LA,231,Martin Beniston,136,ETH Zurich,Switzerland,169,Institute of Geography
+686,2,2,TS,LA,439,Rodolfo Carcavallo,170,Universidad de Buenos Aires,Argentina,73,Centro de Investigaciones Biometeorologicas
+779,2,2,TS,LA,678,H.F. Diaz,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+827,2,2,TS,LA,800,John Everett,188,National Oceanographic and Atmospheric Administration (NOAA),USA,120,National Marine Fisheries Service
+1316,2,2,TS,LA,1972,Edward L. Miles,132,University of Washington,USA,26,College of Ocean and Fisheries Sciences
+1337,2,2,TS,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
+1344,2,2,TS,LA,2044,Richard H. Moss,414,University of Maryland,USA,215,Joint Global Change Research Institute
+1394,2,2,TS,LA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+1510,2,2,TS,LA,2426,P.S. Ramakrishnan,762,Jawaharlal Nehru University,India,264,School of Environmental Sciences
+515,2,3,2,CA,2904,C.E. Suarez,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
+520,2,3,5,LA,1,A. Aaheim,424,University of Oslo,Norway,221,Centre for International Climate and Environmental Research-Oslo (CICERO)
+1452,2,3,8,LA,2289,S.A. Pegov,263,Russian Federation Academy of Sciences,Russian Federation,172,Institute for Systems Studie
+1453,2,3,9,LA,2289,S.A. Pegov,263,Russian Federation Academy of Sciences,Russian Federation,172,Institute for Systems Studie
+1444,2,3,10,LA,2267,Edward Parson,215,Harvard University,USA,137,J.F. Kennedy School of Government
+3209,3,1,2,CLA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2956,3,1,2,CLA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2965,3,1,2,LA,1392,Jean Jouzel,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+2631,3,1,2,LA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
+2203,3,1,2,LA,3153,M. Wang,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+3516,3,1,2,CA,66,Richard Allan,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3512,3,1,2,CA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
+3501,3,1,2,CA,122,Phillip A. Arkin,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+3461,3,1,2,CA,212,J.J. Bates,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+3412,3,1,2,CA,343,Keith R. Briffa,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+3408,3,1,2,CA,356,H. Brooks,188,National Oceanographic and Atmospheric Administration (NOAA),USA,115,National Severe Storms Laboratory
+3404,3,1,2,CA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+3382,3,1,2,CA,433,M.A. Cane,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+3330,3,1,2,CA,556,Edward Cook,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+3315,3,1,2,CA,589,M. Crowe,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3257,3,1,2,CA,744,Jean-Claude Duplessy,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3243,3,1,2,CA,792,R.E. Eskridge,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3241,3,1,2,CA,795,David Etheridge,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3198,3,1,2,CA,888,P. Frich,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3186,3,1,2,CA,915,D. Gaffen,188,National Oceanographic and Atmospheric Administration (NOAA),USA,106,Air Resources Laboratory
+3185,3,1,2,CA,919,K. Gallo,188,National Oceanographic and Atmospheric Administration (NOAA),USA,116,Satellite Data and Information Service
+3121,3,1,2,CA,1063,G. Gutman,188,National Oceanographic and Atmospheric Administration (NOAA),USA,116,Satellite Data and Information Service
+3100,3,1,2,CA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+3070,3,1,2,CA,1178,Kevin Hennessy,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3064,3,1,2,CA,1214,W. Hogg,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+2973,3,1,2,CA,1385,Roger N. Jones,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2913,3,1,2,CA,1531,R. Knight,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2870,3,1,2,CA,1630,Chris Landsea,188,National Oceanographic and Atmospheric Administration (NOAA),USA,119,Hurricane Research Division
+2862,3,1,2,CA,1654,Jay Lawrimore,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2831,3,1,2,CA,1749,R. Livezey,188,National Oceanographic and Atmospheric Administration (NOAA),USA,117,National Weather Service
+2820,3,1,2,CA,1797,I. Macadam,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2789,3,1,2,CA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+2659,3,1,2,CA,2117,Mark New,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+2646,3,1,2,CA,2144,Joel Norris,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2619,3,1,2,CA,2228,Jonathan Overpeck,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2618,3,1,2,CA,2229,T. Owen,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2615,3,1,2,CA,2241,Didier Paillard,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+2605,3,1,2,CA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2603,3,1,2,CA,2263,C.L. Parkinson,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+2576,3,1,2,CA,2313,Thomas Peterson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2517,3,1,2,CA,2410,R. Quayle,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2494,3,1,2,CA,2445,S. Rasner,694,Deutscher Wetterdienst,Germany,251,Department Climate and Environment
+2491,3,1,2,CA,2459,Peter J. Rayner,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2483,3,1,2,CA,2483,R.W. Reynolds,188,National Oceanographic and Atmospheric Administration (NOAA),USA,118,National Centers for Environmental Prediction
+2473,3,1,2,CA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+2441,3,1,2,CA,2557,R. Ross,188,National Oceanographic and Atmospheric Administration (NOAA),USA,106,Air Resources Laboratory
+2440,3,1,2,CA,2560,David Rothrock,132,University of Washington,USA,22,Applied Physics Laboratory
+2436,3,1,2,CA,2574,Gary L. Russell,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+2271,3,1,2,CA,2987,A.M. Thompson,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+2220,3,1,2,CA,3124,U. von Grafenstein,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+2206,3,1,2,CA,3142,K. Walsh,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+1894,3,1,2,CA,3288,P. Xie,188,National Oceanographic and Atmospheric Administration (NOAA),USA,118,National Centers for Environmental Prediction
+3135,3,1,2,CA,1035,Pavel Ya Groisman,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2122,3,1,2,CA,3344,Panmao Zhai,187,China Meteorological Administration,China,98,National Climate Center
+2999,3,1,3,LA,1335,V.J. Jaramillo,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,154,Instituto de Ecologia
+2926,3,1,3,LA,1482,Haroon Kheshgi,380,Exxon Mobil Corporation,USA,210,Research and Engineering Company
+2395,3,1,3,LA,2674,Robert (Bob) J. Scholes,454,Council for Scientific and Industrial Research (CSIR),South Africa,228,"Division of Water, Environment and Forest Technology"
+3492,3,1,3,CA,153,O. Aumont,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3425,3,1,3,CA,304,Laurent Bopp,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3418,3,1,3,CA,314,Philippe Bousquet,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3351,3,1,3,CA,512,Philippe Ciais,1018,CEA,France,277,LMCE/DSM
+3326,3,1,3,CA,573,Peter M. Cox,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3290,3,1,3,CA,659,Frank Dentener,679,European Commission Joint Research Centre,Italy,249,Environment Institute
+3244,3,1,3,CA,788,Ian G. Enting,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3196,3,1,3,CA,892,Pierre Friedlingstein,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+2937,3,1,3,CA,1452,C. David Keeling,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+2936,3,1,3,CA,1453,Ralph Keeling,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+2773,3,1,3,CA,1872,R.J. Matear,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2621,3,1,3,CA,2219,James Orr,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+2564,3,1,3,CA,2344,Stephen Piper,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+2281,3,1,3,CA,2956,Pieter Tans,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+3291,3,1,4,LA,659,Frank Dentener,679,European Commission Joint Research Centre,Italy,249,Environment Institute
+3288,3,1,4,LA,663,R.G. Derwent,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3272,3,1,4,LA,698,E. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+3337,3,1,4,CA,546,Matthew Collins,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3307,3,1,4,CA,608,J.S. Daniel,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+3294,3,1,4,CA,653,W.B. DeMore,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+3289,3,1,4,CA,662,N. Derek,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3242,3,1,4,CA,795,David Etheridge,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3197,3,1,4,CA,890,R. Friedl,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+3140,3,1,4,CA,1027,L. Grenfell,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+3014,3,1,4,CA,1314,C. Jackman,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+3013,3,1,4,CA,1315,Daniel Jacob,215,Harvard University,USA,135,Department of Earth and Planetary Sciences
+2697,3,1,4,CA,2020,Steve Montzka,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+2327,3,1,4,CA,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+2315,3,1,4,CA,2863,P. Steele,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3473,3,1,5,LA,199,L. Barrie,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+2858,3,1,5,LA,1665,R. Leaitch,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+2672,3,1,5,LA,2071,D. Murphy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+3433,3,1,5,CA,285,R. Boers,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3362,3,1,5,CA,499,M. Chin,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+3338,3,1,5,CA,546,Matthew Collins,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3329,3,1,5,CA,557,W. Cooke,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3168,3,1,5,CA,971,P. Ginoux,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+3154,3,1,5,CA,994,Sunling Gong,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+2942,3,1,5,CA,1444,Y. Kaufman,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+2906,3,1,5,CA,1538,Dorothy Koch,166,National Center for Atmospheric Research (NCAR),USA,62,Goddard Laboratory of the Atmosphere
+2706,3,1,5,CA,1999,M. Mishchenko,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+2468,3,1,5,CA,2512,D.L. Roberts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2510,3,1,6,CLA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3080,3,1,6,LA,1147,James M. Haywood,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2365,3,1,6,LA,2747,G.Y. Shi,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+2328,3,1,6,LA,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+3446,3,1,6,CA,252,Richard A. Betts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3308,3,1,6,CA,608,J.S. Daniel,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+3297,3,1,6,CA,646,A. Del Genio,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+2976,3,1,6,CA,1384,Richard Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2907,3,1,6,CA,1538,Dorothy Koch,166,National Center for Atmospheric Research (NCAR),USA,62,Goddard Laboratory of the Atmosphere
+2469,3,1,6,CA,2512,D.L. Roberts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2390,3,1,6,CA,2688,Dan Schwartzkopf,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2859,3,1,7,LA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+2383,3,1,7,LA,2704,P.J. Sellers,124,National Aeronautics and Space Administration (NASA),USA,7,Johnson Space Centre
+3513,3,1,7,CA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
+3462,3,1,7,CA,212,J.J. Bates,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+3443,3,1,7,CA,264,R. Bindschadler,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+3426,3,1,7,CA,300,Sandrine Bony,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+3383,3,1,7,CA,433,M.A. Cane,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+3295,3,1,7,CA,649,Thomas L. Delworth,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3212,3,1,7,CA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3074,3,1,7,CA,1168,Isaac Held,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3047,3,1,7,CA,1247,F. Hourdin,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+2889,3,1,7,CA,1603,Y. Kushnir,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+2740,3,1,7,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+2604,3,1,7,CA,2263,C.L. Parkinson,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+2546,3,1,7,CA,2361,J. Polcher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+2511,3,1,7,CA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2324,3,1,7,CA,2842,R.W. Spencer,124,National Aeronautics and Space Administration (NASA),USA,8,Marshall Space Flight Center
+2221,3,1,7,CA,3115,M. Visbeck,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+2170,3,1,7,CA,3224,S.E. Wijffels,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2764,3,1,8,CLA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+2966,3,1,8,LA,1391,Sylvie Joussaume,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+2918,3,1,8,LA,1518,Akio Kitoh,225,Meteorological Research Institute,Japan,142,First Research Laboratory Climate ResearchDepartment
+2190,3,1,8,LA,3182,Andrew J. Weaver,277,University of Victoria,Canada,179,School of Earth and Ocean Sciences
+2152,3,1,8,LA,3262,Richard A. Wood,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2114,3,1,8,LA,3364,Zong-Ci Zhao,187,China Meteorological Administration,China,97,National Climate Centre
+2303,3,1,8,RE,2883,John M.R. Stone,164,Environment Canada,Canada,58,Policy Program and International Affairs Directorate
+3500,3,1,8,CA,123,A. Arking,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+3475,3,1,8,CA,195,A. Barnston,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
+3447,3,1,8,CA,252,Richard A. Betts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3434,3,1,8,CA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3416,3,1,8,CA,323,Pascale Braconnot,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3409,3,1,8,CA,350,Anthony J. Broccoli,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3335,3,1,8,CA,549,Robert Colman,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+3298,3,1,8,CA,646,A. Del Genio,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+3296,3,1,8,CA,647,Pascale Delecluse,167,Institut Pierre Simon Laplace (IPSL),France,187,Laboratoire d'Oceanographie Dynamique et Climatologie
+3273,3,1,8,CA,696,Keith W. Dixon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3230,3,1,8,CA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+3213,3,1,8,CA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3187,3,1,8,CA,912,John Fyfe,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3179,3,1,8,CA,943,N. Gedney,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3127,3,1,8,CA,1050,Eric Guilyardi,167,Institut Pierre Simon Laplace (IPSL),France,187,Laboratoire d'Oceanographie Dynamique et Climatologie
+3060,3,1,8,CA,1219,Greg Holland,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+2974,3,1,8,CA,1385,Roger N. Jones,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2963,3,1,8,CA,1405,Masa Kageyama,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+2818,3,1,8,CA,1805,G. Madec,167,Institut Pierre Simon Laplace (IPSL),France,187,Laboratoire d'Oceanographie Dynamique et Climatologie
+2741,3,1,8,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+2547,3,1,8,CA,2361,J. Polcher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+2541,3,1,8,CA,2371,V. Pope,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2458,3,1,8,CA,2536,G. Roff,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+2384,3,1,8,CA,2704,P.J. Sellers,124,National Aeronautics and Space Administration (NASA),USA,7,Johnson Space Centre
+2313,3,1,8,CA,2868,D.J. Stensrud,188,National Oceanographic and Atmospheric Administration (NOAA),USA,115,National Severe Storms Laboratory
+2296,3,1,8,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2207,3,1,8,CA,3142,K. Walsh,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2105,3,1,8,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+2742,3,1,9,CLA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+3435,3,1,9,LA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3275,3,1,9,LA,695,Martin Dix,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2499,3,1,9,LA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+2374,3,1,9,LA,2711,Catherine A. Senior,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2297,3,1,9,LA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2304,3,1,9,RE,2883,John M.R. Stone,164,Environment Canada,Canada,58,Policy Program and International Affairs Directorate
+3336,3,1,9,CA,548,Williams J. Collins,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3214,3,1,9,CA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3188,3,1,9,CA,912,John Fyfe,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+2909,3,1,9,CA,1534,Thomas Knutson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2871,3,1,9,CA,1630,Chris Landsea,188,National Oceanographic and Atmospheric Administration (NOAA),USA,119,Hurricane Research Division
+2703,3,1,9,CA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2191,3,1,9,CA,3182,Andrew J. Weaver,277,University of Victoria,Canada,179,School of Earth and Ocean Sciences
+2179,3,1,9,CA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2155,3,1,9,CA,3250,M. Winton,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2106,3,1,9,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3195,3,1,10,LA,899,Congbin Fu,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+2979,3,1,10,LA,1375,Andy Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2180,3,1,10,LA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3463,3,1,10,CA,211,Bryson C. Bates,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
+3436,3,1,10,CA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3189,3,1,10,CA,912,John Fyfe,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3088,3,1,10,CA,1129,D.C. Hassell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2872,3,1,10,CA,1630,Chris Landsea,188,National Oceanographic and Atmospheric Administration (NOAA),USA,119,Hurricane Research Division
+2867,3,1,10,CA,1636,René Laprise,714,University of Quebec at Montreal,Canada,259,Departement des Sciences de la Terra et de l'Atmosphere
+2758,3,1,10,CA,1906,J.L. McGregor,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2671,3,1,10,CA,2070,James M. Murphy,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3352,3,1,11,CLA,510,John A. Church,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3027,3,1,11,LA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,134,Departement Geografie
+3274,3,1,11,CA,696,Keith W. Dixon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3215,3,1,11,CA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+2910,3,1,11,CA,1534,Thomas Knutson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2823,3,1,11,CA,1776,Jason A. Lowe,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2634,3,1,11,CA,2161,S.P. O'Farrell,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2500,3,1,11,CA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+2298,3,1,11,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2108,3,1,11,CA,3384,H.J. Zwally,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+2704,3,1,12,CLA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2790,3,1,12,LA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+2107,3,1,12,LA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3472,3,1,12,CA,201,Vicente Ricardo Barros,170,Universidad de Buenos Aires,Argentina,74,"Centro de Investigaciones del Mar y de la Atmosfera (CIMA),Universidad de Buenos Aires (UBA"
+3437,3,1,12,CA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3210,3,1,12,CA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3200,3,1,12,CA,879,Melissa Free,188,National Oceanographic and Atmospheric Administration (NOAA),USA,106,Air Resources Laboratory
+2975,3,1,12,CA,1385,Roger N. Jones,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2930,3,1,12,CA,1479,Viatcheslar Kharin,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+2927,3,1,12,CA,1482,Haroon Kheshgi,380,Exxon Mobil Corporation,USA,210,Research and Engineering Company
+2911,3,1,12,CA,1534,Thomas Knutson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2371,3,1,12,CA,2717,David Sexton,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2301,3,1,12,CA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2273,3,1,12,CA,2977,Simon Tett,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3136,3,1,12,CA,1035,Pavel Ya Groisman,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2181,3,1,13,LA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2980,3,1,13,CA,1375,Andy Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2244,3,1,14,LA,3052,A. Underdal,424,University of Oslo,Norway,219,Centre for Advanced Study
+2299,3,1,14,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3521,3,1,TS,CLA,55,D.L. Albritton,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+3138,3,1,TS,LA,1031,David J. Griggs,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2957,3,1,TS,LA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+2705,3,1,TS,LA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2305,3,1,TS,RE,2883,John M.R. Stone,164,Environment Canada,Canada,58,Policy Program and International Affairs Directorate
+3353,3,1,TS,CA,510,John A. Church,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3211,3,1,TS,CA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3081,3,1,TS,CA,1147,James M. Haywood,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3000,3,1,TS,CA,1335,V.J. Jaramillo,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,154,Instituto de Ecologia
+2967,3,1,TS,CA,1391,Sylvie Joussaume,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+2928,3,1,TS,CA,1482,Haroon Kheshgi,380,Exxon Mobil Corporation,USA,210,Research and Engineering Company
+2765,3,1,TS,CA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+2743,3,1,TS,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+2512,3,1,TS,CA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2501,3,1,TS,CA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+2396,3,1,TS,CA,2674,Robert (Bob) J. Scholes,454,Council for Scientific and Industrial Research (CSIR),South Africa,228,"Division of Water, Environment and Forest Technology"
+2329,3,1,TS,CA,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+2300,3,1,TS,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+2212,3,2,1,RE,3136,Brian H. Walker,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,79,CSIRO Division of Wildlife and Ecology
+2981,3,2,1,CA,1375,Andy Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2236,3,2,1,CA,3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+3262,3,2,2,LA,719,Thomas E. Downing,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+2982,3,2,2,CA,1375,Andy Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2983,3,2,3,LA,1375,Andy Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2553,3,2,3,LA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,78,CSIRO Climate Impact Group
+3333,3,2,4,LA,551,Rosa Hilda Compagnucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
+3405,3,2,5,CLA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+3254,3,2,5,CLA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3503,3,2,5,LA,114,Michael J. Apps,790,Natural Resources Canada,Canada,266,Northern Forest Centre
+2523,3,2,5,LA,2397,Terry D. Prowse,164,Environment Canada,Canada,55,National Water Research Institute
+3283,3,2,5,RE,680,Sandra Myrna Diaz,793,Universidad Nacional de Córdoba,Argentina,267,Instituto Multidisciplinario de Biologia Vegetal (IMBIV)
+3224,3,2,5,RE,838,Andreas Fischlin,136,ETH Zurich,Switzerland,33,Terrestrial Systems Ecology Group
+3227,3,2,5,CA,832,Max Finlayson,1106,Environment Australia,Australia,280,Environmental Research Institute of the Supervising Scientist (ERISS)
+3201,3,2,5,CA,876,Paul Fraser,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2230,3,2,8,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+3417,3,2,8,LA,315,Laurens Bouwer,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+3380,3,2,9,LA,439,Rodolfo Carcavallo,1095,Instituto Oswaldo Cruz,Argentina,278,Departamento de Entomologia
+3263,3,2,10,LA,719,Thomas E. Downing,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+2397,3,2,10,LA,2674,Robert (Bob) J. Scholes,454,Council for Scientific and Industrial Research (CSIR),South Africa,228,"Division of Water, Environment and Forest Technology"
+3095,3,2,11,CLA,1108,Hideo Harasawa,129,National Institute for Environmental Studies,Japan,15,Social and Environmental Systems Division
+2707,3,2,11,CA,1998,M. Monirul Qader Mirza,313,University of Toronto,Canada,190,Institute for Environmental Studies
+2513,3,2,11,CA,2426,P.S. Ramakrishnan,762,Jawaharlal Nehru University,India,264,School of Environmental Sciences
+2554,3,2,12,CLA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,78,CSIRO Climate Impact Group
+3464,3,2,12,LA,211,Bryson C. Bates,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
+3228,3,2,12,LA,832,Max Finlayson,1106,Environment Australia,Australia,280,Environmental Research Institute of the Supervising Scientist (ERISS)
+2977,3,2,12,CA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+2824,3,2,13,CA,1776,Jason A. Lowe,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3334,3,2,14,LA,551,Rosa Hilda Compagnucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
+2791,3,2,14,LA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+2330,3,2,14,LA,2823,Silvina Solman,170,Universidad de Buenos Aires,Argentina,70,Centro de Investigaciones del Mar y de la Atmosfera (CIMA)
+2650,3,2,14,RE,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+2811,3,2,14,CA,1812,Victor Magana,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+3341,3,2,15,CLA,539,Stewart J. Cohen,326,University of British Columbia,Canada,195,"Environmental Adaptation Research Group,"
+2812,3,2,15,LA,1812,Victor Magana,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+2522,3,2,15,CA,2401,Roger Pulwarty,188,National Oceanographic and Atmospheric Administration (NOAA),USA,105,Climate Diagnostics Center
+2524,3,2,16,LA,2397,Terry D. Prowse,164,Environment Canada,Canada,55,National Water Research Institute
+2640,3,2,17,CLA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+3264,3,2,18,CA,719,Thomas E. Downing,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+2342,3,2,18,CA,2802,Doug M. Smith,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2708,3,2,19,CLA,1998,M. Monirul Qader Mirza,313,University of Toronto,Canada,190,Institute for Environmental Studies
+2343,3,2,19,CLA,2802,Doug M. Smith,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2555,3,2,19,LA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,78,CSIRO Climate Impact Group
+2442,3,2,19,LA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+2183,3,2,19,LA,3205,John P. Weyant,338,Stanford University,USA,202,Energy Modeling Forum
+3406,3,2,TS,LA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+3342,3,2,TS,LA,539,Stewart J. Cohen,326,University of British Columbia,Canada,195,"Environmental Adaptation Research Group,"
+3255,3,2,TS,LA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3096,3,2,TS,LA,1108,Hideo Harasawa,129,National Institute for Environmental Studies,Japan,15,Social and Environmental Systems Division
+2709,3,2,TS,LA,1998,M. Monirul Qader Mirza,313,University of Toronto,Canada,190,Institute for Environmental Studies
+2641,3,2,TS,LA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+2556,3,2,TS,LA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,78,CSIRO Climate Impact Group
+2443,3,2,TS,LA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+2344,3,2,TS,LA,2802,Doug M. Smith,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2231,3,2,TS,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+2177,3,2,TS,LA,3214,W. White,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+2651,3,2,TS,RE,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+3407,3,2,SPM,LA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+3343,3,2,SPM,LA,539,Stewart J. Cohen,326,University of British Columbia,Canada,195,"Environmental Adaptation Research Group,"
+3256,3,2,SPM,LA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3097,3,2,SPM,LA,1108,Hideo Harasawa,129,National Institute for Environmental Studies,Japan,15,Social and Environmental Systems Division
+2978,3,2,SPM,LA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+2710,3,2,SPM,LA,1998,M. Monirul Qader Mirza,313,University of Toronto,Canada,190,Institute for Environmental Studies
+2642,3,2,SPM,LA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+2557,3,2,SPM,LA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,78,CSIRO Climate Impact Group
+2444,3,2,SPM,LA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+2398,3,2,SPM,LA,2674,Robert (Bob) J. Scholes,454,Council for Scientific and Industrial Research (CSIR),South Africa,228,"Division of Water, Environment and Forest Technology"
+2345,3,2,SPM,LA,2802,Doug M. Smith,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2237,3,2,SPM,LA,3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+2232,3,2,SPM,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+2184,3,3,1,CLA,3205,John P. Weyant,338,Stanford University,USA,202,Energy Modeling Forum
+2666,3,3,1,LA,2092,Adil Najam,242,Boston University,USA,156,Center for Energy and Environmental Studies
+2492,3,3,1,LA,2458,N. Rayner,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2623,3,3,1,RE,2215,Hans Opschoor,302,"Vrije Universiteit,Amsterdam",The Netherlands,185,Insititute of Social Studies
+3265,3,3,1,CA,719,Thomas E. Downing,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+3519,3,3,2,CA,59,Lisa Alexander,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2694,3,3,3,CLA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
+3146,3,3,3,LA,1024,Jonathan M. Gregory,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3019,3,3,3,RE,1305,Hisashi Ishitani,148,University of Tokyo,Japan,41,Graduate School of Engineering
+3538,3,3,3,CA,18,A. Ackerman,124,National Aeronautics and Space Administration (NASA),USA,6,Ames Research Center
+3493,3,3,3,CA,150,H. Audus,1160,International Energy Agency,United Kingdom,281,Greenhouse Gas R&D Programme
+3366,3,3,3,CA,476,Li Changsheng,382,University New Hampshire,USA,211,Complex Systems Research Center
+3304,3,3,3,CA,623,J. Davison,1160,International Energy Agency,United Kingdom,281,Greenhouse Gas R&D Programme
+3199,3,3,3,CA,886,P. Freund,1160,International Energy Agency,United Kingdom,281,Greenhouse Gas R&D Programme
+3504,3,3,4,LA,114,Michael J. Apps,790,Natural Resources Canada,Canada,266,Northern Forest Centre
+2898,3,3,4,LA,1575,Olga N. Krankina,180,Oregon State University,USA,85,Department of Forest Science
+2782,3,3,4,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,154,Instituto de Ecologia
+2929,3,3,4,CA,1482,Haroon Kheshgi,380,Exxon Mobil Corporation,USA,210,Research and Engineering Company
+3419,3,3,5,CLA,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
+2229,3,3,5,LA,3095,Aviel Verbruggen,649,University of Antwerp,Belgium,240,UFSIA
+2932,3,3,6,CA,1466,Nathaniel Keohane,215,Harvard University,USA,137,J.F. Kennedy School of Government
+3216,3,3,10,LA,845,Brian Flannery,380,Exxon Mobil Corporation,USA,210,Research and Engineering Company
+3180,3,3,10,LA,941,Carlos Gay Garcia,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+2185,3,3,10,LA,3205,John P. Weyant,338,Stanford University,USA,202,Energy Modeling Forum
+2245,3,3,10,CA,3052,A. Underdal,424,University of Oslo,Norway,219,Centre for Advanced Study
+3021,3,3,TS,LA,1305,Hisashi Ishitani,148,University of Tokyo,Japan,41,Graduate School of Engineering
+2899,3,3,TS,LA,1575,Olga N. Krankina,180,Oregon State University,USA,85,Department of Forest Science
+2696,3,3,TS,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
+3420,3,3,SPM,LA,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
+3147,3,3,SPM,LA,1024,Jonathan M. Gregory,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3020,3,3,SPM,LA,1305,Hisashi Ishitani,148,University of Tokyo,Japan,41,Graduate School of Engineering
+2695,3,3,SPM,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
+4393,4,1,1,CLA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+5032,4,1,1,CLA,2830,Richard Somerville,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+3851,4,1,1,LA,593,Ulrich Cubasch,183,Freie Universität Berlin,Germany,89,Institut fur Meteorologie
+3890,4,1,1,LA,692,Yihui Ding,187,China Meteorological Administration,China,97,National Climate Centre
+4752,4,1,1,LA,2313,Thomas Peterson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+4781,4,1,1,LA,2383,Michael Prather,251,University of California Irvine,USA,163,Earth System ScienceDepartment
+4069,4,1,1,RE,1031,David J. Griggs,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3588,4,1,1,CA,67,Myles R. Allen,153,University of Oxford,United Kingdom,44,Climate Dynamics Group / Atmospheric Oceanic and Planetary Physics /Department of Physics /
+4137,4,1,1,CA,1156,Gabriele C. Hegerl,652,Duke University,USA,241,Nicholas School for the Environment and Earth Sciences
+4455,4,1,1,CA,1788,Jug Luterbacher,126,University of Bern,Switzerland,13,Institute of Geography Climatology and Meteorology &  National Centre of Competence in Research on Climate
+4747,4,1,1,CA,2298,Joyce E. Penner,247,University of Michigan,USA,158,Department of Atmospheric Oceanic and Space Sciences
+4923,4,1,1,CA,2611,Benjamin D. Santer,201,Lawrence Livermore National Laboratory,USA,126,Program for Climate Model Diagnosisand Intercomparison
+5045,4,1,1,CA,2859,Andrew Staniforth,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5051,4,1,1,CA,2880,Thomas F. Stocker,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+5068,4,1,1,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5102,4,1,1,CA,2965,Karl E. Taylor,201,Lawrence Livermore National Laboratory,USA,126,Program for Climate Model Diagnosisand Intercomparison
+3989,4,1,2,CLA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+4816,4,1,2,CLA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3626,4,1,2,LA,133,Paulo Artaxo,158,University of Sao Paulo,Brazil,49,Instituto de Fisica
+3673,4,1,2,LA,252,Richard A. Betts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3948,4,1,2,LA,806,David W. Fahey,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+4135,4,1,2,LA,1147,James M. Haywood,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4619,4,1,2,LA,2083,Gunnar Myhre,424,University of Oslo,Norway,218,Department of Geosciences
+4786,4,1,2,LA,2394,Ronald Prinn,320,Massachusetts Institute of Technology,USA,191,"Department of Earth,Atmospheric and Planetary Sciences"
+4802,4,1,2,LA,2417,Graciela Raga,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+4958,4,1,2,LA,2681,Michael Schulz,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4627,4,1,2,RE,2093,Teruyuki Nakajima,148,University of Tokyo,Japan,37,Center for Climate System Research
+4814,4,1,2,RE,2427,Veerabhadran Ramanathan,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+3710,4,1,2,CA,310,Olivier Boucher,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3819,4,1,2,CA,547,William D. Collins,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+3830,4,1,2,CA,555,Thomas J. Conway,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3894,4,1,2,CA,698,E. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3934,4,1,2,CA,775,James W. Elkins,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3944,4,1,2,CA,795,David Etheridge,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3998,4,1,2,CA,876,Paul Fraser,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+4243,4,1,2,CA,1386,Fortunat Joos,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4290,4,1,2,CA,1452,C. David Keeling,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4291,4,1,2,CA,1453,Ralph Keeling,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4434,4,1,2,CA,1761,Ulrike Lohmann,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+4587,4,1,2,CA,2020,Steve Montzka,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+4764,4,1,2,CA,2344,Stephen Piper,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4771,4,1,2,CA,2354,Gian-Kasper Plattner,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4777,4,1,2,CA,2370,Michael Ponater,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,122,Institut of Atmospheric Physics
+4855,4,1,2,CA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+4934,4,1,2,CA,2632,Robert Sausen,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,122,Institut of Atmospheric Physics
+4962,4,1,2,CA,2688,Dan Schwartzkopf,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5075,4,1,2,CA,2899,Nicola Stuber,204,University of Reading,United Kingdom,256,Department of Meteorology
+5095,4,1,2,CA,2945,Toshihiko Takemura,267,Kyushu University,Japan,173,Research Institute for Applied Mechanics
+5112,4,1,2,CA,2979,Christiane Textor,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5220,4,1,2,CA,3196,Ray Weiss,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+5226,4,1,2,CA,3217,Tim Whorf,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4236,4,1,3,CLA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+3917,4,1,3,LA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+4729,4,1,3,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4806,4,1,3,LA,2419,Fatemeh Rahimzadeh,253,Iranian Meteorological Organization,Iran,164,Atmospheric Science & Meteorological Research Center (ASMERC)
+4907,4,1,3,LA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
+5020,4,1,3,LA,2813,Brian Soden,135,University of Miami,USA,30,Rosentiel School for  Marine and Atmospheric Science
+5300,4,1,3,LA,3344,Panmao Zhai,187,China Meteorological Administration,China,97,National Climate Centre
+4181,4,1,3,RE,1242,Brian J. Hoskins,204,University of Reading,United Kingdom,256,Department of Meteorology
+4213,4,1,3,RE,1327,Bubu Pateh Jallow,704,Department of Water Resources,The Gambia,257,Department of Water Resources
+4277,4,1,3,RE,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3578,4,1,3,CA,59,Lisa Alexander,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3586,4,1,3,CA,66,Richard Allan,204,University of Reading,United Kingdom,129,Environmental Systems Science Centre
+3733,4,1,3,CA,353,David H. Bromwich,168,Ohio State University,USA,68,Byrd Polar Research Center
+3760,4,1,3,CA,421,Inés Camilloni,170,Universidad de Buenos Aires,Argentina,70,Centro de Investigaciones del Mar y de la Atmosfera (CIMA)
+3773,4,1,3,CA,451,Christophe Cassou,352,Centre National de la Recherche Scientifique (CNRS),France,205,Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique (CERFACS)
+3775,4,1,3,CA,457,Daniel R. Cayan,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+3898,4,1,3,CA,710,Nikolai Dotzek,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,122,Institut of Atmospheric Physics
+3979,4,1,3,CA,856,Ryan Fogt,168,Ohio State University,USA,68,Byrd Polar Research Center
+3980,4,1,3,CA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3990,4,1,3,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+4000,4,1,3,CA,879,Melissa Free,188,National Oceanographic and Atmospheric Administration (NOAA),USA,106,Air Resources Laboratory
+4043,4,1,3,CA,980,Byron Gleason,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+4252,4,1,3,CA,1388,Simon Josey,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
+4294,4,1,3,CA,1462,John Kennedy,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4388,4,1,3,CA,1654,Jay Lawrimore,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+4421,4,1,3,CA,1708,David Levinson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+4428,4,1,3,CA,1724,Beate Liepert,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+4602,4,1,3,CA,2045,Philip Mote,132,University of Washington,USA,83,Joint Institute for the Study of the Atmosphere and Oceans(JIASO)
+4629,4,1,3,CA,2095,Hisashi Nakamura,148,University of Tokyo,Japan,39,Department of Earth Planetary Science
+4662,4,1,3,CA,2144,Joel Norris,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4692,4,1,3,CA,2192,Taikan Oki,148,University of Tokyo,Japan,40,Institute of Industrial Science
+4984,4,1,3,CA,2743,J. Marshall Shepherd,738,University of Georgia,USA,261,Department of Geography
+5117,4,1,3,CA,2991,Chris Thorncroft,747,State University of New York Albany,USA,262,Department of Earth and Atmospheric Science
+5118,4,1,3,CA,2992,Peter Thorne,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5189,4,1,3,CA,3127,Russell Vose,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+5201,4,1,3,CA,3150,Bin Wang,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+5211,4,1,3,CA,3173,Richard Washington,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+5222,4,1,3,CA,3209,Matthew Wheeler,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+5230,4,1,3,CA,3222,Bruce Wielicki,124,National Aeronautics and Space Administration (NASA),USA,5,Langley Research Center
+5256,4,1,3,CA,3260,Takmeng Wong,124,National Aeronautics and Space Administration (NASA),USA,5,Langley Research Center
+5275,4,1,3,CA,3281,David Wuertz,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+4070,4,1,3,CA,1035,Pavel Ya Groisman,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+4410,4,1,4,CLA,1689,Peter Lemke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+4841,4,1,4,CLA,2475,Jiawen Ren,233,Chinese Academy of Sciences,China,146,Cold and Arid Regions Environmental and Engineering Research Institute
+3591,4,1,4,LA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
+3976,4,1,4,LA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+4009,4,1,4,LA,901,Yoshiyuki Fujii,690,National Institute of Polar Research,Japan,250,Arctic Environment Research Center
+4282,4,1,4,LA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
+4603,4,1,4,LA,2045,Philip Mote,132,University of Washington,USA,83,Joint Institute for the Study of the Atmosphere and Oceans(JIASO)
+3646,4,1,4,RE,202,Roger G. Barry,248,University of Colorado,USA,159,National Snow and Ice Data Center
+4332,4,1,4,RE,1546,Toshio Koike,148,University of Tokyo,Japan,38,Department of Civil Engineering
+3734,4,1,4,CA,353,David H. Bromwich,168,Ohio State University,USA,68,Byrd Polar Research Center
+3741,4,1,4,CA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+3812,4,1,4,CA,538,J. Graham Cogley,328,Trent University,Canada,261,Department of Geography
+3823,4,1,4,CA,550,Joey Comiso,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+3914,4,1,4,CA,752,Mark Dyurgerov,248,University of Colorado,USA,160,Institute of Arctic and Alpine Research
+3971,4,1,4,CA,844,B. Blair Fitzharris,350,University of Otago,New Zealand,261,Department of Geography
+4003,4,1,4,CA,889,Helen Fricker,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4094,4,1,4,CA,1071,Christian Haas,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+4118,4,1,4,CA,1114,Charles Harris,699,Cardiff University,United Kingdom,254,School of Earth Ocean and Planetary Science
+4170,4,1,4,CA,1208,Martin Hoelzle,246,University of Zurich,Switzerland,261,Department of Geography
+4199,4,1,4,CA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,134,Departement Geografie
+4218,4,1,4,CA,1333,Peter Jansson,701,Stockholm University,Sweden,255,Department of Physical Geography and Quaternary Geology
+4254,4,1,4,CA,1390,Ian Joughin,132,University of Washington,USA,22,Applied Physics Laboratory
+4358,4,1,4,CA,1606,Ronald Kwok,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+4389,4,1,4,CA,1655,Seymour Laxon,638,University College London,United Kingdom,237,Centre for Polar Observation and Modelling
+4431,4,1,4,CA,1745,Shiyin Liu,233,Chinese Academy of Sciences,China,146,Cold and Arid Regions Environmental and Engineering Research Institute
+4788,4,1,4,CA,2397,Terry D. Prowse,164,Environment Canada,Canada,55,National Water Research Institute
+4832,4,1,4,CA,2455,Charles Raymond,132,University of Washington,USA,24,Department of Earth and Space Sciences
+4852,4,1,4,CA,2498,Eric Rignot,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+4853,4,1,4,CA,2499,Ignatius Rigor,132,University of Washington,USA,25,"Polar Science Center, Applied Physics Laboratory"
+5028,4,1,4,CA,2824,Olga Solomina,263,Russian Federation Academy of Sciences,Russian Federation,169,Institute of Geography
+5310,4,1,4,CA,3363,Lin Zhao,233,Chinese Academy of Sciences,China,146,Cold and Arid Regions Environmental and Engineering Research Institute
+3682,4,1,5,CLA,262,Nathaniel L. Bindoff,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+4061,4,1,5,LA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+4109,4,1,5,LA,1099,Kimio Hanawa,698,Tohoku Gakuin University,Japan,253,"Physical Oceanography Laboratry,Department of Geophysics, Graduate School of Science"
+4423,4,1,5,LA,1709,Sydney Levitus,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+4994,4,1,5,LA,2760,C.K. Shum,168,Ohio State University,USA,69,Geodetic Science
+5097,4,1,5,LA,2948,Lynne D. Talley,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4361,4,1,5,RE,1608,Laurent Labeyrie,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3780,4,1,5,CA,468,Don Chambers,252,University of Texas-Austin,USA,245,Center for Space Research
+3784,4,1,5,CA,477,Ben Chao,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+3799,4,1,5,CA,510,John A. Church,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3936,4,1,5,CA,783,Steven Emerson,132,University of Washington,USA,21,School of Oceanography
+3957,4,1,5,CA,820,Richard Feely,188,National Oceanographic and Atmospheric Administration (NOAA),USA,102,Pacific Marine Environmental Laboratory
+4021,4,1,5,CA,928,Hernan Garcia,188,National Oceanographic and Atmospheric Administration (NOAA),USA,107,National Oceanographic Data Center
+4074,4,1,5,CA,1041,Nicolas Gruber,209,University of California Los Angeles,USA,130,Institute of Geophysics and Planetary Physics
+4253,4,1,5,CA,1388,Simon Josey,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
+4307,4,1,5,CA,1499,Brian King,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
+4385,4,1,5,CA,1649,Katia Laval,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+4407,4,1,5,CA,1682,Nathalie Lefevre,306,Institut de Recherche pour le Developpement (IRD),France,187,Laboratoire d'Oceanographie Dynamique et Climatologie
+4485,4,1,5,CA,1852,Robert Marsh,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
+4581,4,1,5,CA,2011,Robert Molinari,188,National Oceanographic and Atmospheric Administration (NOAA),USA,111,Atlantic Oceanographic and Meteorological Laboratory
+4746,4,1,5,CA,2295,Tsung-Hung Peng,188,National Oceanographic and Atmospheric Administration (NOAA),USA,111,Atlantic Oceanographic and Meteorological Laboratory
+4861,4,1,5,CA,2504,Stephen Rintoul,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+4911,4,1,5,CA,2582,Christopher Sabine,188,National Oceanographic and Atmospheric Administration (NOAA),USA,102,Pacific Marine Environmental Laboratory
+5036,4,1,5,CA,2835,Yuhe Song,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+5144,4,1,5,CA,3034,Michael Tsimplis,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
+5205,4,1,5,CA,3161,Rik Wanninkhof,188,National Oceanographic and Atmospheric Administration (NOAA),USA,111,Atlantic Oceanographic and Meteorological Laboratory
+5246,4,1,5,CA,3240,Josh Willis,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+5252,4,1,5,CA,3257,A.P.S. Wong,132,University of Washington,USA,21,School of Oceanography
+5288,4,1,5,CA,3313,Igor Yashayaev,676,Fisheries and Oceans Canada,Canada,247,Maritimes Region of the Department of Fisheries and Oceans
+4215,4,1,6,CLA,1331,Eystein Jansen,133,University of Bergen,Norway,28,Department of Earth Sciences and Bjerknes Centre for Climate Research
+4713,4,1,6,CLA,2228,Jonathan Overpeck,430,University of Arizona,USA,226,Institute for the Study of Planet Earth
+3726,4,1,6,LA,343,Keith R. Briffa,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+3912,4,1,6,LA,744,Jean-Claude Duplessy,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4244,4,1,6,LA,1386,Fortunat Joos,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4496,4,1,6,LA,1866,Valerie Masson-Delmotte,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4694,4,1,6,LA,2196,Daniel Olago,427,University of Nairobi,Kenya,224,Department of Geology
+4710,4,1,6,LA,2225,Bette Otto-Bliesner,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+4745,4,1,6,LA,2292,W. Richard Peltier,313,University of Toronto,Canada,246,Department of Physics
+4856,4,1,6,LA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+5029,4,1,6,LA,2824,Olga Solomina,263,Russian Federation Academy of Sciences,Russian Federation,169,Institute of Geography
+5178,4,1,6,LA,3106,Ricardo Villalba,748,"Instituto Argentino de Nivología,Glaciología y Ciencias Ambientales",Argentina,263,Departmento de Dendrocronologia e Historia Ambiental
+5301,4,1,6,LA,3348,De'er Zhang,187,China Meteorological Administration,China,97,National Climate Centre
+4255,4,1,6,RE,1392,Jean Jouzel,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4575,4,1,6,RE,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3831,4,1,6,CA,556,Edward Cook,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
+3836,4,1,6,CA,567,Elsa Cortijo,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3977,4,1,6,CA,847,Dominik Fleitmann,126,University of Bern,Switzerland,11,Institute of Geological Sciences
+5312,4,1,6,CA,1055,Zhengteng Guo,233,Chinese Academy of Sciences,China,148,Institute of Geology and Geophysics
+4262,4,1,6,CA,1405,Masa Kageyama,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4362,4,1,6,CA,1608,Laurent Labeyrie,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4363,4,1,6,CA,1612,Alexandre Laine,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4439,4,1,6,CA,1772,Marie-France Loutre,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+4586,4,1,6,CA,2016,Eric Monnin,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4618,4,1,6,CA,2075,Raimund Muscheler,124,National Aeronautics and Space Administration (NASA),USA,4,Goddard Earth Sciences and Technology Center
+4772,4,1,6,CA,2354,Gian-Kasper Plattner,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+5038,4,1,6,CA,2840,Renato Spahni,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+5064,4,1,6,CA,2888,Lowell D. Stott,504,University of Southern California,USA,233,Department of Earth Sciences
+5195,4,1,6,CA,3133,Claire Waelbroeck,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3721,4,1,7,CLA,331,Guy Brasseur,166,National Center for Atmospheric Research (NCAR),USA,60,Earth and Sun Systems Laboratory
+3874,4,1,7,CLA,657,Kenneth L. Denman,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3790,4,1,7,LA,497,Amnat Chidthaisong,545,King Mongkut's University of Technology,Thailand,236,The Joint Graduate School of Energy and Environment
+3800,4,1,7,LA,512,Philippe Ciais,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3840,4,1,7,LA,573,Peter M. Cox,131,University of Exeter,United Kingdom,18,School of Engineering Computer Science and Mathematics
+3888,4,1,7,LA,684,Robert E. Dickinson,509,Georgia Institute of Technology,USA,234,School of Earth and Atmospheric Sciences
+4128,4,1,7,LA,1135,Didier Hauglustaine,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4148,4,1,7,LA,1167,Christoph Heinze,133,University of Bergen,Norway,27,Geophysical Institute and Bjerknes Centre for Climate Research
+4173,4,1,7,LA,1221,Elisabeth Holland,166,National Center for Atmospheric Research (NCAR),USA,61,Atmospheric Chemistry Division
+4211,4,1,7,LA,1315,Daniel Jacob,215,Harvard University,USA,135,Department of Earth and Planetary Sciences
+4435,4,1,7,LA,1761,Ulrike Lohmann,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+4813,4,1,7,LA,2425,Srikanthan Ramachandran,254,Physical Research Laboratory,India,165,Space & Atmospheric Sciences Division
+5249,4,1,7,LA,3253,Steven C. Wofsy,215,Harvard University,USA,136,Division of Engineering and Applied Science
+5307,4,1,7,LA,3356,Xiaoye Zhang,187,China Meteorological Administration,China,100,Centre for Atmophere Watch & Services
+3705,4,1,7,RE,302,Kansri Boonpragob,670,Ramkhamhaeng University,Thailand,244,Department of Biology Faculty of Science
+4578,4,1,7,RE,2010,Mario Molina,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+3623,4,1,7,CA,127,Vivek Arora,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3633,4,1,7,CA,154,John Austin,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3671,4,1,7,CA,248,Joseph A. Berry,667,Carnegie Institute of Washington,USA,242,Department of Global Ecology
+3674,4,1,7,CA,252,Richard A. Betts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3713,4,1,7,CA,314,Philippe Bousquet,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3918,4,1,7,CA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3945,4,1,7,CA,802,Veronika Eyring,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,122,Institut of Atmospheric Physics
+4004,4,1,7,CA,892,Pierre Friedlingstein,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4049,4,1,7,CA,994,Sunling Gong,164,Environment Canada,Canada,57,"Air Quality Research Division,Science & Technology Branch"
+4075,4,1,7,CA,1041,Nicolas Gruber,209,University of California Los Angeles,USA,130,Institute of Geophysics and Planetary Physics
+4089,4,1,7,CA,1062,Kevin Gurney,695,Purdue University,USA,262,Department of Earth and Atmospheric Science
+4185,4,1,7,CA,1248,Joanna I. House,160,University of Bristol,United Kingdom,52,Quantifying and Understanding the Earth System Programme
+4229,4,1,7,CA,1375,Andy Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4275,4,1,7,CA,1426,Bernd Kärcher,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,122,Institut of Atmospheric Physics
+4398,4,1,7,CA,1671,Caroline Leck,701,Stockholm University,Sweden,256,Department of Meteorology
+4492,4,1,7,CA,1862,Ken Masarie,188,National Oceanographic and Atmospheric Administration (NOAA),USA,110,"Earth System Research Laboratory, Global Monitoring Division"
+4755,4,1,7,CA,2319,Philippe Peylin,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4766,4,1,7,CA,2349,Andy Pitman,368,Macquarie University,Australia,208,Department of Physical Geography
+4834,4,1,7,CA,2459,Peter J. Rayner,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4894,4,1,7,CA,2562,Leon D. Rotstayn,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+4912,4,1,7,CA,2582,Christopher Sabine,188,National Oceanographic and Atmospheric Administration (NOAA),USA,102,Pacific Marine Environmental Laboratory
+4959,4,1,7,CA,2681,Michael Schulz,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4821,4,1,8,CLA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+5258,4,1,8,CLA,3262,Richard A. Wood,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3703,4,1,8,LA,300,Sandrine Bony,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+3822,4,1,8,LA,549,Robert Colman,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+3960,4,1,8,LA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+4017,4,1,8,LA,912,John Fyfe,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+4767,4,1,8,LA,2349,Andy Pitman,368,Macquarie University,Australia,208,Department of Physical Geography
+4989,4,1,8,LA,2758,Jagadish Shukla,224,George Mason University,USA,141,Center for Ocean-Land-Atmosphere Studies
+5042,4,1,8,LA,2850,Jayaraman Srinivasan,159,Indian Institute of Science,India,51,Centre for Atmospheric and Oceanic Sciences
+5069,4,1,8,LA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5082,4,1,8,LA,2917,Akimasa Sumi,148,University of Tokyo,Japan,37,Center for Climate System Research
+5103,4,1,8,LA,2965,Karl E. Taylor,201,Lawrence Livermore National Laboratory,USA,126,Program for Climate Model Diagnosisand Intercomparison
+4517,4,1,8,RE,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+3587,4,1,8,CA,66,Richard Allan,204,University of Reading,United Kingdom,129,Environmental Systems Science Centre
+3663,4,1,8,CA,239,André Berger,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+3688,4,1,8,CA,274,Heinz Blatter,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+3702,4,1,8,CA,298,Céline Bonfils,669,Univerity of California Merced,USA,243,School of Natural Sciences
+3704,4,1,8,CA,301,Aaron Boone,249,Météo-France,France,161,Centre National de Recherches Météorologiques
+3725,4,1,8,CA,338,Christopher Bretherton,132,University of Washington,USA,20,Department of Atmospheric Sciences
+3753,4,1,8,CA,408,Wenju Cai,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3891,4,1,8,CA,694,Paul Dirmeyer,224,George Mason University,USA,141,Center for Ocean-Land-Atmosphere Studies
+3899,4,1,8,CA,715,Charles Doutriaux,201,Lawrence Livermore National Laboratory,USA,126,Program for Climate Model Diagnosisand Intercomparison
+3909,4,1,8,CA,737,Jean-Louis Dufresne,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+3991,4,1,8,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+4052,4,1,8,CA,998,Hugues Goosse,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+4058,4,1,8,CA,1013,Richard Graham,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4062,4,1,8,CA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+4100,4,1,8,CA,1084,Alex Hall,209,University of California Los Angeles,USA,131,Department of Atmospheric and Oceanic Sciences
+4125,4,1,8,CA,1132,Hiroyasu Hasumi,148,University of Tokyo,Japan,37,Center for Climate System Research
+4155,4,1,8,CA,1176,Henry Hendon,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+4200,4,1,8,CA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,134,Departement Geografie
+4205,4,1,8,CA,1295,William Ingram,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4245,4,1,8,CA,1386,Fortunat Joos,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4311,4,1,8,CA,1514,Ben Kirtman,224,George Mason University,USA,141,Center for Ocean-Land-Atmosphere Studies
+4356,4,1,8,CA,1602,Paul J. Kushner,313,University of Toronto,Canada,246,Department of Physics
+4384,4,1,8,CA,1647,Ngar-Cheung Lau,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+4583,4,1,8,CA,2013,Adam H. Monahan,277,University of Victoria,Canada,179,School of Earth and Ocean Sciences
+4616,4,1,8,CA,2070,James M. Murphy,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4759,4,1,8,CA,2325,Thomas Phillips,201,Lawrence Livermore National Laboratory,USA,126,Program for Climate Model Diagnosisand Intercomparison
+4779,4,1,8,CA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+4844,4,1,8,CA,2476,Hans Renssen,302,"Vrije Universiteit,Amsterdam",The Netherlands,183,Faculty of Earth and Life Sciences
+4857,4,1,8,CA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+4864,4,1,8,CA,2514,Malcolm Roberts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4936,4,1,8,CA,2643,Christoph Schar,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+4944,4,1,8,CA,2665,Andreas Schmittner,180,Oregon State University,USA,84,College of Oceanic and Atmospheric Sciences
+4963,4,1,8,CA,2690,John Scinocca,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+5009,4,1,8,CA,2802,Doug M. Smith,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5021,4,1,8,CA,2813,Brian Soden,135,University of Miami,USA,30,Rosentiel School for  Marine and Atmospheric Science
+5096,4,1,8,CA,2945,Toshihiko Takemura,267,Kyushu University,Japan,173,Research Institute for Applied Mechanics
+5143,4,1,8,CA,3033,George Tselioudis,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+5218,4,1,8,CA,3186,Mark Webb,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5239,4,1,8,CA,3228,Martin Wild,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+4138,4,1,9,CLA,1156,Gabriele C. Hegerl,652,Duke University,USA,241,Nicholas School for the Environment and Earth Sciences
+5324,4,1,9,CLA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3716,4,1,9,LA,323,Pascale Braconnot,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4037,4,1,9,LA,968,Nathan P. Gillett,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+4454,4,1,9,LA,1785,Yong Luo,187,China Meteorological Administration,China,97,National Climate Centre
+4481,4,1,9,LA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+4748,4,1,9,LA,2298,Joyce E. Penner,247,University of Michigan,USA,158,Department of Atmospheric Oceanic and Space Sciences
+5065,4,1,9,LA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3589,4,1,9,CA,67,Myles R. Allen,153,University of Oxford,United Kingdom,44,Climate Dynamics Group / Atmospheric Oceanic and Planetary Physics /Department of Physics /
+3599,4,1,9,CA,84,Caspar Ammann,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+3675,4,1,9,CA,252,Richard A. Betts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3807,4,1,9,CA,529,Amy Clement,135,University of Miami,USA,30,Rosentiel School for  Marine and Atmospheric Science
+3820,4,1,9,CA,547,William D. Collins,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+3871,4,1,9,CA,649,Thomas L. Delworth,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3992,4,1,9,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+4053,4,1,9,CA,998,Hugues Goosse,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+4063,4,1,9,CA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+4233,4,1,9,CA,1379,Gareth S. Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4246,4,1,9,CA,1386,Fortunat Joos,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4300,4,1,9,CA,1479,Viatcheslar Kharin,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+4323,4,1,9,CA,1535,Reto Knutti,188,National Oceanographic and Atmospheric Administration (NOAA),USA,109,Climate and Global Dynamics Division
+4371,4,1,9,CA,1624,F. Hugo Lambert,153,University of Oxford,United Kingdom,45,Atmospheric Oceanic and Planetary Physics
+4422,4,1,9,CA,1708,David Levinson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+4497,4,1,9,CA,1866,Valerie Masson-Delmotte,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4711,4,1,9,CA,2225,Bette Otto-Bliesner,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+4761,4,1,9,CA,2332,David Pierce,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4780,4,1,9,CA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+4858,4,1,9,CA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+4895,4,1,9,CA,2562,Leon D. Rotstayn,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+4924,4,1,9,CA,2611,Benjamin D. Santer,201,Lawrence Livermore National Laboratory,USA,126,Program for Climate Model Diagnosisand Intercomparison
+4977,4,1,9,CA,2711,Catherine A. Senior,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4979,4,1,9,CA,2717,David Sexton,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5046,4,1,9,CA,2860,Sheila Stark,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5111,4,1,9,CA,2977,Simon Tett,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5119,4,1,9,CA,2992,Peter Thorne,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5203,4,1,9,CA,3154,Minghuai Wang,247,University of Michigan,USA,158,Department of Atmospheric Oceanic and Space Sciences
+5231,4,1,9,CA,3222,Bruce Wielicki,124,National Aeronautics and Space Administration (NASA),USA,5,Langley Research Center
+5257,4,1,9,CA,3260,Takmeng Wong,124,National Aeronautics and Space Administration (NASA),USA,5,Langley Research Center
+5279,4,1,9,CA,3294,Li Xu,247,University of Michigan,USA,158,Department of Atmospheric Oceanic and Space Sciences
+5309,4,1,9,CA,3359,Xuebin Zhang,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+4534,4,1,10,CLA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+5052,4,1,10,CLA,2880,Thomas F. Stocker,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+3821,4,1,10,LA,547,William D. Collins,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+4005,4,1,10,LA,892,Pierre Friedlingstein,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4064,4,1,10,LA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+4312,4,1,10,LA,1518,Akio Kitoh,225,Meteorological Research Institute,Japan,142,First Research Laboratory Climate ResearchDepartment
+4324,4,1,10,LA,1535,Reto Knutti,188,National Oceanographic and Atmospheric Administration (NOAA),USA,109,Climate and Global Dynamics Division
+4617,4,1,10,LA,2070,James M. Murphy,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5216,4,1,10,LA,3180,Ian G. Watterson,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+5217,4,1,10,LA,3182,Andrew J. Weaver,277,University of Victoria,Canada,179,School of Earth and Ocean Sciences
+5311,4,1,10,LA,3364,Zong-Ci Zhao,187,China Meteorological Administration,China,97,National Climate Centre
+3590,4,1,10,RE,67,Myles R. Allen,153,University of Oxford,United Kingdom,44,Climate Dynamics Group / Atmospheric Oceanic and Planetary Physics /Department of Physics /
+3592,4,1,10,CA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
+3732,4,1,10,CA,351,Patrick Brockmann,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3752,4,1,10,CA,406,Patricia Cadule,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+3804,4,1,10,CA,525,G.K.C. Clarke,326,University of British Columbia,Canada,194,Earth and Ocean Sciences
+3817,4,1,10,CA,544,Mark Collier,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3818,4,1,10,CA,546,Matthew Collins,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3893,4,1,10,CA,696,Keith W. Dixon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+3904,4,1,10,CA,724,Emmanuelle Driesschaert,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+3910,4,1,10,CA,737,Jean-Louis Dufresne,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+3915,4,1,10,CA,752,Mark Dyurgerov,248,University of Colorado,USA,160,Institute of Arctic and Alpine Research
+3993,4,1,10,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+4110,4,1,10,CA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+4119,4,1,10,CA,1115,Glen Harris,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4139,4,1,10,CA,1156,Gabriele C. Hegerl,652,Duke University,USA,241,Nicholas School for the Environment and Earth Sciences
+4201,4,1,10,CA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,134,Departement Geografie
+4247,4,1,10,CA,1386,Fortunat Joos,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4306,4,1,10,CA,1497,Masahide Kimoto,148,University of Tokyo,Japan,37,Center for Climate System Research
+4322,4,1,10,CA,1534,Thomas Knutson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+4390,4,1,10,CA,1657,Anne Le Brocq,160,University of Bristol,United Kingdom,237,Centre for Polar Observation and Modelling
+4440,4,1,10,CA,1772,Marie-France Loutre,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+4446,4,1,10,CA,1776,Jason A. Lowe,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4610,4,1,10,CA,2062,Simon A. Müller,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4686,4,1,10,CA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
+4706,4,1,10,CA,2219,James Orr,727,International Atomic Energy Agency (IAEA),Monaco,260,Marine Environment Laboratories
+4714,4,1,10,CA,2228,Jonathan Overpeck,430,University of Arizona,USA,226,Institute for the Study of Planet Earth
+4773,4,1,10,CA,2354,Gian-Kasper Plattner,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4859,4,1,10,CA,2503,Annette Rinke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+4906,4,1,10,CA,2574,Gary L. Russell,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+4919,4,1,10,CA,2596,David Salas Y MéLia,249,Météo-France,France,161,Centre National de Recherches Météorologiques
+4925,4,1,10,CA,2611,Benjamin D. Santer,201,Lawrence Livermore National Laboratory,USA,126,Program for Climate Model Diagnosisand Intercomparison
+4943,4,1,10,CA,2663,Gavin Schmidt,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+4945,4,1,10,CA,2665,Andreas Schmittner,180,Oregon State University,USA,84,College of Oceanic and Atmospheric Sciences
+4983,4,1,10,CA,2742,Andrew Shepherd,211,University of Edinburgh,United Kingdom,133,School of Geosciences
+5043,4,1,10,CA,2855,David Stainforth,153,University of Oxford,United Kingdom,45,Atmospheric Oceanic and Planetary Physics
+5066,4,1,10,CA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5070,4,1,10,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5104,4,1,10,CA,2965,Karl E. Taylor,201,Lawrence Livermore National Laboratory,USA,126,Program for Climate Model Diagnosisand Intercomparison
+5155,4,1,10,CA,3067,Roderik Van de Wal,273,University of Utrecht,The Netherlands,175,Sylvester Willo Institute for Marine and Atmospheric Research
+5188,4,1,10,CA,3123,Evgeny M. Volodin,263,Russian Federation Academy of Sciences,Russian Federation,170,Institute of Numerical Mathematics
+5202,4,1,10,CA,3150,Bin Wang,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+5240,4,1,10,CA,3228,Martin Wild,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+4160,4,1,11,CLA,1188,Bruce Charles Hewitson,149,University of Cape Town,South Africa,42,Department of Environmental and Geographical Sciences
+3785,4,1,11,LA,485,A. Anthony Chen,675,University of the West Indies,Jamaica,246,Department of Physics
+4020,4,1,11,LA,927,Xuejie Gao,187,China Meteorological Administration,China,97,National Climate Centre
+4149,4,1,11,LA,1168,Isaac Held,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+4239,4,1,11,LA,1384,Richard Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4333,4,1,11,LA,1551,Rupa Kumar Kolli,134,Indian Institute of Tropical Meteorology,India,29,Climatology and Hydrometeorology Division
+4359,4,1,11,LA,1607,Won-Tae Kwon,712,"Meteorological Research Institute (METRI),Korean Meteorological Administration",South Korea,258,Climate Research Laboratory
+4375,4,1,11,LA,1636,René Laprise,714,University of Quebec at Montreal,Canada,259,Departement des Sciences de la Terra et de l'Atmosphere
+4466,4,1,11,LA,1813,Victor Magaña Rueda,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+4541,4,1,11,LA,1941,Claudio Menendez,170,Universidad de Buenos Aires,Argentina,70,Centro de Investigaciones del Mar y de la Atmosfera (CIMA)
+4860,4,1,11,LA,2503,Annette Rinke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+5223,4,1,11,LA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+4008,4,1,11,RE,899,Congbin Fu,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+3735,4,1,11,CA,353,David H. Bromwich,168,Ohio State University,USA,68,Byrd Polar Research Center
+3824,4,1,11,CA,550,Joey Comiso,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+3882,4,1,11,CA,672,Klaus Dethloff,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+4033,4,1,11,CA,957,Rudiger Gerdes,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+4230,4,1,11,CA,1377,Christopher Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4313,4,1,11,CA,1518,Akio Kitoh,225,Meteorological Research Institute,Japan,142,First Research Laboratory Climate ResearchDepartment
+4325,4,1,11,CA,1535,Reto Knutti,188,National Oceanographic and Atmospheric Administration (NOAA),USA,109,Climate and Global Dynamics Division
+4447,4,1,11,CA,1776,Jason A. Lowe,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4456,4,1,11,CA,1793,Amanda H. Lynch,216,Monash University,Australia,138,School of Geography and Environmental Science
+4523,4,1,11,CA,1911,Kathleen McInnes,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+4639,4,1,11,CA,2117,Mark New,153,University of Oxford,United Kingdom,46,Centre for the Environment
+4902,4,1,11,CA,2569,Markku Rummukainen,260,Swedish Meteorological and Hydrological Institute,Sweden,168,Rossby Centre
+4937,4,1,11,CA,2643,Christoph Schar,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+5035,4,1,11,CA,2833,Samuel Somot,249,Météo-France,France,161,Centre National de Recherches Météorologiques
+5091,4,1,11,CA,2940,Mark Tadross,149,University of Cape Town,South Africa,43,Climate Systems Analysis Group
+5277,4,1,11,CA,3284,Bruce L. Wyman,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+4477,4,1,TS,CLA,1838,Martin Manning,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+5031,4,1,TS,CLA,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+3594,4,1,TS,LA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
+3684,4,1,TS,LA,262,Nathaniel L. Bindoff,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3788,4,1,TS,LA,491,Zhenlin Chen,187,China Meteorological Administration,China,99,Dept of International Cooperation
+3792,4,1,TS,LA,497,Amnat Chidthaisong,545,King Mongkut's University of Technology,Thailand,236,The Joint Graduate School of Energy and Environment
+4066,4,1,TS,LA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+4141,4,1,TS,LA,1156,Gabriele C. Hegerl,652,Duke University,USA,241,Nicholas School for the Environment and Earth Sciences
+4162,4,1,TS,LA,1188,Bruce Charles Hewitson,149,University of Cape Town,South Africa,42,Department of Environmental and Geographical Sciences
+4183,4,1,TS,LA,1242,Brian J. Hoskins,204,University of Reading,United Kingdom,256,Department of Meteorology
+4249,4,1,TS,LA,1386,Fortunat Joos,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4257,4,1,TS,LA,1392,Jean Jouzel,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4437,4,1,TS,LA,1761,Ulrike Lohmann,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+4580,4,1,TS,LA,2010,Mario Molina,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4716,4,1,TS,LA,2228,Jonathan Overpeck,430,University of Arizona,USA,226,Institute for the Study of Planet Earth
+4804,4,1,TS,LA,2417,Graciela Raga,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+4818,4,1,TS,LA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+4843,4,1,TS,LA,2475,Jiawen Ren,233,Chinese Academy of Sciences,China,146,Cold and Arid Regions Environmental and Engineering Research Institute
+4909,4,1,TS,LA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
+5034,4,1,TS,LA,2830,Richard Somerville,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+5054,4,1,TS,LA,2880,Thomas F. Stocker,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+5072,4,1,TS,LA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5225,4,1,TS,LA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+5260,4,1,TS,LA,3262,Richard A. Wood,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3706,4,1,TS,RE,302,Kansri Boonpragob,670,Ramkhamhaeng University,Thailand,244,Department of Biology Faculty of Science
+4733,4,1,TS,RE,1327,Bubu Pateh Jallow,704,Department of Water Resources,The Gambia,257,Department of Water Resources
+3723,4,1,TS,CA,331,Guy Brasseur,166,National Center for Atmospheric Research (NCAR),USA,60,Earth and Sun Systems Laboratory
+3876,4,1,TS,CA,657,Kenneth L. Denman,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3950,4,1,TS,CA,806,David W. Fahey,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3995,4,1,TS,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+4136,4,1,TS,CA,1147,James M. Haywood,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4217,4,1,TS,CA,1331,Eystein Jansen,133,University of Bergen,Norway,28,Department of Earth Sciences and Bjerknes Centre for Climate Research
+4238,4,1,TS,CA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+4327,4,1,TS,CA,1535,Reto Knutti,188,National Oceanographic and Atmospheric Administration (NOAA),USA,109,Climate and Global Dynamics Division
+4395,4,1,TS,CA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+4412,4,1,TS,CA,1689,Peter Lemke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+4536,4,1,TS,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+4823,4,1,TS,CA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+5326,4,1,TS,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3593,4,1,SPM,LA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
+3683,4,1,SPM,LA,262,Nathaniel L. Bindoff,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3787,4,1,SPM,LA,491,Zhenlin Chen,187,China Meteorological Administration,China,99,Dept of International Cooperation
+3791,4,1,SPM,LA,497,Amnat Chidthaisong,545,King Mongkut's University of Technology,Thailand,236,The Joint Graduate School of Energy and Environment
+4006,4,1,SPM,LA,892,Pierre Friedlingstein,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4065,4,1,SPM,LA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+4140,4,1,SPM,LA,1156,Gabriele C. Hegerl,652,Duke University,USA,241,Nicholas School for the Environment and Earth Sciences
+4161,4,1,SPM,LA,1188,Bruce Charles Hewitson,149,University of Cape Town,South Africa,42,Department of Environmental and Geographical Sciences
+4182,4,1,SPM,LA,1242,Brian J. Hoskins,204,University of Reading,United Kingdom,256,Department of Meteorology
+4248,4,1,SPM,LA,1386,Fortunat Joos,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+4256,4,1,SPM,LA,1392,Jean Jouzel,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+4436,4,1,SPM,LA,1761,Ulrike Lohmann,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+4476,4,1,SPM,LA,1838,Martin Manning,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+4579,4,1,SPM,LA,2010,Mario Molina,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4715,4,1,SPM,LA,2228,Jonathan Overpeck,430,University of Arizona,USA,226,Institute for the Study of Planet Earth
+4803,4,1,SPM,LA,2417,Graciela Raga,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+4817,4,1,SPM,LA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+4842,4,1,SPM,LA,2475,Jiawen Ren,233,Chinese Academy of Sciences,China,146,Cold and Arid Regions Environmental and Engineering Research Institute
+4908,4,1,SPM,LA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
+5030,4,1,SPM,LA,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+5033,4,1,SPM,LA,2830,Richard Somerville,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+5053,4,1,SPM,LA,2880,Thomas F. Stocker,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
+5067,4,1,SPM,LA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5071,4,1,SPM,LA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5224,4,1,SPM,LA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+5259,4,1,SPM,LA,3262,Richard A. Wood,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3722,4,1,SPM,CA,331,Guy Brasseur,166,National Center for Atmospheric Research (NCAR),USA,60,Earth and Sun Systems Laboratory
+3875,4,1,SPM,CA,657,Kenneth L. Denman,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+3949,4,1,SPM,CA,806,David W. Fahey,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3994,4,1,SPM,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+4216,4,1,SPM,CA,1331,Eystein Jansen,133,University of Bergen,Norway,28,Department of Earth Sciences and Bjerknes Centre for Climate Research
+4237,4,1,SPM,CA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+4326,4,1,SPM,CA,1535,Reto Knutti,188,National Oceanographic and Atmospheric Administration (NOAA),USA,109,Climate and Global Dynamics Division
+4394,4,1,SPM,CA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+4411,4,1,SPM,CA,1689,Peter Lemke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+4535,4,1,SPM,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+4604,4,1,SPM,CA,2045,Philip Mote,132,University of Washington,USA,83,Joint Institute for the Study of the Atmosphere and Oceans(JIASO)
+4822,4,1,SPM,CA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+5325,4,1,SPM,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+4889,4,2,1,CLA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+3916,4,2,1,CA,752,Mark Dyurgerov,248,University of Colorado,USA,160,Institute of Arctic and Alpine Research
+4283,4,2,1,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
+4432,4,2,1,CA,1747,Diana Liverman,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+4461,4,2,1,CA,1803,Dena MacMynowski,338,Stanford University,USA,201,Stanford Wood Institute for the Environment
+4637,4,2,1,CA,2112,Peter Neofotis,185,Columbia University,USA,93,Earth Institute
+3864,4,2,2,CA,626,Jacqueline De Chazal,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+4693,4,2,3,LA,2192,Taikan Oki,148,University of Tokyo,Japan,40,Institute of Industrial Science
+3676,4,2,3,CA,252,Richard A. Betts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4792,4,2,3,CA,2401,Roger Pulwarty,188,National Oceanographic and Atmospheric Administration (NOAA),USA,105,Climate Diagnostics Center
+5161,4,2,3,CA,3077,Henk Van Schaik,889,UNESCO,The Netherlands,270,Co-operative Programme on Water and Climate
+3965,4,2,4,CLA,838,Andreas Fischlin,136,ETH Zurich,Switzerland,33,Terrestrial Systems Ecology Group
+5173,4,2,4,LA,3091,Andrei A. Velichko,263,Russian Federation Academy of Sciences,Russian Federation,169,Institute of Geography
+3886,4,2,4,RE,680,Sandra Myrna Diaz,793,Universidad Nacional de Córdoba,Argentina,267,Instituto Multidisciplinario de Biologia Vegetal (IMBIV)
+3865,4,2,4,CA,626,Jacqueline De Chazal,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+4092,4,2,4,CA,1068,Dimitrios Gyalistras,136,ETH Zurich,Switzerland,33,Terrestrial Systems Ecology Group
+5206,4,2,4,CA,3167,Rachel Warren,231,University of East Anglia,United Kingdom,145,Tyndall Centre for Climate Change Research School of Environmental Sciences
+4186,4,2,5,LA,1253,Mark Howden,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,77,CSIRO Sustainable Ecosystems
+3810,4,2,6,LA,535,Jorge O. Codignotto,170,Universidad de Buenos Aires,Argentina,72,"Departamento de Ciencias Geologicas,Facultad de Ciencias Exactas y Naturales"
+4448,4,2,6,CA,1776,Jason A. Lowe,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4524,4,2,6,CA,1911,Kathleen McInnes,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+3664,4,2,7,LA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+4542,4,2,8,CLA,1942,Bettina Menne,839,World Health Organization (WHO),Germany,269,Regional Office for Europe
+5251,4,2,8,LA,3256,Tanja Wolf,839,World Health Organization (WHO),Germany,269,Regional Office for Europe
+3853,4,2,8,RE,599,Susana I. Curto De Casas,170,Universidad de Buenos Aires,Argentina,73,Centro de Investigaciones Biometeorologicas
+3712,4,2,9,CA,313,Lahouari Bounoua,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+3736,4,2,9,CA,357,Nick Brooks,231,University of East Anglia,United Kingdom,144,Tyndall Centre for Climate Change Research
+5212,4,2,9,CA,3173,Richard Washington,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+3972,4,2,11,CLA,844,B. Blair Fitzharris,350,University of Otago,New Zealand,261,Department of Geography
+4187,4,2,11,LA,1253,Mark Howden,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,77,CSIRO Sustainable Ecosystems
+3781,4,2,11,CA,469,Lynda Chambers,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+3681,4,2,12,LA,261,Marco Bindi,304,University of Florence,Italy,186,Department of Agronomy and Land Management (DISAT)
+4364,4,2,12,CA,1615,Petro Lakyda,828,University of Ukraine,Ukraine,268,National Agrarian Institute
+4658,4,2,13,LA,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+4482,4,2,13,CA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+3776,4,2,14,CA,457,Daniel R. Cayan,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+4789,4,2,15,LA,2397,Terry D. Prowse,164,Environment Canada,Canada,55,National Water Research Institute
+3647,4,2,15,RE,202,Roger G. Barry,248,University of Colorado,USA,159,National Snow and Ice Data Center
+5270,4,2,15,CA,3277,Fred Wrona,164,Environment Canada,Canada,55,National Water Research Institute
+4668,4,2,16,CLA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+4793,4,2,16,LA,2401,Roger Pulwarty,188,National Oceanographic and Atmospheric Administration (NOAA),USA,105,Climate Diagnostics Center
+4794,4,2,17,LA,2401,Roger Pulwarty,188,National Oceanographic and Atmospheric Administration (NOAA),USA,105,Climate Diagnostics Center
+4890,4,2,17,CA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+5207,4,2,18,CA,3167,Rachel Warren,231,University of East Anglia,United Kingdom,145,Tyndall Centre for Climate Change Research School of Environmental Sciences
+5164,4,2,19,RE,3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+3832,4,2,19,CA,563,Jan Corfee-Morlot,331,Organization for Economic Cooperation and Development (OECD),France,198,Environment Directorate
+3964,4,2,19,CA,831,Adam Finkel,428,Princeton University,USA,225,Woodrow Wilson School of Public and International Affairs
+4462,4,2,19,CA,1803,Dena MacMynowski,338,Stanford University,USA,201,Stanford Wood Institute for the Environment
+3724,4,2,20,CA,336,Antoinette Brenkert,414,University of Maryland,USA,215,Joint Global Change Research Institute
+4472,4,2,20,CA,1829,Elizabeth L. Malone,414,University of Maryland,USA,215,Joint Global Change Research Institute
+4543,4,2,20,CA,1942,Bettina Menne,839,World Health Organization (WHO),Germany,269,Regional Office for Europe
+4724,4,2,TS,CLA,2248,Jean P. Palutikof,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4732,4,2,TS,CLA,2266,Martin Parry,182,Met Office,United Kingdom,88,Hadley Centre Centre for Environmental Policy
+3967,4,2,TS,LA,838,Andreas Fischlin,136,ETH Zurich,Switzerland,33,Terrestrial Systems Ecology Group
+3974,4,2,TS,LA,844,B. Blair Fitzharris,350,University of Otago,New Zealand,261,Department of Geography
+4545,4,2,TS,LA,1942,Bettina Menne,839,World Health Organization (WHO),Germany,269,Regional Office for Europe
+4670,4,2,TS,LA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+4892,4,2,TS,LA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+5166,4,2,TS,LA,3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+3951,4,2,TS,CA,808,Pete Falloon,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4151,4,2,TS,CA,1172,Deborah Hemming,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+3966,4,2,SPM,LA,838,Andreas Fischlin,136,ETH Zurich,Switzerland,33,Terrestrial Systems Ecology Group
+3973,4,2,SPM,LA,844,B. Blair Fitzharris,350,University of Otago,New Zealand,261,Department of Geography
+4111,4,2,SPM,LA,1103,Clair Hanson,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4544,4,2,SPM,LA,1942,Bettina Menne,839,World Health Organization (WHO),Germany,269,Regional Office for Europe
+4669,4,2,SPM,LA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+4723,4,2,SPM,LA,2248,Jean P. Palutikof,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4731,4,2,SPM,LA,2266,Martin Parry,182,Met Office,United Kingdom,88,Hadley Centre Centre for Environmental Policy
+4891,4,2,SPM,LA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+5165,4,2,SPM,LA,3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+4116,4,3,1,LA,1110,William L. Hare,200,Potsdam Institute for Climate Impact Research,Germany,125,Impact Research
+4654,4,3,2,LA,2130,Elena Nikitina,263,Russian Federation Academy of Sciences,Russian Federation,171,Institute of World Economy and International Relations
+4473,4,3,2,RE,1829,Elizabeth L. Malone,414,University of Maryland,USA,215,Joint Global Change Research Institute
+3641,4,3,2,CA,188,Terry Barker,276,University of Cambridge,United Kingdom,178,Dep. of Land Economy 4CMR
+3833,4,3,3,LA,563,Jan Corfee-Morlot,331,Organization for Economic Cooperation and Development (OECD),France,198,Environment Directorate
+5208,4,3,3,LA,3167,Rachel Warren,231,University of East Anglia,United Kingdom,145,Tyndall Centre for Climate Change Research School of Environmental Sciences
+3711,4,3,3,CA,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
+4765,4,3,3,CA,2347,Hugh M. Pitcher,414,University of Maryland,USA,215,Joint Global Change Research Institute
+4588,4,3,4,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
+4655,4,3,4,LA,2133,Hassan Bashir Nimir,487,University of Khartoum,Sudan,232,Dept. of Petroleum Engineering
+5198,4,3,4,LA,3145,Njeri Wamukonya,996,United Nations Environment Programme (UNEP),Kenya,276,Division of Policy Development and Law
+4589,4,3,4,RE,2026,Jose Roberto Moreira,158,University of Sao Paulo,Brazil,50,National Reference Center on Biomass - Institute of Electr.& Energy
+4301,4,3,5,RE,1482,Haroon Kheshgi,380,Exxon Mobil Corporation,USA,210,Research and Engineering Company
+5151,4,3,6,CLA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,239,Dept. of  Environmental Sciences and Policy
+3690,4,3,6,CA,280,Brenda Boardman,153,University of Oxford,United Kingdom,47,Environmental Change Institute
+5004,4,3,8,LA,2782,Oleg D. Sirotenko,981,Russian Academy of Agricultural Sciences,Russian Federation,275,All-Russian Research Institute For Agricultural Meteorology
+4188,4,3,8,CA,1253,Mark Howden,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,77,CSIRO Sustainable Ecosystems
+4877,4,3,8,CA,2543,Vladimir Romanenkov,981,Russian Academy of Agricultural Sciences,Russian Federation,274,All-Russian Institute of Agrochemistry
+4493,4,3,9,CLA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,153,Centro de Investigaciones en Ecosistemas
+3692,4,3,9,LA,284,Rizaldi Boer,913,Bogor Agricultural University,Indonesia,271,Climatology Laboratory
+4355,4,3,9,LA,1599,Werner A. Kurz,790,Natural Resources Canada,Canada,265,Canadian Forest Service
+3612,4,3,9,RE,114,Michael J. Apps,790,Natural Resources Canada,Canada,265,Canadian Forest Service
+4399,4,3,9,CA,1673,Franck Lecocq,456,Institut National de la Recherche Agronomique (INRA),France,229,Laboratory of Forestry Economics
+3570,4,3,10,LA,44,Mohammed Abdelrafie Ahmed,487,University of Khartoum,Sudan,231,Faculty of Engineering & Architecture
+3946,4,3,10,LA,803,Andre P.C. Faaij,273,University of Utrecht,The Netherlands,177,Copernicus Institute for Sustainable Development -
+5303,4,3,10,LA,3353,Tianzhu Zhang,516,Tsinghua University,China,235,Dept. of Environmental Science and Engineering
+3642,4,3,11,CLA,188,Terry Barker,276,University of Cambridge,United Kingdom,178,Dep. of Land Economy 4CMR
+3947,4,3,11,CA,803,Andre P.C. Faaij,273,University of Utrecht,The Netherlands,177,Copernicus Institute for Sustainable Development -
+4382,4,3,11,CA,1644,John Latham,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+4778,4,3,11,CA,2372,David Popp,976,Syracuse University,USA,273,The Maxwell School
+4624,4,3,12,CLA,2092,Adil Najam,242,Boston University,USA,156,Center for Energy and Environmental Studies
+4400,4,3,12,LA,1673,Franck Lecocq,456,Institut National de la Recherche Agronomique (INRA),France,229,Laboratory of Forestry Economics
+4835,4,3,12,LA,2460,Steve Rayner,153,University of Oxford,United Kingdom,48,James Martin Institute
+4704,4,3,12,RE,2215,Hans Opschoor,302,"Vrije Universiteit,Amsterdam",The Netherlands,185,Insititute of Social Studies
+3834,4,3,12,CA,563,Jan Corfee-Morlot,331,Organization for Economic Cooperation and Development (OECD),France,198,Environment Directorate
+4085,4,3,13,LA,1057,Joyeeta Gupta,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+4334,4,3,13,LA,1553,Charles Kolstad,640,University of California Santa Barbara,USA,238,Dept of Economics & Bren School
+3811,4,3,TS,LA,535,Jorge O. Codignotto,170,Universidad de Buenos Aires,Argentina,72,"Departamento de Ciencias Geologicas,Facultad de Ciencias Exactas y Naturales"
+4495,4,3,TS,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,153,Centro de Investigaciones en Ecosistemas
+4626,4,3,TS,LA,2092,Adil Najam,242,Boston University,USA,156,Center for Energy and Environmental Studies
+5153,4,3,TS,LA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,239,Dept. of  Environmental Sciences and Policy
+3643,4,3,SPM,LA,188,Terry Barker,276,University of Cambridge,United Kingdom,178,Dep. of Land Economy 4CMR
+4494,4,3,SPM,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,153,Centro de Investigaciones en Ecosistemas
+4625,4,3,SPM,LA,2092,Adil Najam,242,Boston University,USA,156,Center for Energy and Environmental Studies
+5152,4,3,SPM,LA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,239,Dept. of  Environmental Sciences and Policy
+5699,5,1,1,CLA,593,Ulrich Cubasch,183,Freie Universität Berlin,Germany,89,Institut fur Meteorologie
+7064,5,1,1,CA,1866,Valerie Masson-Delmotte,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5878,5,1,2,CLA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
+5707,5,1,2,LA,698,E. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+5712,5,1,2,LA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+5898,5,1,2,LA,2813,Brian Soden,135,University of Miami,USA,30,Rosentiel School for  Marine and Atmospheric Science
+5940,5,1,2,LA,3228,Martin Wild,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+5949,5,1,2,LA,3344,Panmao Zhai,187,China Meteorological Administration,China,98,National Climate Center
+5683,5,1,3,LA,468,Don Chambers,175,University of South Florida,USA,245,Center for Space Research
+5717,5,1,3,LA,820,Richard Feely,188,National Oceanographic and Atmospheric Administration (NOAA),USA,102,Pacific Marine Environmental Laboratory
+5771,5,1,3,LA,1388,Simon Josey,219,National Oceanography Centre,United Kingdom,216,National Oceanography Centre Southampton
+5873,5,1,3,LA,2534,Dean Roemmich,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
+5911,5,1,3,LA,2948,Lynne D. Talley,268,Scripps Institute of Oceanography,USA,174,Scripps Institution of Oceanography
+6959,5,1,3,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
+7008,5,1,3,CA,1606,Ronald Kwok,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+5696,5,1,4,CLA,550,Joey Comiso,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+5779,5,1,4,LA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
+5795,5,1,4,LA,1606,Ronald Kwok,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+5823,5,1,4,LA,2045,Philip Mote,180,Oregon State University,USA,83,Joint Institute for the Study of the Atmosphere and Oceans(JIASO)
+5865,5,1,4,LA,2475,Jiawen Ren,233,Chinese Academy of Sciences,China,146,Cold and Arid Regions Environmental and Engineering Research Institute
+5870,5,1,4,LA,2498,Eric Rignot,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+5899,5,1,4,LA,2824,Olga Solomina,263,Russian Federation Academy of Sciences,Russian Federation,169,Institute of Geography
+5761,5,1,4,RE,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,134,Departement Geografie
+5801,5,1,4,RE,1689,Peter Lemke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+7178,5,1,4,CA,2397,Terry D. Prowse,164,Environment Canada,Canada,55,National Water Research Institute
+5812,5,1,5,CLA,1866,Valerie Masson-Delmotte,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5766,5,1,5,LA,1331,Eystein Jansen,133,University of Bergen,Norway,28,Department of Earth Sciences and Bjerknes Centre for Climate Research
+5840,5,1,5,LA,2225,Bette Otto-Bliesner,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+5856,5,1,5,RE,2419,Fatemeh Rahimzadeh,253,Iranian Meteorological Organization,Iran,164,Atmospheric Science & Meteorological Research Center (ASMERC)
+7284,5,1,5,CA,2824,Olga Solomina,263,Russian Federation Academy of Sciences,Russian Federation,169,Institute of Geography
+5691,5,1,6,CLA,512,Philippe Ciais,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5880,5,1,6,CLA,2582,Christopher Sabine,188,National Oceanographic and Atmospheric Administration (NOAA),USA,102,Pacific Marine Environmental Laboratory
+5665,5,1,6,LA,304,Laurent Bopp,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5770,5,1,6,LA,1377,Christopher Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5756,5,1,6,RE,1167,Christoph Heinze,133,University of Bergen,Norway,27,Geophysical Institute and Bjerknes Centre for Climate Research
+5913,5,1,6,RE,2956,Pieter Tans,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+6764,5,1,6,CA,573,Peter M. Cox,131,University of Exeter,United Kingdom,18,School of Engineering Computer Science and Mathematics
+5666,5,1,7,CLA,310,Olivier Boucher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+5859,5,1,7,CLA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+5670,5,1,7,LA,338,Christopher Bretherton,132,University of Washington,USA,20,Department of Atmospheric Sciences
+5724,5,1,7,LA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+5807,5,1,7,LA,1761,Ulrike Lohmann,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+5847,5,1,7,RE,2298,Joyce E. Penner,247,University of Michigan,USA,158,Department of Atmospheric Oceanic and Space Sciences
+5857,5,1,7,RE,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5908,5,1,7,RE,2898,Claudia Stubenrauch,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+7116,5,1,7,CA,2083,Gunnar Myhre,241,Center for International Climate and Environment (CICERO),Norway,218,Department of Geosciences
+7289,5,1,7,CA,2869,Graeme Stephens,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+5828,5,1,8,CLA,2083,Gunnar Myhre,241,Center for International Climate and Environment (CICERO),Norway,218,Department of Geosciences
+5669,5,1,8,LA,337,Francois-Marie Breon,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5694,5,1,8,LA,548,Williams J. Collins,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5831,5,1,8,LA,2093,Teruyuki Nakajima,148,University of Tokyo,Japan,37,Center for Climate System Research
+5903,5,1,8,LA,2869,Graeme Stephens,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
+5910,5,1,8,LA,2945,Toshihiko Takemura,267,Kyushu University,Japan,173,Research Institute for Applied Mechanics
+5763,5,1,8,RE,1315,Daniel Jacob,215,Harvard University,USA,135,Department of Earth and Planetary Sciences
+6706,5,1,8,CA,310,Olivier Boucher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+6831,5,1,8,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+7189,5,1,8,CA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5721,5,1,9,CLA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+5668,5,1,9,LA,323,Pascale Braconnot,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5695,5,1,9,LA,548,Williams J. Collins,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5698,5,1,9,LA,573,Peter M. Cox,131,University of Exeter,United Kingdom,18,School of Engineering Computer Science and Mathematics
+5714,5,1,9,LA,802,Veronika Eyring,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,122,Institut of Atmospheric Physics
+5743,5,1,9,LA,1050,Eric Guilyardi,167,Institut Pierre Simon Laplace (IPSL),France,66,Laboratoire d'Oceanographie et du Climat (LOCEAN)
+5757,5,1,9,RE,1168,Isaac Held,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5954,5,1,9,RE,3364,Zong-Ci Zhao,187,China Meteorological Administration,China,97,National Climate Centre
+6737,5,1,9,CA,468,Don Chambers,175,University of South Florida,USA,245,Center for Space Research
+6819,5,1,9,CA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+6832,5,1,9,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+6842,5,1,9,CA,912,John Fyfe,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+6853,5,1,9,CA,968,Nathan P. Gillett,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+7077,5,1,9,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+7117,5,1,9,CA,2083,Gunnar Myhre,241,Center for International Climate and Environment (CICERO),Norway,218,Department of Geosciences
+7303,5,1,9,CA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5906,5,1,10,CLA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5736,5,1,10,LA,968,Nathan P. Gillett,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+5928,5,1,10,RE,3088,Robert Vautard,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+6707,5,1,10,CA,310,Olivier Boucher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+6713,5,1,10,CA,323,Pascale Braconnot,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+6874,5,1,10,CA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+6898,5,1,10,CA,1168,Isaac Held,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+6960,5,1,10,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
+7038,5,1,10,CA,1761,Ulrike Lohmann,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+7065,5,1,10,CA,1866,Valerie Masson-Delmotte,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+7078,5,1,10,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+7371,5,1,10,CA,3228,Martin Wild,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+5784,5,1,11,CLA,1514,Ben Kirtman,224,George Mason University,USA,141,Center for Ocean-Land-Atmosphere Studies
+5854,5,1,11,CLA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+5662,5,1,11,LA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+5676,5,1,11,LA,421,Inés Camilloni,170,Universidad de Buenos Aires,Argentina,70,Centro de Investigaciones del Mar y de la Atmosfera (CIMA)
+5783,5,1,11,LA,1497,Masahide Kimoto,148,University of Tokyo,Japan,37,Center for Climate System Research
+5815,5,1,11,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+5885,5,1,11,LA,2643,Christoph Schar,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
+5703,5,1,11,RE,647,Pascale Delecluse,167,Institut Pierre Simon Laplace (IPSL),France,187,Laboratoire d'Oceanographie Dynamique et Climatologie
+6820,5,1,11,CA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+6936,5,1,11,CA,1315,Daniel Jacob,215,Harvard University,USA,135,Department of Earth and Planetary Sciences
+5693,5,1,12,CLA,546,Matthew Collins,131,University of Exeter,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5711,5,1,12,LA,737,Jean-Louis Dufresne,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+5719,5,1,12,LA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+5734,5,1,12,LA,927,Xuejie Gao,187,China Meteorological Administration,China,97,National Climate Centre
+5937,5,1,12,LA,3182,Andrew J. Weaver,277,University of Victoria,Canada,179,School of Earth and Ocean Sciences
+5773,5,1,12,RE,1391,Sylvie Joussaume,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5916,5,1,12,RE,2977,Simon Tett,211,University of Edinburgh,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+6833,5,1,12,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+6875,5,1,12,CA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+6927,5,1,12,CA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,134,Departement Geografie
+7304,5,1,12,CA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5741,5,1,13,LA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+5774,5,1,13,RE,1392,Jean Jouzel,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+5924,5,1,13,RE,3067,Roderik Van de Wal,273,University of Utrecht,The Netherlands,175,Sylvester Willo Institute for Marine and Atmospheric Research
+6757,5,1,13,CA,547,William D. Collins,181,Lawrence Berkeley National Laboratory,USA,109,Climate and Global Dynamics Division
+6834,5,1,13,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+6928,5,1,13,CA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,134,Departement Geografie
+6961,5,1,13,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
+7118,5,1,13,CA,2083,Gunnar Myhre,241,Center for International Climate and Environment (CICERO),Norway,218,Department of Geosciences
+5785,5,1,14,LA,1518,Akio Kitoh,225,Meteorological Research Institute,Japan,142,First Research Laboratory Climate ResearchDepartment
+5798,5,1,14,LA,1647,Ngar-Cheung Lau,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+5731,5,1,14,RE,912,John Fyfe,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+6854,5,1,14,CA,968,Nathan P. Gillett,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+7079,5,1,14,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+6715,5,1,SPM,LA,337,Francois-Marie Breon,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+6766,5,1,SPM,LA,593,Ulrich Cubasch,183,Freie Universität Berlin,Germany,89,Institut fur Meteorologie
+6835,5,1,SPM,LA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
+6855,5,1,SPM,LA,968,Nathan P. Gillett,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+6876,5,1,SPM,LA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
+6940,5,1,SPM,LA,1331,Eystein Jansen,133,University of Bergen,Norway,28,Department of Earth Sciences and Bjerknes Centre for Climate Research
+6980,5,1,SPM,LA,1514,Ben Kirtman,224,George Mason University,USA,141,Center for Ocean-Land-Atmosphere Studies
+7023,5,1,SPM,LA,1689,Peter Lemke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,36,Research Unit Potsdam
+7066,5,1,SPM,LA,1866,Valerie Masson-Delmotte,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+7080,5,1,SPM,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
+7190,5,1,SPM,LA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+7191,5,1,SPM,LA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+7227,5,1,SPM,LA,2582,Christopher Sabine,188,National Oceanographic and Atmospheric Administration (NOAA),USA,102,Pacific Marine Environmental Laboratory
+7315,5,1,SPM,LA,2948,Lynne D. Talley,268,Scripps Institute of Oceanography,USA,174,Scripps Institution of Oceanography
+6708,5,1,SPM,CA,310,Olivier Boucher,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+6738,5,1,SPM,CA,468,Don Chambers,175,University of South Florida,USA,245,Center for Space Research
+6750,5,1,SPM,CA,512,Philippe Ciais,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+6756,5,1,SPM,CA,546,Matthew Collins,131,University of Exeter,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+6816,5,1,SPM,CA,820,Richard Feely,188,National Oceanographic and Atmospheric Administration (NOAA),USA,102,Pacific Marine Environmental Laboratory
+6827,5,1,SPM,CA,846,Gregory Flato,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
+6962,5,1,SPM,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
+7119,5,1,SPM,CA,2083,Gunnar Myhre,241,Center for International Climate and Environment (CICERO),Norway,218,Department of Geosciences
+7175,5,1,SPM,CA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
+7225,5,1,SPM,CA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
+7305,5,1,SPM,CA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5382,5,2,1,LA,552,Cecilia Conde,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+5475,5,2,1,RE,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+5449,5,2,2,CLA,1384,Richard Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5342,5,2,3,LA,124,Nigel Arnell,204,University of Reading,United Kingdom,128,Walker Institute
+5349,5,2,4,LA,252,Richard A. Betts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+5540,5,2,4,LA,2228,Jonathan Overpeck,430,University of Arizona,USA,226,Institute for the Study of Planet Earth
+5414,5,2,4,RE,838,Andreas Fischlin,136,ETH Zurich,Switzerland,32,Systems Ecology
+5512,5,2,4,RE,2029,Ana Rosa Moreno,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,151,School of Medicine
+6174,5,2,5,CA,716,Kirstin Dow,321,University of South Carolina,USA,192,Geography
+5377,5,2,6,LA,493,William Cheung,326,University of British Columbia,Canada,193,Fisheries Centre
+5552,5,2,6,RE,2367,Alexander Polonsky,439,National Academy of Sciences,Ukraine,227,Marine Hydrophysical Institute
+6197,5,2,6,CA,2366,Elvira Poloczanska,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+5514,5,2,9,CLA,2038,John Morton,413,University of Greenwich,United Kingdom,214,Natural Resources Institute
+5330,5,2,12,CLA,27,Neil Adger,131,University of Exeter,United Kingdom,19,College of Life and Environmental Sciences
+5454,5,2,12,LA,1412,Patricia Kameri-Mbote,378,Strathmore University,Kenya,209,Strathmore Law Schoo
+5539,5,2,12,LA,2223,Ursula Oswald Spring,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,152,Centro Regional de Investigaciones Multidiscipinarias
+5536,5,2,13,CLA,2212,Maggie Opondo,427,University of Nairobi,Kenya,223,Institute for Climate Change and Adaptation
+6175,5,2,14,CA,716,Kirstin Dow,321,University of South Carolina,USA,192,Geography
+5561,5,2,15,CLA,2401,Roger Pulwarty,188,National Oceanographic and Atmospheric Administration (NOAA),USA,105,Climate Diagnostics Center
+5516,5,2,15,RE,2044,Richard H. Moss,414,University of Maryland,USA,215,Joint Global Change Research Institute
+5401,5,2,16,LA,716,Kirstin Dow,321,University of South Carolina,USA,192,Geography
+6198,5,2,18,CA,2366,Elvira Poloczanska,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+5619,5,2,20,RE,3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+5327,5,2,22,LA,4,Mohamed Abdrabo,286,University of Alexandria,Egypt,182,Institute of Graduate Studies and Research
+5411,5,2,22,LA,3550,Ama Essel,347,University of Ghana Medical School,Ghana,203,Korle-Bu Teaching Hospital
+5443,5,2,24,LA,1297,Gregory Insarov,263,Russian Federation Academy of Sciences,Russian Federation,169,Institute of Geography
+5378,5,2,25,LA,498,Francis Chiew,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
+5629,5,2,25,LA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+5394,5,2,26,LA,633,M. de Lourdes Villers-Ruiz,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
+5461,5,2,26,LA,1505,Patrick Kinney,185,Columbia University,USA,91,Mailman School of Public Health
+6200,5,2,26,CA,2401,Roger Pulwarty,188,National Oceanographic and Atmospheric Administration (NOAA),USA,105,Climate Diagnostics Center
+5527,5,2,27,LA,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+5535,5,2,27,RE,2207,Jean Ometto,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+6223,5,2,27,CA,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+5384,5,2,28,LA,554,Andrew Constable,330,Australian Antarctic Division,Australia,197,Antarctic Marine Ecosystems Program
+5559,5,2,28,LA,2397,Terry D. Prowse,164,Environment Canada,Canada,55,National Water Research Institute
+5529,5,2,29,CLA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+5358,5,2,29,LA,345,Lino Briguglio,309,University of Malta,Malta,188,Islands and Small States Institute
+5551,5,2,30,LA,2366,Elvira Poloczanska,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+6233,5,2,SPM,LA,4,Mohamed Abdrabo,286,University of Alexandria,Egypt,182,Institute of Graduate Studies and Research
+6236,5,2,SPM,LA,27,Neil Adger,131,University of Exeter,United Kingdom,19,College of Life and Environmental Sciences
+6322,5,2,SPM,LA,716,Kirstin Dow,321,University of South Carolina,USA,192,Geography
+6215,5,2,SPM,LA,1384,Richard Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+6471,5,2,SPM,LA,2038,John Morton,413,University of Greenwich,United Kingdom,214,Natural Resources Institute
+6490,5,2,SPM,LA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
+6500,5,2,SPM,LA,2228,Jonathan Overpeck,430,University of Arizona,USA,226,Institute for the Study of Planet Earth
+6516,5,2,SPM,LA,2366,Elvira Poloczanska,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+6525,5,2,SPM,LA,2401,Roger Pulwarty,188,National Oceanographic and Atmospheric Administration (NOAA),USA,105,Climate Diagnostics Center
+5789,5,3,3,CLA,1553,Charles Kolstad,338,Stanford University,USA,200,Stanford Institute for Economic Policy Research
+5824,5,3,3,LA,2066,Luis Mundaca,425,Lund University,Sweden,222,International Institute for Industrial Environmental Economics
+5667,5,3,3,RE,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
+5697,5,3,4,LA,561,Esteve Corbera,474,University of Barcelona,Spain,230,Institute of Environmental Science and Technology
+5907,5,3,10,LA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
+6053,5,3,15,RE,3813,Martin Jänicke,183,Freie Universität Berlin,Germany,90,Environmental Policy Research Centre
