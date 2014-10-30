@@ -23,59 +23,65 @@ comma=','
 # a double quote character
 quote='"'
 
-# Convert one line of TSV to CSV
-#
-# Parameter:
-#   $1 - string, the line of TSV to convert
-#
-# Output:
-#   the line converted to CSV, printed to standard output
-convertLine()
+escapeTsvField()
 {
-  fields="$1"
-  result=''
-  separator=''
-
-  # loop over fields in each line, using TAB as separator
-  oldIFS="$IFS"
-  IFS="$tab"
-  for field in $fields
+  escapedTsvField=''
+  # add a final double-quote to parse all substrings consistently
+  tsvFieldWithQuote="$tsvField$quote"
+  escapedQuote=''
+  until test -z "$tsvFieldWithQuote"
   do
-    case "$field" in
-      *$quote*)
-        # fields which contain a double-quote must be quoted
-        # with each double-quote doubled from " to "" for escaping
-        escapedField=$(echo "$field" | sed -e "s/$quote/$quote$quote/g")
-        result="$result$separator$quote$escapedField$quote"
-      ;;
-      *$comma*)
-        # fields which contain a comma must be quoted
-        result="$result$separator$quote$field$quote"
-      ;;
-      *|'')
-        # fields without comma are left unquoted
-        result="$result$separator$field"
-    esac
-    separator="$comma"
+    # substring before next double-quote
+    tsvFieldWithoutQuote=${tsvFieldWithQuote%%$quote*}
+    # substring after tsvFieldWithoutQuote and quote
+    tsvFieldWithQuote=${tsvFieldWithQuote#"$tsvFieldWithoutQuote$quote"}
+    escapedTsvField="$escapedTsvField$escapedQuote$tsvFieldWithoutQuote"
+    escapedQuote="$quote$quote"
   done
-  IFS="$oldIFS"
-
-  if test -z "$result"
-  then
-    # replace tabs with commas in empty lines
-    # (which contain no field, but only separators)
-    echo "$fields" | tr "$tab" "$comma"
-  else
-    # print converted line to output
-    echo "$result"
-  fi
 }
 
-# read file line by line, without expanding fields
-# (we want to preserve lines made only of field separators)
+convertTsvField()
+{
+  case "$tsvField" in
+    *$quote*)
+      # fields which contain a double-quote must be quoted
+      # with each double-quote doubled from " to "" for escaping
+      escapeTsvField
+      csvField="$quote$escapedTsvField$quote"
+    ;;
+    *$comma*)
+      # fields which contain a comma must be quoted
+      csvField="$quote$tsvField$quote"
+    ;;
+    *|'')
+      # fields without comma or double-quote are left as is
+      csvField="$tsvField"
+  esac
+}
+
+convertTsvLine()
+{
+  csvLine=''
+  csvSeparator=''
+  # add a final tab to have a tab after the last field as well
+  tsvLine="$tsvLine$tab"
+  until test -z "$tsvLine"
+  do
+    # substring before next tab
+    tsvField=${tsvLine%%$tab*}
+    # substring after tsvField and tab
+    tsvLine=${tsvLine#"$tsvField$tab"}
+    convertTsvField
+    csvLine="$csvLine$csvSeparator$csvField"
+    csvSeparator="$comma"
+  done
+  echo "$csvLine"
+}
+
+# read file line by line, without expanding fields (to preserve TABs)
 IFS=''
-while read -r line
+while read -r tsvLine
 do
-  convertLine "$line"
+  convertTsvLine
 done
 unset IFS
