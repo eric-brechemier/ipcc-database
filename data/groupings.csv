@@ -45,6 +45,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 44,DgE,Developing Economies,8,Bangladesh
 45,G77,G77,8,Bangladesh
 46,NA1,Non-Annex I,8,Bangladesh
+47,LDCs,NULL,8,Bangladesh
 48,CfRN,Coalition of Rainforest Nations,8,Bangladesh
 49,ASI,Asia,8,Bangladesh
 50,GRULAC,Latin American and Caribbean Group,9,Barbados
@@ -69,6 +70,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 69,AG,African Group,12,Benin
 70,G77,G77,12,Benin
 71,NA1,Non-Annex I,12,Benin
+72,LDCs,NULL,12,Benin
 73,OIF,Organisation Internationale de la Francophonie,12,Benin
 74,AFR,Africa,12,Benin
 75,GRULAC,Latin American and Caribbean Group,13,Bermuda
@@ -100,6 +102,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 101,APG,Asian-Pacific Group,18,Cambodia
 102,G77,G77,18,Cambodia
 103,NA1,Non-Annex I,18,Cambodia
+104,LDCs,NULL,18,Cambodia
 105,OIF,Organisation Internationale de la Francophonie,18,Cambodia
 106,ASI,Asia,18,Cambodia
 107,AG,African Group,19,Cameroon
@@ -118,6 +121,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 120,DgE,Developing Economies,21,Chad
 121,G77,G77,21,Chad
 122,NA1,Non-Annex I,21,Chad
+123,LDCs,NULL,21,Chad
 124,OIF,Organisation Internationale de la Francophonie,21,Chad
 125,AFR,Africa,21,Chad
 126,GRULAC,Latin American and Caribbean Group,22,Chile
@@ -193,6 +197,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 196,DgE,Developing Economies,32,Ethiopia
 197,G77,G77,32,Ethiopia
 198,NA1,Non-Annex I,32,Ethiopia
+199,LDCs,NULL,32,Ethiopia
 200,AFR,Africa,32,Ethiopia
 201,APG,Asian-Pacific Group,33,Fiji
 202,G77,G77,33,Fiji
@@ -250,6 +255,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 254,DgE,Developing Economies,40,Guinea
 255,G77,G77,40,Guinea
 256,NA1,Non-Annex I,40,Guinea
+257,LDCs,NULL,40,Guinea
 258,OIF,Organisation Internationale de la Francophonie,40,Guinea
 259,AFR,Africa,40,Guinea
 260,APG,Asian-Pacific Group,41,Hong Kong
@@ -334,6 +340,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 339,AFR,Africa,53,Kenya
 340,APG,Asian-Pacific Group,54,Kiribati
 341,NA1,Non-Annex I,54,Kiribati
+342,LDCs,NULL,54,Kiribati
 343,AOSIS,Alliance of Small Island States,54,Kiribati
 344,SWP,South-West Pacific,54,Kiribati
 345,APG,Asian-Pacific Group,55,Kuwait
@@ -346,6 +353,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 352,APG,Asian-Pacific Group,56,Laos
 353,G77,G77,56,Laos
 354,NA1,Non-Annex I,56,Laos
+355,LDCs,NULL,56,Laos
 356,OIF,Organisation Internationale de la Francophonie,56,Laos
 357,ASI,Asia,56,Laos
 358,EEG,Eastern European Group,57,Lithuania
@@ -357,6 +365,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 364,DgE,Developing Economies,58,Madagascar
 365,G77,G77,58,Madagascar
 366,NA1,Non-Annex I,58,Madagascar
+367,LDCs,NULL,58,Madagascar
 368,CfRN,Coalition of Rainforest Nations,58,Madagascar
 369,OIF,Organisation Internationale de la Francophonie,58,Madagascar
 370,AFR,Africa,58,Madagascar
@@ -364,6 +373,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 372,DgE,Developing Economies,59,Malawi
 373,G77,G77,59,Malawi
 374,NA1,Non-Annex I,59,Malawi
+375,LDCs,NULL,59,Malawi
 376,AFR,Africa,59,Malawi
 377,APG,Asian-Pacific Group,60,Malaysia
 378,DgE,Developing Economies,60,Malaysia
@@ -424,6 +434,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 433,DgE,Developing Economies,70,Mozambique
 434,G77,G77,70,Mozambique
 435,NA1,Non-Annex I,70,Mozambique
+436,LDCs,NULL,70,Mozambique
 437,AFR,Africa,70,Mozambique
 438,AG,African Group,71,Namibia
 439,DgE,Developing Economies,71,Namibia
@@ -434,6 +445,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 444,DgE,Developing Economies,72,Nepal
 445,G77,G77,72,Nepal
 446,NA1,Non-Annex I,72,Nepal
+447,LDCs,NULL,72,Nepal
 448,ASI,Asia,72,Nepal
 449,WEOG,Western Europe and Other States Group,73,New Zealand
 450,DdC,Developed Countries,73,New Zealand
@@ -519,6 +531,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 530,APG,Asian-Pacific Group,87,Samoa
 531,G77,G77,87,Samoa
 532,NA1,Non-Annex I,87,Samoa
+533,LDCs,NULL,87,Samoa
 534,AOSIS,Alliance of Small Island States,87,Samoa
 535,CfRN,Coalition of Rainforest Nations,87,Samoa
 536,SWP,South-West Pacific,87,Samoa
@@ -534,6 +547,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 546,DgE,Developing Economies,89,Senegal
 547,G77,G77,89,Senegal
 548,NA1,Non-Annex I,89,Senegal
+549,LDCs,NULL,89,Senegal
 550,OIF,Organisation Internationale de la Francophonie,89,Senegal
 551,AFR,Africa,89,Senegal
 552,AG,African Group,90,Seychelles
@@ -546,6 +560,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 559,DgE,Developing Economies,91,Sierra Leone
 560,G77,G77,91,Sierra Leone
 561,NA1,Non-Annex I,91,Sierra Leone
+562,LDCs,NULL,91,Sierra Leone
 563,CfRN,Coalition of Rainforest Nations,91,Sierra Leone
 564,AFR,Africa,91,Sierra Leone
 565,APG,Asian-Pacific Group,92,Singapore
@@ -596,6 +611,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 610,DgE,Developing Economies,99,Sudan
 611,G77,G77,99,Sudan
 612,NA1,Non-Annex I,99,Sudan
+613,LDCs,NULL,99,Sudan
 614,LAS,League of Arab States,99,Sudan
 615,AFR,Africa,99,Sudan
 616,AG,African Group,100,Swaziland
@@ -620,6 +636,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 635,DgE,Developing Economies,104,Tanzania
 636,G77,G77,104,Tanzania
 637,NA1,Non-Annex I,104,Tanzania
+638,LDCs,NULL,104,Tanzania
 639,AFR,Africa,104,Tanzania
 640,APG,Asian-Pacific Group,105,Thailand
 641,DdC,Developed Countries,105,Thailand
@@ -631,6 +648,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 647,DgE,Developing Economies,106,The Gambia
 648,G77,G77,106,The Gambia
 649,NA1,Non-Annex I,106,The Gambia
+650,LDCs,NULL,106,The Gambia
 651,AFR,Africa,106,The Gambia
 652,WEOG,Western Europe and Other States Group,107,The Netherlands
 653,DdC,Developed Countries,107,The Netherlands
@@ -643,6 +661,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 660,DgE,Developing Economies,108,Togo
 661,G77,G77,108,Togo
 662,NA1,Non-Annex I,108,Togo
+663,LDCs,NULL,108,Togo
 664,OIF,Organisation Internationale de la Francophonie,108,Togo
 665,AFR,Africa,108,Togo
 666,GRULAC,Latin American and Caribbean Group,109,Trinidad and Tobago
@@ -692,6 +711,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 710,DgE,Developing Economies,115,Uganda
 711,G77,G77,115,Uganda
 712,NA1,Non-Annex I,115,Uganda
+713,LDCs,NULL,115,Uganda
 714,CfRN,Coalition of Rainforest Nations,115,Uganda
 715,AFR,Africa,115,Uganda
 716,EEG,Eastern European Group,116,Ukraine
@@ -737,6 +757,7 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 756,DgE,Developing Economies,122,Zambia
 757,G77,G77,122,Zambia
 758,NA1,Non-Annex I,122,Zambia
+759,LDCs,NULL,122,Zambia
 760,AFR,Africa,122,Zambia
 761,AG,African Group,123,Zimbabwe
 762,DgE,Developing Economies,123,Zimbabwe

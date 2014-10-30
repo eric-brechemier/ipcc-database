@@ -5,9 +5,9 @@ SELECT
   groupings.country_id,
   countries.name AS `Country (INFO)`
 FROM groupings
-JOIN groups
+LEFT JOIN groups
 ON groupings.symbol = groups.symbol
-JOIN countries
+LEFT JOIN countries
 ON groupings.country_id = countries.id
 ORDER BY
   groupings.id,

@@ -1,7 +1,76 @@
 id,ar,wg,role,rank,author_id,Author (INFO),institution_id,Institution (INFO),Country (INFO),department_id,Department (INFO)
+1,1,NULL,IPCC Chair,1,291,Bert Bolin,101,N/A,Sweden,NULL,NULL
+2,1,NULL,IPCC Vice-Chair,2,5018,A. Al Gain,NULL,NULL,NULL,NULL,NULL
+3,1,1,Chairman WGI,3,1244,J.T. Houghton,117,N/A,United Kingdom,NULL,NULL
+4,1,1,Vice-Chair WGI,4,5019,M. Seck,NULL,NULL,NULL,NULL,NULL
+5,1,1,Vice-Chair WGI,4,2049,A D Moura,173,National Institute for Space Research (INPE),Brazil,NULL,NULL
+6,1,2,Chairman WGII,3,5020,Yuri Izrael,NULL,NULL,NULL,NULL,NULL
+7,1,2,Co-Vice-Chairman,4,5021,M. Hashimoto,NULL,NULL,NULL,NULL,NULL
+8,1,2,Co-Vice-Chairman,4,5022,W.J.McG. Tegart,NULL,NULL,NULL,NULL,NULL
+9,1,2,Co-Vice-Chairman,4,5023,I. Shiklomanov,NULL,NULL,NULL,NULL,NULL
+10,1,2,Co-Vice-Chairman,4,1739,H. Lins,312,U.S. Geological Survey,USA,NULL,NULL
+11,1,2,Co-Vice-Chairman,4,5024,E. Stakhiv,NULL,NULL,NULL,NULL,NULL
+12,1,2,Co-Vice-Chairman,4,5025,K Mostefa-Kara,NULL,NULL,NULL,NULL,NULL
+13,1,2,Co-Vice-Chairman,4,5026,M. Styrikovich,NULL,NULL,NULL,NULL,NULL
+14,1,2,Co-Vice-Chairman,4,5027,S. Nishioka,NULL,NULL,NULL,NULL,NULL
+15,1,2,Co-Vice-Chairman,4,5028,A. Tsyban,NULL,NULL,NULL,NULL,NULL
+16,1,2,Co-Vice-Chairman,4,5029,J. Everett,NULL,NULL,NULL,NULL,NULL
+17,1,2,Co-Vice-Chairman,4,5030,J. Titus,NULL,NULL,NULL,NULL,NULL
+18,1,2,Co-Vice-Chairman,4,5031,R.B. Street,NULL,NULL,NULL,NULL,NULL
+19,1,2,Co-Vice-Chairman,4,5032,P.I. Melnikov,NULL,NULL,NULL,NULL,NULL
+20,1,3,Chairman WG III,3,5033,F. Bernthal,NULL,NULL,NULL,NULL,NULL
+21,1,3,Co-Chair WGIII,4,5034,E. Dowdeswell,NULL,NULL,NULL,NULL,NULL
+22,1,3,Co-Chair WGIII,4,1784,Ji-Bin Luo,23,N/A,China,NULL,NULL
+23,1,3,Co-Chair WGIII,4,147,D. Attard,62,N/A,Malta,NULL,NULL
 24,1,3,Co-Chair WGIII,4,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,184,Institute for Environmental Studies
+25,1,3,Co-Chair WGIII,4,1427,R. Karimanzira,123,N/A,Zimbabwe,NULL,NULL
+26,2,NULL,IPCC Chair,1,291,Bert Bolin,101,N/A,Sweden,NULL,NULL
+27,2,1,Co-Chair WGI,3,1244,J.T. Houghton,117,N/A,United Kingdom,NULL,NULL
+28,2,1,Co-Chair WGI,3,1932,L.G. Meira Filho,1046,Agencia Espacial Brasileira,Brazil,NULL,NULL
+29,2,1,Vice-Chair WGI,4,692,Yihui Ding,187,China Meteorological Administration,China,NULL,NULL
+30,2,1,Vice-Chair WGI,4,5035,A.B. Diop,NULL,NULL,NULL,NULL,NULL
+31,2,1,Vice-Chair WGI,4,767,D.H. Ehhalt,1023,Institut fur Chemie der KFA Julich GmbH,Germany,NULL,NULL
+32,2,2,Co-Chair Subgroup C WGII,4,436,Osvaldo F. Canziani,170,Universidad de Buenos Aires,Argentina,NULL,NULL
+33,2,2,Co-Chair Subgroup D WGII,4,5036,Michel Petit,NULL,NULL,NULL,NULL,NULL
+34,2,2,Co-Chair Subgroup A WGII,4,5037,Subodh Sharma,NULL,NULL,NULL,NULL,NULL
+35,2,2,Co-Chair Subgroup A WGII,4,5038,Hiroshi Tsukamoto,NULL,NULL,NULL,NULL,NULL
 36,2,2,Co-Chair Subgroup C WGII,4,231,Martin Beniston,1,N/A,N/A,35,Institute of Geography
 37,2,2,Co-Chair Subgroup B WGII,4,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,184,Institute for Environmental Studies
+38,2,2,Co-Chair Subgroup D WGII,4,887,Jaafar Friaa,110,N/A,Tunisia,NULL,NULL
+39,2,2,Co-Chair WGII,3,3178,Robert T. Watson,124,National Aeronautics and Space Administration (NASA),USA,NULL,NULL
+40,2,2,Co-Chair Subgroup B WGII,4,2302,Martha Perdomo,1332,UNFCCC Secretariat,Venezuela,NULL,NULL
+41,2,2,Co-Chair WGII,3,3377,M.C. Zinyowera,1363,Zimbabwe Meteorological Services,Zimbabwe,NULL,NULL
+42,2,3,Co-Chair WGIII,3,372,James P. Bruce,781,Canadian Climate Program Board,Canada,NULL,NULL
+43,2,3,Co-Chair WGIII,3,1676,Hoesung Lee,954,Council on Energy and Environment Korea,South Korea,NULL,NULL
+44,2,3,Vice-Chairs WGIII,4,2170,Richard Odingo,427,University of Nairobi,Kenya,NULL,NULL
+45,2,3,Vice-Chairs WGIII,4,1766,L. Lorentsen,1188,Ministry of Finance,Norway,NULL,NULL
+46,2,3,Vice-Chairs WGIII,4,5039,Theodore Hanisch,NULL,NULL,NULL,NULL,NULL
+47,3,NULL,IPCC Chair,1,3178,Robert T. Watson,124,National Aeronautics and Space Administration (NASA),USA,NULL,NULL
+48,3,1,Co-Chair WGI,3,1244,J.T. Houghton,117,N/A,United Kingdom,NULL,NULL
+49,3,1,Co-Chair WGI,3,692,Yihui Ding,187,China Meteorological Administration,China,NULL,NULL
+50,3,2,Co-Chair WGII,3,436,Osvaldo F. Canziani,170,Universidad de Buenos Aires,Argentina,NULL,NULL
+51,3,2,Vice-Chair WGII,4,5036,Michel Petit,NULL,NULL,NULL,NULL,NULL
+52,3,2,Co-Chair WGII,3,1895,James J. McCarthy,215,Harvard University,USA,NULL,NULL
+53,3,3,Vice-Chair WGIII,4,2329,Ramon Pichs-Madruga,973,Centro de Investigaciones de Economia Mundial (CIEM),Cuba,NULL,NULL
+54,3,3,Co-Chair WGIII,3,1949,Bert Metz,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+55,4,NULL,IPCC Chair,1,2234,R.K. Pachauri,915,Tata Energy Research Institute (TERI),India,NULL,NULL
+56,4,NULL,IPCC Vice-Chair,2,2170,Richard Odingo,427,University of Nairobi,Kenya,NULL,NULL
+57,4,NULL,IPCC Vice-Chair,2,2064,Mohan Munasinghe,963,Munasinghe Institute for Development,Sri Lanka,NULL,NULL
+58,4,NULL,IPCC Vice-Chair,2,5020,Yuri Izrael,NULL,NULL,NULL,NULL,NULL
+59,4,1,Co-Chair WGI,3,2405,Dahe Qin,141,State Key Laboratory for Cryospheric Science,China,NULL,NULL
 60,4,1,Co-Chair WGI,3,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
+61,4,2,Co-Chair WGII,3,436,Osvaldo F. Canziani,170,Universidad de Buenos Aires,Argentina,NULL,NULL
 62,4,2,Co-Chair WGII,3,2266,Martin Parry,182,Met Office,United Kingdom,88,Hadley Centre Centre for Environmental Policy
+63,4,3,Co-Chair WGIII,3,617,Ogunlade R. Davidson,149,University of Cape Town,South Africa,NULL,NULL
+64,4,3,Co-Chair WGIII,3,1949,Bert Metz,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+65,5,NULL,IPCC Chair,1,2234,R.K. Pachauri,915,Tata Energy Research Institute (TERI),India,NULL,NULL
+66,5,NULL,IPCC Vice-Chair,2,1676,Hoesung Lee,954,Council on Energy and Environment Korea,South Korea,NULL,NULL
 67,5,NULL,IPCC Vice-Chair,2,3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
+68,5,NULL,IPCC Vice-Chair,2,774,Ismail Elgizouli,857,High Council for Environment and Natural Resources (HCENR),Sudan,NULL,NULL
+69,5,1,Co-Chair WGI,3,2880,Thomas F. Stocker,126,University of Bern,Switzerland,NULL,NULL
+70,5,1,Co-Chair WGI,3,2405,Dahe Qin,141,State Key Laboratory for Cryospheric Science,China,NULL,NULL
+71,5,2,Co-Chair WGII,3,829,Christopher B. Field,113,N/A,USA,NULL,NULL
+72,5,2,Co-Chair WGII,3,5040,Vincente Ricardo Barros,NULL,NULL,NULL,NULL,NULL
+73,5,3,Co-Chair WGIII,3,760,Ottmar Edenhofer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+74,5,3,Co-Chair WGIII,3,2329,Ramon Pichs-Madruga,973,Centro de Investigaciones de Economia Mundial (CIEM),Cuba,NULL,NULL
+75,5,3,Co-Chair WGIII,3,2817,Youba Sokona,988,Sahara and Sahel Observatory (OSS) Tunis,Tunisia,NULL,NULL

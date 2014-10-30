@@ -6,7 +6,7 @@ SELECT
     authors.last_name
   ) AS `Author (INFO)`
 FROM author_aliases
-JOIN authors
+LEFT JOIN authors
 ON author_aliases.author_id = authors.id
 ORDER BY
   author_aliases.author_id,

@@ -16,21 +16,21 @@ SELECT
   participations.department_id,
   departments.name AS `Department (INFO)`
 FROM participations
-JOIN authors
+LEFT JOIN authors
 ON participations.author_id = authors.id
-JOIN chapters
+LEFT JOIN chapters
 ON participations.ar = chapters.ar
 AND participations.wg = chapters.wg
 AND participations.chapter = chapters.number
-JOIN roles
+LEFT JOIN roles
 ON participations.role = roles.symbol
-JOIN institution_countries
+LEFT JOIN institution_countries
 ON participations.institution_country_id = institution_countries.id
-JOIN institutions
+LEFT JOIN institutions
 ON institution_countries.institution_id = institutions.id
-JOIN countries
+LEFT JOIN countries
 ON institution_countries.country_id = countries.id
-JOIN departments
+LEFT JOIN departments
 ON participations.department_id = departments.id
 ORDER BY
   participations.ar,

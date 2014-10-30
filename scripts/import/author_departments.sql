@@ -8,9 +8,9 @@ SELECT
   author_departments.department_id,
   departments.name AS `Department (INFO)`
 FROM author_departments
-JOIN authors
+LEFT JOIN authors
 ON author_departments.author_id = authors.id
-JOIN departments
+LEFT JOIN departments
 ON author_departments.department_id = departments.id
 ORDER BY
   author_departments.author_id,

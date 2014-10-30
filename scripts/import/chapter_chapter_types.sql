@@ -6,9 +6,9 @@ SELECT
   chapter_chapter_types.chapter_type_id,
   chapter_types.name AS `Chapter Type (INFO)`
 FROM chapter_chapter_types
-JOIN chapters
+LEFT JOIN chapters
 ON chapter_chapter_types.chapter_id = chapters.id
-JOIN chapter_types
+LEFT JOIN chapter_types
 ON chapter_chapter_types.chapter_type_id = chapter_types.id
 ORDER BY
   chapter_chapter_types.chapter_id,
