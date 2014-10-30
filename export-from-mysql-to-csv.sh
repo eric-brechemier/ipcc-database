@@ -21,8 +21,7 @@ else
   passwordParam="--password $password"
 fi
 
-# Use `giec` for bootstrap, to be replaced with `ipcc`
-database=giec
+database=ipcc
 query="mysql --host $host --user $user $passwordParam"
 
 table2csv()
