@@ -29,7 +29,7 @@ table2csv()
   table=$(basename $1 .sql)
   echo "Export table $database.$table to CSV file data/$table.csv"
   $query $database < $1 \
-  | ../tsv2csv.sh > "../../data/$table.csv"
+  | awk -f ../tsv2csv.awk > "../../data/$table.csv"
 }
 
 # change to the script's directory
