@@ -255,6 +255,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 261,261,Service Météorologique,89,Senegal
 262,262,South African Weather Service,95,South Africa
 263,263,Russian Federation Academy of Sciences,86,Russian Federation
+1422,263,Russian Federation Academy of Sciences,114,USSR
 264,264,University of Hamburg,36,Germany
 266,266,University of Rowan,117,United Kingdom
 267,267,Kyushu University,51,Japan
@@ -1262,6 +1263,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1309,1309,National Institute of Deserts,112,Turkmenistan
 1310,1310,Geobotanik,102,Switzerland
 1311,1311,Russian Federal Research Institute of Fisheries and Oceanography,86,Russian Federation
+1423,1311,Russian Federal Research Institute of Fisheries and Oceanography,114,USSR
 1313,1313,Northern Prairie Science Center,113,USA
 1314,1314,CEFE,35,France
 1315,1315,University of Agricultural Sciences,101,Sweden

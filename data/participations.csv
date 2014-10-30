@@ -375,7 +375,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 329,1,2,3,CA,2826,Allen M. Solomon,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 353,1,2,3,CA,3091,Andrei A. Velichko,1,N/A,N/A,NULL,NULL
 408,1,2,4,LA,1739,H. Lins,312,U.S. Geological Survey,USA,NULL,NULL
-409,1,2,4,LA,2748,Igor Shiklomanov,294,State Hydrological Institute,Russian Federation,NULL,NULL
+409,1,2,4,LA,2748,Igor Shiklomanov,1395,State Hydrological Institute,USSR,NULL,NULL
 410,1,2,4,LA,2856,Eugene Z. Stakhiv,1148,U.S. Army Institute for Water Resources,USA,NULL,NULL
 414,1,2,4,CA,3551,M. Ayers,1,N/A,N/A,NULL,NULL
 25,1,2,4,CA,238,M. Beran,117,N/A,United Kingdom,NULL,NULL
@@ -438,11 +438,11 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 466,1,2,6,CA,3589,S. Chernyak,1,N/A,N/A,NULL,NULL
 481,1,2,6,CA,796,David Etkin,164,Environment Canada,Canada,NULL,NULL
 483,1,2,6,CA,979,Michael H. Glantz,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-484,1,2,6,CA,981,B.V. Glebov,263,Russian Federation Academy of Sciences,Russian Federation,NULL,NULL
+484,1,2,6,CA,981,B.V. Glebov,1422,Russian Federation Academy of Sciences,USSR,NULL,NULL
 101,1,2,6,CA,1030,C. Griffiths,6,N/A,Australia,NULL,NULL
 467,1,2,6,CA,3590,P. Kaplin,1,N/A,N/A,NULL,NULL
 468,1,2,6,CA,3591,NULL,1,N/A,N/A,NULL,NULL
-485,1,2,6,CA,1581,Andrei Krovnin,1311,Russian Federal Research Institute of Fisheries and Oceanography,Russian Federation,NULL,NULL
+485,1,2,6,CA,1581,Andrei Krovnin,1423,Russian Federal Research Institute of Fisheries and Oceanography,USSR,NULL,NULL
 469,1,2,6,CA,3592,A. Lapenis,1,N/A,N/A,NULL,NULL
 470,1,2,6,CA,3593,E. LaRoe,1,N/A,N/A,NULL,NULL
 471,1,2,6,CA,3594,A. Lukin,1,N/A,N/A,NULL,NULL
@@ -457,7 +457,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 411,1,2,6,CA,2856,Eugene Z. Stakhiv,1148,U.S. Army Institute for Water Resources,USA,NULL,NULL
 479,1,2,6,CA,3602,R. Stewart,1,N/A,N/A,NULL,NULL
 480,1,2,6,CA,3603,S. Zeeman,1,N/A,N/A,NULL,NULL
-507,1,2,7,CA,102,Oleg A. Anisimov,294,State Hydrological Institute,Russian Federation,NULL,NULL
+507,1,2,7,CA,102,Oleg A. Anisimov,1395,State Hydrological Institute,USSR,NULL,NULL
 493,1,2,7,CA,3611,H. Baker,20,N/A,Canada,NULL,NULL
 503,1,2,7,CA,3621,D.M. Barnett,20,N/A,Canada,NULL,NULL
 496,1,2,7,CA,3614,M. Brugman,20,N/A,Canada,NULL,NULL
