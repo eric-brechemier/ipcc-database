@@ -13,13 +13,13 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 12,OPEC,Organization of the Petroleum Exporting Countries,3,Algeria
 13,LAS,League of Arab States,3,Algeria
 14,AFR,Africa,3,Algeria
-15,GRULAC,Latin American and Caribbean Group,4,Antigua
-16,DgE,Developing Economies,4,Antigua
-17,G77,G77,4,Antigua
-18,NA1,Non-Annex I,4,Antigua
-19,AOSIS,Alliance of Small Island States,4,Antigua
-20,ALBA,Bolivarian Alliance for the Peoples of our America,4,Antigua
-21,NAC,"North America, Central America and the Caribbean",4,Antigua
+15,GRULAC,Latin American and Caribbean Group,4,Antigua and Barbuda
+16,DgE,Developing Economies,4,Antigua and Barbuda
+17,G77,G77,4,Antigua and Barbuda
+18,NA1,Non-Annex I,4,Antigua and Barbuda
+19,AOSIS,Alliance of Small Island States,4,Antigua and Barbuda
+20,ALBA,Bolivarian Alliance for the Peoples of our America,4,Antigua and Barbuda
+21,NAC,"North America, Central America and the Caribbean",4,Antigua and Barbuda
 22,GRULAC,Latin American and Caribbean Group,5,Argentina
 23,DgE,Developing Economies,5,Argentina
 24,G20,G20,5,Argentina

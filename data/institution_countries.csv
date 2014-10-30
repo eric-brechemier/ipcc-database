@@ -2,7 +2,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1,1,N/A,1,N/A
 2,1,N/A,2,Albania
 3,1,N/A,3,Algeria
-4,1,N/A,4,Antigua
+4,1,N/A,4,Antigua and Barbuda
 5,1,N/A,5,Argentina
 6,1,N/A,6,Australia
 7,1,N/A,7,Austria
@@ -1044,7 +1044,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1093,1093,University of Newcastle upon Tyne,117,United Kingdom
 1094,1094,Winrock International,113,USA
 1095,1095,Instituto Oswaldo Cruz,5,Argentina
-1096,1096,Antigua Public Utilities Authority (APUA),4,Antigua
+1096,1096,Antigua Public Utilities Authority (APUA),4,Antigua and Barbuda
 1097,1097,British Trust for Ornithology,117,United Kingdom
 1098,1098,Queensland Centre for Climate Applications (QCCA)/,6,Australia
 1099,1099,Universidade Nova de Lisboa,83,Portugal
