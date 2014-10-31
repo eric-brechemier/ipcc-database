@@ -35,8 +35,8 @@ table2csv()
 # change to the script's directory
 cd $(dirname $0)
 
-# change to import scripts directory
-cd scripts/import
+# change to export scripts directory
+cd scripts/export
 
 for script in *.sql
 do
