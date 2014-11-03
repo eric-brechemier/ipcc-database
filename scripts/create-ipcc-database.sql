@@ -49,8 +49,25 @@ CREATE TABLE IF NOT EXISTS `institution_aliases` (
 
 CREATE TABLE IF NOT EXISTS `countries` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `code` char(3) UNIQUE NOT NULL,
   `name` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `indicators` (
+  `code` char(14) PRIMARY KEY,
+  `name` varchar(255) DEFAULT NULL,
+  `source` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE IF NOT EXISTS `indicator_values` (
+  `indicator_code` char(14) REFERENCES `indicators` (`code`),
+  `country_code` char(3) REFERENCES `countries` (`code`),
+  `year` char(4) NOT NULL,
+  `value` decimal(22,11) NOT NULL,
+  PRIMARY KEY (`indicator_code`,`country_code`,`year`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 

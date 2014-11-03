@@ -76,6 +76,7 @@ chapters +--1 working_groups {label:"working_group_id"}
 
 [countries]
 *id {label:"int(10)"}
+code {label:"char(3)"}
 name {label:"varchar(255)"}
 
 [country_aliases]
@@ -83,6 +84,20 @@ name {label:"varchar(255)"}
 country_id {label:"int(10)"}
 
 countries 1--+ country_aliases {label:"country_id"}
+
+[indicators]
+*code {label:"char(14)"}
+name {label:"varchar(255)"}
+source {label:"varchar(255)"}
+
+[indicator_values]
+*indicator_code {label:"char(14)"}
+*country_code {label:"char(3)"}
+year {label:"char(4)"}
+value {label:"decimal(10,10)"}
+
+indicators 1--+ indicator_values {label:"indicator_code"}
+countries 1--+ indicator_values {label:"country_code = code"}
 
 [departments]
 *id {label:"int(10)"}

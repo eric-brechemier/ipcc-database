@@ -73,8 +73,12 @@ import institution_types id,name,symbol
 import institutions id,name,institution_type_id,@skip
 import institution_aliases alias,institution_id,@skip
 
-import countries id,name
+import countries id,code,name
 import country_aliases alias,country_id,@skip
+
+import indicators code,name,source
+import indicator_values \
+  indicator_code,@skip,country_code,@skip,year,value
 
 import groups id,symbol,name,type
 import groupings id,symbol,@skip,country_id,@skip
