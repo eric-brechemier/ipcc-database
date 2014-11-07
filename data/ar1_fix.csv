@@ -56,8 +56,8 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 ,391,F.,Bultot,1,2,4,CA,Royal Meteorological Institute,Belgium
 ,404,E.,Byutner,1,1,12,CA,Main Geophysical Observatory,USSR
 ,405,D.L.,Cadet,1,1,7,LA,Institut National des Sciences de l'Univers,France
-1,,T.V.,Callaghan,1,1,10,CLA,Institute of Terrestrial Ecology,United Kingdom
-1,,T.V.,Callaghan,1,2,3,CA,Institute of Terrestrial Ecology,United Kingdom
+1,NULL,T.V.,Callaghan,1,1,10,CLA,Institute of Terrestrial Ecology,United Kingdom
+1,NULL,T.V.,Callaghan,1,2,3,CA,Institute of Terrestrial Ecology,United Kingdom
 ,435,V.,Canuto,1,1,5,LA,National Aeronautics and Space Administration (NASA),USA
 ,437,H-X.,Cao,1,1,5,LA,State Meteorological Administration,China
 ,454,H.,Cattle,1,1,3,LA,Met Office,United Kingdom
@@ -131,7 +131,7 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 ,1030,C.,Griffiths,1,2,4,CA,N/A,Australia
 ,1030,C.,Griffiths,1,2,6,CA,N/A,Australia
 ,1032,J.P.,Grime,1,1,10,LA,University of Sheffield,United Kingdom
-1,,P. Ya,Groisman,1,1,7,LA,State Hydrological Institute,USSR
+1,NULL,P. Ya,Groisman,1,1,7,LA,State Hydrological Institute,USSR
 ,1037,S.,Grotch,1,1,4,LA,Lawrence Livermore National Laboratory,USA
 ,1037,S.,Grotch,1,1,5,LA,Lawrence Livermore National Laboratory,USA
 ,1038,J.M.,Grove,1,1,9,LA,University of Cambridge,United Kingdom
@@ -168,7 +168,7 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 ,3615,S.M.,Hodge,1,2,7,CA,N/A,USA
 ,1209,M.,Hoffert,1,1,6,LA,New York University,USA
 ,1218,R.,Holesgrove,1,2,3,CA,N/A,Australia
-1,,P.,Holligan,1,1,10,LA,Plymouth Marine Laboratory,United Kingdom
+1,NULL,P.,Holligan,1,1,10,LA,Plymouth Marine Laboratory,United Kingdom
 0,1227,E.O.,Holopainen,1,1,10,LA,University of Helsinki,Finland
 1,1227,E.O.,Holopainen,1,1,4,LA,University of Helsinki,Finland
 0,1229,Jarle Inge,Holten,1,1,4,LA,Terrestrial Ecology Research Institute,Norway
@@ -180,7 +180,7 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 1,1259,Nguyen,Hu Ninh,1,2,2,CA,Centre for Environment Research Education and Development,Vietnam
 0,1275,B.,Hunt,1,2,2,CA,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 ,1275,B.,Hunt,1,1,5,LA,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-1,,B.,Huntley,1,1,5,LA,University of Durham,United Kingdom
+1,NULL,B.,Huntley,1,1,5,LA,University of Durham,United Kingdom
 0,1279,N.,Husson,1,1,5,LA,Institut Pierre Simon Laplace (IPSL),France
 1,1279,N,Husson,1,1,2,LA,Institut Pierre Simon Laplace (IPSL),France
 0,1286,A.,Ibrahim,1,1,2,LA,N/A,Egypt
@@ -188,7 +188,7 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 0,1301,I.S.A,Isaksen,1,3,10,CLA,University of Oslo,Norway
 ,1329,Anthony,Janetos,1,1,12,CA,H. John Heinz III Center for Science Economics and the Environment,USA
 1,1329,Anthony,Janetos,1,2,3,CLA,H. John Heinz III Center for Science Economics and the Environment,USA
-,1336,P.G.,Jarvis,1,2,3,CLA,University of Edinburgh,United Kingdom
+0,1336,P.G.,Jarvis,1,2,3,CLA,University of Edinburgh,United Kingdom
 1,1336,P.G.,Jarvis,1,1,10,LA,University of Edinburgh,United Kingdom
 ,1344,G.,Jendritzky,1,2,5,CA,N/A,Germany
 0,1346,G.J.,Jenkins,1,1,10,LA,Met Office,United Kingdom
@@ -247,7 +247,7 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 ,3591,NULL,Korsak,1,2,6,CA,N/A,N/A
 ,3608,E.A.,Köster,1,2,7,CA,N/A,The Netherlands
 ,1581,Andrei,Krovnin,1,2,6,CA,Russian Federal Research Institute of Fisheries and Oceanography,Russian Federation
-1,,G.,Kukla,1,1,7,LA,Lamont-Doherty Geological Laboratory,USA
+1,NULL,G.,Kukla,1,1,7,LA,Lamont-Doherty Geological Laboratory,USA
 0,1596,D.,Kupfer,1,1,7,LA,N/A,Germany
 0,1600,K,Kurz,1,3,4,CLA,Max-Planck Institute for Meteorology,Germany
 ,1604,J.E.,Kutzbach,1,1,12,CA,University of Wisconsin,USA
@@ -289,7 +289,7 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 ,3580,J.D.,Longstreth,1,2,5,CA,N/A,N/A
 0,1765,N.,Lopoukhine,1,1,10,LA,N/A,Canada
 1,1765,N.,Lopoukhine,1,2,3,CLA,N/A,Canada
-,1768,C.,Lorius,1,2,3,CLA,Laboratoire de Glaciologie et GÃ©ophysique de l'Environnement (LGGE),France
+0,1768,C.,Lorius,1,2,3,CLA,Laboratoire de Glaciologie et GÃ©ophysique de l'Environnement (LGGE),France
 1,1768,C.,Lorius,1,1,5,LA,Laboratoire de Glaciologie et GÃ©ophysique de l'Environnement (LGGE),France
 1,1768,C.,Lorius,1,1,9,LA,Laboratoire de Glaciologie et GÃ©ophysique de l'Environnement (LGGE),France
 0,1781,A.,Lugo,1,1,5,LA,Institute of Tropical Forestry,USA
@@ -336,7 +336,7 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 1,1934,V. ,Meleshko,1,1,5,CLA,Main Geophysical Observatory,USSR
 0,1935,J.M.,Melillo,1,1,5,CLA,Marine Biological Laboratory,USA
 1,1935,J.M.,Melillo,1,1,10,CLA,Marine Biological Laboratory,USA
-1,,L.,Melivat,1,1,1,LA,N/A,N/A
+1,NULL,L.,Melivat,1,1,1,LA,N/A,N/A
 0,1937,L.,Menchaca,1,1,10,CLA,N/A,Mexico
 ,1937,L.,Menchaca,1,2,7,CA,N/A,Mexico
 1,1937,L.,Menchaca,1,2,3,CA,N/A,Mexico
@@ -550,12 +550,12 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 ,3164,R.,Waring,1,1,10,LA,Oregon State University,USA
 ,3170,Richard A.,Warrick,1,1,9,CLA,University of East Anglia,United Kingdom
 ,3170,Richard A.,Warrick,1,1,12,CA,University of East Anglia,United Kingdom
-1,,D.,Warrilow,1,1,5,LA,N/A,N/A
+1,NULL,D.,Warrilow,1,1,5,LA,N/A,N/A
 ,3572,G.,Waschke,1,2,5,CA,N/A,N/A
 ,3574,N.,Washida,1,2,5,CA,N/A,N/A
 ,3174,W.M.,Washington,1,1,8,LA,National Center for Atmospheric Research (NCAR),USA
 ,3178,Robert T.,Watson,1,1,1,CLA,National Aeronautics and Space Administration (NASA),USA
-1,,A.,Watson,1,1,1,LA,N/A,N/A
+1,NULL,A.,Watson,1,1,1,LA,N/A,N/A
 ,3576,W.H.,Weihe,1,2,5,CA,N/A,N/A
 ,3192,R.,Wein,1,2,3,CLA,N/A,Canada
 ,3203,W.,Westman,1,2,3,CLA,N/A,USA
@@ -600,13 +600,13 @@ Modifications,author_id,first_name,last_name,ar,wg,chapter,role,institution,coun
 ,3341,Q.-C.,Zeng,1,1,4,CLA,Chinese Academy of Sciences,China
 ,3342,Z.,Zeng,1,1,7,LA,Atmospheric & Environmental Research Inc.,USA
 ,3350,Jia-cheng,Zhang,1,2,2,CA,N/A,China
-1,,X.,Zhou,1,1,7,LA,N/A,N/A
+1,NULL,X.,Zhou,1,1,7,LA,N/A,N/A
 ,3385,Francis W.,Zwiers,1,1,8,LA,Environment Canada,Canada
 1,1301,I.S.A,Isaksen,1,1,12,CA,University of Oslo,Norway
 1,1367,C.E.,Johnson,1,1,12,CA,Harwell Laboratory,United Kingdom
 1,1433,I,Karol,1,1,12,CA,Main Geophysical Observatory,USSR
 1,1506,D.,Kinnison,1,1,12,CA,Lawrence Livermore National Laboratory,USA
 1,1515,A.,Kiselev,1,1,12,CA,Main Geophysical Observatory,USSR
-1,,G.J.,Jenkins,1,1,12,LA,Meteorological Office,United Kingdom
+1,NULL,G.J.,Jenkins,1,1,12,LA,Meteorological Office,United Kingdom
 1,1600,K,Kurz,1,1,12,CA,Max-Planck Institute for Meteorology,Germany
-1,,C.,Bruhl,1,1,12,CA,Max-Planck Institute for Chemistry,Germany
+1,NULL,C.,Bruhl,1,1,12,CA,Max-Planck Institute for Chemistry,Germany
