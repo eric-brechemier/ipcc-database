@@ -1,5 +1,5 @@
 id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution (INFO),Country (INFO),department_id,Department (INFO)
-241,1,1,1,CLA,2176,Laban J. Ogallo,427,University of Nairobi,Kenya,NULL,NULL
+7448,1,1,1,CLA,2174,H Oeschger,126,University of Bern,Switzerland,NULL,NULL
 288,1,1,1,CLA,2527,H. Rodhe,1062,University of Stockholm,Sweden,NULL,NULL
 321,1,1,1,CLA,2765,U. Siegenthaler,126,University of Bern,Switzerland,NULL,NULL
 371,1,1,1,CLA,3178,Robert T. Watson,124,National Aeronautics and Space Administration (NASA),USA,NULL,NULL
@@ -16,14 +16,13 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 113,1,1,1,LA,1120,R. Harriss,1050,University of New Hampshire,USA,NULL,NULL
 125,1,1,1,LA,1160,Martin Heimann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 135,1,1,1,LA,1245,Richard A. Houghton,1031,Woods Hole Research Center,USA,NULL,NULL
-167,1,1,1,LA,1515,A. Kiselev,1396,Main Geophysical Observatory,USSR,NULL,NULL
+7416,1,1,1,LA,1510,V. Kirchhoff,173,National Institute for Space Research (INPE),Brazil,NULL,NULL
 172,1,1,1,LA,1544,G. Kohlmaier,1405,Institut fur Physikahsche und Theoretisch Chemie,Germany,NULL,NULL
-177,1,1,1,LA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
+7435,1,1,1,LA,1611,S. Lai,254,Physical Research Laboratory,India,NULL,NULL
+7495,1,1,1,LA,1741,P. Liss,231,University of East Anglia,United Kingdom,NULL,NULL
 188,1,1,1,LA,1760,J.A. Logan,215,Harvard University,USA,NULL,NULL
-189,1,1,1,LA,1762,J. Lomas,48,N/A,Israel,NULL,NULL
-197,1,1,1,LA,1799,Michael C. MacCracken,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+7471,1,1,1,LA,1790,R.J. Luxmoore,271,Oak Ridge National Laboratory,USA,NULL,NULL
 219,1,1,1,LA,1990,K. Minami,1193,National Institute of Agro-Environmental Sciences,Japan,NULL,NULL
-220,1,1,1,LA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 258,1,1,1,LA,2284,G. Pearman,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 260,1,1,1,LA,2296,S. Penkett,231,University of East Anglia,United Kingdom,NULL,NULL
 282,1,1,1,LA,2456,Dominique Raynaud,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),France,NULL,NULL
@@ -37,7 +36,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 384,1,1,1,LA,3247,P. Winkler,694,Deutscher Wetterdienst,Germany,NULL,NULL
 385,1,1,1,LA,3253,Steven C. Wofsy,215,Harvard University,USA,NULL,NULL
 66,1,1,2,CLA,663,R.G. Derwent,1399,Harwell Laboratory,United Kingdom,NULL,NULL
-224,1,1,2,CLA,2027,P. Morel,700,World Meteorological Organization (WMO),Switzerland,NULL,NULL
+7496,1,1,2,CLA,2025,J-J. Morcrette,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
 317,1,1,2,CLA,2750,Keith P. Shine,204,University of Reading,United Kingdom,NULL,NULL
 393,1,1,2,CLA,3280,Donald J. Wuebbles,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 9,1,1,2,LA,112,A.J. Apling,1390,Global Atmosphere Division,United Kingdom,285,Department of the Environment
@@ -45,10 +44,10 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 53,1,1,2,LA,481,R. Charlson,132,University of Washington,USA,NULL,NULL
 59,1,1,2,LA,586,D. Crommelynck,1282,Royal Meteorological Institute,Belgium,NULL,NULL
 98,1,1,2,LA,1017,H. Grassl,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
-140,1,1,2,LA,1286,A. Ibrahim,30,N/A,Egypt,NULL,NULL
-145,1,1,2,LA,1347,R. Jenne,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-156,1,1,2,LA,1434,David J. Karoly,216,Monash University,Australia,NULL,NULL
-164,1,1,2,LA,1506,D. Kinnison,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+7428,1,1,2,LA,1279,N. Husson,167,Institut Pierre Simon Laplace (IPSL),France,NULL,NULL
+7487,1,1,2,LA,1346,G.J. Jenkins,182,Met Office,United Kingdom,NULL,NULL
+7481,1,1,2,LA,1433,I. Karol,1396,Main Geophysical Observatory,USSR,NULL,NULL
+7454,1,1,2,LA,1501,M.D. King,124,National Aeronautics and Space Administration (NASA),USA,NULL,NULL
 273,1,1,2,LA,2427,Veerabhadran Ramanathan,661,University of Chicago,USA,NULL,NULL
 289,1,1,2,LA,2527,H. Rodhe,1062,University of Stockholm,Sweden,NULL,NULL
 316,1,1,2,LA,2747,G.Y. Shi,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
@@ -60,7 +59,8 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 60,1,1,3,CLA,593,Ulrich Cubasch,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 39,1,1,3,LA,339,F.P. Bretherton,731,University of Wisconsin,USA,NULL,NULL
 50,1,1,3,LA,454,H. Cattle,182,Met Office,United Kingdom,NULL,NULL
-136,1,1,3,LA,1259,Nguyen Hu Ninh,810,Centre for Environment Research Education and Development,Vietnam,NULL,NULL
+7486,1,1,3,LA,1244,J.T. Houghton,182,Met Office,United Kingdom,NULL,NULL
+7488,1,1,3,LA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,NULL,NULL
 221,1,1,3,LA,2025,J-J. Morcrette,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
 275,1,1,3,LA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
 290,1,1,3,LA,2531,Erich Roeckner,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
@@ -79,14 +79,14 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 69,1,1,4,LA,684,Robert E. Dickinson,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 103,1,1,4,LA,1037,S. Grotch,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 115,1,1,4,LA,1123,Danny Harvey,313,University of Toronto,Canada,NULL,NULL
-133,1,1,4,LA,1229,Jarle Inge Holten,1111,Terrestrial Ecology Research Institute,Norway,NULL,NULL
-147,1,1,4,LA,1355,X. Jiang,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
-176,1,1,4,LA,1611,S. Lai,254,Physical Research Laboratory,India,NULL,NULL
-178,1,1,4,LA,1687,J.C. Leiva,748,"Instituto Argentino de Nivología,Glaciología y Ciencias Ambientales",Argentina,NULL,NULL
-180,1,1,4,LA,1703,P. Levelle,167,Institut Pierre Simon Laplace (IPSL),France,67,Laboratoire d'Ecologie de l'Ecole Normale
-207,1,1,4,LA,1893,Gordon McBean,326,University of British Columbia,Canada,NULL,NULL
-211,1,1,4,LA,1934,V. Meleshko,1396,Main Geophysical Observatory,USSR,NULL,NULL
-225,1,1,4,LA,2035,James Morison,204,University of Reading,United Kingdom,NULL,NULL
+7427,1,1,4,LA,1227,E.O. Holopainen,274,University of Helsinki,Finland,NULL,NULL
+7457,1,1,4,LA,1347,R. Jenne,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+7472,1,1,4,LA,1604,J.E. Kutzbach,731,University of Wisconsin,USA,NULL,NULL
+7429,1,1,4,LA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,NULL,NULL
+7432,1,1,4,LA,1689,Peter Lemke,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
+7414,1,1,4,LA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,NULL,NULL
+7459,1,1,4,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+7449,1,1,4,LA,2027,P. Morel,700,World Meteorological Organization (WMO),Switzerland,NULL,NULL
 252,1,1,4,LA,2246,Timothy N. Palmer,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
 270,1,1,4,LA,2381,L.P. Prahm,179,Danish Meteorological Institute,Denmark,NULL,NULL
 306,1,1,4,LA,2668,Stephen Schneider,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
@@ -95,9 +95,9 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 364,1,1,4,LA,3141,John E. Walsh,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
 374,1,1,4,LA,3204,R.T. Wetherald,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 381,1,1,4,LA,3232,Jurgen Willebrand,1079,Institut fur Meereskunde an der Universitat Kiel,Germany,NULL,NULL
-204,1,1,5,CLA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
-214,1,1,5,CLA,1935,J.M. Melillo,1039,Marine Biological Laboratory,USA,NULL,NULL
-222,1,1,5,CLA,2025,J-J. Morcrette,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
+7464,1,1,5,CLA,1830,S. Manabe,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
+7482,1,1,5,CLA,1934,V. Meleshko,1396,Main Geophysical Observatory,USSR,NULL,NULL
+7489,1,1,5,CLA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,NULL,NULL
 348,1,1,5,CLA,3010,T. Tokioka,225,Meteorological Research Institute,Japan,NULL,NULL
 15,1,1,5,LA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
 27,1,1,5,LA,239,André Berger,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
@@ -111,17 +111,16 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 107,1,1,5,LA,1070,R.J. Haarsma,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
 124,1,1,5,LA,1152,A. Hecht,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 138,1,1,5,LA,1275,B. Hunt,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
-139,1,1,5,LA,1279,N. Husson,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
-161,1,1,5,LA,1471,L. Kettunen,34,N/A,Finland,NULL,NULL
-171,1,1,5,LA,1544,G. Kohlmaier,1405,Institut fur Physikahsche und Theoretisch Chemie,Germany,NULL,NULL
-193,1,1,5,LA,1781,A. Lugo,1408,Institute of Tropical Forestry,USA,NULL,NULL
-198,1,1,5,LA,1802,D.C. Maclver,20,N/A,Canada,NULL,NULL
-212,1,1,5,LA,1934,V. Meleshko,1396,Main Geophysical Observatory,USSR,NULL,NULL
+7434,1,1,5,LA,1468,B. Keshavamurthy,254,Physical Research Laboratory,India,NULL,NULL
+7425,1,1,5,LA,1540,Roy M. Koerner,741,Geological Survey of Canada,Canada,NULL,NULL
+7501,1,1,5,LA,1768,C. Lorius,NULL,NULL,NULL,NULL,NULL
+7467,1,1,5,LA,1799,Michael C. MacCracken,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+7460,1,1,5,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 246,1,1,5,LA,2195,E.O. Oladipo,1412,Ahmadu Bello University,Nigeria,NULL,NULL
-262,1,1,5,LA,2308,E. Perrott,153,University of Oxford,United Kingdom,47,Environmental Change Institute
 265,1,1,5,LA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
 271,1,1,5,LA,2381,L.P. Prahm,179,Danish Meteorological Institute,Denmark,NULL,NULL
 276,1,1,5,LA,2436,David A. Randall,255,Colorado State University,USA,166,Department of Atmospheric Science
+7456,1,1,5,LA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,NULL,NULL
 294,1,1,5,LA,2567,P.R. Rowntree,182,Met Office,United Kingdom,NULL,NULL
 302,1,1,5,LA,2655,M.E. Schlesinger,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
 307,1,1,5,LA,2668,Stephen Schneider,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
@@ -138,9 +137,9 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 389,1,1,6,CLA,3266,J.D. Woods,1419,National Environment Research Council,United Kingdom,NULL,NULL
 110,1,1,6,LA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
 130,1,1,6,LA,1209,M. Hoffert,1404,New York University,USA,NULL,NULL
-148,1,1,6,LA,1367,E Johnson,1399,Harwell Laboratory,United Kingdom,NULL,NULL
-205,1,1,6,LA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
-213,1,1,6,LA,1934,V. Meleshko,1396,Main Geophysical Observatory,USSR,NULL,NULL
+7474,1,1,6,LA,1355,X. Jiang,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
+7465,1,1,6,LA,1830,S. Manabe,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
+7461,1,1,6,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 277,1,1,6,LA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 286,1,1,6,LA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
 303,1,1,6,LA,2655,M.E. Schlesinger,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
@@ -148,7 +147,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 362,1,1,6,LA,3122,T. Volk,1417,University of New York,USA,NULL,NULL
 378,1,1,6,LA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 83,1,1,7,CLA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
-155,1,1,7,CLA,1433,I. Karol,1396,Main Geophysical Observatory,USSR,NULL,NULL
+7462,1,1,7,CLA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
 359,1,1,7,CLA,3113,K.Ya. Vinnikov,1395,State Hydrological Institute,USSR,NULL,NULL
 8,1,1,7,LA,100,J.K. Angell,188,National Oceanographic and Atmospheric Administration (NOAA),USA,106,Air Resources Laboratory
 11,1,1,7,LA,122,Phillip A. Arkin,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
@@ -165,13 +164,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 119,1,1,7,LA,1131,S. Hastenrath,731,University of Wisconsin,USA,NULL,NULL
 127,1,1,7,LA,1175,Ann Henderson-Sellers,368,Macquarie University,Australia,NULL,NULL
 129,1,1,7,LA,1190,K. Higuchi,164,Environment Canada,Canada,56,Atmospheric Environment Canada
-150,1,1,7,LA,1394,L.A. Joyce,1031,Woods Hole Research Center,USA,NULL,NULL
-169,1,1,7,LA,1540,Roy M. Koerner,741,Geological Survey of Canada,Canada,NULL,NULL
-173,1,1,7,LA,1596,D. Kupfer,36,N/A,Germany,NULL,NULL
+7493,1,1,7,LA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,NULL,NULL
+7422,1,1,7,LA,1533,J. Knox,164,Environment Canada,Canada,NULL,NULL
+7463,1,1,7,LA,1709,Sydney Levitus,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
 182,1,1,7,LA,1727,X Lin,1398,State Meteorological Administration,China,NULL,NULL
-183,1,1,7,LA,1730,S. Linder,1315,University of Agricultural Sciences,Sweden,NULL,NULL
-235,1,1,7,LA,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
-238,1,1,7,LA,2172,Walter Oechel,1129,San Diego State University,USA,NULL,NULL
+7415,1,1,7,LA,2123,Neville Nicholls,250,Bureau of Meteorology,Australia,NULL,NULL
+7451,1,1,7,LA,2156,B.S. Nyenzi,1410,Directorate of Meteorology,Tanzania,NULL,NULL
 244,1,1,7,LA,2182,J S. Oguntoyinbo,1411,University of Ibadan,Nigeria,NULL,NULL
 253,1,1,7,LA,2252,Govind Ballabh Pant,134,Indian Institute of Tropical Meteorology,India,NULL,NULL
 255,1,1,7,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
@@ -185,8 +183,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 363,1,1,7,LA,3132,Peter Wadhams,1076,Scott Polar Research Institute,United Kingdom,NULL,NULL
 366,1,1,7,LA,3157,W-C Wang,747,State University of New York Albany,USA,NULL,NULL
 387,1,1,7,LA,3265,S. Woodruff,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
-396,1,1,7,LA,1035,Pavel Ya Groisman,1395,State Hydrological Institute,USSR,NULL,NULL
-399,1,1,7,LA,3316,T. Yasunan,1420,Institute of Geoscience,Japan,NULL,NULL
+7438,1,1,7,LA,3317,Tetsuzo Yasunari,366,University of Tsukuba,Japan,NULL,NULL
 405,1,1,7,LA,3342,Z. Zeng,1034,Atmospheric & Environmental Research Inc.,USA,NULL,NULL
 17,1,1,8,CLA,190,T.P. Barnett,544,University of California,USA,NULL,NULL
 379,1,1,8,CLA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
@@ -194,22 +191,22 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 30,1,1,8,LA,278,P. Bloomfield,754,North Carolina State University,USA,NULL,NULL
 31,1,1,8,LA,279,D. Bnlhnger,544,University of California,USA,NULL,NULL
 63,1,1,8,LA,644,W. Degefu,1421,National Meteorological Services Agency,Ethiopia,NULL,NULL
-73,1,1,8,LA,750,Ye Duzheng,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
+7485,1,1,8,LA,858,Christopher K. Folland,182,Met Office,United Kingdom,NULL,NULL
 87,1,1,8,LA,914,S. Gadgil,159,Indian Institute of Science,India,NULL,NULL
 93,1,1,8,LA,987,G.S. Gohtsyn,1401,Institute of Atmospheric Physics,USSR,NULL,NULL
 111,1,1,8,LA,1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
 117,1,1,8,LA,1130,K. Hasselmann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 120,1,1,8,LA,1144,Y. Hayashi,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
-151,1,1,8,LA,1394,L.A. Joyce,1031,Woods Hole Research Center,USA,NULL,NULL
+7494,1,1,8,LA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,NULL,NULL
+7413,1,1,8,LA,1434,David J. Karoly,216,Monash University,Australia,NULL,NULL
 158,1,1,8,LA,1443,Richard W. Katz,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-159,1,1,8,LA,1451,T. Keane,47,N/A,Ireland,NULL,NULL
-199,1,1,8,LA,1802,D.C. Maclver,20,N/A,Canada,NULL,NULL
-201,1,1,8,LA,1807,K. Madhava Sarma,44,N/A,India,NULL,NULL
-206,1,1,8,LA,1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
-223,1,1,8,LA,2025,J-J. Morcrette,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
-233,1,1,8,LA,2060,J. Muller,36,N/A,Germany,NULL,NULL
-237,1,1,8,LA,2156,B.S. Nyenzi,1410,Directorate of Meteorology,Tanzania,NULL,NULL
-242,1,1,8,LA,2181,J. Oguntojinbo,74,N/A,Nigeria,NULL,NULL
+7468,1,1,8,LA,1799,Michael C. MacCracken,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+7458,1,1,8,LA,1804,R.L. Madden,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+7466,1,1,8,LA,1830,S. Manabe,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
+7490,1,1,8,LA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,NULL,NULL
+7417,1,1,8,LA,2049,A D Moura,173,National Institute for Space Research (INPE),Brazil,NULL,NULL
+7418,1,1,8,LA,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,NULL,NULL
+7439,1,1,8,LA,2176,Laban J. Ogallo,427,University of Nairobi,Kenya,NULL,NULL
 247,1,1,8,LA,2195,E.O. Oladipo,1412,Ahmadu Bello University,Nigeria,NULL,NULL
 256,1,1,8,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 267,1,1,8,LA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
@@ -225,7 +222,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 400,1,1,8,LA,3317,Tetsuzo Yasunari,366,University of Tsukuba,Japan,NULL,NULL
 401,1,1,8,LA,3319,D. Ye,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
 407,1,1,8,LA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
-240,1,1,9,CLA,2174,H Oeschger,126,University of Bern,Switzerland,14,Physics Institute
+7452,1,1,9,CLA,2173,Johannes Oerlemans,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
 368,1,1,9,CLA,3170,Richard A. Warrick,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 20,1,1,9,LA,220,P. Beaumont,1392,St David's University College,United Kingdom,NULL,NULL
 38,1,1,9,LA,328,R.J. Braithwaite,1358,Geological Survey of Greenland,Denmark,NULL,NULL
@@ -234,13 +231,13 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 105,1,1,9,LA,1038,J.M. Grove,276,University of Cambridge,United Kingdom,NULL,NULL
 108,1,1,9,LA,1075,Wilfreid Haeberli,136,ETH Zurich,Switzerland,34,Versuchsanstalt fur Wasserbau Institut
 128,1,1,9,LA,1189,A. Higashi,1403,International Christian University,Japan,NULL,NULL
-179,1,1,9,LA,1689,Peter Lemke,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
-186,1,1,9,LA,1738,A. Linkins,1406,Clarkson University,USA,NULL,NULL
-194,1,1,9,LA,1781,A. Lugo,1408,Institute of Tropical Forestry,USA,NULL,NULL
+7500,1,1,9,LA,1687,J.C. Leiva,NULL,NULL,NULL,NULL,NULL
+7455,1,1,9,LA,1737,C.S. Lingle,124,National Aeronautics and Space Administration (NASA),USA,NULL,NULL
+7502,1,1,9,LA,1768,C. Lorius,NULL,NULL,NULL,NULL,NULL
 279,1,1,9,LA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 386,1,1,9,LA,3254,B. Wold,1344,Norwegian Water Resources and Energy Administration,Norway,NULL,NULL
 391,1,1,9,LA,3270,Philip Woodworth,279,Proudman Oceanographic Laboratory,United Kingdom,NULL,NULL
-215,1,1,10,CLA,1937,L. Menchaca,64,N/A,Mexico,NULL,NULL
+7476,1,1,10,CLA,1935,J.M. Melillo,1039,Marine Biological Laboratory,USA,NULL,NULL
 296,1,1,10,CLA,2598,E. Salati,1414,Universidade do Estado de Sao Paulo,Brazil,NULL,NULL
 325,1,1,10,CLA,2779,S.K. Sinha,613,Indian Agricultural Research Institute,India,NULL,NULL
 390,1,1,10,CLA,3269,F.I. Woodward,276,University of Cambridge,United Kingdom,NULL,NULL
@@ -258,17 +255,16 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 102,1,1,10,LA,1032,J.P. Grime,1262,University of Sheffield,United Kingdom,NULL,NULL
 114,1,1,10,LA,1120,R. Harriss,1050,University of New Hampshire,USA,NULL,NULL
 122,1,1,10,LA,1150,I. Heany,1402,Institute of Freshwater Ecology,United Kingdom,286,Windermere Laboratory
-132,1,1,10,LA,1227,E.O. Holopainen,274,University of Helsinki,Finland,NULL,NULL
-144,1,1,10,LA,1346,G.J. Jenkins,182,Met Office,United Kingdom,NULL,NULL
-152,1,1,10,LA,1401,P.R. Jutro,113,N/A,USA,NULL,NULL
-181,1,1,10,LA,1709,Sydney Levitus,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
-184,1,1,10,LA,1735,D. Linforth,6,N/A,Australia,NULL,NULL
-187,1,1,10,LA,1741,P. Liss,231,University of East Anglia,United Kingdom,NULL,NULL
-191,1,1,10,LA,1765,N. Lopoukhine,20,N/A,Canada,NULL,NULL
-195,1,1,10,LA,1784,Ji-Bin Luo,23,N/A,China,NULL,NULL
-209,1,1,10,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
-227,1,1,10,LA,2039,Linda Mortsch,164,Environment Canada,Canada,NULL,NULL
-239,1,1,10,LA,2173,Johannes Oerlemans,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+7492,1,1,10,LA,1336,P.G. Jarvis,211,University of Edinburgh,United Kingdom,NULL,NULL
+7475,1,1,10,LA,1394,L.A. Joyce,1031,Woods Hole Research Center,USA,NULL,NULL
+7430,1,1,10,LA,1703,P. Levelle,167,Institut Pierre Simon Laplace (IPSL),France,NULL,NULL
+7447,1,1,10,LA,1730,S. Linder,1315,University of Agricultural Sciences,Sweden,NULL,NULL
+7478,1,1,10,LA,1738,A. Linkins,1406,Clarkson University,USA,NULL,NULL
+7498,1,1,10,LA,1763,S. Long,1407,University of Essex,United Kingdom,NULL,NULL
+7479,1,1,10,LA,1781,A. Lugo,1408,Institute of Tropical Forestry,USA,NULL,NULL
+7470,1,1,10,LA,1895,James J. McCarthy,215,Harvard University,USA,NULL,NULL
+7491,1,1,10,LA,2035,James Morison,204,University of Reading,United Kingdom,NULL,NULL
+7477,1,1,10,LA,2172,Walter Oechel,1129,San Diego State University,USA,NULL,NULL
 264,1,1,10,LA,2324,M. Phillip,1413,Institute of Plant Ecology,Denmark,NULL,NULL
 295,1,1,10,LA,2579,M. Ryan,1031,Woods Hole Research Center,USA,NULL,NULL
 301,1,1,10,LA,2649,David Schimel,255,Colorado State University,USA,NULL,NULL
@@ -277,10 +273,10 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 335,1,1,10,LA,2891,B. Strain,652,Duke University,USA,NULL,NULL
 367,1,1,10,LA,3164,R. Waring,180,Oregon State University,USA,NULL,NULL
 383,1,1,10,LA,3239,M. Williamson,1418,York University United Kingdom,United Kingdom,NULL,NULL
+7424,1,1,11,CLA,1893,Gordon McBean,326,University of British Columbia,Canada,NULL,NULL
 208,1,1,11,CLA,1895,James J. McCarthy,215,Harvard University,USA,NULL,NULL
-210,1,1,11,CLA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
 42,1,1,11,LA,370,K. Browning,182,Met Office,United Kingdom,NULL,NULL
-226,1,1,11,LA,2035,James Morison,204,University of Reading,United Kingdom,NULL,NULL
+7450,1,1,11,LA,2027,P. Morel,700,World Meteorological Organization (WMO),Switzerland,NULL,NULL
 281,1,1,11,LA,2446,I. Rasool,124,National Aeronautics and Space Administration (NASA),USA,10,OSSA
 67,1,1,12,LA,663,R.G. Derwent,1399,Harwell Laboratory,United Kingdom,NULL,NULL
 146,1,1,12,LA,1347,R. Jenne,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
@@ -289,11 +285,17 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 96,1,1,12,CA,1006,J Goudrian,396,Wageningen University,The Netherlands,212,Agricultural Department
 118,1,1,12,CA,1130,K. Hasselmann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 126,1,1,12,CA,1160,Martin Heimann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
+7443,1,1,12,CA,1301,I.S.A Isaksen,424,University of Oslo,Norway,NULL,NULL
 142,1,1,12,CA,1329,Anthony Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
+7497,1,1,12,CA,1367,E Johnson,1399,Harwell Laboratory,United Kingdom,NULL,NULL
 149,1,1,12,CA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+7483,1,1,12,CA,1433,I. Karol,1396,Main Geophysical Observatory,USSR,NULL,NULL
 157,1,1,12,CA,1434,David J. Karoly,216,Monash University,Australia,NULL,NULL
+7469,1,1,12,CA,1506,D. Kinnison,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 165,1,1,12,CA,1508,R. Kintanar,81,N/A,Philippines,NULL,NULL
+7484,1,1,12,CA,1515,A. Kiselev,1396,Main Geophysical Observatory,USSR,NULL,NULL
 168,1,1,12,CA,1533,J. Knox,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+7433,1,1,12,CA,1600,K Kurz,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 175,1,1,12,CA,1604,J.E. Kutzbach,731,University of Wisconsin,USA,NULL,NULL
 259,1,1,12,CA,2294,H. Peng,271,Oak Ridge National Laboratory,USA,NULL,NULL
 272,1,1,12,CA,2383,Michael Prather,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
@@ -306,36 +308,33 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 369,1,1,12,CA,3170,Richard A. Warrick,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 380,1,1,12,CA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 394,1,1,12,CA,3280,Donald J. Wuebbles,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
-257,1,2,2,CLA,2266,Martin Parry,638,University College London,United Kingdom,NULL,NULL
 4,1,2,2,CA,20,B. Acock,113,N/A,USA,NULL,NULL
 24,1,2,2,CA,238,M. Beran,117,N/A,United Kingdom,NULL,NULL
 34,1,2,2,CA,290,Michel Boko,1278,National University of Benin,Benin,NULL,NULL
 35,1,2,2,CA,296,D. Bond,20,N/A,Canada,NULL,NULL
 64,1,2,2,CA,644,W. Degefu,1421,National Meteorological Services Agency,Ethiopia,NULL,NULL
-72,1,2,2,CA,738,P.N. Duinker,20,N/A,Canada,NULL,NULL
 78,1,2,2,CA,811,T. Farago,42,N/A,Hungary,NULL,NULL
 109,1,2,2,CA,1082,J. Hales,6,N/A,Australia,NULL,NULL
 116,1,2,2,CA,1125,M. Harwell,113,N/A,USA,NULL,NULL
 121,1,2,2,CA,1145,J. Hayes,113,N/A,USA,NULL,NULL
 123,1,2,2,CA,1151,R. Heathcote,6,N/A,Australia,NULL,NULL
-137,1,2,2,CA,1275,B. Hunt,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
-160,1,2,2,CA,1468,B. Keshavamurthy,254,Physical Research Laboratory,India,NULL,NULL
+7499,1,2,2,CA,1259,Nguyen Hu Ninh,810,Centre for Environment Research Education and Development,Vietnam,NULL,NULL
+7436,1,2,2,CA,1451,T. Keane,47,N/A,Ireland,NULL,NULL
+7426,1,2,2,CA,1471,L. Kettunen,34,N/A,Finland,NULL,NULL
 162,1,2,2,CA,1498,J. Kindler,82,N/A,Poland,NULL,NULL
-163,1,2,2,CA,1501,M.D. King,124,National Aeronautics and Space Administration (NASA),USA,62,Goddard Laboratory of the Atmosphere
-166,1,2,2,CA,1510,V. Kirchhoff,173,National Institute for Space Research (INPE),Brazil,NULL,NULL
-185,1,2,2,CA,1737,C.S. Lingle,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
-190,1,2,2,CA,1763,S. Long,1407,University of Essex,United Kingdom,NULL,NULL
-203,1,2,2,CA,1830,S. Manabe,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
-218,1,2,2,CA,1945,L. Merlivat,1409,University of Pans,France,NULL,NULL
-228,1,2,2,CA,2039,Linda Mortsch,164,Environment Canada,Canada,NULL,NULL
-231,1,2,2,CA,2049,A D Moura,173,National Institute for Space Research (INPE),Brazil,NULL,NULL
+7446,1,2,2,CA,1498,J. Kindler,82,N/A,Poland,NULL,NULL
+7445,1,2,2,CA,1508,R. Kintanar,81,N/A,Philippines,NULL,NULL
+7412,1,2,2,CA,1735,D. Linforth,6,N/A,Australia,NULL,NULL
+7437,1,2,2,CA,1762,J. Lomas,48,N/A,Israel,NULL,NULL
+7419,1,2,2,CA,1811,Antonio R. Magalhaes,836,Esquel Group Foundation Brazil (FGEB),Brazil,NULL,NULL
+7480,1,2,2,CA,1940,G. Mendzhulin,114,N/A,USSR,NULL,NULL
+7442,1,2,2,CA,2042,P. Mosley,73,N/A,New Zealand,NULL,NULL
+7431,1,2,2,CA,2060,J. Muller,36,N/A,Germany,NULL,NULL
 234,1,2,2,CA,2123,Neville Nicholls,250,Bureau of Meteorology,Australia,NULL,NULL
-236,1,2,2,CA,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
-243,1,2,2,CA,2181,J. Oguntojinbo,74,N/A,Nigeria,NULL,NULL
+7440,1,2,2,CA,2176,Laban J. Ogallo,427,University of Nairobi,Kenya,NULL,NULL
 245,1,2,2,CA,2182,J S. Oguntoyinbo,1411,University of Ibadan,Nigeria,NULL,NULL
 254,1,2,2,CA,2253,S. Panturat,105,N/A,Thailand,NULL,NULL
 268,1,2,2,CA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
-269,1,2,2,CA,2373,J.H. Porter,117,N/A,United Kingdom,NULL,NULL
 274,1,2,2,CA,2432,P. Ramirez,25,N/A,Costa Rica,NULL,NULL
 283,1,2,2,CA,2470,John M. Reilly,849,U.S. Department of Agriculture,USA,NULL,NULL
 285,1,2,2,CA,2494,V. Richter,27,N/A,Czech Republic,NULL,NULL
@@ -347,13 +346,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 328,1,2,2,CA,2797,Barry Smit,861,University of Guelph,Canada,NULL,NULL
 351,1,2,2,CA,3047,Z. Uchijima,51,N/A,Japan,NULL,NULL
 382,1,2,2,CA,3237,J. Williams,117,N/A,United Kingdom,NULL,NULL
-392,1,2,2,CA,3276,L.J. Wright,117,N/A,United Kingdom,NULL,NULL
 403,1,2,2,CA,3330,Masatoshi Yoshino,366,University of Tsukuba,Japan,NULL,NULL
 406,1,2,2,CA,3350,Jia-cheng Zhang,23,N/A,China,NULL,NULL
 16,1,2,3,CLA,186,M. Bardecki,20,N/A,Canada,NULL,NULL
 36,1,2,3,CLA,319,H. Boyd,20,N/A,Canada,NULL,NULL
-143,1,2,3,CLA,1336,P.G. Jarvis,211,University of Edinburgh,United Kingdom,NULL,NULL
-192,1,2,3,CLA,1768,C. Lorius,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),France,NULL,NULL
+7473,1,2,3,CLA,1329,Anthony Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
+7420,1,2,3,CLA,1765,N. Lopoukhine,20,N/A,Canada,NULL,NULL
 251,1,2,3,CLA,2239,J. Pagnan,20,N/A,Canada,NULL,NULL
 263,1,2,3,CLA,2312,R. Peters,113,N/A,USA,NULL,NULL
 372,1,2,3,CLA,3192,R. Wein,20,N/A,Canada,NULL,NULL
@@ -363,12 +361,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 85,1,2,3,CA,885,B. Frenzel,36,N/A,Germany,NULL,NULL
 99,1,2,3,CA,1030,C. Griffiths,6,N/A,Australia,NULL,NULL
 131,1,2,3,CA,1218,R. Holesgrove,6,N/A,Australia,NULL,NULL
-134,1,2,3,CA,1244,J.T. Houghton,182,Met Office,United Kingdom,NULL,NULL
-153,1,2,3,CA,1427,R. Karimanzira,123,N/A,Zimbabwe,NULL,NULL
-200,1,2,3,CA,1804,R.L. Madden,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-217,1,2,3,CA,1940,G. Mendzhulin,114,N/A,USSR,NULL,NULL
+7444,1,2,3,CA,1229,Jarle Inge Holten,1111,Terrestrial Ecology Research Institute,Norway,NULL,NULL
+7453,1,2,3,CA,1401,P.R. Jutro,113,N/A,USA,NULL,NULL
+7421,1,2,3,CA,1802,D.C. Maclver,20,N/A,Canada,NULL,NULL
+7441,1,2,3,CA,1937,L. Menchaca,64,N/A,Mexico,NULL,NULL
+7423,1,2,3,CA,2039,Linda Mortsch,164,Environment Canada,Canada,NULL,NULL
 229,1,2,3,CA,2042,P. Mosley,73,N/A,New Zealand,NULL,NULL
-232,1,2,3,CA,2049,A D Moura,173,National Institute for Space Research (INPE),Brazil,NULL,NULL
 248,1,2,3,CA,2198,O.J. Olaniran,74,N/A,Nigeria,NULL,NULL
 250,1,2,3,CA,2230,J.J. Owonubi,74,N/A,Nigeria,NULL,NULL
 311,1,2,3,CA,2692,A. Scott,117,N/A,United Kingdom,NULL,NULL
@@ -490,7 +488,6 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 395,1,3,3,CLA,3290,Shao-Xiong Xie,23,N/A,China,NULL,NULL
 402,1,3,3,CLA,3325,K. Yokobori,51,N/A,Japan,NULL,NULL
 154,1,3,4,CLA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
-174,1,3,4,CLA,1600,K Kurz,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 91,1,3,5,CLA,966,J. Gilbert,73,N/A,New Zealand,NULL,NULL
 356,1,3,5,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
 3,1,3,6,CLA,12,I. Abrol,44,N/A,India,NULL,NULL
@@ -502,7 +499,6 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 202,1,3,8,CLA,1811,Antonio R. Magalhaes,836,Esquel Group Foundation Brazil (FGEB),Brazil,NULL,NULL
 92,1,3,9,CLA,966,J. Gilbert,73,N/A,New Zealand,NULL,NULL
 345,1,3,9,CLA,3004,J. Tilley,6,N/A,Australia,NULL,NULL
-141,1,3,10,CLA,1301,I.S.A Isaksen,424,University of Oslo,Norway,NULL,NULL
 249,1,3,10,CLA,2213,J. Oppeneau,35,N/A,France,NULL,NULL
 357,1,3,10,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
 12,1,3,11,CLA,147,D. Attard,62,N/A,Malta,NULL,NULL
