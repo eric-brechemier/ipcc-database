@@ -274,5 +274,5 @@ CREATE TABLE IF NOT EXISTS `participations` (
   CONSTRAINT `participations_department_fk`
     FOREIGN KEY (`department_id`)
     REFERENCES `departments` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=7503 DEFAULT CHARSET=utf8
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
