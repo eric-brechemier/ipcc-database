@@ -221,13 +221,11 @@ id,name,institution_type_id,Institution Type (INFO)
 357,High Commission of Niger Valley Development,5,Government Agency
 358,London School of Hygiene and Tropical Medicine,6,Higher Education Institution
 359,MTT Agrifood Research Finland,5,Government Agency
-360,World Bank,8,International Institution
 361,Columbia Business School,6,Higher Education Institution
 362,Sokoine University of Agriculture,6,Higher Education Institution
 363,Institut National de Recherche Halieutique,11,Public Research Organisation
 364,Global Climate Forum,9,Non-Governmental Organization
 365,University of Queensland,6,Higher Education Institution
-366,University of Tsukuba,6,Higher Education Institution
 367,Nordland Research Institute,4,Foundation
 368,Macquarie University,6,Higher Education Institution
 370,Polytechnic University of Madrid,6,Higher Education Institution
@@ -378,7 +376,6 @@ id,name,institution_type_id,Institution Type (INFO)
 534,Centre for Policy Research,12,Non Available
 535,Margaree Consultants Inc.,13,Consultants / Individuals
 537,Energy Commission,12,Non Available
-540,Technical University of Denmark,12,Non Available
 541,University of Bath,6,Higher Education Institution
 542,"Wuppertal Institute for Climate,Environment and Energy",2,Company
 543,California Clean Energy Fund Innovations (CalCEF),12,Non Available
@@ -901,7 +898,6 @@ id,name,institution_type_id,Institution Type (INFO)
 1109,London Medical School,6,Higher Education Institution
 1110,Greenpeace International,9,Non-Governmental Organization
 1111,Terrestrial Ecology Research Institute,11,Public Research Organisation
-1112,Australian Bureau of Agricultural and Resource Economics (ABARE),5,Government Agency
 1113,Universiti Sains Malaysia,6,Higher Education Institution
 1114,Yamanashi Institute of Environmental Sciences,11,Public Research Organisation
 1115,Centre for Tropical Marine Ecology,11,Public Research Organisation
