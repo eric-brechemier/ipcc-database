@@ -89,7 +89,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 80,Markus Amann,376,International Institute for Applied Systems Analysis (IIASA),Austria
 81,A. Amano,1365,Kwansei Gakuin University,Japan
 82,Peter Ambenjie,659,Kenya Meteorological Department,Kenya
-83,Philippe Ambrosi,904,World Bank,France
+83,Philippe Ambrosi,360,World Bank,France
 84,Caspar Ammann,166,National Center for Atmospheric Research (NCAR),USA
 86,Soon-Il An,155,Yonsei University,South Korea
 87,Maria Ananicheva,293,Institute of Geography,Russian Federation
@@ -880,8 +880,8 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 838,Andreas Fischlin,136,ETH Zurich,Switzerland
 840,D. Fisher,741,Geological Survey of Canada,Canada
 841,S. Fisher,113,N/A,USA
+842,Brian S. Fisher,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
 842,Brian S. Fisher,926,CRA International,Australia
-842,Brian S. Fisher,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
 843,S. Fiske,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 844,B. Blair Fitzharris,350,University of Otago,New Zealand
 845,Brian Flannery,380,Exxon Mobil Corporation,USA
@@ -1151,7 +1151,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1091,R. Hallgren,1026,American Meteorological Society,USA
 1092,P. Halpin,199,University of Virginia,USA
 1093,Kirsten Halsnaes,506,Risoe National Laboratory,Denmark
-1093,Kirsten Halsnaes,557,Technical University of Denmark,Denmark
+1093,Kirsten Halsnaes,540,Technical University of Denmark,Denmark
 1094,Steven Hamburg,1261,Brown University,USA
 1095,Alan Hamlet,132,University of Washington,USA
 1097,Keisuke Hanaki,148,University of Tokyo,Japan
@@ -1253,7 +1253,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1195,E. Hillsman,113,N/A,USA
 1196,Karim Hilmi,1,N/A,N/A
 1196,Karim Hilmi,363,Institut National de Recherche Halieutique,Morocco
-1197,M. Hinchy,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
+1197,M. Hinchy,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
 1198,D. Hinckley,905,U.S. Environmental Protection Agency (EPA),USA
 1199,Jochen Hinkel,364,Global Climate Forum,Germany
 1201,Larry Hinzman,755,University of Alaska,USA
@@ -1316,7 +1316,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1251,Grete K. Hovelsrud,367,Nordland Research Institute,Norway
 1253,Mark Howden,6,N/A,Australia
 1253,Mark Howden,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-1253,Mark Howden,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
+1253,Mark Howden,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
 1253,Mark Howden,1305,Department of Primary Industries and Energy,Australia
 1254,Charles Howe,248,University of Colorado,USA
 1256,Aixue Hu,166,National Center for Atmospheric Research (NCAR),USA
@@ -3198,7 +3198,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2992,Peter Thorne,182,Met Office,United Kingdom
 2992,Peter Thorne,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 2993,Peter Thornton,271,Oak Ridge National Laboratory,USA
-2994,S. Thorpe,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
+2994,S. Thorpe,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
 2995,R. Thresher,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 2996,Wilfred Thuiller,883,Laboratoire d'Ecologie Alpine UMR-CNRS,France
 2997,James Thurlow,467,United Nations University's World Institute for Development Economics Research,South Africa
@@ -3257,7 +3257,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3045,R.K. Turner,231,University of East Anglia,United Kingdom
 3046,Clive R. Turner,992,Eskom,South Africa
 3047,Z. Uchijima,51,N/A,Japan
-3048,Yohji Uchiyama,993,University of Tsukuba,Japan
+3048,Yohji Uchiyama,366,University of Tsukuba,Japan
 3049,U. Ulbrich,1072,Institut fuer Geophysik und Meteorologie,Germany
 3051,S. Under,101,N/A,Sweden
 3052,A. Underdal,424,University of Oslo,Norway
