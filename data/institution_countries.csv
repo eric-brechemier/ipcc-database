@@ -365,7 +365,6 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 355,355,Fundacion Bariloche,5,Argentina
 356,356,World Bank,6,Australia
 360,356,World Bank,35,France
-904,356,World Bank,35,France
 837,356,World Bank,49,Italy
 1377,356,World Bank,98,Sri Lanka
 1077,356,World Bank,113,USA
@@ -502,7 +501,6 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 489,489,"Ministry of Science,Technology and Environment",26,Cuba
 490,490,"Centre for Energy,Environment and Sustainability / Univesity of Sheffield",117,United Kingdom
 491,491,Australian Bureau of Agricultural and Resource Economics (ABARE),6,Australia
-1112,491,Australian Bureau of Agricultural and Resource Economics (ABARE),6,Australia
 492,492,Chinese Academy of Social Sciences (CASS),23,China
 493,493,Egyptian Environmental Affairs Agency,30,Egypt
 494,494,Concordia University,20,Canada
@@ -554,7 +552,6 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 555,555,Universidad de Costa Rica,25,Costa Rica
 556,556,Alpen Adria University,7,Austria
 540,557,Technical University of Denmark,28,Denmark
-557,557,Technical University of Denmark,28,Denmark
 558,558,KFW German Development Bank,36,Germany
 559,559,Murdoch University,6,Australia
 560,560,Centre for Environmental Economics and Policy in Africa (CEEPA),95,South Africa
@@ -964,7 +961,6 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 991,991,Treeness Consult,107,The Netherlands
 992,992,Eskom,95,South Africa
 366,993,University of Tsukuba,51,Japan
-993,993,University of Tsukuba,51,Japan
 994,994,Technical Research Centre of Finland,34,Finland
 995,995,Ministry of Research Technical Training and Technology,53,Kenya
 997,997,Stichting Natuur en Milieu,107,The Netherlands

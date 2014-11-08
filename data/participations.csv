@@ -1881,14 +1881,14 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 830,2,3,10,CA,810,Samuel Fankhauser,1369,Global Environment Facility,USA,NULL,NULL
 597,2,3,11,LA,198,Scott Barrett,1161,London Business School,United Kingdom,NULL,NULL
 627,2,3,11,LA,287,P. Bohm,701,Stockholm University,Sweden,NULL,NULL
-844,2,3,11,LA,842,Brian S. Fisher,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
+844,2,3,11,LA,842,Brian S. Fisher,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
 1156,2,3,11,LA,1597,M. Kuroda,851,Keio University,Japan,NULL,NULL
 1347,2,3,11,LA,2051,J.K.E. Mubazi,595,Makerere University,Uganda,NULL,NULL
 1641,2,3,11,LA,2721,A. Shah,1077,World Bank,USA,NULL,NULL
 1720,2,3,11,LA,2862,Robert N. Stavins,215,Harvard University,USA,NULL,NULL
 948,2,3,11,CA,1080,H.I. Haites,535,Margaree Consultants Inc.,Canada,NULL,NULL
-992,2,3,11,CA,1197,M. Hinchy,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
-1766,2,3,11,CA,2994,S. Thorpe,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
+992,2,3,11,CA,1197,M. Hinchy,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
+1766,2,3,11,CA,2994,S. Thorpe,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
 3488,3,1,1,CLA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
 3529,3,1,1,LA,41,Epiphane Dotou Ahlonsou,1082,Benin National Meteorological Service,Benin,NULL,NULL
 3277,3,1,1,LA,692,Yihui Ding,187,China Meteorological Administration,China,NULL,NULL
@@ -2773,7 +2773,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3201,3,2,5,CA,876,Paul Fraser,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 1950,3,2,5,CA,3436,L. Hahn,1,N/A,N/A,NULL,NULL
 3107,3,2,5,CA,1088,D.O. Hall,434,King's College London,United Kingdom,NULL,NULL
-3043,3,2,5,CA,1253,Mark Howden,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
+3043,3,2,5,CA,1253,Mark Howden,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
 1958,3,2,5,CA,3442,M. Hutchins,1,N/A,N/A,NULL,NULL
 1962,3,2,5,CA,3445,J. Ingram,1,N/A,N/A,NULL,NULL
 1957,3,2,5,CA,1272,Hui Ju,820,Chinese Academy of Agricultural Science,China,NULL,NULL
@@ -2936,7 +2936,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3228,3,2,12,LA,832,Max Finlayson,1106,Environment Australia,Australia,280,Environmental Research Institute of the Supervising Scientist (ERISS)
 3163,3,2,12,LA,977,Habiba Gitay,230,Australian National University,Australia,NULL,NULL
 2150,3,2,12,LA,3268,Alistair Woodward,1153,Wellington School of Medicine,New Zealand,NULL,NULL
-3044,3,2,12,RE,1253,Mark Howden,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
+3044,3,2,12,RE,1253,Mark Howden,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
 2099,3,2,12,CA,3397,Arthington Arthington,1,N/A,N/A,NULL,NULL
 1899,3,2,12,CA,3403,P. Beets,1,N/A,N/A,NULL,NULL
 1901,3,2,12,CA,3404,B. Biggs,1,N/A,N/A,NULL,NULL
@@ -3420,7 +3420,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3350,3,3,8,LA,515,Luis A. Cifuentes,410,Pontificia Universidad Catolica de Chile,Chile,NULL,NULL
 1917,3,3,8,LA,620,D.L. Davis,1038,Carnegie Mellon University,USA,NULL,NULL
 1926,3,3,8,LA,762,James Edmonds,1,N/A,N/A,NULL,NULL
-3223,3,3,8,LA,842,Brian S. Fisher,1112,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
+3223,3,3,8,LA,842,Brian S. Fisher,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
 3204,3,3,8,LA,865,E. Fortin,587,Centre international de recherche sur l'environnement et le développement (CIRED),France,NULL,NULL
 3156,3,3,8,LA,992,Alexander Golub,1176,Center for Environmental Economics,Russian Federation,NULL,NULL
 3063,3,3,8,LA,1215,Olav Hohmeyer,940,University of Flensburg,Germany,NULL,NULL
@@ -5029,7 +5029,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5208,4,3,3,LA,3167,Rachel Warren,231,University of East Anglia,United Kingdom,145,Tyndall Centre for Climate Change Research School of Environmental Sciences
 3635,4,3,3,RE,161,Mustafa H. Babiker,903,Saudi Aramco,Saudi Arabia,NULL,NULL
 5221,4,3,3,RE,3205,John P. Weyant,338,Stanford University,USA,NULL,NULL
-3598,4,3,3,CA,83,Philippe Ambrosi,904,World Bank,France,NULL,NULL
+3598,4,3,3,CA,83,Philippe Ambrosi,360,World Bank,France,NULL,NULL
 3685,4,3,3,CA,267,Fatih Birol,911,International Energy Agency,France,NULL,NULL
 3711,4,3,3,CA,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
 3802,4,3,3,CA,517,Christa Clapp,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
@@ -5051,7 +5051,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4939,4,3,4,LA,2653,Bernhard Schlamadinger,906,Joanneum Research Graz,Austria,NULL,NULL
 5128,4,3,4,LA,3016,Julio Torres-Martínez,643,Cuban Observatory for Science and Technology,Cuba,NULL,NULL
 5147,4,3,4,LA,3046,Clive R. Turner,992,Eskom,South Africa,NULL,NULL
-5148,4,3,4,LA,3048,Yohji Uchiyama,993,University of Tsukuba,Japan,NULL,NULL
+5148,4,3,4,LA,3048,Yohji Uchiyama,366,University of Tsukuba,Japan,NULL,NULL
 5190,4,3,4,LA,3130,Seppo Vuori,994,Technical Research Centre of Finland,Finland,NULL,NULL
 5198,4,3,4,LA,3145,Njeri Wamukonya,996,United Nations Environment Programme (UNEP),Kenya,276,Division of Policy Development and Law
 5308,4,3,4,LA,3357,Xiliang Zhang,516,Tsinghua University,China,NULL,NULL
@@ -7375,7 +7375,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6149,5,3,14,LA,4021,Noim Uddin,645,Australian Centre for Sustainable Mining Practices (ACSMP),Australia,NULL,NULL
 6153,5,3,14,LA,4028,Anthony Venables,153,University of Oxford,United Kingdom,NULL,NULL
 6001,5,3,14,RE,3711,Volodymyr Demkine,529,"United Nations Environment Programme (UNEP,Nairobi)",Ukraine,NULL,NULL
-6038,5,3,14,RE,1093,Kirsten Halsnaes,557,Technical University of Denmark,Denmark,NULL,NULL
+6038,5,3,14,RE,1093,Kirsten Halsnaes,540,Technical University of Denmark,Denmark,NULL,NULL
 6135,5,3,15,CLA,3993,Eswaran Somanathan,636,"Indian Statistical Institute,Delhi",India,NULL,NULL
 6141,5,3,15,CLA,2911,Taishi Sugiyama,639,Central Research Institute of Electric Power Industry,Japan,NULL,NULL
 5985,5,3,15,LA,3684,Donald Chimanikire,517,University of Zimbabwe,Zimbabwe,NULL,NULL
