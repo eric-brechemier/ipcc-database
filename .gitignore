@@ -1,2 +1,5 @@
 # ignore OpenOffice lock files
 .~lock.*
+
+# ignore Work In Progress
+*_wip.*
