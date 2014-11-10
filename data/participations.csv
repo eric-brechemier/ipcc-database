@@ -592,7 +592,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1085,2,1,3,LA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
 1403,2,1,3,LA,2176,Laban J. Ogallo,427,University of Nairobi,Kenya,NULL,NULL
 1441,2,1,3,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
-561,2,1,3,CA,101,J. Angella,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
+561,2,1,3,CA,100,J.K. Angell,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
 563,2,1,3,CA,103,S. Anjian,1213,National Meteorological Centre,China,NULL,NULL
 568,2,1,3,CA,122,Phillip A. Arkin,1214,National Weather Service,USA,NULL,NULL
 589,2,1,3,CA,177,R. Balling,784,Arizona State University,USA,NULL,NULL
