@@ -116,7 +116,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7505,1,1,5,LA,1276,B. Huntley,1264,University of Durham,United Kingdom,NULL,NULL
 7434,1,1,5,LA,1468,B. Keshavamurthy,254,Physical Research Laboratory,India,NULL,NULL
 7425,1,1,5,LA,1540,Roy M. Koerner,741,Geological Survey of Canada,Canada,NULL,NULL
-7501,1,1,5,LA,1768,C. Lorius,NULL,NULL,NULL,NULL,NULL
+7501,1,1,5,LA,1768,C. Lorius,228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),France,NULL,NULL
 7467,1,1,5,LA,1799,Michael C. MacCracken,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 7460,1,1,5,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 246,1,1,5,LA,2195,E.O. Oladipo,1412,Ahmadu Bello University,Nigeria,NULL,NULL
@@ -238,9 +238,9 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 105,1,1,9,LA,1038,J.M. Grove,276,University of Cambridge,United Kingdom,NULL,NULL
 108,1,1,9,LA,1075,Wilfreid Haeberli,136,ETH Zurich,Switzerland,34,Versuchsanstalt fur Wasserbau Institut
 128,1,1,9,LA,1189,A. Higashi,1403,International Christian University,Japan,NULL,NULL
-7500,1,1,9,LA,1687,J.C. Leiva,NULL,NULL,NULL,NULL,NULL
+7500,1,1,9,LA,1687,J.C. Leiva,748,"Instituto Argentino de Nivología,Glaciología y Ciencias Ambientales",Argentina,NULL,NULL
 7455,1,1,9,LA,1737,C.S. Lingle,124,National Aeronautics and Space Administration (NASA),USA,NULL,NULL
-7502,1,1,9,LA,1768,C. Lorius,NULL,NULL,NULL,NULL,NULL
+7502,1,1,9,LA,1768,C. Lorius,228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),France,NULL,NULL
 279,1,1,9,LA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 386,1,1,9,LA,3254,B. Wold,1344,Norwegian Water Resources and Energy Administration,Norway,NULL,NULL
 391,1,1,9,LA,3270,Philip Woodworth,279,Proudman Oceanographic Laboratory,United Kingdom,NULL,NULL
