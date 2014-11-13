@@ -897,7 +897,7 @@ id,first_name,last_name
 1032,J.P.,Grime
 1033,C.,Grimes
 1034,Peter M.,Groffman
-1035,Pavel,Ya Groisman
+1035,Pavel Ya,Groisman
 1037,S.,Grotch
 1038,J.M.,Grove
 1039,Michael,Grubb
@@ -4071,7 +4071,7 @@ id,first_name,last_name
 5030,J.,Titus
 5031,R.B.,Street
 5032,P.I.,Melnikov
-5033,F.,Bernthal
+5033,Frederick M.,Bernthal
 5034,E.,Dowdeswell
 5035,A.B.,Diop
 5036,Michel,Petit
@@ -4079,5 +4079,6 @@ id,first_name,last_name
 5038,Hiroshi,Tsukamoto
 5039,Theodore,Hanisch
 5040,Vincente Ricardo,Barros
+5041,D.,Warrilow
 5042,B. ,Callander
 5043,A.,Slingo

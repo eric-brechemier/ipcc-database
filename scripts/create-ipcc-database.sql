@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS `authors` (
 
 CREATE TABLE IF NOT EXISTS `author_aliases` (
   `alias` varchar(255) PRIMARY KEY
-    COMMENT 'main or alternate form of author full name, including misspellings',
+    COMMENT 'alternate form of author full name, including misspellings',
   `author_id` int(10) REFERENCES `authors` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS `institutions` (
 CREATE TABLE IF NOT EXISTS `institution_aliases` (
   `alias` varchar(255) PRIMARY KEY
     COMMENT
-    'main or alternate form of institution name, including misspellings',
+    'alternate form of institution name, including misspellings',
   `institution_id` int(10) REFERENCES `institutions` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
@@ -74,7 +74,7 @@ CREATE TABLE IF NOT EXISTS `indicator_values` (
 CREATE TABLE IF NOT EXISTS `country_aliases` (
   `alias` varchar(255) PRIMARY KEY
     COMMENT
-    'main or alternate form of country name, including misspellings',
+    'alternate form of country name, including misspellings',
   `country_id` int(10) REFERENCES `countries` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
