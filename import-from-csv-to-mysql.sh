@@ -84,7 +84,7 @@ import groups id,symbol,name,type
 import groupings id,symbol,@skip,country_id,@skip
 
 import institution_countries \
-  id,institution_id,@skip,country_id,@skip
+  id,country_id,@skip,institution_id,@skip
 
 import institution_country_aliases \
   alias,institution_id,@skip,country_id,@skip
