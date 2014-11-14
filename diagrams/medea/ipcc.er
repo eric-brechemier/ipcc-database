@@ -128,6 +128,14 @@ type {label:"varchar(3)"}
 institution_countries *--1 institutions {label:"institution_id"}
 institution_countries *--1 countries {label:"country_id"}
 
+[institution_country_aliases]
+* alias {label:"varchar(255)"}
+institution_id {label:"int(10)"}
+country_id {label:"int(10)"}
+
+institution_country_aliases *--1 institutions {label:"institution_id"}
+institution_country_aliases *--1 countries {label:"country_id"}
+
 [institution_types]
 *id {label:"int(10)"}
 name {label:"varchar(255)"}
