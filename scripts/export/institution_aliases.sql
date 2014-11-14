@@ -5,6 +5,6 @@ FROM institution_aliases
 LEFT JOIN institutions
 ON institution_aliases.institution_id = institutions.id
 ORDER BY
-  institution_aliases.institution_id,
+  institutions.name,
   institution_aliases.alias
 ;
