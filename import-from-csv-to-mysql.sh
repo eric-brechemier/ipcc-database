@@ -87,7 +87,7 @@ import institution_countries \
   id,country_id,@skip,institution_id,@skip
 
 import institution_country_aliases \
-  alias,institution_id,@skip,country_id,@skip
+  alias,country_id,@skip,institution_id,@skip
 
 import author_institutions author_id,@skip,institution_id,@skip,@skip
 
