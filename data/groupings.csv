@@ -650,13 +650,13 @@ id,symbol,Country Group (INFO),country_id,Country (INFO)
 649,NA1,Non-Annex I,106,The Gambia
 650,LDCs,NULL,106,The Gambia
 651,AFR,Africa,106,The Gambia
-652,WEOG,Western Europe and Other States Group,107,The Netherlands
-653,DdC,Developed Countries,107,The Netherlands
-654,OCDE,OECD,107,The Netherlands
-655,A1,Annex I,107,The Netherlands
-656,AOSIS,Alliance of Small Island States,107,The Netherlands
-657,EU,European Union,107,The Netherlands
-658,EUR,Europe,107,The Netherlands
+652,WEOG,Western Europe and Other States Group,107,Netherlands
+653,DdC,Developed Countries,107,Netherlands
+654,OCDE,OECD,107,Netherlands
+655,A1,Annex I,107,Netherlands
+656,AOSIS,Alliance of Small Island States,107,Netherlands
+657,EU,European Union,107,Netherlands
+658,EUR,Europe,107,Netherlands
 659,AG,African Group,108,Togo
 660,DgE,Developing Economies,108,Togo
 661,G77,G77,108,Togo

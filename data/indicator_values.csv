@@ -1663,29 +1663,29 @@ EN.ATM.CO2E.KT,CO2 emissions (kt),NGA,Nigeria,2007,95209.98800000000
 EN.ATM.CO2E.KT,CO2 emissions (kt),NGA,Nigeria,2008,92621.08600000000
 EN.ATM.CO2E.KT,CO2 emissions (kt),NGA,Nigeria,2009,71719.18600000000
 EN.ATM.CO2E.KT,CO2 emissions (kt),NGA,Nigeria,2010,78910.17300000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1988,146914.68800000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1989,163100.82600000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1990,163482.19400000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1991,164083.58200000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1992,160339.57500000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1993,165656.72500000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1994,165807.07200000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1995,166045.42700000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1996,179085.27900000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1997,171395.58000000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1998,168406.97500000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,1999,163027.48600000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2000,165363.36500000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2001,167273.87200000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2002,172363.66800000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2003,175040.57800000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2004,176903.41400000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2005,172227.98900000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2006,167200.53200000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2007,171765.94700000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2008,173845.13600000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2009,169650.08800000000
-EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,The Netherlands,2010,182077.55100000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1988,146914.68800000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1989,163100.82600000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1990,163482.19400000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1991,164083.58200000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1992,160339.57500000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1993,165656.72500000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1994,165807.07200000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1995,166045.42700000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1996,179085.27900000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1997,171395.58000000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1998,168406.97500000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,1999,163027.48600000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2000,165363.36500000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2001,167273.87200000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2002,172363.66800000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2003,175040.57800000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2004,176903.41400000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2005,172227.98900000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2006,167200.53200000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2007,171765.94700000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2008,173845.13600000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2009,169650.08800000000
+EN.ATM.CO2E.KT,CO2 emissions (kt),NLD,Netherlands,2010,182077.55100000000
 EN.ATM.CO2E.KT,CO2 emissions (kt),NOR,Norway,1988,33450.37400000000
 EN.ATM.CO2E.KT,CO2 emissions (kt),NOR,Norway,1989,37286.05600000000
 EN.ATM.CO2E.KT,CO2 emissions (kt),NOR,Norway,1990,31363.85100000000
@@ -4369,30 +4369,30 @@ IP.JRN.ARTC.SC,Scientific and technical journal articles,NGA,Nigeria,2008,462.60
 IP.JRN.ARTC.SC,Scientific and technical journal articles,NGA,Nigeria,2009,461.80000000000
 IP.JRN.ARTC.SC,Scientific and technical journal articles,NGA,Nigeria,2010,493.70000000000
 IP.JRN.ARTC.SC,Scientific and technical journal articles,NGA,Nigeria,2011,439.30000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1988,8581.00000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1989,9736.00000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1990,10176.00000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1991,10106.00000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1992,11060.00000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1993,11360.00000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1994,11961.00000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1995,12089.40000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1996,12412.80000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1997,12444.30000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1998,12500.40000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,1999,12168.20000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2000,12340.70000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2001,12117.40000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2002,12481.30000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2003,12661.50000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2004,13240.70000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2005,13894.10000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2006,13991.70000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2007,14215.70000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2008,14637.20000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2009,14868.40000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2010,15506.20000000000
-IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,The Netherlands,2011,15508.30000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1988,8581.00000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1989,9736.00000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1990,10176.00000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1991,10106.00000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1992,11060.00000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1993,11360.00000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1994,11961.00000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1995,12089.40000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1996,12412.80000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1997,12444.30000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1998,12500.40000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,1999,12168.20000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2000,12340.70000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2001,12117.40000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2002,12481.30000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2003,12661.50000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2004,13240.70000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2005,13894.10000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2006,13991.70000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2007,14215.70000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2008,14637.20000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2009,14868.40000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2010,15506.20000000000
+IP.JRN.ARTC.SC,Scientific and technical journal articles,NLD,Netherlands,2011,15508.30000000000
 IP.JRN.ARTC.SC,Scientific and technical journal articles,NOR,Norway,1988,2192.00000000000
 IP.JRN.ARTC.SC,Scientific and technical journal articles,NOR,Norway,1989,2247.00000000000
 IP.JRN.ARTC.SC,Scientific and technical journal articles,NOR,Norway,1990,2426.00000000000
@@ -7310,32 +7310,32 @@ NY.GDP.PCAP.CD,GDP per capita (current US$),NGA,Nigeria,2010,2310.86051776530
 NY.GDP.PCAP.CD,GDP per capita (current US$),NGA,Nigeria,2011,2507.68296935840
 NY.GDP.PCAP.CD,GDP per capita (current US$),NGA,Nigeria,2012,2742.21934065140
 NY.GDP.PCAP.CD,GDP per capita (current US$),NGA,Nigeria,2013,3005.51379633970
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1988,16436.81852629710
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1989,16115.56699385410
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1990,19721.82824255590
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1991,20130.67182084100
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1992,22142.42690143700
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1993,21418.40235078190
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1994,22830.00163775120
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1995,27101.95313383040
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1996,26913.52152112980
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1997,24760.90169515270
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1998,25634.61786098940
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,1999,26021.63765228000
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2000,24179.73140743860
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2001,24968.81741962640
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2002,27110.60685192000
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2003,33177.35725865200
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2004,37458.43287062610
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2005,39122.29107947970
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2006,41458.94137843390
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2007,47770.83389749250
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2008,52951.05598585550
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2009,48173.88249573090
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2010,46773.35381101090
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2011,49886.28451400950
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2012,45960.51718437760
-NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,The Netherlands,2013,47617.40115518060
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1988,16436.81852629710
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1989,16115.56699385410
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1990,19721.82824255590
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1991,20130.67182084100
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1992,22142.42690143700
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1993,21418.40235078190
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1994,22830.00163775120
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1995,27101.95313383040
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1996,26913.52152112980
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1997,24760.90169515270
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1998,25634.61786098940
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,1999,26021.63765228000
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2000,24179.73140743860
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2001,24968.81741962640
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2002,27110.60685192000
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2003,33177.35725865200
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2004,37458.43287062610
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2005,39122.29107947970
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2006,41458.94137843390
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2007,47770.83389749250
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2008,52951.05598585550
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2009,48173.88249573090
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2010,46773.35381101090
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2011,49886.28451400950
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2012,45960.51718437760
+NY.GDP.PCAP.CD,GDP per capita (current US$),NLD,Netherlands,2013,47617.40115518060
 NY.GDP.PCAP.CD,GDP per capita (current US$),NOR,Norway,1988,23769.41838988690
 NY.GDP.PCAP.CD,GDP per capita (current US$),NOR,Norway,1989,23840.28203758200
 NY.GDP.PCAP.CD,GDP per capita (current US$),NOR,Norway,1990,27731.80167271320
@@ -10422,32 +10422,32 @@ SP.POP.TOTL,"Population, total",NGA,Nigeria,2010,159707780.00000000000
 SP.POP.TOTL,"Population, total",NGA,Nigeria,2011,164192925.00000000000
 SP.POP.TOTL,"Population, total",NGA,Nigeria,2012,168833776.00000000000
 SP.POP.TOTL,"Population, total",NGA,Nigeria,2013,173615345.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1988,14760094.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1989,14848907.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1990,14951510.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1991,15069798.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1992,15184166.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1993,15290368.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1994,15382838.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1995,15459006.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1996,15530498.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1997,15610650.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1998,15707209.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,1999,15812088.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2000,15925513.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2001,16046180.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2002,16148929.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2003,16225302.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2004,16281779.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2005,16319868.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2006,16346101.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2007,16381696.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2008,16445593.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2009,16530388.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2010,16615394.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2011,16693074.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2012,16754962.00000000000
-SP.POP.TOTL,"Population, total",NLD,The Netherlands,2013,16804224.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1988,14760094.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1989,14848907.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1990,14951510.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1991,15069798.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1992,15184166.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1993,15290368.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1994,15382838.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1995,15459006.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1996,15530498.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1997,15610650.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1998,15707209.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,1999,15812088.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2000,15925513.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2001,16046180.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2002,16148929.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2003,16225302.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2004,16281779.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2005,16319868.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2006,16346101.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2007,16381696.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2008,16445593.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2009,16530388.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2010,16615394.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2011,16693074.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2012,16754962.00000000000
+SP.POP.TOTL,"Population, total",NLD,Netherlands,2013,16804224.00000000000
 SP.POP.TOTL,"Population, total",NOR,Norway,1988,4209488.00000000000
 SP.POP.TOTL,"Population, total",NOR,Norway,1989,4226901.00000000000
 SP.POP.TOTL,"Population, total",NOR,Norway,1990,4241473.00000000000

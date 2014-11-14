@@ -24,7 +24,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 907,907,Allen Consulting Group,6,Australia
 937,937,Alliance to Save Energy,113,USA
 556,556,Alpen Adria University,7,Austria
-966,966,ALTERRA Research Institute of the Green Environment,107,The Netherlands
+966,966,ALTERRA Research Institute of the Green Environment,107,Netherlands
 1139,1139,American Bird Conservancy,113,USA
 1372,1372,American Council for an Energy Efficient Economy,113,USA
 1026,1026,American Meteorological Society,113,USA
@@ -73,7 +73,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1149,1149,BPPT,45,Indonesia
 1179,1179,Brandeis University,113,USA
 499,499,Bright Green Energy Foundation,8,Bangladesh
-917,917,Brinkman Climate Change Consultancy,107,The Netherlands
+917,917,Brinkman Climate Change Consultancy,107,Netherlands
 146,146,British Antarctic Survey,117,United Kingdom
 707,707,British Atmospheric Data Centre,117,United Kingdom
 908,908,British Columbia Ministry of Environment,20,Canada
@@ -112,7 +112,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1032,1032,Center for Ocean-Land-Atmosphere Studies,113,USA
 484,484,"Center for Strategic Environmental Assessment, Nankai University",23,China
 404,404,Centers for Disease Control and Prevention,113,USA
-1189,1189,Centraal Planbureau (CPB),107,The Netherlands
+1189,1189,Centraal Planbureau (CPB),107,Netherlands
 1300,1300,Central Arid Zone Research Institute,44,India
 647,647,Central European University,42,Hungary
 663,663,Central Institute for Meteorology and Geodynamics,7,Austria
@@ -179,7 +179,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 361,361,Columbia Business School,113,USA
 185,185,Columbia University,113,USA
 1167,1167,Comision Nac.de Cambio Clim.,80,Peru
-814,814,Commission on Geomorphological Response to Environmental Change,107,The Netherlands
+814,814,Commission on Geomorphological Response to Environmental Change,107,Netherlands
 171,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),6,Australia
 494,494,Concordia University,20,Canada
 453,453,Conservation International,16,Brazil
@@ -210,7 +210,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 728,728,Dalhousie University,20,Canada
 856,856,Danish Institute of Agricultural Sciences,28,Denmark
 179,179,Danish Meteorological Institute,28,Denmark
-887,887,Delft University of Technology,107,The Netherlands
+887,887,Delft University of Technology,107,Netherlands
 524,524,Deloitte Touche Tohmatsu India Pvt. Ltd.,44,India
 967,967,Department for Business Enterprise and Regulatory Reform (BERR),117,United Kingdom
 1342,1342,Department of Agriculture,95,South Africa
@@ -236,9 +236,9 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 958,958,DuPont Fluoroproducts,113,USA
 825,825,Earthwise Consulting,73,New Zealand
 162,162,Eawag,102,Switzerland
-1211,1211,ECN Policy Studies,107,The Netherlands
+1211,1211,ECN Policy Studies,107,Netherlands
 562,562,Ecofys,36,Germany
-912,562,Ecofys,107,The Netherlands
+912,562,Ecofys,107,Netherlands
 379,379,Ecole Nationale Forestiere d'Ingenieurs,69,Morocco
 884,884,Economic and Social Research Institute,47,Ireland
 620,620,"Ecosystem Sciences Branch,Department of Fisheries and Oceans",20,Canada
@@ -252,7 +252,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 303,303,Energy and Resources Institute,44,India
 537,537,Energy Commission,37,Ghana
 654,654,Energy Environment Computer and Geophysical Applications Group (EECG Consultants),15,Botswana
-648,648,Energy research Centre of the Netherlands (ECN) / Columbia University,107,The Netherlands
+648,648,Energy research Centre of the Netherlands (ECN) / Columbia University,107,Netherlands
 525,525,Energy Research Institute,23,China
 1075,1075,Enviroment Institute of European Commission,49,Italy
 1324,1324,Environment Agency,51,Japan
@@ -346,7 +346,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 879,879,Government of Nepal,72,Nepal
 893,893,Graduate Institute of International Studies,102,Switzerland
 597,597,"Graduate School of Environmental Studies,Tohoku University",51,Japan
-1110,1110,Greenpeace International,107,The Netherlands
+1110,1110,Greenpeace International,107,Netherlands
 1298,1110,Greenpeace International,113,USA
 311,311,Griffith University,6,Australia
 1199,1199,Group for the Analysis of Development (Grade),80,Peru
@@ -438,7 +438,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 385,385,Institute for Catastrophic Loss Reduction,20,Canada
 1054,1054,Institute for Computational Earth System Science,113,USA
 1368,1368,Institute for International Economics,113,USA
-1074,1074,Institute for Marine and Atmospheric Research,107,The Netherlands
+1074,1074,Institute for Marine and Atmospheric Research,107,Netherlands
 1373,1373,Institute for Prospective Technologies,97,Spain
 615,615,Institute for Research in Technology,97,Spain
 1066,1066,Institute for World Forestry and Ecology,36,Germany
@@ -514,7 +514,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1164,1164,International Petroleum Industry Environmental Conservation Association (IPIECA),113,USA
 435,435,International policy center for inclusive growth,9,Barbados
 1375,1375,International Project for Sustainable Energy Paths,113,USA
-821,821,International Secretariat for Dialogue on Water and Climate,107,The Netherlands
+821,821,International Secretariat for Dialogue on Water and Climate,107,Netherlands
 431,431,International START Secretariat,113,USA
 290,290,International Water Management Institute,44,India
 1257,1257,Interuniversity Institute for Marine Sciences,48,Israel
@@ -570,7 +570,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 228,228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),35,France
 257,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),35,France
 693,693,Laboratory of Atmospheric Physics,89,Senegal
-1151,1151,Landbouw Universiteit Wageningen,107,The Netherlands
+1151,1151,Landbouw Universiteit Wageningen,107,Netherlands
 774,774,Landcare Research,73,New Zealand
 914,914,Landfills + Inc,113,USA
 213,213,Lanzhou University,23,China
@@ -588,7 +588,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 729,729,Loyola Marymount University,113,USA
 425,425,Lund University,101,Sweden
 1047,1047,M&D Consulting,36,Germany
-1122,1122,Maastricht University,107,The Netherlands
+1122,1122,Maastricht University,107,Netherlands
 368,368,Macquarie University,6,Australia
 441,441,Madagascar National Weather Service,58,Madagascar
 1331,1331,MAF Fisheries,73,New Zealand
@@ -727,6 +727,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1,1,N/A,1,N/A
 71,1,N/A,71,Namibia
 72,1,N/A,72,Nepal
+107,1,N/A,107,Netherlands
 73,1,N/A,73,New Zealand
 74,1,N/A,74,Nigeria
 75,1,N/A,75,Norway
@@ -761,7 +762,6 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 104,1,N/A,104,Tanzania
 105,1,N/A,105,Thailand
 106,1,N/A,106,The Gambia
-107,1,N/A,107,The Netherlands
 108,1,N/A,108,Togo
 109,1,N/A,109,Trinidad and Tobago
 110,1,N/A,110,Tunisia
@@ -796,10 +796,10 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 817,817,National Environmental Research Institute,28,Denmark
 775,775,National Environmental Trust,113,USA
 874,874,National Institute for Agricultural Research,35,France
-1091,1091,National Institute for Coastal and Marine Management,107,The Netherlands
+1091,1091,National Institute for Coastal and Marine Management,107,Netherlands
 129,129,National Institute for Environmental Studies,51,Japan
 717,717,National Institute for Geophysics and Volcanology,49,Italy
-888,888,National Institute for Public Health and the Environment (RIVM),107,The Netherlands
+888,888,National Institute for Public Health and the Environment (RIVM),107,Netherlands
 1071,1071,National Institute for Resources and Environment,51,Japan
 605,605,National Institute for Scientific and Industrial Research,122,Zambia
 173,173,National Institute for Space Research (INPE),16,Brazil
@@ -841,7 +841,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 939,939,Natural Resources Defence Council (NRDC),113,USA
 1254,1254,Naval Postgraduate School,113,USA
 715,715,Naval Research Laboratory,113,USA
-530,530,Netherlands Environmental Assessment Agency,107,The Netherlands
+530,530,Netherlands Environmental Assessment Agency,107,Netherlands
 1049,1049,New Mexico Institute of Mining and Technology,113,USA
 1404,1404,New York University,113,USA
 442,442,New Zealand Agricultural Greenhouse Gas Research Centre,73,New Zealand
@@ -918,7 +918,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 938,938,Railway Technical Research Institute,51,Japan
 670,670,Ramkhamhaeng University,105,Thailand
 397,397,RAND Corporation,113,USA
-475,475,Red Cross / Red Crescent Climate Centre,107,The Netherlands
+475,475,Red Cross / Red Crescent Climate Centre,107,Netherlands
 786,786,Regionica,65,Moldova
 977,977,Reliance Industries Ltd.,44,India
 722,722,Remote Sensing Systems,113,USA
@@ -939,7 +939,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1353,1353,Roskilde University,28,Denmark
 1265,1265,Royal Institute of International Affairs,117,United Kingdom
 1282,1282,Royal Meteorological Institute,10,Belgium
-226,226,Royal Netherlands Meteorological Institute (KNMI),107,The Netherlands
+226,226,Royal Netherlands Meteorological Institute (KNMI),107,Netherlands
 782,782,Royal Swedish Academy of Sciences,101,Sweden
 981,981,Russian Academy of Agricultural Sciences,86,Russian Federation
 1311,1311,Russian Federal Research Institute of Fisheries and Oceanography,86,Russian Federation
@@ -999,7 +999,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 974,974,Statistics Finland,34,Finland
 902,902,Statistics Norway,75,Norway
 390,390,Stefansson Arctic Institute,43,Iceland
-997,997,Stichting Natuur en Milieu,107,The Netherlands
+997,997,Stichting Natuur en Milieu,107,Netherlands
 384,384,Stockholm Environment Institute,101,Sweden
 573,573,Stockholm Environment Institute Boston,113,USA
 701,701,Stockholm University,101,Sweden
@@ -1017,7 +1017,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 852,852,Szent István University,42,Hungary
 915,915,Tata Energy Research Institute (TERI),44,India
 994,994,Technical Research Centre of Finland,34,Finland
-951,951,Technical University Eindhoven,107,The Netherlands
+951,951,Technical University Eindhoven,107,Netherlands
 540,557,Technical University of Denmark,28,Denmark
 799,799,Technical University of Munich,36,Germany
 1384,1384,Teisberg Associates,113,USA
@@ -1028,13 +1028,13 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1333,1333,Thailand Environment Institute,105,Thailand
 314,314,Third Institute of Oceanography Chinese State Oceanic Administration,23,China
 590,590,Third World Network,60,Malaysia
-549,549,Tilburg University,107,The Netherlands
+549,549,Tilburg University,107,Netherlands
 698,698,Tohoku Gakuin University,51,Japan
 965,965,Tokyo Institute of Technology,51,Japan
 1183,1183,Tokyo University of Agriculture & Technology,51,Japan
 800,800,Tongji University,23,China
 947,947,Toyota Central R&D Labs Inc,51,Japan
-991,991,Treeness Consult,107,The Netherlands
+991,991,Treeness Consult,107,Netherlands
 328,328,Trent University,20,Canada
 1162,1162,Tsentr po Effektivnomu Ispolzovanlu Energii,86,Russian Federation
 516,516,Tsinghua University,23,China
@@ -1051,7 +1051,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 634,634,UK Energy Research Centre (UKERC),117,United Kingdom
 452,452,Umea University,101,Sweden
 895,895,UN Economic Commission for LatinAmerican and the Caribbean (ECLAC),22,Chile
-889,889,UNESCO,107,The Netherlands
+889,889,UNESCO,107,Netherlands
 1137,875,UNFCCC Secretariat,52,Kazakhstan
 875,875,UNFCCC Secretariat,87,Samoa
 990,875,UNFCCC Secretariat,113,USA
@@ -1188,7 +1188,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 579,579,University of Göttingen,36,Germany
 601,601,University of Graz,7,Austria
 413,413,University of Greenwich,117,United Kingdom
-942,942,University of Groningen,107,The Netherlands
+942,942,University of Groningen,107,Netherlands
 861,861,University of Guelph,20,Canada
 1204,1204,University of Haifa,48,Israel
 264,264,University of Hamburg,36,Germany
@@ -1211,7 +1211,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1328,1328,University of Leicester,117,United Kingdom
 510,510,University of Leipzig,36,Germany
 733,733,University of Liege,10,Belgium
-1320,1320,University of Limburg,107,The Netherlands
+1320,1320,University of Limburg,107,Netherlands
 450,450,University of Lisbon,83,Portugal
 952,952,University of Liverpool,117,United Kingdom
 377,377,University of Ljubljana,94,Slovenia
@@ -1242,7 +1242,7 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 1417,1417,University of New York,113,USA
 1093,1093,University of Newcastle upon Tyne,117,United Kingdom
 1128,1128,University of Nigeria,74,Nigeria
-526,526,University of Nijmegen,107,The Netherlands
+526,526,University of Nijmegen,107,Netherlands
 945,945,University of Nizwa,76,Oman
 826,826,University of North Dakota,113,USA
 1339,1339,University of Nottingham,117,United Kingdom
@@ -1288,9 +1288,9 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 550,550,University of Toulouse,35,France
 366,993,University of Tsukuba,51,Japan
 473,473,University of Tuscia and Euro-Mediterranean Center for Climate Change,49,Italy
-1386,1386,University of Twente,107,The Netherlands
+1386,1386,University of Twente,107,Netherlands
 828,828,University of Ukraine,116,Ukraine
-273,273,University of Utrecht,107,The Netherlands
+273,273,University of Utrecht,107,Netherlands
 1168,1168,University of Venice,49,Italy
 445,445,University of Vic,97,Spain
 277,277,University of Victoria,20,Canada
@@ -1320,17 +1320,17 @@ id,institution_id,Institution (INFO),country_id,Country (INFO)
 511,511,Vista Analysis,75,Norway
 222,222,Voeikov Main Geophysical Observatory,86,Russian Federation
 214,214,Vrije Universiteit Brussel,10,Belgium
-302,302,"Vrije Universiteit,Amsterdam",107,The Netherlands
+302,302,"Vrije Universiteit,Amsterdam",107,Netherlands
 1233,1233,W/NMC2,113,USA
 206,206,Wadia Institute of Himalayan Geology,44,India
-396,396,Wageningen University,107,The Netherlands
+396,396,Wageningen University,107,Netherlands
 1084,1084,Water and Energy Commission Secretariat,72,Nepal
 1354,1354,Water Resource Research Center,42,Hungary
 1024,1024,Weather Bureau,81,Philippines
 1153,1153,Wellington School of Medicine,73,New Zealand
 486,486,Wesleyan University,113,USA
 1125,1125,WHO-European Centre for Environment and Health,49,Italy
-789,789,WIJ Delft Hydraulics,107,The Netherlands
+789,789,WIJ Delft Hydraulics,107,Netherlands
 1361,1361,Wilfrid Laurier University,113,USA
 1094,1094,Winrock International,113,USA
 461,461,Woods Hole Oceanographic Institution,113,USA

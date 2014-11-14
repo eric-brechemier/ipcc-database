@@ -173,17 +173,17 @@ id,name,institution_id,Institution (INFO),Country (INFO)
 172,Institute for Systems Studie,263,Russian Federation Academy of Sciences,Russian Federation
 173,Research Institute for Applied Mechanics,267,Kyushu University,Japan
 174,Scripps Institution of Oceanography,268,Scripps Institute of Oceanography,USA
-175,Sylvester Willo Institute for Marine and Atmospheric Research,273,University of Utrecht,The Netherlands
-176,Institute for Marine and Atmospheric Research,273,University of Utrecht,The Netherlands
-177,Copernicus Institute for Sustainable Development -,273,University of Utrecht,The Netherlands
+175,Sylvester Willo Institute for Marine and Atmospheric Research,273,University of Utrecht,Netherlands
+176,Institute for Marine and Atmospheric Research,273,University of Utrecht,Netherlands
+177,Copernicus Institute for Sustainable Development -,273,University of Utrecht,Netherlands
 178,Dep. of Land Economy 4CMR,276,University of Cambridge,United Kingdom
 179,School of Earth and Ocean Sciences,277,University of Victoria,Canada
 180,Centro de Ciencias do Sistema Terrestre (CCST),173,National Institute for Space Research (INPE),Brazil
 181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC),173,National Institute for Space Research (INPE),Brazil
 182,Institute of Graduate Studies and Research,286,University of Alexandria,Egypt
-183,Faculty of Earth and Life Sciences,302,"Vrije Universiteit,Amsterdam",The Netherlands
-184,Institute for Environmental Studies,302,"Vrije Universiteit,Amsterdam",The Netherlands
-185,Insititute of Social Studies,302,"Vrije Universiteit,Amsterdam",The Netherlands
+183,Faculty of Earth and Life Sciences,302,"Vrije Universiteit,Amsterdam",Netherlands
+184,Institute for Environmental Studies,302,"Vrije Universiteit,Amsterdam",Netherlands
+185,Insititute of Social Studies,302,"Vrije Universiteit,Amsterdam",Netherlands
 186,Department of Agronomy and Land Management (DISAT),304,University of Florence,Italy
 187,Laboratoire d'Oceanographie Dynamique et Climatologie,306,Institut de Recherche pour le Developpement (IRD),France
 188,Islands and Small States Institute,309,University of Malta,Malta
@@ -210,7 +210,7 @@ id,name,institution_id,Institution (INFO),Country (INFO)
 209,Strathmore Law Schoo,378,Strathmore University,Kenya
 210,Research and Engineering Company,380,Exxon Mobil Corporation,USA
 211,Complex Systems Research Center,382,University New Hampshire,USA
-212,Agricultural Department,396,Wageningen University,The Netherlands
+212,Agricultural Department,396,Wageningen University,Netherlands
 213,Centro de Investigacion de Recursos Naturales,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina
 214,Natural Resources Institute,413,University of Greenwich,United Kingdom
 215,Joint Global Change Research Institute,414,University of Maryland,USA
@@ -268,7 +268,7 @@ id,name,institution_id,Institution (INFO),Country (INFO)
 267,Instituto Multidisciplinario de Biologia Vegetal (IMBIV),793,Universidad Nacional de Córdoba,Argentina
 268,National Agrarian Institute,828,University of Ukraine,Ukraine
 269,Regional Office for Europe,839,World Health Organization (WHO),Germany
-270,Co-operative Programme on Water and Climate,889,UNESCO,The Netherlands
+270,Co-operative Programme on Water and Climate,889,UNESCO,Netherlands
 271,Climatology Laboratory,913,Bogor Agricultural University,Indonesia
 272,The Fletcher School of Law and Diplomacy,962,Tufts University,USA
 273,The Maxwell School,976,Syracuse University,USA

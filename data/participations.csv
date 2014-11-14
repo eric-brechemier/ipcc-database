@@ -72,7 +72,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 293,1,1,4,CLA,2567,P.R. Rowntree,182,Met Office,United Kingdom,NULL,NULL
 404,1,1,4,CLA,3341,Q.-C. Zeng,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
 10,1,1,4,LA,122,Phillip A. Arkin,188,National Oceanographic and Atmospheric Administration (NOAA),USA,113,Climate Analysis Center
-14,1,1,4,LA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+14,1,1,4,LA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 23,1,1,4,LA,230,L. Bengtsson,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
 26,1,1,4,LA,239,André Berger,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
 29,1,1,4,LA,277,C. Blondin,1393,Direction de la Meteorologie Nationale,France,NULL,NULL
@@ -101,7 +101,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7482,1,1,5,CLA,1934,V. Meleshko,1396,Main Geophysical Observatory,USSR,NULL,NULL
 7489,1,1,5,CLA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,NULL,NULL
 348,1,1,5,CLA,3010,T. Tokioka,225,Meteorological Research Institute,Japan,NULL,NULL
-15,1,1,5,LA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+15,1,1,5,LA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 27,1,1,5,LA,239,André Berger,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
 33,1,1,5,LA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
 45,1,1,5,LA,384,M. Budyko,1395,State Hydrological Institute,USSR,NULL,NULL
@@ -110,7 +110,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 70,1,1,5,LA,684,Robert E. Dickinson,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 75,1,1,5,LA,779,H. Ellsaesser,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 104,1,1,5,LA,1037,S. Grotch,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
-107,1,1,5,LA,1070,R.J. Haarsma,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+107,1,1,5,LA,1070,R.J. Haarsma,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 124,1,1,5,LA,1152,A. Hecht,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 138,1,1,5,LA,1275,B. Hunt,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
 7505,1,1,5,LA,1276,B. Huntley,1264,University of Durham,United Kingdom,NULL,NULL
@@ -221,7 +221,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 299,1,1,8,LA,2611,Benjamin D. Santer,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 304,1,1,8,LA,2655,M.E. Schlesinger,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
 309,1,1,8,LA,2675,C.-D. Schonwiese,1415,Institut fur Meteorologie und Geophysics,Germany,NULL,NULL
-310,1,1,8,LA,2686,C.J.E. Schuurmans,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+310,1,1,8,LA,2686,C.J.E. Schuurmans,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 331,1,1,8,LA,2828,Andrew Solow,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
 350,1,1,8,LA,3022,Kevin E. Trenberth,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 360,1,1,8,LA,3113,K.Ya. Vinnikov,1395,State Hydrological Institute,USSR,NULL,NULL
@@ -229,7 +229,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 400,1,1,8,LA,3317,Tetsuzo Yasunari,366,University of Tsukuba,Japan,NULL,NULL
 401,1,1,8,LA,3319,D. Ye,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
 407,1,1,8,LA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
-7452,1,1,9,CLA,2173,Johannes Oerlemans,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+7452,1,1,9,CLA,2173,Johannes Oerlemans,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 368,1,1,9,CLA,3170,Richard A. Warrick,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 20,1,1,9,LA,220,P. Beaumont,1392,St David's University College,United Kingdom,NULL,NULL
 38,1,1,9,LA,328,R.J. Braithwaite,1358,Geological Survey of Greenland,Denmark,NULL,NULL
@@ -259,7 +259,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 56,1,1,10,LA,524,A. Clarke,146,British Antarctic Survey,United Kingdom,NULL,NULL
 80,1,1,10,LA,829,Christopher B. Field,338,Stanford University,USA,NULL,NULL
 90,1,1,10,LA,964,R. Gifford,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
-95,1,1,10,LA,1006,J Goudrian,396,Wageningen University,The Netherlands,212,Agricultural Department
+95,1,1,10,LA,1006,J Goudrian,396,Wageningen University,Netherlands,212,Agricultural Department
 102,1,1,10,LA,1032,J.P. Grime,1262,University of Sheffield,United Kingdom,NULL,NULL
 114,1,1,10,LA,1120,R. Harriss,1050,University of New Hampshire,USA,NULL,NULL
 122,1,1,10,LA,1150,I. Heany,1402,Institute of Freshwater Ecology,United Kingdom,286,Windermere Laboratory
@@ -293,7 +293,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7513,1,1,12,CA,371,C. Bruhl,1002,Max-Planck Institute for Chemistry,Germany,NULL,NULL
 46,1,1,12,CA,404,E. Byutner,1396,Main Geophysical Observatory,USSR,NULL,NULL
 76,1,1,12,CA,788,Ian G. Enting,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
-96,1,1,12,CA,1006,J Goudrian,396,Wageningen University,The Netherlands,212,Agricultural Department
+96,1,1,12,CA,1006,J Goudrian,396,Wageningen University,Netherlands,212,Agricultural Department
 118,1,1,12,CA,1130,K. Hasselmann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 126,1,1,12,CA,1160,Martin Heimann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 7443,1,1,12,CA,1301,I.S.A Isaksen,424,University of Oslo,Norway,NULL,NULL
@@ -368,7 +368,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 372,1,2,3,CLA,3192,R. Wein,20,N/A,Canada,NULL,NULL
 373,1,2,3,CLA,3203,W. Westman,113,N/A,USA,NULL,NULL
 7514,1,2,3,CA,414,Terry V. Callaghan,1041,Institute of Terrestrial Ecology,United Kingdom,NULL,NULL
-62,1,2,3,CA,628,R.S. De Groot,107,N/A,The Netherlands,NULL,NULL
+62,1,2,3,CA,628,R.S. De Groot,107,N/A,Netherlands,NULL,NULL
 81,1,2,3,CA,830,B.F. Findlay,164,Environment Canada,Canada,NULL,NULL
 85,1,2,3,CA,885,B. Frenzel,36,N/A,Germany,NULL,NULL
 99,1,2,3,CA,1030,C. Griffiths,6,N/A,Australia,NULL,NULL
@@ -489,7 +489,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 498,1,2,7,CA,3616,A.S. Judge,20,N/A,Canada,NULL,NULL
 502,1,2,7,CA,3620,H. Keys,73,N/A,New Zealand,NULL,NULL
 170,1,2,7,CA,1540,Roy M. Koerner,741,Geological Survey of Canada,Canada,NULL,NULL
-490,1,2,7,CA,3608,E.A. Köster,107,N/A,The Netherlands,NULL,NULL
+490,1,2,7,CA,3608,E.A. Köster,107,N/A,Netherlands,NULL,NULL
 488,1,2,7,CA,3606,V.J. Lunardini,113,N/A,USA,NULL,NULL
 491,1,2,7,CA,3609,M.F. Meier,113,N/A,USA,NULL,NULL
 216,1,2,7,CA,1937,L. Menchaca,64,N/A,Mexico,NULL,NULL
@@ -502,12 +502,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 504,1,2,7,CA,3622,I.M. Whillans,113,N/A,USA,NULL,NULL
 7520,1,3,1,CLA,5033,Frederick M. Bernthal,1424,U.S. Department of State,USA,NULL,NULL
 347,1,3,2,CLA,3007,Dennis A. Tirpak,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
-355,1,3,2,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+355,1,3,2,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 395,1,3,3,CLA,3290,Shao-Xiong Xie,23,N/A,China,NULL,NULL
 402,1,3,3,CLA,3325,K. Yokobori,51,N/A,Japan,NULL,NULL
 154,1,3,4,CLA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
 91,1,3,5,CLA,966,J. Gilbert,73,N/A,New Zealand,NULL,NULL
-356,1,3,5,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+356,1,3,5,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 3,1,3,6,CLA,12,I. Abrol,44,N/A,India,NULL,NULL
 261,1,3,6,CLA,2300,R. Pentland,20,N/A,Canada,NULL,NULL
 341,1,3,6,CLA,2982,J. Theys,35,N/A,France,NULL,NULL
@@ -518,7 +518,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 92,1,3,9,CLA,966,J. Gilbert,73,N/A,New Zealand,NULL,NULL
 345,1,3,9,CLA,3004,J. Tilley,6,N/A,Australia,NULL,NULL
 249,1,3,10,CLA,2213,J. Oppeneau,35,N/A,France,NULL,NULL
-357,1,3,10,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+357,1,3,10,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 12,1,3,11,CLA,147,D. Attard,62,N/A,Malta,NULL,NULL
 21,1,3,11,CLA,224,R. Beetham,117,N/A,United Kingdom,NULL,NULL
 287,1,3,11,CLA,2523,R. Rochon,20,N/A,Canada,NULL,NULL
@@ -572,7 +572,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1097,2,1,2,CA,1452,C. David Keeling,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
 1104,2,1,2,CA,1483,S. Khmelevtsov,1234,Institute of Experimental Meteorology,Russian Federation,NULL,NULL
 1178,2,1,2,CA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
-1190,2,1,2,CA,1688,J. Lelieveld,396,Wageningen University,The Netherlands,NULL,NULL
+1190,2,1,2,CA,1688,J. Lelieveld,396,Wageningen University,Netherlands,NULL,NULL
 1194,2,1,2,CA,1706,L. Levin,1240,Universitat Heidelberg,Germany,NULL,NULL
 1245,2,1,2,CA,1820,M. Maiss,1240,Universitat Heidelberg,Germany,NULL,NULL
 1258,2,1,2,CA,1849,Gregg Marland,271,Oak Ridge National Laboratory,USA,NULL,NULL
@@ -673,7 +673,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1306,2,1,3,CA,1947,Anna V. Mescherskaya,222,Voeikov Main Geophysical Observatory,Russian Federation,NULL,NULL
 1312,2,1,3,CA,1961,P. Michaels,199,University of Virginia,USA,NULL,NULL
 1376,2,1,3,CA,2125,S. Nicholson,1247,Florida State University,USA,NULL,NULL
-1401,2,1,3,CA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
+1401,2,1,3,CA,2173,Johannes Oerlemans,273,University of Utrecht,Netherlands,176,Institute for Marine and Atmospheric Research
 1407,2,1,3,CA,2186,G. Ohring,188,National Oceanographic and Atmospheric Administration (NOAA),USA,116,Satellite Data and Information Service
 1434,2,1,3,CA,2252,Govind Ballabh Pant,134,Indian Institute of Tropical Meteorology,India,NULL,NULL
 1480,2,1,3,CA,2357,N. Plummer,250,Bureau of Meteorology,Australia,NULL,NULL
@@ -811,7 +811,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1877,2,1,5,CA,3345,M. Zhang,674,State University of New York Stony Brook,USA,NULL,NULL
 1878,2,1,5,CA,3346,R. Zhang,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
 1888,2,1,5,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
-1092,2,1,6,CLA,1441,A. Kattenberg,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+1092,2,1,6,CLA,1441,A. Kattenberg,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 892,2,1,6,LA,973,Filippo Giorgi,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 914,2,1,6,LA,1017,H. Grassl,700,World Meteorological Organization (WMO),Switzerland,NULL,NULL
 1296,2,1,6,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
@@ -823,7 +823,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 598,2,1,6,CA,200,A. Barros,195,Pennsylvania State University,USA,NULL,NULL
 608,2,1,6,CA,231,Martin Beniston,136,ETH Zurich,Switzerland,169,Institute of Geography
 626,2,1,6,CA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
-665,2,1,6,CA,387,T.A. Buishand,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+665,2,1,6,CA,387,T.A. Buishand,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 709,2,1,6,CA,503,Jens Hesselbjerg Krishna Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
 726,2,1,6,CA,549,Robert Colman,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
 729,2,1,6,CA,559,J. Copeland,255,Colorado State University,USA,NULL,NULL
@@ -852,7 +852,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1115,2,1,6,CA,1519,T. Kittel,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 1123,2,1,6,CA,1534,Thomas Knutson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 1125,2,1,6,CA,1545,H. Koide,225,Meteorological Research Institute,Japan,NULL,NULL
-1133,2,1,6,CA,1558,G. Konnen,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+1133,2,1,6,CA,1558,G. Konnen,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 1162,2,1,6,CA,1617,Rattan Lal,168,Ohio State University,USA,NULL,NULL
 1169,2,1,6,CA,1636,René Laprise,714,University of Quebec at Montreal,Canada,259,Departement des Sciences de la Terra et de l'Atmosphere
 1193,2,1,6,CA,1700,Ruby Leung,256,Pacific Northwest National Laboratory,USA,NULL,NULL
@@ -894,13 +894,13 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1819,2,1,7,CLA,3169,D. Warrick,316,University of Waikato,New Zealand,NULL,NULL
 1177,2,1,7,LA,1659,C. Le Provost,1239,Institut de Mecanique de Grenoble,France,NULL,NULL
 1298,2,1,7,LA,1928,M. Meier,1124,INSTAAR,USA,NULL,NULL
-1402,2,1,7,LA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
+1402,2,1,7,LA,2173,Johannes Oerlemans,273,University of Utrecht,Netherlands,176,Institute for Marine and Atmospheric Research
 1860,2,1,7,LA,3270,Philip Woodworth,217,Permanent Service for Mean Sea Level (PSMSL),United Kingdom,NULL,NULL
 544,2,1,7,CA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
 612,2,1,7,CA,237,C. Bentley,731,University of Wisconsin,USA,NULL,NULL
 618,2,1,7,CA,264,R. Bindschadler,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
 643,2,1,7,CA,328,R.J. Braithwaite,721,University of Manchester,United Kingdom,NULL,NULL
-762,2,1,7,CA,638,J. De Wolde,273,University of Utrecht,The Netherlands,NULL,NULL
+762,2,1,7,CA,638,J. De Wolde,273,University of Utrecht,Netherlands,NULL,NULL
 790,2,1,7,CA,714,I. Douglas,117,N/A,United Kingdom,NULL,NULL
 802,2,1,7,CA,751,M. Dyurgerov,293,Institute of Geography,Russian Federation,NULL,NULL
 850,2,1,7,CA,850,N. Flemming,1225,Institute of Oceanographic Sciences,United Kingdom,283,Deacon Labotatory
@@ -966,7 +966,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1031,2,1,9,CA,1276,B. Huntley,1264,University of Durham,United Kingdom,NULL,NULL
 1135,2,1,9,CA,1562,Christian Korner,827,University of Basel,Switzerland,NULL,NULL
 1157,2,1,9,CA,1599,Werner A. Kurz,1236,ESSA Ltd,Canada,NULL,NULL
-1184,2,1,9,CA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+1184,2,1,9,CA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 1219,2,1,9,CA,1754,J. Lloyd,230,Australian National University,Australia,NULL,NULL
 1264,2,1,9,CA,1858,P. Martin,1243,European Commission,Italy,NULL,NULL
 1279,2,1,9,CA,1910,A.D. McGuire,755,University of Alaska,USA,NULL,NULL
@@ -1015,7 +1015,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 964,2,1,TS,LA,1113,N. Harris,1028,European Ozone Research Coordinating Unit,United Kingdom,NULL,NULL
 1021,2,1,TS,LA,1244,J.T. Houghton,117,N/A,United Kingdom,NULL,NULL
 1073,2,1,TS,LA,1371,P. Jonas,1231,University of Manchester Institute of Science and Technology (UMIST),United Kingdom,NULL,NULL
-1093,2,1,TS,LA,1441,A. Kattenberg,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+1093,2,1,TS,LA,1441,A. Kattenberg,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 1272,2,1,TS,LA,1893,Gordon McBean,164,Environment Canada,Canada,56,Atmospheric Environment Canada
 1275,2,1,TS,LA,1902,Mack McFarland,996,United Nations Environment Programme (UNEP),Kenya,NULL,NULL
 1301,2,1,TS,LA,1931,G. Meira,1046,Agencia Espacial Brasileira,Brazil,NULL,NULL
@@ -1062,7 +1062,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1603,2,2,A,CA,2628,Dieter Sauerbeck,1346,Federal Ministry of Environment,Germany,NULL,NULL
 1695,2,2,A,CA,2829,W. Sombroek,644,Food and Agriculture Organization (FAO),Italy,NULL,NULL
 1790,2,2,A,CA,3051,S. Under,101,N/A,Sweden,NULL,NULL
-1793,2,2,A,CA,3065,S.C. Van de Geijn,1151,Landbouw Universiteit Wageningen,The Netherlands,NULL,NULL
+1793,2,2,A,CA,3065,S.C. Van de Geijn,1151,Landbouw Universiteit Wageningen,Netherlands,NULL,NULL
 1359,2,2,B,CLA,2099,Nebojsa Nakicenovic,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 933,2,2,B,LA,1042,Amulf Grubler,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 1040,2,2,B,LA,1305,Hisashi Ishitani,148,University of Tokyo,Japan,NULL,NULL
@@ -1094,7 +1094,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1136,2,2,1,CA,1562,Christian Korner,827,University of Basel,Switzerland,NULL,NULL
 1143,2,2,1,CA,1576,N. Krauchi,1306,Swiss Federal Institute for Forest Snow and Landscape Research,Switzerland,NULL,NULL
 1165,2,2,1,CA,1629,J. Landsberg,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
-1185,2,2,1,CA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+1185,2,2,1,CA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 1205,2,2,1,CA,1730,S. Linder,1315,University of Agricultural Sciences,Sweden,NULL,NULL
 1227,2,2,1,CA,1790,R.J. Luxmoore,271,Oak Ridge National Laboratory,USA,NULL,NULL
 1257,2,2,1,CA,1848,A. Markham,1319,WWF,USA,NULL,NULL
@@ -1214,14 +1214,14 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1751,2,2,6,LA,2963,Melissa Taylor,741,Geological Survey of Canada,Canada,NULL,NULL
 603,2,2,6,CA,205,C. Bartlett,1050,University of New Hampshire,USA,NULL,NULL
 628,2,2,6,CA,290,Michel Boko,1278,National University of Benin,Benin,NULL,NULL
-653,2,2,6,CA,359,J. Brouwer,107,N/A,The Netherlands,NULL,NULL
+653,2,2,6,CA,359,J. Brouwer,107,N/A,Netherlands,NULL,NULL
 683,2,2,6,CA,436,Osvaldo F. Canziani,170,Universidad de Buenos Aires,Argentina,NULL,NULL
 735,2,2,6,CA,575,C.B. Craft,652,Duke University,USA,NULL,NULL
 1161,2,2,6,CA,1614,R. Laine,274,University of Helsinki,Finland,NULL,NULL
 1171,2,2,6,CA,1641,D. Larson,1313,Northern Prairie Science Center,USA,NULL,NULL
 1263,2,2,6,CA,1857,P.J. Martikainen,1321,National Public Health Institute,Finland,NULL,NULL
 1266,2,2,6,CA,1880,E. Matthews,124,National Aeronautics and Space Administration (NASA),USA,NULL,NULL
-1350,2,2,6,CA,2063,W. Mullie,107,N/A,The Netherlands,NULL,NULL
+1350,2,2,6,CA,2063,W. Mullie,107,N/A,Netherlands,NULL,NULL
 1428,2,2,6,CA,2238,S. Page,1328,University of Leicester,United Kingdom,NULL,NULL
 1536,2,2,6,CA,2490,C.J. Richardson,652,Duke University,USA,NULL,NULL
 1545,2,2,6,CA,2497,J. Rieley,1339,University of Nottingham,United Kingdom,NULL,NULL
@@ -1288,9 +1288,9 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1778,2,2,8,CA,3023,H. Trevino,80,N/A,Peru,NULL,NULL
 1828,2,2,8,CA,3184,D.J. Webb,1225,Institute of Oceanographic Sciences,United Kingdom,NULL,NULL
 1874,2,2,8,CA,3335,R. Zahn,1362,GEOMAR,Germany,NULL,NULL
-615,2,2,9,CLA,259,Luitzen Bijlsma,1091,National Institute for Coastal and Marine Management,The Netherlands,NULL,NULL
+615,2,2,9,CLA,259,Luitzen Bijlsma,1091,National Institute for Coastal and Marine Management,Netherlands,NULL,NULL
 812,2,2,9,LA,768,C.N. Ehler,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
-1117,2,2,9,LA,1523,Richard J.T. Klein,1091,National Institute for Coastal and Marine Management,The Netherlands,NULL,NULL
+1117,2,2,9,LA,1523,Richard J.T. Klein,1091,National Institute for Coastal and Marine Management,Netherlands,NULL,NULL
 1152,2,2,9,LA,1589,Shashi Kulshrestha,1312,Independent Consultant,India,NULL,NULL
 1282,2,2,9,LA,1914,Roger McLean,125,University of New South Wales,Australia,NULL,NULL
 1323,2,2,9,LA,1989,Nobuo Mimura,412,Ibaraki University,Japan,NULL,NULL
@@ -1307,7 +1307,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 908,2,2,9,CA,1002,Vivien Gornitz,185,Columbia University,USA,NULL,NULL
 1000,2,2,9,CA,1211,C. Hofius,1302,Federal Institute of Hydrology,Germany,NULL,NULL
 1009,2,2,9,CA,3388,P.M. Holligan,1,N/A,N/A,NULL,NULL
-1015,2,2,9,CA,1235,F.M.J. Hoozemans,789,WIJ Delft Hydraulics,The Netherlands,NULL,NULL
+1015,2,2,9,CA,1235,F.M.J. Hoozemans,789,WIJ Delft Hydraulics,Netherlands,NULL,NULL
 1017,2,2,9,CA,1238,David Hopley,811,James Cook University,Australia,NULL,NULL
 1019,2,2,9,CA,1243,Y. Hosokawa,1304,Ministry of Transport,Japan,NULL,NULL
 1029,2,2,9,CA,1266,Yang Huating,1276,China Institute for Marine Development Strategy,China,NULL,NULL
@@ -1366,7 +1366,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1216,2,2,12,LA,1748,D. Liverman,113,N/A,USA,NULL,NULL
 1236,2,2,12,LA,1810,Christopher H.D. Magadza,517,University of Zimbabwe,Zimbabwe,NULL,NULL
 1242,2,2,12,LA,1819,Gabriel M. Mailu,995,Ministry of Research Technical Training and Technology,Kenya,NULL,NULL
-1415,2,2,12,LA,2201,Jos G.J. Olivier,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+1415,2,2,12,LA,2201,Jos G.J. Olivier,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 1436,2,2,12,LA,2255,Jyoti K. Parikh,1157,Indira Gandhi Institute of Development Research,India,NULL,NULL
 1461,2,2,12,LA,2306,T.H.R. Peries,98,N/A,Sri Lanka,NULL,NULL
 1655,2,2,12,LA,2754,E. Shove,117,N/A,United Kingdom,NULL,NULL
@@ -1381,9 +1381,9 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1446,2,2,13,LA,2272,D. Patterson,113,N/A,USA,NULL,NULL
 1564,2,2,13,LA,2537,J. Rogasik,1286,Agricultural Institute for Climate Research,Germany,NULL,NULL
 1570,2,2,13,LA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
-1573,2,2,13,LA,2563,R. Rotter,107,N/A,The Netherlands,NULL,NULL
+1573,2,2,13,LA,2563,R. Rotter,107,N/A,Netherlands,NULL,NULL
 1697,2,2,13,LA,2829,W. Sombroek,644,Food and Agriculture Organization (FAO),Italy,NULL,NULL
-1794,2,2,13,LA,3065,S.C. Van de Geijn,1151,Landbouw Universiteit Wageningen,The Netherlands,NULL,NULL
+1794,2,2,13,LA,3065,S.C. Van de Geijn,1151,Landbouw Universiteit Wageningen,Netherlands,NULL,NULL
 1836,2,2,13,LA,3202,J. Westbrook,113,N/A,USA,NULL,NULL
 584,2,2,13,CA,163,D. Bachelet,1274,Center d'Etude Spatiale du Rayonnement,France,NULL,NULL
 651,2,2,13,CA,349,Michael Brklacich,310,Carleton University,Canada,NULL,NULL
@@ -1412,7 +1412,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1248,2,2,14,CA,1823,David C. Major,1318,Social Science Research Council,USA,NULL,NULL
 1476,2,2,14,CA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
 1580,2,2,14,CA,2577,D.G. Rutashobya,1343,Ministry of Water Energy and Minerals,Tanzania,NULL,NULL
-1608,2,2,14,CA,2633,H.H.G. Savenije,107,N/A,The Netherlands,NULL,NULL
+1608,2,2,14,CA,2633,H.H.G. Savenije,107,N/A,Netherlands,NULL,NULL
 1701,2,2,14,CA,2832,C. Somorowski,1352,Academy of Agriculture,Poland,NULL,NULL
 1747,2,2,14,CA,2936,K. Szesztay,1356,Consultant,Hungary,NULL,NULL
 1693,2,2,15,CLA,2826,Allen M. Solomon,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
@@ -1485,7 +1485,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 749,2,2,18,CA,599,Susana I. Curto De Casas,170,Universidad de Buenos Aires,Argentina,73,Centro de Investigaciones Biometeorologicas
 894,2,2,18,CA,976,L. Galindez Giron,120,N/A,Venezuela,NULL,NULL
 1141,2,2,18,CA,1571,Sari Kovats,358,London School of Hygiene and Tropical Medicine,United Kingdom,NULL,NULL
-1262,2,2,18,CA,1856,W.J.M. Martens,1320,University of Limburg,The Netherlands,NULL,NULL
+1262,2,2,18,CA,1856,W.J.M. Martens,1320,University of Limburg,Netherlands,NULL,NULL
 1321,2,2,18,CA,1985,D. Mills,850,University of Delaware,USA,NULL,NULL
 1341,2,2,18,CA,2029,Ana Rosa Moreno,1323,Pan American Health Organization,Mexico,NULL,NULL
 1533,2,2,18,CA,2471,W. Reisen,544,University of California,USA,NULL,NULL
@@ -1514,7 +1514,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1609,2,2,19,LA,2634,K. Saviharju,34,N/A,Finland,NULL,NULL
 1703,2,2,19,LA,2836,B. Sorensen,1353,Roskilde University,Denmark,NULL,NULL
 1721,2,2,19,LA,2873,G. Stevens,331,Organization for Economic Cooperation and Development (OECD),France,199,Nuclear Energy Agency (NEA)
-1788,2,2,19,LA,3042,W.C. Turkenburg,107,N/A,The Netherlands,NULL,NULL
+1788,2,2,19,LA,3042,W.C. Turkenburg,107,N/A,Netherlands,NULL,NULL
 1855,2,2,19,LA,3234,R.H. Williams,428,Princeton University,USA,NULL,NULL
 1881,2,2,19,LA,3366,Fengqi Zhou,525,Energy Research Institute,China,NULL,NULL
 868,2,2,19,CA,891,Lb. Friedleifsson,1295,United Nations University,Iceland,NULL,NULL
@@ -1522,7 +1522,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1527,2,2,19,CA,2460,Steve Rayner,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 1550,2,2,19,CA,2516,J.S. Robertson,1340,ETSU,United Kingdom,NULL,NULL
 1090,2,2,20,CLA,1437,Takao Kashiwagi,1183,Tokyo University of Agriculture & Technology,Japan,NULL,NULL
-661,2,2,20,LA,373,J. Bruggink,107,N/A,The Netherlands,NULL,NULL
+661,2,2,20,LA,373,J. Bruggink,107,N/A,Netherlands,NULL,NULL
 893,2,2,20,LA,975,P.-N. Giraud,35,N/A,France,NULL,NULL
 1101,2,2,20,LA,1478,P. Khanna,44,N/A,India,NULL,NULL
 1336,2,2,20,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
@@ -1531,7 +1531,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 739,2,2,21,LA,580,J. Crayston,644,Food and Agriculture Organization (FAO),Italy,NULL,NULL
 753,2,2,21,LA,617,Ogunlade R. Davidson,920,University of Sierra Leone,Sierra Leone,NULL,NULL
 1131,2,2,21,LA,1555,Paul Komor,113,N/A,USA,NULL,NULL
-1142,2,2,21,LA,1574,T. Kram,107,N/A,The Netherlands,NULL,NULL
+1142,2,2,21,LA,1574,T. Kram,107,N/A,Netherlands,NULL,NULL
 1361,2,2,21,LA,2099,Nebojsa Nakicenovic,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 1421,2,2,21,LA,2218,J-P. Orfeuil,35,N/A,France,NULL,NULL
 1470,2,2,21,LA,2345,R. Pischinger,7,N/A,Austria,NULL,NULL
@@ -1604,7 +1604,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 670,2,2,24,CA,396,P. Burschel,36,N/A,Germany,NULL,NULL
 913,2,2,24,CA,1014,A. Grainger,117,N/A,United Kingdom,NULL,NULL
 989,2,2,24,CA,1187,J. Heuveldop,36,N/A,Germany,NULL,NULL
-1186,2,2,24,CA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+1186,2,2,24,CA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 1346,2,2,24,CA,2050,P. Moura Costa,16,N/A,Brazil,NULL,NULL
 1380,2,2,24,CA,2132,S. Nilsson,101,N/A,Sweden,NULL,NULL
 1468,2,2,24,CA,2337,M. Pinard,113,N/A,USA,NULL,NULL
@@ -1614,7 +1614,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1779,2,2,24,CA,3024,M. Trexler,113,N/A,USA,NULL,NULL
 1797,2,2,24,CA,3073,Jelle Van Minnen,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 1839,2,2,24,CA,3206,S. Weyers,36,N/A,Germany,NULL,NULL
-1187,2,2,25,CLA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+1187,2,2,25,CLA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 531,2,2,25,LA,37,Shardul Agrawala,44,N/A,India,NULL,NULL
 806,2,2,25,LA,762,James Edmonds,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 1231,2,2,25,LA,1799,Michael C. MacCracken,1083,Office of the US Global Change Research Program,USA,NULL,NULL
@@ -1659,7 +1659,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 606,2,2,TS,LA,211,Bryson C. Bates,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
 610,2,2,TS,LA,231,Martin Beniston,136,ETH Zurich,Switzerland,169,Institute of Geography
 614,2,2,TS,LA,257,Rosina Bierbaum,1090,Office of Science and Technology Policy (OSTP),USA,NULL,NULL
-616,2,2,TS,LA,259,Luitzen Bijlsma,1091,National Institute for Coastal and Marine Management,The Netherlands,NULL,NULL
+616,2,2,TS,LA,259,Luitzen Bijlsma,1091,National Institute for Coastal and Marine Management,Netherlands,NULL,NULL
 629,2,2,TS,LA,290,Michel Boko,1278,National University of Benin,Benin,NULL,NULL
 631,2,2,TS,LA,291,Bert Bolin,101,N/A,Sweden,NULL,NULL
 634,2,2,TS,LA,292,Suzanne Bolton,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
@@ -1700,13 +1700,13 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1065,2,2,TS,LA,1364,Thomas Johansson,1308,United Nations Development Programme (UNDP),Sweden,NULL,NULL
 1081,2,2,TS,LA,1403,Zdzislaw Kaczmarek,387,Polish Academy of Sciences,Poland,NULL,NULL
 1091,2,2,TS,LA,1437,Takao Kashiwagi,1183,Tokyo University of Agriculture & Technology,Japan,NULL,NULL
-1118,2,2,TS,LA,1523,Richard J.T. Klein,1091,National Institute for Coastal and Marine Management,The Netherlands,NULL,NULL
+1118,2,2,TS,LA,1523,Richard J.T. Klein,1091,National Institute for Coastal and Marine Management,Netherlands,NULL,NULL
 1132,2,2,TS,LA,1555,Paul Komor,113,N/A,USA,NULL,NULL
 1149,2,2,TS,LA,1581,Andrei Krovnin,1311,Russian Federal Research Institute of Fisheries and Oceanography,Russian Federation,NULL,NULL
 1153,2,2,TS,LA,1589,Shashi Kulshrestha,1312,Independent Consultant,India,NULL,NULL
 1168,2,2,TS,LA,1632,Herbert Lang,136,ETH Zurich,Switzerland,NULL,NULL
 1176,2,2,TS,LA,1658,Henri Le Houerou,1314,CEFE,France,NULL,NULL
-1188,2,2,TS,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+1188,2,2,TS,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 1196,2,2,TS,LA,1707,Mark D. Levine,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
 1202,2,2,TS,LA,1723,Tranviet Lien,832,Institute of Meteorology and Hydrology Vietnam,Vietnam,NULL,NULL
 1204,2,2,TS,LA,1726,Erda Lin,1119,Agrometeorology Institute,China,NULL,NULL
@@ -1760,7 +1760,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1771,2,2,TS,LA,3007,Dennis A. Tirpak,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 1781,2,2,TS,LA,3026,Jean-Paul Troadec,35,N/A,France,NULL,NULL
 1784,2,2,TS,LA,3037,Itsuya Tsuzaka,1206,Global Industrial and Social Progress Research Institute (GISPRI),Japan,NULL,NULL
-1801,2,2,TS,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+1801,2,2,TS,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 1822,2,2,TS,LA,3178,Robert T. Watson,1090,Office of Science and Technology Policy (OSTP),USA,NULL,NULL
 1853,2,2,TS,LA,3235,Ted Williams,227,U.S. Department of Energy,USA,NULL,NULL
 1863,2,2,TS,LA,3286,Youyu Xie,233,Chinese Academy of Sciences,China,NULL,NULL
@@ -1816,12 +1816,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 829,2,3,6,LA,810,Samuel Fankhauser,1369,Global Environment Facility,USA,NULL,NULL
 1426,2,3,6,LA,2234,R.K. Pachauri,915,Tata Energy Research Institute (TERI),India,NULL,NULL
 1450,2,3,6,LA,2283,D.W. Pearce,1379,Centre for Social and Economic Research on the Global Environment (CSERGE),United Kingdom,NULL,NULL
-1773,2,3,6,LA,3011,Richard S.J. Tol,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
-1802,2,3,6,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+1773,2,3,6,LA,3011,Richard S.J. Tol,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
+1802,2,3,6,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 513,2,3,6,CA,2965,Karl E. Taylor,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 539,2,3,7,LA,53,Majid Al-Moneef,1159,King Saud University,Saudi Arabia,NULL,NULL
 575,2,3,7,LA,135,M. Asaduzzaman,1366,Bangladesh Institute of Development Studies (BIDS),Bangladesh,NULL,NULL
-1058,2,3,7,LA,1348,Catrinus J. Jepma,942,University of Groningen,The Netherlands,NULL,NULL
+1058,2,3,7,LA,1348,Catrinus J. Jepma,942,University of Groningen,Netherlands,NULL,NULL
 1268,2,3,7,LA,1888,R.S. Maya,1190,Southern Center for Energy and Environment,Zimbabwe,NULL,NULL
 1325,2,3,7,LA,1995,I. Mintzer,414,University of Maryland,USA,NULL,NULL
 673,2,3,7,CA,403,John Byrne,850,University of Delaware,USA,NULL,NULL
@@ -1832,7 +1832,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1504,2,3,7,CA,2414,A. Qureshi,716,Climate Institute,USA,NULL,NULL
 1598,2,3,7,CA,2622,W. Sassin,1380,Forschungszentrum Jülich,Germany,NULL,NULL
 1631,2,3,7,CA,2697,Roger Sedjo,873,Resources for the Future,USA,NULL,NULL
-1795,2,3,7,CA,3068,A. Van der Veen,1386,University of Twente,The Netherlands,NULL,NULL
+1795,2,3,7,CA,3068,A. Van der Veen,1386,University of Twente,Netherlands,NULL,NULL
 1023,2,3,8,CLA,1246,Jean-Charles Hourcade,587,Centre international de recherche sur l'environnement et le développement (CIRED),France,NULL,NULL
 1538,2,3,8,CLA,2492,Richard G. Richels,505,Electric Power Research Institute (EPRI),USA,NULL,NULL
 1552,2,3,8,CLA,2518,John B. Robinson,326,University of British Columbia,Canada,NULL,NULL
@@ -1888,9 +1888,9 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 932,2,3,10,LA,1039,Michael Grubb,1265,Royal Institute of International Affairs,United Kingdom,NULL,NULL
 1444,2,3,10,LA,2267,Edward Parson,215,Harvard University,USA,137,J.F. Kennedy School of Government
 1540,2,3,10,LA,2492,Richard G. Richels,505,Electric Power Research Institute (EPRI),USA,NULL,NULL
-1572,2,3,10,LA,2561,J. Rotmans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+1572,2,3,10,LA,2561,J. Rotmans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 1659,2,3,10,LA,2759,Priyadarshi R. Shukla,897,Indian Institute of Management,India,NULL,NULL
-1774,2,3,10,LA,3011,Richard S.J. Tol,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+1774,2,3,10,LA,3011,Richard S.J. Tol,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 722,2,3,10,CA,530,W.R. Cline,1368,Institute for International Economics,USA,NULL,NULL
 830,2,3,10,CA,810,Samuel Fankhauser,1369,Global Environment Facility,USA,NULL,NULL
 597,2,3,11,LA,198,Scott Barrett,1161,London Business School,United Kingdom,NULL,NULL
@@ -1903,7 +1903,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 948,2,3,11,CA,1080,H.I. Haites,535,Margaree Consultants Inc.,Canada,NULL,NULL
 992,2,3,11,CA,1197,M. Hinchy,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
 1766,2,3,11,CA,2994,S. Thorpe,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia,NULL,NULL
-3488,3,1,1,CLA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+3488,3,1,1,CLA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 3529,3,1,1,LA,41,Epiphane Dotou Ahlonsou,1082,Benin National Meteorological Service,Benin,NULL,NULL
 3277,3,1,1,LA,692,Yihui Ding,187,China Meteorological Administration,China,NULL,NULL
 2407,3,1,1,LA,2649,David Schimel,212,Max-Planck Institute for Biogeochemistry,Germany,NULL,NULL
@@ -1916,7 +1916,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3131,3,1,2,LA,1044,G.V. Gruza,622,Institute of Global Climate and Ecology,Russian Federation,NULL,NULL
 2965,3,1,2,LA,1392,Jean Jouzel,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 2797,3,1,2,LA,1834,M.E. Mann,199,University of Virginia,USA,NULL,NULL
-2631,3,1,2,LA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
+2631,3,1,2,LA,2173,Johannes Oerlemans,273,University of Utrecht,Netherlands,176,Institute for Marine and Atmospheric Research
 2427,3,1,2,LA,2602,"Michael James ""Jim"" Salinger",280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
 2203,3,1,2,LA,3153,M. Wang,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
 3105,3,1,2,RE,1091,R. Hallgren,1026,American Meteorological Society,USA,NULL,NULL
@@ -2042,7 +2042,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2272,3,1,2,CA,2980,V. Thapliyal,769,India Meteorological Department,India,NULL,NULL
 2271,3,1,2,CA,2987,A.M. Thompson,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
 2270,3,1,2,CA,2988,Lonnie Thompson,168,Ohio State University,USA,NULL,NULL
-2265,3,1,2,CA,3005,Axel Timmermann,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+2265,3,1,2,CA,3005,Axel Timmermann,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 2257,3,1,2,CA,3018,R. Toumi,697,Imperial College London,United Kingdom,NULL,NULL
 2253,3,1,2,CA,3022,Kevin E. Trenberth,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 2248,3,1,2,CA,3041,H. Tuomenvirta,223,Finnish Meteorological Institute,Finland,NULL,NULL
@@ -2173,10 +2173,10 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2729,3,1,4,CA,1962,L. Mickley,215,Harvard University,USA,NULL,NULL
 2697,3,1,4,CA,2020,Steve Montzka,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
 2678,3,1,4,CA,2061,J.F. Muller,1051,Belgian Institute for Space Aeronomy,Belgium,NULL,NULL
-2626,3,1,4,CA,2201,Jos G.J. Olivier,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2626,3,1,4,CA,2201,Jos G.J. Olivier,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 2570,3,1,4,CA,2330,K. Pickering,414,University of Maryland,USA,NULL,NULL
 2562,3,1,4,CA,2346,G. Pitari,1044,Universite Degli Studi dellâ Aquila,Italy,NULL,NULL
-2459,3,1,4,CA,2533,G.J. Roelofs,273,University of Utrecht,The Netherlands,NULL,NULL
+2459,3,1,4,CA,2533,G.J. Roelofs,273,University of Utrecht,Netherlands,NULL,NULL
 2457,3,1,4,CA,2539,H. Rogers,276,University of Cambridge,United Kingdom,NULL,NULL
 2454,3,1,4,CA,2541,B. Rognerud,424,University of Oslo,Norway,NULL,NULL
 2339,3,1,4,CA,2803,Joel B. Smith,459,Stratus Consulting Inc.,USA,NULL,NULL
@@ -2187,7 +2187,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2065,3,1,4,CA,2875,David S. Stevenson,211,University of Edinburgh,United Kingdom,NULL,NULL
 2292,3,1,4,CA,2920,J. Sundet,424,University of Oslo,Norway,NULL,NULL
 2269,3,1,4,CA,2989,W.J. Thompson,132,University of Washington,USA,NULL,NULL
-2238,3,1,4,CA,3081,M. Van Weele,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+2238,3,1,4,CA,3081,M. Van Weele,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 2219,3,1,4,CA,3125,R. von Kuhlmann,1002,Max-Planck Institute for Chemistry,Germany,NULL,NULL
 2200,3,1,4,CA,3158,Y. Wang,509,Georgia Institute of Technology,USA,NULL,NULL
 2187,3,1,4,CA,3194,D. Weisenstein,1034,Atmospheric & Environmental Research Inc.,USA,NULL,NULL
@@ -2251,8 +2251,8 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2267,3,1,5,CA,3002,X. Tie,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 2243,3,1,5,CA,3061,G. Vali,1073,University of Wyoming,USA,NULL,NULL
 2242,3,1,5,CA,3069,R. Van Dingenen,1075,Enviroment Institute of European Commission,Italy,NULL,NULL
-2239,3,1,5,CA,3081,M. Van Weele,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
-2115,3,1,5,CA,3361,ZhongXiang Zhang,942,University of Groningen,The Netherlands,NULL,NULL
+2239,3,1,5,CA,3081,M. Van Weele,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
+2115,3,1,5,CA,3361,ZhongXiang Zhang,942,University of Groningen,Netherlands,NULL,NULL
 2510,3,1,6,CLA,2430,Venkatachalam Ramaswamy,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 3422,3,1,6,LA,310,Olivier Boucher,1008,Laboratoire d'Optique Atmospherique,France,NULL,NULL
 3114,3,1,6,LA,1077,Joanna Haigh,697,Imperial College London,United Kingdom,NULL,NULL
@@ -2283,7 +2283,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2581,3,1,6,CA,2298,Joyce E. Penner,247,University of Michigan,USA,NULL,NULL
 2469,3,1,6,CA,2512,D.L. Roberts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 2461,3,1,6,CA,2527,H. Rodhe,1062,University of Stockholm,Sweden,NULL,NULL
-2460,3,1,6,CA,2533,G.J. Roelofs,273,University of Utrecht,The Netherlands,NULL,NULL
+2460,3,1,6,CA,2533,G.J. Roelofs,273,University of Utrecht,Netherlands,NULL,NULL
 2439,3,1,6,CA,2562,Leon D. Rotstayn,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
 2404,3,1,6,CA,2668,Stephen Schneider,338,Stanford University,USA,NULL,NULL
 2393,3,1,6,CA,2684,U. Schumann,1011,Institute of Atmospheric Physics Germany,Germany,NULL,NULL
@@ -2295,8 +2295,8 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2066,3,1,6,CA,2875,David S. Stevenson,211,University of Edinburgh,United Kingdom,NULL,NULL
 2302,3,1,6,CA,2885,F. Stordal,1070,Norwegian Institute for Air Research,Norway,NULL,NULL
 2275,3,1,6,CA,2969,I. Tegen,212,Max-Planck Institute for Biogeochemistry,Germany,NULL,NULL
-2241,3,1,6,CA,3070,Robert Van Dorland,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
-2116,3,1,6,CA,3361,ZhongXiang Zhang,942,University of Groningen,The Netherlands,NULL,NULL
+2241,3,1,6,CA,3070,Robert Van Dorland,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
+2116,3,1,6,CA,3361,ZhongXiang Zhang,942,University of Groningen,Netherlands,NULL,NULL
 2307,3,1,7,CLA,2880,Thomas F. Stocker,126,University of Bern,Switzerland,NULL,NULL
 3348,3,1,7,LA,527,R.A. Clarke,803,Bedford Institute of Oceanography,Canada,NULL,NULL
 2859,3,1,7,LA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
@@ -2334,7 +2334,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3139,3,1,7,CA,1029,S.M. Griffies,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
 3074,3,1,7,CA,1168,Isaac Held,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 3071,3,1,7,CA,1175,Ann Henderson-Sellers,368,Macquarie University,Australia,NULL,NULL
-3055,3,1,7,CA,1231,Albert A. M. Holtslag,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+3055,3,1,7,CA,1231,Albert A. M. Holtslag,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 3047,3,1,7,CA,1247,F. Hourdin,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
 3029,3,1,7,CA,1278,James W. Hurrell,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 2945,3,1,7,CA,1442,Vladimir M. Kattsov,222,Voeikov Main Geophysical Observatory,Russian Federation,NULL,NULL
@@ -2361,7 +2361,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2337,3,1,7,CA,2813,Brian Soden,428,Princeton University,USA,NULL,NULL
 2324,3,1,7,CA,2842,R.W. Spencer,124,National Aeronautics and Space Administration (NASA),USA,8,Marshall Space Flight Center
 2278,3,1,7,CA,2966,P. Taylor,1014,Southampton Oceanography Centre,United Kingdom,NULL,NULL
-2266,3,1,7,CA,3005,Axel Timmermann,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+2266,3,1,7,CA,3005,Axel Timmermann,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 2223,3,1,7,CA,3113,K.Ya. Vinnikov,414,University of Maryland,USA,NULL,NULL
 2221,3,1,7,CA,3115,M. Visbeck,185,Columbia University,USA,92,Lamont-Doherty Earth Observatory
 2170,3,1,7,CA,3224,S.E. Wijffels,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
@@ -2495,7 +2495,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3463,3,1,10,CA,211,Bryson C. Bates,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
 3455,3,1,10,CA,229,Rasmus Benestad,584,Frischsenteret,Norway,NULL,NULL
 3436,3,1,10,CA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
-3395,3,1,10,CA,387,T.A. Buishand,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+3395,3,1,10,CA,387,T.A. Buishand,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 3373,3,1,10,CA,453,M. Castro,202,Universidad Complutense de Madrid,Spain,NULL,NULL
 1908,3,1,10,CA,3410,Xiongwen Chen,1,N/A,N/A,NULL,NULL
 3322,3,1,10,CA,577,Wolfgang P. Cramer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
@@ -2617,7 +2617,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2746,3,1,13,CLA,1922,Linda O. Mearns,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 3374,3,1,13,LA,449,Timothy Carter,322,Finnish Environment Institute,Finland,NULL,NULL
 2880,3,1,13,LA,1617,Rattan Lal,168,Ohio State University,USA,NULL,NULL
-2844,3,1,13,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2844,3,1,13,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 2181,3,1,13,LA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 2774,3,1,13,RE,1871,Luis Jose Mata,1059,Universidad Central Venezuela,Venezuela,NULL,NULL
 2194,3,1,13,RE,3178,Robert T. Watson,1077,World Bank,USA,NULL,NULL
@@ -2659,7 +2659,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2305,3,1,TS,RE,2883,John M.R. Stone,164,Environment Canada,Canada,58,Policy Program and International Affairs Directorate
 2109,3,1,TS,RE,3376,John Zillman,250,Bureau of Meteorology,Australia,NULL,NULL
 3515,3,1,TS,CA,67,Myles R. Allen,1001,Rutherford Appleton Laboratory,United Kingdom,NULL,NULL
-3489,3,1,TS,CA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+3489,3,1,TS,CA,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 3353,3,1,TS,CA,510,John A. Church,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 3251,3,1,TS,CA,767,D.H. Ehhalt,1023,Institut fur Chemie der KFA Julich GmbH,Germany,NULL,NULL
 3211,3,1,TS,CA,858,Christopher K. Folland,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
@@ -2728,7 +2728,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3375,3,2,3,CLA,449,Timothy Carter,322,Finnish Environment Institute,Finland,NULL,NULL
 2849,3,2,3,CLA,1670,Emilio Lebre La Rovere,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
 2983,3,2,3,LA,1375,Andy Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
-2845,3,2,3,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2845,3,2,3,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 2748,3,2,3,LA,1922,Linda O. Mearns,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 2661,3,2,3,LA,2099,Nebojsa Nakicenovic,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 2553,3,2,3,LA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,78,CSIRO Climate Impact Group
@@ -2813,7 +2813,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3206,3,2,6,LA,860,Donald L. Forbes,803,Bedford Institute of Oceanography,Canada,NULL,NULL
 3016,3,2,6,LA,1309,Venugopalan Ittekkot,1115,Centre for Tropical Marine Ecology,Germany,NULL,NULL
 2713,3,2,6,LA,1989,Nobuo Mimura,412,Ibaraki University,Japan,NULL,NULL
-3444,3,2,6,RE,259,Luitzen Bijlsma,1091,National Institute for Coastal and Marine Management,The Netherlands,NULL,NULL
+3444,3,2,6,RE,259,Luitzen Bijlsma,1091,National Institute for Coastal and Marine Management,Netherlands,NULL,NULL
 2050,3,2,6,RE,3513,I. Sanchez-Arevalo,1,N/A,N/A,NULL,NULL
 3124,3,2,7,CLA,1058,Shreekant Gupta,386,University of Delhi,India,NULL,NULL
 2052,3,2,7,CLA,3515,D. Scott,1,N/A,N/A,NULL,NULL
@@ -2827,9 +2827,9 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2353,3,2,7,RE,2785,Jim F. Skea,468,University of Sussex,United Kingdom,NULL,NULL
 1973,3,2,7,CA,3454,U. Kelkar,1,N/A,N/A,NULL,NULL
 2716,3,2,8,CLA,1983,Evan Mills,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
-2230,3,2,8,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+2230,3,2,8,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,190,Institute for Environmental Studies
 3448,3,2,8,LA,251,Gerhard Berz,349,Munich Reinsurance Company,Germany,NULL,NULL
-3417,3,2,8,LA,315,Laurens Bouwer,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+3417,3,2,8,LA,315,Laurens Bouwer,302,"Vrije Universiteit,Amsterdam",Netherlands,190,Institute for Environmental Studies
 3030,3,2,8,LA,1277,Saleemul Huq,369,International Institute for Environment and Development (IIED),Bangladesh,NULL,NULL
 2900,3,2,8,LA,1572,Lee Ann Kozak,1156,Southern Company Services,USA,NULL,NULL
 2611,3,2,8,LA,2248,Jean P. Palutikof,231,University of East Anglia,United Kingdom,NULL,NULL
@@ -2851,7 +2851,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3129,3,2,9,LA,1045,Duane J. Gubler,404,Centers for Disease Control and Prevention,USA,NULL,NULL
 3111,3,2,9,LA,1078,Andrew Haines,1109,London Medical School,United Kingdom,NULL,NULL
 1982,3,2,9,LA,1571,Sari Kovats,1,N/A,N/A,NULL,NULL
-2783,3,2,9,LA,1855,Pim Martens,1122,Maastricht University,The Netherlands,NULL,NULL
+2783,3,2,9,LA,1855,Pim Martens,1122,Maastricht University,Netherlands,NULL,NULL
 2587,3,2,9,LA,2274,Jonathan Patz,1134,Johns Hopkins School of Public Health,USA,NULL,NULL
 2421,3,2,9,LA,2621,Akihiko Sasaki,1143,National Institute of Public Health,Japan,NULL,NULL
 3331,3,2,9,RE,553,Ulisses Confalonieri,329,Oswaldo Cruz Foundation (FIOCRUZ),Brazil,NULL,NULL
@@ -2989,7 +2989,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3324,3,2,13,LA,577,Wolfgang P. Cramer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
 3056,3,2,13,LA,1229,Jarle Inge Holten,1111,Terrestrial Ecology Research Institute,Norway,NULL,NULL
 2964,3,2,13,LA,1403,Zdzislaw Kaczmarek,387,Polish Academy of Sciences,Poland,NULL,NULL
-2784,3,2,13,LA,1855,Pim Martens,1122,Maastricht University,The Netherlands,NULL,NULL
+2784,3,2,13,LA,1855,Pim Martens,1122,Maastricht University,Netherlands,NULL,NULL
 2655,3,2,13,LA,2124,Robert J. Nicholls,1127,Middlesex University,United Kingdom,NULL,NULL
 2622,3,2,13,LA,2216,Mats Oquist,1130,Department of Water and Environmental Studies,Sweden,NULL,NULL
 2438,3,2,13,LA,2565,Mark Rounsevell,194,Université Catholique de Louvain,Belgium,NULL,NULL
@@ -3141,14 +3141,14 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2051,3,2,19,CLA,3514,John Schellnhuber,1,N/A,N/A,NULL,NULL
 2343,3,2,19,CLA,2802,Doug M. Smith,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 3238,3,2,19,LA,810,Samuel Fankhauser,801,European Bank for Reconstruction and Development (EBRD),United Kingdom,NULL,NULL
-2846,3,2,19,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2846,3,2,19,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 1932,3,2,19,LA,1726,Erda Lin,1119,Agrometeorology Institute,China,NULL,NULL
 2630,3,2,19,LA,2176,Laban J. Ogallo,427,University of Nairobi,Kenya,NULL,NULL
 2555,3,2,19,LA,2350,A. Barrie Pittock,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,78,CSIRO Climate Impact Group
 2476,3,2,19,LA,2492,Richard G. Richels,505,Electric Power Research Institute (EPRI),USA,NULL,NULL
 2442,3,2,19,LA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
 2432,3,2,19,LA,2588,Uriel N. Safriel,870,Blaustein Institute for Desert Research,Israel,NULL,NULL
-2264,3,2,19,LA,3011,Richard S.J. Tol,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+2264,3,2,19,LA,3011,Richard S.J. Tol,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 2183,3,2,19,LA,3205,John P. Weyant,338,Stanford University,USA,202,Energy Modeling Forum
 2128,3,2,19,LA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
 3054,3,2,19,RE,1236,Christopher Hope,276,University of Cambridge,United Kingdom,NULL,NULL
@@ -3207,7 +3207,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2347,3,2,TS,LA,2797,Barry Smit,861,University of Guelph,Canada,NULL,NULL
 2344,3,2,TS,LA,2802,Doug M. Smith,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 2251,3,2,TS,LA,3038,Alla Tsyban,622,Institute of Global Climate and Ecology,Russian Federation,NULL,NULL
-2231,3,2,TS,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+2231,3,2,TS,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,190,Institute for Environmental Studies
 2197,3,2,TS,LA,3170,Richard A. Warrick,316,University of Waikato,New Zealand,NULL,NULL
 2177,3,2,TS,LA,3214,W. White,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
 2145,3,2,TS,LA,3274,David Wratt,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
@@ -3240,7 +3240,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2884,3,2,SPM,LA,1616,Murari Lal,432,Indian Institute of Technology Bombay,India,NULL,NULL
 2855,3,2,SPM,LA,1668,Neil A. Leary,1103,University Corporation for Atmospheric Research (UCAR),USA,NULL,NULL
 2851,3,2,SPM,LA,1670,Emilio Lebre La Rovere,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
-2847,3,2,SPM,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2847,3,2,SPM,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 1912,3,2,SPM,LA,1743,Chunzhen Liu,1120,Hydrological Forecasting and Water Control Center,China,NULL,NULL
 2815,3,2,SPM,LA,1810,Christopher H.D. Magadza,517,University of Zimbabwe,Zimbabwe,NULL,NULL
 2796,3,2,SPM,LA,1836,Andrew C. Manning,259,University of California San Diego,USA,NULL,NULL
@@ -3272,7 +3272,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2335,3,2,SPM,LA,2814,Brent Sohngen,168,Ohio State University,USA,NULL,NULL
 2252,3,2,SPM,LA,3038,Alla Tsyban,622,Institute of Global Climate and Ecology,Russian Federation,NULL,NULL
 2237,3,2,SPM,LA,3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium,123,Institut d'Astronomie et de Géophysique G. Lemaitre
-2232,3,2,SPM,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+2232,3,2,SPM,LA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,190,Institute for Environmental Studies
 2198,3,2,SPM,LA,3170,Richard A. Warrick,316,University of Waikato,New Zealand,NULL,NULL
 2169,3,2,SPM,LA,3225,Thomas J. Wilbanks,271,Oak Ridge National Laboratory,USA,NULL,NULL
 2151,3,2,SPM,LA,3268,Alistair Woodward,1153,Wellington School of Medicine,New Zealand,NULL,NULL
@@ -3286,7 +3286,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2434,3,3,1,LA,2583,W. Sachs,542,"Wuppertal Institute for Climate,Environment and Energy",Germany,NULL,NULL
 2055,3,3,1,LA,3516,K.P. Sharma,1,N/A,N/A,NULL,NULL
 2129,3,3,1,LA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
-2623,3,3,1,RE,2215,Hans Opschoor,302,"Vrije Universiteit,Amsterdam",The Netherlands,185,Insititute of Social Studies
+2623,3,3,1,RE,2215,Hans Opschoor,302,"Vrije Universiteit,Amsterdam",Netherlands,185,Insititute of Social Studies
 2608,3,3,1,RE,2255,Jyoti K. Parikh,1157,Indira Gandhi Institute of Development Research,India,NULL,NULL
 3530,3,3,1,CA,32,Anil Agarwal,625,Indian Institute of Technology Delhi,India,NULL,NULL
 3452,3,3,1,CA,243,S. Bernow,1163,Tellus Institute,USA,NULL,NULL
@@ -3301,7 +3301,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2466,3,3,2,CLA,2517,David Robinson,258,Rutgers University,USA,NULL,NULL
 3535,3,3,2,LA,24,Anthony O. Adegbulugbe,758,Obafemi Awolowo University,Nigeria,NULL,NULL
 3520,3,3,2,LA,56,Joseph M. Alcamo,764,University of Kassel,Germany,NULL,NULL
-3301,3,3,2,LA,637,H.J.M. De Vries,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+3301,3,3,2,LA,637,H.J.M. De Vries,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 3069,3,3,2,LA,1182,Deborah Herbert,326,University of British Columbia,Canada,NULL,NULL
 2852,3,3,2,LA,1670,Emilio Lebre La Rovere,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
 2662,3,3,2,LA,2099,Nebojsa Nakicenovic,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
@@ -3316,7 +3316,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3519,3,3,2,CA,59,Lisa Alexander,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 2113,3,3,2,CA,3367,Zhou Dadi,525,Energy Research Institute,China,NULL,NULL
 2988,3,3,2,CA,1353,Kejun Jiang,525,Energy Research Institute,China,NULL,NULL
-1996,3,3,2,CA,3470,Ton Manders,1189,Centraal Planbureau (CPB),The Netherlands,NULL,NULL
+1996,3,3,2,CA,3470,Ton Manders,1189,Centraal Planbureau (CPB),Netherlands,NULL,NULL
 2770,3,3,2,CA,1878,Yuzuru Matsuoka,464,Kyoto University,Japan,NULL,NULL
 2686,3,3,2,CA,2034,S. Mori,1196,Science University of Tokyo,Japan,NULL,NULL
 2505,3,3,2,CA,2434,Ashish Rana,129,National Institute for Environmental Studies,Japan,NULL,NULL
@@ -3324,7 +3324,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2136,3,3,2,CA,3300,Kenji Yamaji,148,University of Tokyo,Japan,NULL,NULL
 2694,3,3,3,CLA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
 2690,3,3,3,CLA,2026,Jose Roberto Moreira,1195,Biomass Users Network (BUN),Brazil,NULL,NULL
-3438,3,3,3,LA,276,Kornelis Blok,912,Ecofys,The Netherlands,NULL,NULL
+3438,3,3,3,LA,276,Kornelis Blok,912,Ecofys,Netherlands,NULL,NULL
 3149,3,3,3,LA,1021,David L. Greene,271,Oak Ridge National Laboratory,USA,NULL,NULL
 3146,3,3,3,LA,1024,Jonathan M. Gregory,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 2998,3,3,3,LA,1339,T. Jaszay,611,Budapest University of Technology and Economics,Hungary,NULL,NULL
@@ -3340,12 +3340,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3019,3,3,3,RE,1305,Hisashi Ishitani,148,University of Tokyo,Japan,41,Graduate School of Engineering
 2572,3,3,3,RE,2329,Ramon Pichs-Madruga,973,Centro de Investigaciones de Economia Mundial (CIEM),Cuba,NULL,NULL
 3538,3,3,3,CA,18,A. Ackerman,124,National Aeronautics and Space Administration (NASA),USA,6,Ames Research Center
-3511,3,3,3,CA,74,E. Alsema,273,University of Utrecht,The Netherlands,NULL,NULL
+3511,3,3,3,CA,74,E. Alsema,273,University of Utrecht,Netherlands,NULL,NULL
 3493,3,3,3,CA,150,H. Audus,1160,International Energy Agency,United Kingdom,281,Greenhouse Gas R&D Programme
 3423,3,3,3,CA,309,Ranjan K. Bose,915,Tata Energy Research Institute (TERI),India,NULL,NULL
 3366,3,3,3,CA,476,Li Changsheng,382,University New Hampshire,USA,211,Complex Systems Research Center
 3304,3,3,3,CA,623,J. Davison,1160,International Energy Agency,United Kingdom,281,Greenhouse Gas R&D Programme
-3303,3,3,3,CA,625,J. De Beer,912,Ecofys,The Netherlands,NULL,NULL
+3303,3,3,3,CA,625,J. De Beer,912,Ecofys,Netherlands,NULL,NULL
 3199,3,3,3,CA,886,P. Freund,1160,International Energy Agency,United Kingdom,281,Greenhouse Gas R&D Programme
 3093,3,3,3,CA,1112,Jochen Harnisch,562,Ecofys,Germany,NULL,NULL
 1921,3,3,3,CA,1330,G. Jannuzzi,1,N/A,N/A,NULL,NULL
@@ -3359,7 +3359,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2228,3,3,3,CA,3101,David G. Victor,1208,Council on Foreign Relations,USA,NULL,NULL
 2205,3,3,3,CA,3143,A.C. Walter,1180,Universidade Estadual de Campinas (UNICAMP),Brazil,NULL,NULL
 2154,3,3,3,CA,3251,J.J. Wise,380,Exxon Mobil Corporation,USA,NULL,NULL
-2130,3,3,3,CA,3318,J.R. Ybema,1211,ECN Policy Studies,The Netherlands,NULL,NULL
+2130,3,3,3,CA,3318,J.R. Ybema,1211,ECN Policy Studies,Netherlands,NULL,NULL
 2938,3,3,4,CLA,1447,P.E. Kauppi,274,University of Helsinki,Finland,NULL,NULL
 2387,3,3,4,CLA,2697,Roger Sedjo,873,Resources for the Future,USA,NULL,NULL
 3504,3,3,4,LA,114,Michael J. Apps,790,Natural Resources Canada,Canada,266,Northern Forest Centre
@@ -3370,7 +3370,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2804,3,3,4,LA,1825,W.R. Makundi,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
 2785,3,3,4,LA,1849,Gregg Marland,271,Oak Ridge National Laboratory,USA,NULL,NULL
 2782,3,3,4,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,154,Instituto de Ecologia
-2667,3,3,4,LA,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,The Netherlands,NULL,NULL
+2667,3,3,4,LA,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,Netherlands,NULL,NULL
 2493,3,3,4,LA,2452,Nijavalli H. Ravindranath,159,Indian Institute of Science,India,NULL,NULL
 2489,3,3,4,LA,2461,W. Razali Wan Mohd,1201,Forest Research Institute Malaysia (FRIM),Malaysia,NULL,NULL
 3387,3,3,4,RE,419,Eduardo Calvo Buendia,1167,Comision Nac.de Cambio Clim.,Peru,NULL,NULL
@@ -3397,7 +3397,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2263,3,3,5,CA,3013,M.T. Tolmasquim,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
 3466,3,3,6,CLA,208,Igor Alexeyevich Bashmakov,1162,Tsentr po Effektivnomu Ispolzovanlu Energii,Russian Federation,NULL,NULL
 3102,3,3,6,CLA,1093,Kirsten Halsnaes,506,Risoe National Laboratory,Denmark,NULL,NULL
-2990,3,3,6,CLA,1348,Catrinus J. Jepma,942,University of Groningen,The Netherlands,NULL,NULL
+2990,3,3,6,CLA,1348,Catrinus J. Jepma,942,University of Groningen,Netherlands,NULL,NULL
 2786,3,3,6,CLA,1847,Anil Markandya,541,University of Bath,United Kingdom,NULL,NULL
 3432,3,3,6,LA,287,P. Bohm,701,Stockholm University,Sweden,NULL,NULL
 3126,3,3,6,LA,1058,Shreekant Gupta,386,University of Delhi,India,NULL,NULL
@@ -3498,21 +3498,21 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3482,3,3,TS,LA,182,T. Banuri,573,Stockholm Environment Institute Boston,USA,NULL,NULL
 3478,3,3,TS,LA,188,Terry Barker,276,University of Cambridge,United Kingdom,NULL,NULL
 3468,3,3,TS,LA,208,Igor Alexeyevich Bashmakov,1162,Tsentr po Effektivnomu Ispolzovanlu Energii,Russian Federation,NULL,NULL
-3440,3,3,TS,LA,276,Kornelis Blok,912,Ecofys,The Netherlands,NULL,NULL
+3440,3,3,TS,LA,276,Kornelis Blok,912,Ecofys,Netherlands,NULL,NULL
 3360,3,3,TS,LA,504,John M. Christensen,506,Risoe National Laboratory,Denmark,NULL,NULL
 3306,3,3,TS,LA,617,Ogunlade R. Davidson,149,University of Cape Town,South Africa,NULL,NULL
 3134,3,3,TS,LA,1039,Michael Grubb,697,Imperial College London,United Kingdom,NULL,NULL
 3104,3,3,TS,LA,1093,Kirsten Halsnaes,506,Risoe National Laboratory,Denmark,NULL,NULL
 3021,3,3,TS,LA,1305,Hisashi Ishitani,148,University of Tokyo,Japan,41,Graduate School of Engineering
-2992,3,3,TS,LA,1348,Catrinus J. Jepma,942,University of Groningen,The Netherlands,NULL,NULL
+2992,3,3,TS,LA,1348,Catrinus J. Jepma,942,University of Groningen,Netherlands,NULL,NULL
 2986,3,3,TS,LA,1359,Eberhard Jochem,944,Fraunhofer Institute for Systems and Innovation Research,Germany,NULL,NULL
 2940,3,3,TS,LA,1447,P.E. Kauppi,274,University of Helsinki,Finland,NULL,NULL
 2899,3,3,TS,LA,1575,Olga N. Krankina,180,Oregon State University,USA,85,Department of Forest Science
 2897,3,3,TS,LA,1583,Alan J. Krupnick,873,Resources for the Future,USA,NULL,NULL
-2894,3,3,TS,LA,1586,Lambert Kuijpers,951,Technical University Eindhoven,The Netherlands,NULL,NULL
+2894,3,3,TS,LA,1586,Lambert Kuijpers,951,Technical University Eindhoven,Netherlands,NULL,NULL
 2887,3,3,TS,LA,1605,Snorre Kverndokk,584,Frischsenteret,Norway,NULL,NULL
 2788,3,3,TS,LA,1847,Anil Markandya,541,University of Bath,United Kingdom,NULL,NULL
-2734,3,3,TS,LA,1949,Bert Metz,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2734,3,3,TS,LA,1949,Bert Metz,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 2696,3,3,TS,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
 2691,3,3,TS,LA,2026,Jose Roberto Moreira,1195,Biomass Users Network (BUN),Brazil,NULL,NULL
 2685,3,3,TS,LA,2037,T. Morita,129,National Institute for Environmental Studies,Japan,NULL,NULL
@@ -3521,7 +3521,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2479,3,3,TS,LA,2492,Richard G. Richels,505,Electric Power Research Institute (EPRI),USA,NULL,NULL
 2467,3,3,TS,LA,2517,David Robinson,258,Rutgers University,USA,NULL,NULL
 2420,3,3,TS,LA,2624,Jayant Sathaye,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
-2289,3,3,TS,LA,2931,Rob J. Swart,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2289,3,3,TS,LA,2931,Rob J. Swart,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 2285,3,3,TS,LA,2950,Kanako Tanaka,1206,Global Industrial and Social Progress Research Institute (GISPRI),Japan,NULL,NULL
 2284,3,3,TS,LA,2954,T. Taniguchi,1206,Global Industrial and Social Progress Research Institute (GISPRI),Japan,NULL,NULL
 2280,3,3,TS,LA,2965,Karl E. Taylor,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
@@ -3530,7 +3530,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3481,3,3,SPM,LA,182,T. Banuri,573,Stockholm Environment Institute Boston,USA,NULL,NULL
 3477,3,3,SPM,LA,188,Terry Barker,276,University of Cambridge,United Kingdom,NULL,NULL
 3467,3,3,SPM,LA,208,Igor Alexeyevich Bashmakov,1162,Tsentr po Effektivnomu Ispolzovanlu Energii,Russian Federation,NULL,NULL
-3439,3,3,SPM,LA,276,Kornelis Blok,912,Ecofys,The Netherlands,NULL,NULL
+3439,3,3,SPM,LA,276,Kornelis Blok,912,Ecofys,Netherlands,NULL,NULL
 3420,3,3,SPM,LA,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
 3361,3,3,SPM,LA,502,R. Christ,1170,IPCC Secretariat,Switzerland,NULL,NULL
 3305,3,3,SPM,LA,617,Ogunlade R. Davidson,149,University of Cape Town,South Africa,NULL,NULL
@@ -3542,11 +3542,11 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3073,3,3,SPM,LA,1170,Thomas C. Heller,338,Stanford University,USA,NULL,NULL
 3049,3,3,SPM,LA,1246,Jean-Charles Hourcade,587,Centre international de recherche sur l'environnement et le développement (CIRED),France,NULL,NULL
 3020,3,3,SPM,LA,1305,Hisashi Ishitani,148,University of Tokyo,Japan,41,Graduate School of Engineering
-2991,3,3,SPM,LA,1348,Catrinus J. Jepma,942,University of Groningen,The Netherlands,NULL,NULL
+2991,3,3,SPM,LA,1348,Catrinus J. Jepma,942,University of Groningen,Netherlands,NULL,NULL
 1966,3,3,SPM,LA,3449,Richels John,1,N/A,N/A,NULL,NULL
 2939,3,3,SPM,LA,1447,P.E. Kauppi,274,University of Helsinki,Finland,NULL,NULL
 2787,3,3,SPM,LA,1847,Anil Markandya,541,University of Bath,United Kingdom,NULL,NULL
-2733,3,3,SPM,LA,1949,Bert Metz,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2733,3,3,SPM,LA,1949,Bert Metz,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 2695,3,3,SPM,LA,2021,William Moomaw,962,Tufts University,USA,272,The Fletcher School of Law and Diplomacy
 2663,3,3,SPM,LA,2099,Nebojsa Nakicenovic,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 2018,3,3,SPM,LA,3490,Morita Nebojsa,1,N/A,N/A,NULL,NULL
@@ -3557,7 +3557,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2388,3,3,SPM,LA,2697,Roger Sedjo,873,Resources for the Future,USA,NULL,NULL
 2360,3,3,SPM,LA,2759,Priyadarshi R. Shukla,897,Indian Institute of Management,India,NULL,NULL
 2321,3,3,SPM,LA,2851,L. Srivastava,915,Tata Energy Research Institute (TERI),India,NULL,NULL
-2288,3,3,SPM,LA,2931,Rob J. Swart,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+2288,3,3,SPM,LA,2931,Rob J. Swart,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 2260,3,3,SPM,LA,3017,Ferenc L. Toth,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
 2074,3,3,SPM,LA,3532,Moreira Tsuneyuki,1,N/A,N/A,NULL,NULL
 4393,4,1,1,CLA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
@@ -3568,7 +3568,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4577,4,1,1,LA,2008,Abdalah Mokssit,191,Direction de la Meteorologie Nationale Maroc,Morocco,NULL,NULL
 4752,4,1,1,LA,2313,Thomas Peterson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
 4781,4,1,1,LA,2383,Michael Prather,251,University of California Irvine,USA,163,Earth System ScienceDepartment
-3636,4,1,1,RE,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+3636,4,1,1,RE,164,Alphonsus Baede,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 4069,4,1,1,RE,1031,David J. Griggs,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 3588,4,1,1,CA,67,Myles R. Allen,153,University of Oxford,United Kingdom,44,Climate Dynamics Group / Atmospheric Oceanic and Planetary Physics /Department of Physics /
 3632,4,1,1,CA,151,Ingeborg Auer,663,Central Institute for Meteorology and Geodynamics,Austria,NULL,NULL
@@ -3610,7 +3610,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4786,4,1,2,LA,2394,Ronald Prinn,320,Massachusetts Institute of Technology,USA,191,"Department of Earth,Atmospheric and Planetary Sciences"
 4802,4,1,2,LA,2417,Graciela Raga,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,150,Centro de Ciencias de la Atmosfera
 4958,4,1,2,LA,2681,Michael Schulz,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
-5156,4,1,2,LA,3070,Robert Van Dorland,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+5156,4,1,2,LA,3070,Robert Van Dorland,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 4627,4,1,2,RE,2093,Teruyuki Nakajima,148,University of Tokyo,Japan,37,Center for Climate System Research
 4814,4,1,2,RE,2427,Veerabhadran Ramanathan,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
 3691,4,1,2,CA,282,Greg Bodeker,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
@@ -3655,7 +3655,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3597,4,1,3,LA,82,Peter Ambenjie,659,Kenya Meteorological Department,Kenya,NULL,NULL
 3696,4,1,3,LA,289,Roxana Bojariu,165,National Institute of Meteorology and Hydrology (NIMH),Romania,NULL,NULL
 3917,4,1,3,LA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
-4321,4,1,3,LA,1526,Albert Klein Tank,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+4321,4,1,3,LA,1526,Albert Klein Tank,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 4729,4,1,3,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 4806,4,1,3,LA,2419,Fatemeh Rahimzadeh,253,Iranian Meteorological Organization,Iran,164,Atmospheric Science & Meteorological Research Center (ASMERC)
 4845,4,1,3,LA,2478,James A. Renwick,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
@@ -3717,7 +3717,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4984,4,1,3,CA,2743,J. Marshall Shepherd,738,University of Georgia,USA,261,Department of Geography
 4985,4,1,3,CA,2744,Theodore G. Shepherd,313,University of Toronto,Canada,NULL,NULL
 4986,4,1,3,CA,2746,Steven Sherwood,629,Yale University,USA,NULL,NULL
-4996,4,1,3,CA,2766,Peter Siegmund,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+4996,4,1,3,CA,2766,Peter Siegmund,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 4998,4,1,3,CA,2770,Ian H. Simmonds,300,University of Melbourne,Australia,NULL,NULL
 4999,4,1,3,CA,2771,Adrian Simmons,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
 5117,4,1,3,CA,2991,Chris Thorncroft,747,State University of New York Albany,USA,262,Department of Earth and Atmospheric Science
@@ -3981,7 +3981,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5050,4,1,7,CA,2875,David S. Stevenson,211,University of Edinburgh,United Kingdom,NULL,NULL
 5121,4,1,7,CA,2999,Yuhong Tian,509,Georgia Institute of Technology,USA,NULL,NULL
 5137,4,1,7,CA,3022,Kevin E. Trenberth,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-5160,4,1,7,CA,3074,Twan van Noije,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+5160,4,1,7,CA,3074,Twan van Noije,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 5241,4,1,7,CA,3229,Oliver Wild,660,Frontier Research Center for Global Change,Japan,NULL,NULL
 5305,4,1,7,CA,3354,Tingjun Zhang,687,National Snow and Ice Data Center,USA,NULL,NULL
 5317,4,1,7,CA,3370,Liming Zhou,509,Georgia Institute of Technology,USA,NULL,NULL
@@ -4033,7 +4033,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4155,4,1,8,CA,1176,Henry Hendon,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
 4168,4,1,8,CA,1205,Kevin Hodges,702,Environmental Systems Science Centre,United Kingdom,NULL,NULL
 4174,4,1,8,CA,1223,Marika M. Holland,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-4176,4,1,8,CA,1231,Albert A. M. Holtslag,396,Wageningen University,The Netherlands,NULL,NULL
+4176,4,1,8,CA,1231,Albert A. M. Holtslag,396,Wageningen University,Netherlands,NULL,NULL
 4193,4,1,8,CA,1274,Elizabeth Hunke,703,Los Alamos National Laboratory,USA,NULL,NULL
 4200,4,1,8,CA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,134,Departement Geografie
 4205,4,1,8,CA,1295,William Ingram,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
@@ -4055,7 +4055,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4779,4,1,8,CA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
 4810,4,1,8,CA,2421,Stefan Rahmstorf,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
 4825,4,1,8,CA,2441,Sarah C.B. Raper,232,Manchester Metropolitan University,United Kingdom,NULL,NULL
-4844,4,1,8,CA,2476,Hans Renssen,302,"Vrije Universiteit,Amsterdam",The Netherlands,183,Faculty of Earth and Life Sciences
+4844,4,1,8,CA,2476,Hans Renssen,302,"Vrije Universiteit,Amsterdam",Netherlands,183,Faculty of Earth and Life Sciences
 4857,4,1,8,CA,2502,David Rind,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
 4864,4,1,8,CA,2514,Malcolm Roberts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 4882,4,1,8,CA,2549,Anthony Rosati,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
@@ -4123,7 +4123,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5056,4,1,9,CA,2882,Daithi A. Stone,153,University of Oxford,United Kingdom,NULL,NULL
 5111,4,1,9,CA,2977,Simon Tett,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 5119,4,1,9,CA,2992,Peter Thorne,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
-5157,4,1,9,CA,3070,Robert Van Dorland,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+5157,4,1,9,CA,3070,Robert Van Dorland,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 5203,4,1,9,CA,3154,Minghuai Wang,247,University of Michigan,USA,158,Department of Atmospheric Oceanic and Space Sciences
 5231,4,1,9,CA,3222,Bruce Wielicki,124,National Aeronautics and Space Administration (NASA),USA,5,Langley Research Center
 5257,4,1,9,CA,3260,Takmeng Wong,124,National Aeronautics and Space Administration (NASA),USA,5,Langley Research Center
@@ -4190,7 +4190,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4538,4,1,10,CA,1930,Malte Meinshausen,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
 4610,4,1,10,CA,2062,Simon A. Müller,126,University of Bern,Switzerland,12,"Climate and Environmental Physics,Physics Institute"
 4633,4,1,10,CA,2103,Susanne Nawrath,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
-4686,4,1,10,CA,2173,Johannes Oerlemans,273,University of Utrecht,The Netherlands,176,Institute for Marine and Atmospheric Research
+4686,4,1,10,CA,2173,Johannes Oerlemans,273,University of Utrecht,Netherlands,176,Institute for Marine and Atmospheric Research
 4699,4,1,10,CA,2214,Michael Oppenheimer,428,Princeton University,USA,NULL,NULL
 4706,4,1,10,CA,2219,James Orr,727,International Atomic Energy Agency (IAEA),Monaco,260,Marine Environment Laboratories
 4714,4,1,10,CA,2228,Jonathan Overpeck,430,University of Arizona,USA,226,Institute for the Study of Planet Earth
@@ -4215,7 +4215,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5105,4,1,10,CA,2968,Claudia Tebaldi,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 5108,4,1,10,CA,2972,Haiyan Teng,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 5110,4,1,10,CA,2974,Laurent Terray,745,European Centre for Research and Advanced Training in Scientific Computation,France,NULL,NULL
-5155,4,1,10,CA,3067,Roderik Van de Wal,273,University of Utrecht,The Netherlands,175,Sylvester Willo Institute for Marine and Atmospheric Research
+5155,4,1,10,CA,3067,Roderik Van de Wal,273,University of Utrecht,Netherlands,175,Sylvester Willo Institute for Marine and Atmospheric Research
 5169,4,1,10,CA,3087,David Vaughan,146,British Antarctic Survey,United Kingdom,NULL,NULL
 5188,4,1,10,CA,3123,Evgeny M. Volodin,263,Russian Federation Academy of Sciences,Russian Federation,170,Institute of Numerical Mathematics
 5202,4,1,10,CA,3150,Bin Wang,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
@@ -4388,7 +4388,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5325,4,1,SPM,CA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
 3770,4,2,1,CLA,450,Gino Casassa,672,Centro de Estudios Cientificos (CECS),Chile,NULL,NULL
 4889,4,2,1,CLA,2556,Cynthia Rosenzweig,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
-4204,4,2,1,LA,1289,Anton Imeson,814,Commission on Geomorphological Response to Environmental Change,The Netherlands,NULL,NULL
+4204,4,2,1,LA,1289,Anton Imeson,814,Commission on Geomorphological Response to Environmental Change,Netherlands,NULL,NULL
 4279,4,2,1,LA,1434,David J. Karoly,300,University of Melbourne,Australia,NULL,NULL
 4430,4,2,1,LA,1743,Chunzhen Liu,833,China Water Information Centre,China,NULL,NULL
 4547,4,2,1,LA,1944,Annette Menzel,799,Technical University of Munich,Germany,NULL,NULL
@@ -4454,13 +4454,13 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4827,4,2,2,CA,2441,Sarah C.B. Raper,232,Manchester Metropolitan University,United Kingdom,NULL,NULL
 4904,4,2,2,CA,2571,Kimmo Ruosteenoja,223,Finnish Meteorological Institute,Finland,NULL,NULL
 5107,4,2,2,CA,2968,Claudia Tebaldi,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-5162,4,2,2,CA,3080,Detlef P. Van Vuuren,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+5162,4,2,2,CA,3080,Detlef P. Van Vuuren,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 4351,4,2,3,CLA,1593,Zbigniew Kundzewicz,387,Polish Academy of Sciences,Poland,NULL,NULL
 4500,4,2,3,CLA,1871,Luis Jose Mata,838,Nord-Sud Zentrum fur Entwicklungsforschung,Germany,NULL,NULL
 3619,4,2,3,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3897,4,2,3,LA,703,Petra Doll,285,Goethe University Frankfurt,Germany,NULL,NULL
 4226,4,2,3,LA,1357,Blanca Elena Jimenez Cisneros,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
-4261,4,2,3,LA,1402,Pavel Kabat,821,International Secretariat for Dialogue on Water and Climate,The Netherlands,NULL,NULL
+4261,4,2,3,LA,1402,Pavel Kabat,821,International Secretariat for Dialogue on Water and Climate,Netherlands,NULL,NULL
 4559,4,2,3,LA,1978,Kathleen Miller,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 4693,4,2,3,LA,2192,Taikan Oki,148,University of Tokyo,Japan,40,Institute of Industrial Science
 4976,4,2,3,LA,2710,Zekai Sen,876,Istanbul Technical University,Turkey,NULL,NULL
@@ -4476,15 +4476,15 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4792,4,2,3,CA,2401,Roger Pulwarty,188,National Oceanographic and Atmospheric Administration (NOAA),USA,105,Climate Diagnostics Center
 4960,4,2,3,CA,2683,Roland Schulze,872,University of KwaZulu-Natal,South Africa,NULL,NULL
 5113,4,2,3,CA,2981,Renoj Thayyen,206,Wadia Institute of Himalayan Geology,India,NULL,NULL
-5154,4,2,3,CA,3066,Nick van de Giesen,887,Delft University of Technology,The Netherlands,NULL,NULL
-5161,4,2,3,CA,3077,Henk Van Schaik,889,UNESCO,The Netherlands,270,Co-operative Programme on Water and Climate
+5154,4,2,3,CA,3066,Nick van de Giesen,887,Delft University of Technology,Netherlands,NULL,NULL
+5161,4,2,3,CA,3077,Henk Van Schaik,889,UNESCO,Netherlands,270,Co-operative Programme on Water and Climate
 5233,4,2,3,CA,3225,Thomas J. Wilbanks,271,Oak Ridge National Laboratory,USA,NULL,NULL
 5238,4,2,3,CA,3226,Robert Wilby,756,Environment Agency of England and Wales,United Kingdom,NULL,NULL
 3965,4,2,4,CLA,838,Andreas Fischlin,136,ETH Zurich,Switzerland,33,Terrestrial Systems Ecology Group
 4555,4,2,4,CLA,1965,Guy Midgley,840,National Botanical Institute,South Africa,NULL,NULL
 3907,4,2,4,LA,732,Pauline O. Dube,151,University of Botswana,Botswana,NULL,NULL
 4054,4,2,4,LA,999,Brij Gopal,762,Jawaharlal Nehru University,India,NULL,NULL
-4405,4,2,4,LA,1680,Rik Leemans,396,Wageningen University,The Netherlands,NULL,NULL
+4405,4,2,4,LA,1680,Rik Leemans,396,Wageningen University,Netherlands,NULL,NULL
 4784,4,2,4,LA,2389,Jeff Price,348,California State University,USA,NULL,NULL
 4898,4,2,4,LA,2565,Mark Rounsevell,194,Université Catholique de Louvain,Belgium,NULL,NULL
 5100,4,2,4,LA,2958,Juan Tarazona,315,Universidad Nacional Mayor de San Marcos,Peru,NULL,NULL
@@ -4545,7 +4545,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4525,4,2,6,LA,1914,Roger McLean,125,University of New South Wales,Australia,NULL,NULL
 4805,4,2,6,LA,2418,Sachooda Ragoonaden,866,Consultant to Indian Ocean Commission,Mauritius,NULL,NULL
 5261,4,2,6,LA,3263,Colin Woodroffe,757,University of Wollongong,Australia,NULL,NULL
-3905,4,2,6,RE,727,Job Dronkers,107,N/A,The Netherlands,NULL,NULL
+3905,4,2,6,RE,727,Job Dronkers,107,N/A,Netherlands,NULL,NULL
 4442,4,2,6,RE,1774,Geoff Love,250,Bureau of Meteorology,Australia,NULL,NULL
 4697,4,2,6,RE,2208,Jin-Eong Ong,60,N/A,Malaysia,NULL,NULL
 3550,4,2,6,CA,14,Pamela Abuodha,757,University of Wollongong,Australia,NULL,NULL
@@ -4563,7 +4563,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4878,4,2,7,CLA,2545,Patricia Romero Lankao,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 5234,4,2,7,CLA,3225,Thomas J. Wilbanks,271,Oak Ridge National Laboratory,USA,NULL,NULL
 3640,4,2,7,LA,183,Manzhu Bao,772,Huazhong Agricultural University,China,NULL,NULL
-3664,4,2,7,LA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+3664,4,2,7,LA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",Netherlands,190,Institute for Environmental Studies
 3755,4,2,7,LA,410,Sandy Cairncross,358,London School of Hygiene and Tropical Medicine,United Kingdom,NULL,NULL
 3778,4,2,7,LA,460,Jean-Paul Ceron,515,Université de Limoges,France,NULL,NULL
 4274,4,2,7,LA,1424,Manmohan Kapshe,822,Maulana Azad National Institute of Technology,India,NULL,NULL
@@ -4693,7 +4693,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4653,4,2,12,RE,2129,Ivan Nijs,10,N/A,Belgium,NULL,NULL
 3613,4,2,12,CA,117,Miguel Araújo,768,Environmental Change Institute,Portugal,NULL,NULL
 3729,4,2,12,CA,348,Abigail Bristow,779,Loughborough University,United Kingdom,NULL,NULL
-3869,4,2,12,CA,635,John De Ronde,789,WIJ Delft Hydraulics,The Netherlands,NULL,NULL
+3869,4,2,12,CA,635,John De Ronde,789,WIJ Delft Hydraulics,Netherlands,NULL,NULL
 3880,4,2,12,CA,664,Sophie Des Clers,638,University College London,United Kingdom,NULL,NULL
 3895,4,2,12,CA,699,Andrew F. Dlugolecki,795,Consultant,United Kingdom,NULL,NULL
 4057,4,2,12,CA,1012,Phil Graham,260,Swedish Meteorological and Hydrological Institute,Sweden,NULL,NULL
@@ -4703,7 +4703,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4364,4,2,12,CA,1615,Petro Lakyda,828,University of Ukraine,Ukraine,268,National Agrarian Institute
 4995,4,2,12,CA,2762,Anatoly Shvidenko,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 5089,4,2,12,CA,2933,John Sweeney,881,National University of Ireland,Ireland,NULL,NULL
-5159,4,2,12,CA,3073,Jelle Van Minnen,888,National Institute for Public Health and the Environment (RIVM),The Netherlands,NULL,NULL
+5159,4,2,12,CA,3073,Jelle Van Minnen,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
 4025,4,2,13,CLA,941,Carlos Gay Garcia,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
 4467,4,2,13,CLA,1815,Graciela Odilia Magrin,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina,NULL,NULL
 3850,4,2,13,LA,592,David Cruz Choque,788,Ministry of Sustainable Development,Bolivia,NULL,NULL
@@ -4760,7 +4760,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4671,4,2,15,CA,2153,Mark Nuttall,335,University of Alberta,Canada,NULL,NULL
 4840,4,2,15,CA,2473,James Reist,676,Fisheries and Oceans Canada,Canada,NULL,NULL
 4883,4,2,15,CA,2550,George Rose,869,Memorial University of Newfoundland,Canada,NULL,NULL
-5167,4,2,15,CA,3083,Jef Vandenberghe,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+5167,4,2,15,CA,3083,Jef Vandenberghe,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 5270,4,2,15,CA,3277,Fred Wrona,164,Environment Canada,Canada,55,National Water Research Institute
 4565,4,2,16,CLA,1989,Nobuo Mimura,412,Ibaraki University,Japan,NULL,NULL
 4668,4,2,16,CLA,2152,Leonard Nurse,423,University of the West Indies,Barbados,217,Coastal Zone Management Unit
@@ -4998,12 +4998,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3841,4,3,1,LA,574,Philippe J. Crabbé,238,University of Ottawa,Canada,NULL,NULL
 3927,4,3,1,LA,760,Ottmar Edenhofer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
 4116,4,3,1,LA,1110,William L. Hare,200,Potsdam Institute for Climate Impact Research,Germany,125,Impact Research
-4349,4,3,1,LA,1586,Lambert Kuijpers,951,Technical University Eindhoven,The Netherlands,NULL,NULL
+4349,4,3,1,LA,1586,Lambert Kuijpers,951,Technical University Eindhoven,Netherlands,NULL,NULL
 5281,4,3,1,LA,3299,Mitsutsune Yamaguchi,148,University of Tokyo,Japan,NULL,NULL
 4402,4,3,1,RE,1676,Hoesung Lee,954,Council on Energy and Environment Korea,South Korea,NULL,NULL
 4685,4,3,1,RE,2170,Richard Odingo,427,University of Nairobi,Kenya,NULL,NULL
 4408,4,3,1,CA,1683,Nicolas Lefevre,911,International Energy Agency,France,NULL,NULL
-4696,4,3,1,CA,2201,Jos G.J. Olivier,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+4696,4,3,1,CA,2201,Jos G.J. Olivier,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 5286,4,3,1,CA,3309,Hongwei Yang,525,Energy Research Institute,China,NULL,NULL
 4104,4,3,2,CLA,1093,Kirsten Halsnaes,506,Risoe National Laboratory,Denmark,NULL,NULL
 4991,4,3,2,CLA,2759,Priyadarshi R. Shukla,897,Indian Institute of Management,India,NULL,NULL
@@ -5039,7 +5039,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4847,4,3,3,LA,2486,Keywan Riahi,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 4850,4,3,3,LA,2492,Richard G. Richels,505,Electric Power Research Institute (EPRI),USA,NULL,NULL
 4884,4,3,3,LA,2551,Steven K. Rose,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
-5163,4,3,3,LA,3080,Detlef P. Van Vuuren,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+5163,4,3,3,LA,3080,Detlef P. Van Vuuren,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 5208,4,3,3,LA,3167,Rachel Warren,231,University of East Anglia,United Kingdom,145,Tyndall Centre for Climate Change Research School of Environmental Sciences
 3635,4,3,3,RE,161,Mustafa H. Babiker,903,Saudi Aramco,Saudi Arabia,NULL,NULL
 5221,4,3,3,RE,3205,John P. Weyant,338,Stanford University,USA,NULL,NULL
@@ -5047,7 +5047,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3685,4,3,3,CA,267,Fatih Birol,911,International Energy Agency,France,NULL,NULL
 3711,4,3,3,CA,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
 3802,4,3,3,CA,517,Christa Clapp,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
-3932,4,3,3,CA,769,Bas Eickhout,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+3932,4,3,3,CA,769,Bas Eickhout,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 4108,4,3,3,CA,1098,Tatsuya Hanaoka,129,National Institute for Environmental Studies,Japan,NULL,NULL
 4499,4,3,3,CA,1869,Michael D. Mastrandrea,338,Stanford University,USA,NULL,NULL
 4509,4,3,3,CA,1878,Yuzuru Matsuoka,464,Kyoto University,Japan,NULL,NULL
@@ -5085,7 +5085,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4640,4,3,5,LA,2119,Peter J. Newton,967,Department for Business Enterprise and Regulatory Reform (BERR),United Kingdom,NULL,NULL
 4774,4,3,5,LA,2356,Steven Plotkin,975,Argonne National Laboratory,USA,NULL,NULL
 5041,4,3,5,LA,2846,Daniel Sperling,544,University of California,USA,NULL,NULL
-5248,4,3,5,LA,3252,Ron Wit,997,Stichting Natuur en Milieu,The Netherlands,NULL,NULL
+5248,4,3,5,LA,3252,Ron Wit,997,Stichting Natuur en Milieu,Netherlands,NULL,NULL
 5318,4,3,5,LA,3371,Peter P. Zhou,654,Energy Environment Computer and Geophysical Applications Group (EECG Consultants),Botswana,NULL,NULL
 3709,4,3,5,RE,309,Ranjan K. Bose,915,Tata Energy Research Institute (TERI),India,NULL,NULL
 4301,4,3,5,RE,1482,Haroon Kheshgi,380,Exxon Mobil Corporation,USA,210,Research and Engineering Company
@@ -5094,7 +5094,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5005,4,3,5,CA,2788,Kjell Olav Skjolsvik,987,Marintek,Norway,NULL,NULL
 4418,4,3,6,CLA,1707,Mark D. Levine,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
 5151,4,3,6,CLA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,239,Dept. of  Environmental Sciences and Policy
-3689,4,3,6,LA,276,Kornelis Blok,912,Ecofys,The Netherlands,NULL,NULL
+3689,4,3,6,LA,276,Kornelis Blok,912,Ecofys,Netherlands,NULL,NULL
 4031,4,3,6,LA,950,Luis J. Geng,931,Consultant,Peru,NULL,NULL
 4122,4,3,6,LA,1123,Danny Harvey,313,University of Toronto,Canada,NULL,NULL
 4372,4,3,6,LA,1631,Siwei Lang,953,China Academy of Building Research,China,NULL,NULL
@@ -5111,7 +5111,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3740,4,3,6,CA,362,Marilyn A. Brown,509,Georgia Institute of Technology,USA,NULL,NULL
 4120,4,3,6,CA,1116,Jeffrey Harris,937,Alliance to Save Energy,USA,NULL,NULL
 4129,4,3,6,CA,1137,Philip Haves,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
-4250,4,3,6,CA,1387,Suzanne Joosen,912,Ecofys,The Netherlands,NULL,NULL
+4250,4,3,6,CA,1387,Suzanne Joosen,912,Ecofys,Netherlands,NULL,NULL
 4576,4,3,6,CA,2006,Mithra Moezzi,960,HELIO International,USA,NULL,NULL
 3665,4,3,7,CLA,245,Lenny S. Bernstein,909,L. S. Bernstein & Associates L.L.C.,USA,NULL,NULL
 4899,4,3,7,CLA,2568,Joyashree Roy,623,Jadavpur University,India,NULL,NULL
@@ -5127,12 +5127,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4969,4,3,7,RE,2703,Shigetaka Seki,985,Ministry of Economy Trade and Industry,Japan,NULL,NULL
 3868,4,3,7,CA,630,Stephane De La Rue Du Can,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
 4035,4,3,7,CA,963,Dolf Gielen,911,International Energy Agency,France,NULL,NULL
-4251,4,3,7,CA,1387,Suzanne Joosen,912,Ecofys,The Netherlands,NULL,NULL
+4251,4,3,7,CA,1387,Suzanne Joosen,912,Ecofys,Netherlands,NULL,NULL
 4335,4,3,7,CA,1556,Manaswita Konar,948,Global Change Programme Jadavpur University,India,NULL,NULL
 4513,4,3,7,CA,1882,Anna Matysek,926,CRA International,Australia,NULL,NULL
 4568,4,3,7,CA,1992,Reid Miner,959,National Council for Air and Stream Improvement,USA,NULL,NULL
 4691,4,3,7,CA,2189,Teruo Okazaki,969,Nippon Steel Corporation,Japan,NULL,NULL
-4922,4,3,7,CA,2608,Johan Sanders,396,Wageningen University,The Netherlands,NULL,NULL
+4922,4,3,7,CA,2608,Johan Sanders,396,Wageningen University,Netherlands,NULL,NULL
 4982,4,3,7,CA,2740,Claudia Sheinbaum Pardo,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
 4488,4,3,8,CLA,1860,Daniel L. Martino,956,Carbosur,Uruguay,NULL,NULL
 5016,4,3,8,CLA,2807,Peter Smith,635,University of Aberdeen,United Kingdom,NULL,NULL
@@ -5157,7 +5157,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5133,4,3,8,CA,3020,Sirintornthep Towprayoon,545,King Mongkut's University of Technology,Thailand,NULL,NULL
 5215,4,3,8,CA,3179,Martin Wattenbach,635,University of Aberdeen,United Kingdom,NULL,NULL
 4493,4,3,9,CLA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,153,Centro de Investigaciones en Ecosistemas
-4620,4,3,9,CLA,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,The Netherlands,NULL,NULL
+4620,4,3,9,CLA,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,Netherlands,NULL,NULL
 3601,4,3,9,LA,94,Kenneth Andrasko,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 3662,4,3,9,LA,232,Pablo Benítez-Ponce,908,British Columbia Ministry of Environment,Canada,NULL,NULL
 3692,4,3,9,LA,284,Rizaldi Boer,913,Bogor Agricultural University,Indonesia,271,Climatology Laboratory
@@ -5177,24 +5177,24 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3758,4,3,9,RE,419,Eduardo Calvo Buendia,315,Universidad Nacional Mayor de San Marcos,Peru,NULL,NULL
 3551,4,3,9,CA,16,Frédéric Achard,679,European Commission Joint Research Centre,Italy,NULL,NULL
 3600,4,3,9,CA,88,Carlos A. Anaya,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
-3728,4,3,9,CA,346,Sander Brinkman,917,Brinkman Climate Change Consultancy,The Netherlands,NULL,NULL
+3728,4,3,9,CA,346,Sander Brinkman,917,Brinkman Climate Change Consultancy,Netherlands,NULL,NULL
 3786,4,3,9,CA,488,Wenjun Chen,919,Canada Centre for Remote Sensing,Canada,NULL,NULL
 4084,4,3,9,CA,1054,Raymond E. Gullison,934,Hardner & Gullison Associates LLC,Canada,NULL,NULL
 4163,4,3,9,CA,1191,Niro Higuchi,802,Instituto Nacional de Pesquisas da Amazonia,Brazil,NULL,NULL
-4178,4,3,9,CA,1234,Monique Hoogwijk,912,Ecofys,The Netherlands,NULL,NULL
+4178,4,3,9,CA,1234,Monique Hoogwijk,912,Ecofys,Netherlands,NULL,NULL
 4227,4,3,9,CA,1358,Esteban Jobbagy,943,Universidad Nacional de San Luis,Argentina,NULL,NULL
 4399,4,3,9,CA,1673,Franck Lecocq,456,Institut National de la Recherche Agronomique (INRA),France,229,Laboratory of Forestry Economics
 4886,4,3,9,CA,2551,Steven K. Rose,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 4940,4,3,9,CA,2653,Bernhard Schlamadinger,906,Joanneum Research Graz,Austria,NULL,NULL
 4997,4,3,9,CA,2767,Britaldo Silveira Soares Filho,986,Centro de Sensoriamento Remoto,Brazil,NULL,NULL
 5022,4,3,9,CA,2814,Brent Sohngen,168,Ohio State University,USA,NULL,NULL
-5074,4,3,9,CA,2895,Bart Strengers,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
-5140,4,3,9,CA,3025,Eveline Trines,991,Treeness Consult,The Netherlands,NULL,NULL
+5074,4,3,9,CA,2895,Bart Strengers,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
+5140,4,3,9,CA,3025,Eveline Trines,991,Treeness Consult,Netherlands,NULL,NULL
 5158,4,3,9,CA,3072,G. Cornelis van Kooten,277,University of Victoria,Canada,NULL,NULL
 3693,4,3,10,CLA,286,Jean E. Bogner,914,Landfills + Inc,USA,NULL,NULL
 3570,4,3,10,LA,44,Mohammed Abdelrafie Ahmed,487,University of Khartoum,Sudan,231,Faculty of Engineering & Architecture
 3887,4,3,10,LA,681,Cristobal Felix Diaz Morejon,923,Ministery of Science Technology and the Environment,Cuba,NULL,NULL
-3946,4,3,10,LA,803,Andre P.C. Faaij,273,University of Utrecht,The Netherlands,177,Copernicus Institute for Sustainable Development -
+3946,4,3,10,LA,803,Andre P.C. Faaij,273,University of Utrecht,Netherlands,177,Copernicus Institute for Sustainable Development -
 4019,4,3,10,LA,925,Qingxian Gao,928,Chinese Research Academy of Environmental Science,China,NULL,NULL
 4124,4,3,10,LA,1127,Seiji Hashimoto,129,National Institute for Environmental Studies,Japan,NULL,NULL
 4480,4,3,10,LA,1843,Katarina Mareckova,955,Federal Ministry for Environment,Austria,NULL,NULL
@@ -5215,16 +5215,16 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3928,4,3,11,LA,760,Ottmar Edenhofer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
 3975,4,3,11,LA,845,Brian Flannery,380,Exxon Mobil Corporation,USA,NULL,NULL
 4072,4,3,11,LA,1039,Michael Grubb,933,Carbon Trust,United Kingdom,NULL,NULL
-4179,4,3,11,LA,1234,Monique Hoogwijk,912,Ecofys,The Netherlands,NULL,NULL
+4179,4,3,11,LA,1234,Monique Hoogwijk,912,Ecofys,Netherlands,NULL,NULL
 4202,4,3,11,LA,1285,Francis I. Ibitoye,899,Centre for Energy Research and Development,Nigeria,NULL,NULL
-4222,4,3,11,LA,1348,Catrinus J. Jepma,942,University of Groningen,The Netherlands,NULL,NULL
+4222,4,3,11,LA,1348,Catrinus J. Jepma,942,University of Groningen,Netherlands,NULL,NULL
 4769,4,3,11,LA,2352,William A. Pizer,873,Resources for the Future,USA,NULL,NULL
 5282,4,3,11,LA,3300,Kenji Yamaji,148,University of Tokyo,Japan,NULL,NULL
 4130,4,3,11,RE,1139,David Hawkins,939,Natural Resources Defence Council (NRDC),USA,NULL,NULL
 5174,4,3,11,RE,3095,Aviel Verbruggen,649,University of Antwerp,Belgium,NULL,NULL
 3634,4,3,11,CA,157,Shimon Awerbuch,113,N/A,USA,NULL,NULL
 3666,4,3,11,CA,245,Lenny S. Bernstein,909,L. S. Bernstein & Associates L.L.C.,USA,NULL,NULL
-3947,4,3,11,CA,803,Andre P.C. Faaij,273,University of Utrecht,The Netherlands,177,Copernicus Institute for Sustainable Development -
+3947,4,3,11,CA,803,Andre P.C. Faaij,273,University of Utrecht,Netherlands,177,Copernicus Institute for Sustainable Development -
 4134,4,3,11,CA,1143,Hitoshi Hayami,851,Keio University,Japan,NULL,NULL
 4142,4,3,11,CA,1158,Tom-Reiel Heggedal,902,Statistics Norway,Norway,NULL,NULL
 4357,4,3,11,CA,1605,Snorre Kverndokk,584,Frischsenteret,Norway,NULL,NULL
@@ -5247,19 +5247,19 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4868,4,3,12,LA,2518,John B. Robinson,326,University of British Columbia,Canada,NULL,NULL
 4935,4,3,12,LA,2639,Roberto Schaeffer,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
 5024,4,3,12,LA,2817,Youba Sokona,988,Sahara and Sahel Observatory (OSS) Tunis,Tunisia,NULL,NULL
-5085,4,3,12,LA,2931,Rob J. Swart,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+5085,4,3,12,LA,2931,Rob J. Swart,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 5247,4,3,12,LA,3246,Harald Winkler,149,University of Cape Town,South Africa,NULL,NULL
 4611,4,3,12,RE,2064,Mohan Munasinghe,963,Munasinghe Institute for Development,Sri Lanka,NULL,NULL
-4704,4,3,12,RE,2215,Hans Opschoor,302,"Vrije Universiteit,Amsterdam",The Netherlands,185,Insititute of Social Studies
+4704,4,3,12,RE,2215,Hans Opschoor,302,"Vrije Universiteit,Amsterdam",Netherlands,185,Insititute of Social Studies
 3746,4,3,12,CA,393,Sarah Burch,326,University of British Columbia,Canada,NULL,NULL
 3834,4,3,12,CA,563,Jan Corfee-Morlot,331,Organization for Economic Cooperation and Development (OECD),France,198,Environment Directorate
-3856,4,3,12,CA,613,Rutu Dave,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+3856,4,3,12,CA,613,Rutu Dave,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 4762,4,3,12,CA,2341,László Pinter,20,N/A,Canada,NULL,NULL
 5276,4,3,12,CA,3283,Andrew B. Wyatt,998,University of Sydney,Australia,NULL,NULL
 4086,4,3,13,CLA,1059,Sujata Gupta,935,Asian Development Bank,India,NULL,NULL
 5123,4,3,13,CLA,3007,Dennis A. Tirpak,990,UNFCCC Secretariat,USA,NULL,NULL
 3747,4,3,13,LA,394,Nicholas Burger,544,University of California,USA,NULL,NULL
-4085,4,3,13,LA,1057,Joyeeta Gupta,302,"Vrije Universiteit,Amsterdam",The Netherlands,190,Institute for Environmental Studies
+4085,4,3,13,LA,1057,Joyeeta Gupta,302,"Vrije Universiteit,Amsterdam",Netherlands,190,Institute for Environmental Studies
 4172,4,3,13,LA,1216,Niklas Höhne,562,Ecofys,Germany,NULL,NULL
 4210,4,3,13,LA,1311,Antonina Ivanova Boncheva,567,Autonomous University of Southern Baja California,Mexico,NULL,NULL
 4273,4,3,13,LA,1421,Gorashi Mohammed Kanoan,945,University of Nizwa,Oman,NULL,NULL
@@ -5272,28 +5272,28 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4927,4,3,13,LA,2615,Agus Sari,984,PT Ecosecurities,Indonesia,NULL,NULL
 4098,4,3,13,RE,1079,Erik Haites,535,Margaree Consultants Inc.,Canada,NULL,NULL
 4760,4,3,13,RE,2329,Ramon Pichs-Madruga,973,Centro de Investigaciones de Economia Mundial (CIEM),Cuba,NULL,NULL
-3873,4,3,13,CA,656,Michel Den Elzen,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+3873,4,3,13,CA,656,Michel Den Elzen,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 5287,4,3,13,CA,3309,Hongwei Yang,525,Energy Research Institute,China,NULL,NULL
 3650,4,3,TS,LA,208,Igor Alexeyevich Bashmakov,500,Center for Energy Efficiency (CENEF),Russian Federation,NULL,NULL
 3695,4,3,TS,LA,286,Jean E. Bogner,914,Landfills + Inc,USA,NULL,NULL
-3708,4,3,TS,LA,308,Peter Bosch,912,Ecofys,The Netherlands,NULL,NULL
+3708,4,3,TS,LA,308,Peter Bosch,912,Ecofys,Netherlands,NULL,NULL
 3779,4,3,TS,LA,460,Jean-Paul Ceron,515,Université de Limoges,France,NULL,NULL
 3811,4,3,TS,LA,535,Jorge O. Codignotto,170,Universidad de Buenos Aires,Argentina,72,"Departamento de Ciencias Geologicas,Facultad de Ciencias Exactas y Naturales"
 5315,4,3,TS,LA,3367,Zhou Dadi,525,Energy Research Institute,China,NULL,NULL
-3858,4,3,TS,LA,613,Rutu Dave,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+3858,4,3,TS,LA,613,Rutu Dave,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 3860,4,3,TS,LA,617,Ogunlade R. Davidson,920,University of Sierra Leone,Sierra Leone,NULL,NULL
 3970,4,3,TS,LA,842,Brian S. Fisher,926,CRA International,Australia,NULL,NULL
 4088,4,3,TS,LA,1059,Sujata Gupta,935,Asian Development Bank,India,NULL,NULL
 4106,4,3,TS,LA,1093,Kirsten Halsnaes,506,Risoe National Laboratory,Denmark,NULL,NULL
-4144,4,3,TS,LA,1159,BertJan Heij,107,N/A,The Netherlands,NULL,NULL
+4144,4,3,TS,LA,1159,BertJan Heij,107,N/A,Netherlands,NULL,NULL
 4265,4,3,TS,LA,1406,Suzana Kahn Ribeiro,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
 4330,4,3,TS,LA,1537,Shigeki Kobayashi,947,Toyota Central R&D Labs Inc,Japan,NULL,NULL
 4420,4,3,TS,LA,1707,Mark D. Levine,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
 4490,4,3,TS,LA,1860,Daniel L. Martino,956,Carbosur,Uruguay,NULL,NULL
 4495,4,3,TS,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,153,Centro de Investigaciones en Ecosistemas
-4550,4,3,TS,LA,1949,Bert Metz,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
-4552,4,3,TS,LA,1951,Leo Meyer,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
-4622,4,3,TS,LA,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,The Netherlands,NULL,NULL
+4550,4,3,TS,LA,1949,Bert Metz,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
+4552,4,3,TS,LA,1951,Leo Meyer,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
+4622,4,3,TS,LA,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,Netherlands,NULL,NULL
 4626,4,3,TS,LA,2092,Adil Najam,242,Boston University,USA,156,Center for Energy and Environmental Studies
 4632,4,3,TS,LA,2099,Nebojsa Nakicenovic,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 4876,4,3,TS,LA,2540,Hans-Holger Rogner,980,International Atomic Energy Agency (IAEA),Austria,NULL,NULL
@@ -5310,23 +5310,23 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3649,4,3,SPM,LA,208,Igor Alexeyevich Bashmakov,500,Center for Energy Efficiency (CENEF),Russian Federation,NULL,NULL
 3667,4,3,SPM,LA,245,Lenny S. Bernstein,909,L. S. Bernstein & Associates L.L.C.,USA,NULL,NULL
 3694,4,3,SPM,LA,286,Jean E. Bogner,914,Landfills + Inc,USA,NULL,NULL
-3707,4,3,SPM,LA,308,Peter Bosch,912,Ecofys,The Netherlands,NULL,NULL
+3707,4,3,SPM,LA,308,Peter Bosch,912,Ecofys,Netherlands,NULL,NULL
 5314,4,3,SPM,LA,3367,Zhou Dadi,525,Energy Research Institute,China,NULL,NULL
-3857,4,3,SPM,LA,613,Rutu Dave,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+3857,4,3,SPM,LA,613,Rutu Dave,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 3859,4,3,SPM,LA,617,Ogunlade R. Davidson,920,University of Sierra Leone,Sierra Leone,NULL,NULL
 3969,4,3,SPM,LA,842,Brian S. Fisher,926,CRA International,Australia,NULL,NULL
 4073,4,3,SPM,LA,1039,Michael Grubb,933,Carbon Trust,United Kingdom,NULL,NULL
 4087,4,3,SPM,LA,1059,Sujata Gupta,935,Asian Development Bank,India,NULL,NULL
 4105,4,3,SPM,LA,1093,Kirsten Halsnaes,506,Risoe National Laboratory,Denmark,NULL,NULL
-4143,4,3,SPM,LA,1159,BertJan Heij,107,N/A,The Netherlands,NULL,NULL
+4143,4,3,SPM,LA,1159,BertJan Heij,107,N/A,Netherlands,NULL,NULL
 4264,4,3,SPM,LA,1406,Suzana Kahn Ribeiro,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
 4329,4,3,SPM,LA,1537,Shigeki Kobayashi,947,Toyota Central R&D Labs Inc,Japan,NULL,NULL
 4419,4,3,SPM,LA,1707,Mark D. Levine,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
 4489,4,3,SPM,LA,1860,Daniel L. Martino,956,Carbosur,Uruguay,NULL,NULL
 4494,4,3,SPM,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,153,Centro de Investigaciones en Ecosistemas
-4549,4,3,SPM,LA,1949,Bert Metz,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
-4551,4,3,SPM,LA,1951,Leo Meyer,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
-4621,4,3,SPM,LA,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,The Netherlands,NULL,NULL
+4549,4,3,SPM,LA,1949,Bert Metz,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
+4551,4,3,SPM,LA,1951,Leo Meyer,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
+4621,4,3,SPM,LA,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,Netherlands,NULL,NULL
 4625,4,3,SPM,LA,2092,Adil Najam,242,Boston University,USA,156,Center for Energy and Environmental Studies
 4631,4,3,SPM,LA,2099,Nebojsa Nakicenovic,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 4875,4,3,SPM,LA,2540,Hans-Holger Rogner,980,International Atomic Energy Agency (IAEA),Austria,NULL,NULL
@@ -5336,7 +5336,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4992,4,3,SPM,LA,2759,Priyadarshi R. Shukla,897,Indian Institute of Management,India,NULL,NULL
 5002,4,3,SPM,LA,2775,Ralph E. H. Sims,633,Massey University,New Zealand,NULL,NULL
 5017,4,3,SPM,LA,2807,Peter Smith,635,University of Aberdeen,United Kingdom,NULL,NULL
-5086,4,3,SPM,LA,2931,Rob J. Swart,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+5086,4,3,SPM,LA,2931,Rob J. Swart,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 5124,4,3,SPM,LA,3007,Dennis A. Tirpak,990,UNFCCC Secretariat,USA,NULL,NULL
 5152,4,3,SPM,LA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,239,Dept. of  Environmental Sciences and Policy
 5699,5,1,1,CLA,593,Ulrich Cubasch,183,Freie Universität Berlin,Germany,89,Institut fur Meteorologie
@@ -5366,7 +5366,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7326,5,1,1,CA,4905,Murat Turkes,111,N/A,Turkey,NULL,NULL
 7362,5,1,1,CA,4946,Daniel S. Ward,113,N/A,USA,NULL,NULL
 5752,5,1,2,CLA,1122,Dennis Hartmann,132,University of Washington,USA,NULL,NULL
-5786,5,1,2,CLA,1526,Albert Klein Tank,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+5786,5,1,2,CLA,1526,Albert Klein Tank,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 5878,5,1,2,CLA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
 5648,5,1,2,LA,59,Lisa Alexander,125,University of New South Wales,Australia,NULL,NULL
 5671,5,1,2,LA,354,Stefan Broennimann,126,University of Bern,Switzerland,NULL,NULL
@@ -5415,7 +5415,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7255,5,1,2,CA,4828,Dian Seidel,113,N/A,USA,NULL,NULL
 7281,5,1,2,CA,4857,Thomas M. Smith,113,N/A,USA,NULL,NULL
 7290,5,1,2,CA,2870,David B. Stephenson,131,University of Exeter,United Kingdom,NULL,NULL
-7319,5,1,2,CA,4893,Adriaan J. Teuling,107,N/A,The Netherlands,NULL,NULL
+7319,5,1,2,CA,4893,Adriaan J. Teuling,107,N/A,Netherlands,NULL,NULL
 7356,5,1,2,CA,4940,Junhong Wang,113,N/A,USA,NULL,NULL
 7358,5,1,2,CA,4942,Xiaolan Wang,20,N/A,Canada,NULL,NULL
 7367,5,1,2,CA,4960,Ray F. Weiss,113,N/A,USA,NULL,NULL
@@ -5540,7 +5540,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7261,5,1,4,CA,4840,Nicolay Shiklomanov,113,N/A,USA,NULL,NULL
 7279,5,1,4,CA,2810,Sharon Smith,20,N/A,Canada,NULL,NULL
 7287,5,1,4,CA,4867,Sharon Stammerjohn,113,N/A,USA,NULL,NULL
-7331,5,1,4,CA,4914,Michiel van den Broeke,107,N/A,The Netherlands,NULL,NULL
+7331,5,1,4,CA,4914,Michiel van den Broeke,107,N/A,Netherlands,NULL,NULL
 7342,5,1,4,CA,4922,Isabella Velicogna,113,N/A,USA,NULL,NULL
 7351,5,1,4,CA,3132,Peter Wadhams,276,University of Cambridge,United Kingdom,NULL,NULL
 7385,5,1,4,CA,3271,Anthony Worby,6,N/A,Australia,NULL,NULL
@@ -5640,7 +5640,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6701,5,1,6,CA,295,Gordon B. Bonan,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 6705,5,1,6,CA,4134,Alberto Vieira Borges,10,N/A,Belgium,NULL,NULL
 6709,5,1,6,CA,314,Philippe Bousquet,35,N/A,France,NULL,NULL
-6710,5,1,6,CA,4141,Lex Bouwman,107,N/A,The Netherlands,NULL,NULL
+6710,5,1,6,CA,4141,Lex Bouwman,107,N/A,Netherlands,NULL,NULL
 6724,5,1,6,CA,4155,Lori M. Bruhwiler,113,N/A,USA,NULL,NULL
 6728,5,1,6,CA,4165,Kenneth Caldeira,113,N/A,USA,NULL,NULL
 6732,5,1,6,CA,4169,Long Cao,23,N/A,China,NULL,NULL
@@ -5650,16 +5650,16 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6764,5,1,6,CA,573,Peter M. Cox,131,University of Exeter,United Kingdom,18,School of Engineering Computer Science and Mathematics
 6784,5,1,6,CA,659,Frank Dentener,679,European Commission Joint Research Centre,Italy,NULL,NULL
 6795,5,1,6,CA,4251,Scott C. Doney,113,N/A,USA,NULL,NULL
-6811,5,1,6,CA,4273,Jan Willem Erisman,107,N/A,The Netherlands,NULL,NULL
+6811,5,1,6,CA,4273,Jan Willem Erisman,107,N/A,Netherlands,NULL,NULL
 6812,5,1,6,CA,4274,Eugenie S. Euskirchen,113,N/A,USA,NULL,NULL
 6838,5,1,6,CA,892,Pierre Friedlingstein,131,University of Exeter,United Kingdom,NULL,NULL
-6858,5,1,6,CA,4334,Kees Klein Goldewijk,107,N/A,The Netherlands,NULL,NULL
+6858,5,1,6,CA,4334,Kees Klein Goldewijk,107,N/A,Netherlands,NULL,NULL
 6881,5,1,6,CA,1041,Nicolas Gruber,102,N/A,Switzerland,NULL,NULL
 6884,5,1,6,CA,1062,Kevin Gurney,113,N/A,USA,NULL,NULL
 6915,5,1,6,CA,4397,Brett Hopwood,113,N/A,USA,NULL,NULL
 6917,5,1,6,CA,1245,Richard A. Houghton,113,N/A,USA,NULL,NULL
 6918,5,1,6,CA,1248,Joanna I. House,117,N/A,United Kingdom,NULL,NULL
-6919,5,1,6,CA,4400,Sander Houweling,107,N/A,The Netherlands,NULL,NULL
+6919,5,1,6,CA,4400,Sander Houweling,107,N/A,Netherlands,NULL,NULL
 6924,5,1,6,CA,4409,Stephen Hunter,117,N/A,United Kingdom,NULL,NULL
 6925,5,1,6,CA,4410,George Hurtt,113,N/A,USA,NULL,NULL
 6938,5,1,6,CA,4426,Andrew D. Jacobson,113,N/A,USA,NULL,NULL
@@ -5673,7 +5673,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6979,5,1,6,CA,4465,Stefanie Kirschke,35,N/A,France,NULL,NULL
 6985,5,1,6,CA,4473,Silvia Kloster,36,N/A,Germany,NULL,NULL
 7000,5,1,6,CA,4486,Charles Koven,113,N/A,USA,NULL,NULL
-7004,5,1,6,CA,4490,Carolien Kroeze,107,N/A,The Netherlands,NULL,NULL
+7004,5,1,6,CA,4490,Carolien Kroeze,107,N/A,Netherlands,NULL,NULL
 7010,5,1,6,CA,1620,Jean-Francois Lamarque,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 7013,5,1,6,CA,1643,Keith Lassey,73,N/A,New Zealand,NULL,NULL
 7015,5,1,6,CA,4504,Rachel M. Law,6,N/A,Australia,NULL,NULL
@@ -5694,7 +5694,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7146,5,1,6,CA,4687,Geun-Ha Park,96,N/A,South Korea,NULL,NULL
 7149,5,1,6,CA,4689,Prabir Patra,51,N/A,Japan,NULL,NULL
 7155,5,1,6,CA,4700,Anna Peregon,35,N/A,France,NULL,NULL
-7159,5,1,6,CA,4707,Wouter Peters,107,N/A,The Netherlands,NULL,NULL
+7159,5,1,6,CA,4707,Wouter Peters,107,N/A,Netherlands,NULL,NULL
 7161,5,1,6,CA,2319,Philippe Peylin,35,N/A,France,NULL,NULL
 7166,5,1,6,CA,2344,Stephen Piper,113,N/A,USA,NULL,NULL
 7172,5,1,6,CA,4722,Julia Pongratz,36,N/A,Germany,NULL,NULL
@@ -5702,7 +5702,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7195,5,1,6,CA,4747,Peter A. Raymond,113,N/A,USA,NULL,NULL
 7196,5,1,6,CA,2459,Peter J. Rayner,6,N/A,Australia,NULL,NULL
 7203,5,1,6,CA,4763,Andy Ridgwell,117,N/A,United Kingdom,NULL,NULL
-7206,5,1,6,CA,4767,Bruno Ringeval,107,N/A,The Netherlands,NULL,NULL
+7206,5,1,6,CA,4767,Bruno Ringeval,107,N/A,Netherlands,NULL,NULL
 7212,5,1,6,CA,2525,Christian Rodenbeck,36,N/A,Germany,NULL,NULL
 7234,5,1,6,CA,4802,Marielle Saunois,35,N/A,France,NULL,NULL
 7240,5,1,6,CA,2665,Andreas Schmittner,113,N/A,USA,NULL,NULL
@@ -5713,8 +5713,8 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7313,5,1,6,CA,4886,Taro Takahashi,113,N/A,USA,NULL,NULL
 7320,5,1,6,CA,4895,Rona Thompson,75,N/A,Norway,NULL,NULL
 7324,5,1,6,CA,4899,Jerry Tjiputra,75,N/A,Norway,NULL,NULL
-7334,5,1,6,CA,4916,Guido van der Werf,107,N/A,The Netherlands,NULL,NULL
-7338,5,1,6,CA,4918,Detlef van Vuuren,107,N/A,The Netherlands,NULL,NULL
+7334,5,1,6,CA,4916,Guido van der Werf,107,N/A,Netherlands,NULL,NULL
+7338,5,1,6,CA,4918,Detlef van Vuuren,107,N/A,Netherlands,NULL,NULL
 7348,5,1,6,CA,4933,Apostolos Voulgarakis,117,N/A,United Kingdom,NULL,NULL
 7360,5,1,6,CA,4944,Rita Wania,7,N/A,Austria,NULL,NULL
 7398,5,1,6,CA,4998,Sonke Zaehle,36,N/A,Germany,NULL,NULL
@@ -5897,7 +5897,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7303,5,1,9,CA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 7309,5,1,9,CA,2926,Rowan Sutton,266,University of Rowan,United Kingdom,NULL,NULL
 7321,5,1,9,CA,2992,Peter Thorne,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
-7336,5,1,9,CA,3084,Geert Jan van Oldenborgh,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+7336,5,1,9,CA,3084,Geert Jan van Oldenborgh,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 7341,5,1,9,CA,3089,Gabriel Vecchi,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
 7364,5,1,9,CA,3186,Mark Webb,117,N/A,United Kingdom,NULL,NULL
 7375,5,1,9,CA,4970,Keith Williams,117,N/A,United Kingdom,NULL,NULL
@@ -5994,7 +5994,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5882,5,1,11,LA,2617,Abdoulaye Sarr,261,Service Météorologique,Senegal,NULL,NULL
 5885,5,1,11,LA,2643,Christoph Schar,136,ETH Zurich,Switzerland,31,Institute for Atmospheric and Climate Science
 5909,5,1,11,LA,2926,Rowan Sutton,266,University of Rowan,United Kingdom,NULL,NULL
-5926,5,1,11,LA,3084,Geert Jan van Oldenborgh,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+5926,5,1,11,LA,3084,Geert Jan van Oldenborgh,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 5929,5,1,11,LA,3089,Gabriel Vecchi,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
 5935,5,1,11,LA,3152,Huijun Wang,233,Chinese Academy of Sciences,China,NULL,NULL
 5703,5,1,11,RE,647,Pascale Delecluse,167,Institut Pierre Simon Laplace (IPSL),France,187,Laboratoire d'Oceanographie Dynamique et Climatologie
@@ -6032,8 +6032,8 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7273,5,1,11,CA,2792,Andrew G. Slater,113,N/A,USA,NULL,NULL
 7278,5,1,11,CA,2802,Doug M. Smith,117,N/A,United Kingdom,NULL,NULL
 7296,5,1,11,CA,2875,David S. Stevenson,211,University of Edinburgh,United Kingdom,NULL,NULL
-7333,5,1,11,CA,4915,Bart van den Hurk,107,N/A,The Netherlands,NULL,NULL
-7335,5,1,11,CA,3074,Twan van Noije,107,N/A,The Netherlands,NULL,NULL
+7333,5,1,11,CA,4915,Bart van den Hurk,107,N/A,Netherlands,NULL,NULL
+7335,5,1,11,CA,3074,Twan van Noije,107,N/A,Netherlands,NULL,NULL
 7340,5,1,11,CA,4920,Steve Vavrus,113,N/A,USA,NULL,NULL
 7349,5,1,11,CA,4933,Apostolos Voulgarakis,117,N/A,United Kingdom,NULL,NULL
 7366,5,1,11,CA,3195,Antje Weisheimer,117,N/A,United Kingdom,NULL,NULL
@@ -6133,7 +6133,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5900,5,1,13,LA,2857,Detlef Stammer,264,University of Hamburg,Germany,NULL,NULL
 5923,5,1,13,LA,3053,Alakkat S. Unnikrishnan,272,National Institute of Oceanography,India,NULL,NULL
 5774,5,1,13,RE,1392,Jean Jouzel,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
-5924,5,1,13,RE,3067,Roderik Van de Wal,273,University of Utrecht,The Netherlands,175,Sylvester Willo Institute for Marine and Atmospheric Research
+5924,5,1,13,RE,3067,Roderik Van de Wal,273,University of Utrecht,Netherlands,175,Sylvester Willo Institute for Marine and Atmospheric Research
 5942,5,1,13,RE,3270,Philip Woodworth,279,Proudman Oceanographic Laboratory,United Kingdom,NULL,NULL
 5945,5,1,13,RE,3285,Cunde Xiao,233,Chinese Academy of Sciences,China,NULL,NULL
 6680,5,1,13,CA,4101,David Bahr,113,N/A,USA,NULL,NULL
@@ -6145,7 +6145,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6834,5,1,13,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
 6845,5,1,13,CA,4313,Alex Gardner,113,N/A,USA,NULL,NULL
 6848,5,1,13,CA,4321,Roland Gehrels,117,N/A,United Kingdom,NULL,NULL
-6852,5,1,13,CA,4327,Rianne Giesen,107,N/A,The Netherlands,NULL,NULL
+6852,5,1,13,CA,4327,Rianne Giesen,107,N/A,Netherlands,NULL,NULL
 6857,5,1,13,CA,982,Peter Gleckler,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 6863,5,1,13,CA,4337,Peter Good,117,N/A,United Kingdom,NULL,NULL
 6871,5,1,13,CA,4343,Rune Grand Graverson,101,N/A,Sweden,NULL,NULL
@@ -6160,12 +6160,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6944,5,1,13,CA,1368,Gregory Johnson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
 6949,5,1,13,CA,1390,Ian Joughin,113,N/A,USA,NULL,NULL
 6961,5,1,13,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
-6965,5,1,13,CA,4450,Caroline Katsman,107,N/A,The Netherlands,NULL,NULL
+6965,5,1,13,CA,4450,Caroline Katsman,107,N/A,Netherlands,NULL,NULL
 6995,5,1,13,CA,4480,Leonard Konikow,113,N/A,USA,NULL,NULL
 7003,5,1,13,CA,1579,Gerhard Krinner,228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),France,NULL,NULL
 7018,5,1,13,CA,1657,Anne Le Brocq,117,N/A,United Kingdom,NULL,NULL
-7024,5,1,13,CA,4513,Jan Lenaerts,107,N/A,The Netherlands,NULL,NULL
-7033,5,1,13,CA,4523,Stefan Ligtenberg,107,N/A,The Netherlands,NULL,NULL
+7024,5,1,13,CA,4513,Jan Lenaerts,107,N/A,Netherlands,NULL,NULL
+7033,5,1,13,CA,4523,Stefan Ligtenberg,107,N/A,Netherlands,NULL,NULL
 7035,5,1,13,CA,4531,Christopher Little,113,N/A,USA,NULL,NULL
 7062,5,1,13,CA,4571,Ben Marzeion,7,N/A,Austria,NULL,NULL
 7073,5,1,13,CA,1911,Kathleen McInnes,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
@@ -6181,12 +6181,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7186,5,1,13,CA,4740,Jamie Rae,117,N/A,United Kingdom,NULL,NULL
 7224,5,1,13,CA,2569,Markku Rummukainen,260,Swedish Meteorological and Hydrological Institute,Sweden,NULL,NULL
 7241,5,1,13,CA,4814,Christian Schoof,20,N/A,Canada,NULL,NULL
-7272,5,1,13,CA,4852,Aime Slangen,107,N/A,The Netherlands,NULL,NULL
-7329,5,1,13,CA,4912,Jan H. van Angelen,107,N/A,The Netherlands,NULL,NULL
-7330,5,1,13,CA,4913,Willem Jan van de Berg,107,N/A,The Netherlands,NULL,NULL
-7332,5,1,13,CA,4914,Michiel van den Broeke,107,N/A,The Netherlands,NULL,NULL
-7345,5,1,13,CA,4928,Miren Vizcaino,107,N/A,The Netherlands,NULL,NULL
-7350,5,1,13,CA,4934,Yoshihide Wada,107,N/A,The Netherlands,NULL,NULL
+7272,5,1,13,CA,4852,Aime Slangen,107,N/A,Netherlands,NULL,NULL
+7329,5,1,13,CA,4912,Jan H. van Angelen,107,N/A,Netherlands,NULL,NULL
+7330,5,1,13,CA,4913,Willem Jan van de Berg,107,N/A,Netherlands,NULL,NULL
+7332,5,1,13,CA,4914,Michiel van den Broeke,107,N/A,Netherlands,NULL,NULL
+7345,5,1,13,CA,4928,Miren Vizcaino,107,N/A,Netherlands,NULL,NULL
+7350,5,1,13,CA,4934,Yoshihide Wada,107,N/A,Netherlands,NULL,NULL
 7368,5,1,13,CA,4961,Neil White,6,N/A,Australia,NULL,NULL
 7376,5,1,13,CA,4972,Ricarda Winkelmann,36,N/A,Germany,NULL,NULL
 7391,5,1,13,CA,4992,Jianjun Yin,113,N/A,USA,NULL,NULL
@@ -6249,7 +6249,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7005,5,1,14,CA,4491,Ashwini Kulkarni,44,N/A,India,NULL,NULL
 7006,5,1,14,CA,4492,Koteswara  Rao Kundeti,44,N/A,India,NULL,NULL
 7014,5,1,14,CA,4503,K. M. Lau,113,N/A,USA,NULL,NULL
-7025,5,1,14,CA,4514,Geert Lenderink,107,N/A,The Netherlands,NULL,NULL
+7025,5,1,14,CA,4514,Geert Lenderink,107,N/A,Netherlands,NULL,NULL
 7026,5,1,14,CA,4515,Chris Lennard,95,N/A,South Africa,NULL,NULL
 7034,5,1,14,CA,4525,Renping Lin,23,N/A,China,NULL,NULL
 7040,5,1,14,CA,4541,Teresa Losada,97,N/A,Spain,NULL,NULL
@@ -6276,7 +6276,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7314,5,1,14,CA,4887,Izuru Takayabu,51,N/A,Japan,NULL,NULL
 7327,5,1,14,CA,4906,John Turner,117,N/A,United Kingdom,NULL,NULL
 7328,5,1,14,CA,4909,Caroline Ummenhofer,113,N/A,USA,NULL,NULL
-7337,5,1,14,CA,3084,Geert Jan van Oldenborgh,226,Royal Netherlands Meteorological Institute (KNMI),The Netherlands,NULL,NULL
+7337,5,1,14,CA,3084,Geert Jan van Oldenborgh,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 7353,5,1,14,CA,4937,Kevin Walsh,6,N/A,Australia,NULL,NULL
 7354,5,1,14,CA,3150,Bin Wang,113,N/A,USA,NULL,NULL
 7355,5,1,14,CA,4939,Chunzai Wang,113,N/A,USA,NULL,NULL
@@ -6351,7 +6351,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7254,5,1,SPM,CA,4826,Jan Sedlacek,102,N/A,Switzerland,NULL,NULL
 7305,5,1,SPM,CA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 7310,5,1,SPM,CA,2926,Rowan Sutton,266,University of Rowan,United Kingdom,NULL,NULL
-7317,5,1,SPM,CA,4890,Albert Klein Tank,107,N/A,The Netherlands,NULL,NULL
+7317,5,1,SPM,CA,4890,Albert Klein Tank,107,N/A,Netherlands,NULL,NULL
 7323,5,1,SPM,CA,2992,Peter Thorne,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
 7386,5,1,SPM,CA,3280,Donald J. Wuebbles,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
 7410,5,1,SPM,CA,5012,Liwei Zou,23,N/A,China,NULL,NULL
@@ -6403,7 +6403,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6501,5,2,3,CA,4684,Claudia Pahl-Wostl,36,N/A,Germany,NULL,NULL
 6227,5,2,3,CA,2897,Kenneth Strzepek,462,United Nations University,USA,NULL,NULL
 6588,5,2,3,CA,4879,Buda Su,23,N/A,China,NULL,NULL
-6606,5,2,3,CA,4915,Bart van den Hurk,107,N/A,The Netherlands,NULL,NULL
+6606,5,2,3,CA,4915,Bart van den Hurk,107,N/A,Netherlands,NULL,NULL
 5582,5,2,4,CLA,2674,Robert (Bob) J. Scholes,454,Council for Scientific and Industrial Research (CSIR),South Africa,NULL,NULL
 5586,5,2,4,CLA,2715,Josef Settele,457,Helmholtz Zentrum Geesthacht,Germany,NULL,NULL
 5349,5,2,4,LA,252,Richard A. Betts,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
@@ -6454,12 +6454,12 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6176,5,2,5,CA,756,Kristie L. Ebi,113,N/A,USA,NULL,NULL
 6331,5,2,5,CA,4279,Lucy Faulkner,117,N/A,United Kingdom,NULL,NULL
 6391,5,2,5,CA,4421,Masahiko Isobe,51,N/A,Japan,NULL,NULL
-6464,5,2,5,CA,4605,Jack Middelburg,107,N/A,The Netherlands,NULL,NULL
+6464,5,2,5,CA,4605,Jack Middelburg,107,N/A,Netherlands,NULL,NULL
 6648,5,2,5,CA,2040,Susanne C. Moser,113,N/A,USA,NULL,NULL
 6508,5,2,5,CA,2291,Mark Pelling,434,King's College London,United Kingdom,NULL,NULL
 6509,5,2,5,CA,4698,Edmund Penning-Rowsell,117,N/A,United Kingdom,NULL,NULL
 6565,5,2,5,CA,4829,Sybil Seitzinger,101,N/A,Sweden,NULL,NULL
-6586,5,2,5,CA,4873,Marcel Stive,107,N/A,The Netherlands,NULL,NULL
+6586,5,2,5,CA,4873,Marcel Stive,107,N/A,Netherlands,NULL,NULL
 6202,5,2,5,CA,4901,Richard Tol,117,N/A,United Kingdom,NULL,NULL
 6604,5,2,5,CA,4910,Athanasios Vafeidis,38,N/A,Greece,NULL,NULL
 5456,5,2,6,CLA,1430,David Karl,237,University of Hawaii,USA,NULL,NULL
@@ -6571,7 +6571,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6292,5,2,10,CA,4188,Paul Chinowsky,113,N/A,USA,NULL,NULL
 6177,5,2,10,CA,756,Kristie L. Ebi,113,N/A,USA,NULL,NULL
 6365,5,2,10,CA,1090,Stephane Hallegatte,360,World Bank,France,NULL,NULL
-6616,5,2,10,CA,4947,Philip Ward,107,N/A,The Netherlands,NULL,NULL
+6616,5,2,10,CA,4947,Philip Ward,107,N/A,Netherlands,NULL,NULL
 6628,5,2,10,CA,4969,Eric Williams,113,N/A,USA,NULL,NULL
 5588,5,2,11,CLA,2803,Joel B. Smith,459,Stratus Consulting Inc.,USA,NULL,NULL
 5632,5,2,11,CLA,3268,Alistair Woodward,482,University of Auckland,New Zealand,NULL,NULL
@@ -6640,7 +6640,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5543,5,2,14,RE,2271,Anthony Patt,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 5604,5,2,14,RE,2946,Kazuhiko Takeuchi,465,United Nations University,Japan,NULL,NULL
 6248,5,2,14,CA,4098,Jessica Ayers,117,N/A,United Kingdom,NULL,NULL
-6166,5,2,14,CA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+6166,5,2,14,CA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 6175,5,2,14,CA,716,Kirstin Dow,321,University of South Carolina,USA,192,Geography
 6343,5,2,14,CA,910,Hans-Martin Fussel,36,N/A,Germany,NULL,NULL
 6578,5,2,14,CA,2803,Joel B. Smith,459,Stratus Consulting Inc.,USA,NULL,NULL
@@ -6659,13 +6659,13 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5508,5,2,16,CLA,1965,Guy Midgley,411,South African National Biodiversity Institute,South Africa,NULL,NULL
 5557,5,2,16,CLA,2386,Benjamin Preston,271,Oak Ridge National Laboratory,USA,NULL,NULL
 5334,5,2,16,LA,54,Mozaharul Alam,291,United Nations Environment Programme (UNEP),Bangladesh,NULL,NULL
-5348,5,2,16,LA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+5348,5,2,16,LA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 5401,5,2,16,LA,716,Kirstin Dow,321,University of South Carolina,USA,192,Geography
 5486,5,2,16,LA,1719,Yue Li,351,Chinese Institute of Environment and Sustainable Development in Agriculture,China,NULL,NULL
 5587,5,2,16,LA,2734,Rebecca Shaw,458,Environmental Defense Fund,USA,NULL,NULL
 5421,5,2,16,RE,977,Habiba Gitay,356,World Bank,Australia,NULL,NULL
 5606,5,2,16,RE,2997,James Thurlow,467,United Nations University's World Institute for Development Economics Research,South Africa,NULL,NULL
-6268,5,2,16,CA,4136,Wouter Botzen,107,N/A,The Netherlands,NULL,NULL
+6268,5,2,16,CA,4136,Wouter Botzen,107,N/A,Netherlands,NULL,NULL
 6275,5,2,16,CA,4157,Halvard Buhaug,75,N/A,Norway,NULL,NULL
 6279,5,2,16,CA,4161,Karl W. Butzer,113,N/A,USA,NULL,NULL
 6402,5,2,16,CA,4459,Carina Keskitalo,101,N/A,Sweden,NULL,NULL
@@ -6706,10 +6706,10 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5592,5,2,18,LA,2828,Andrew Solow,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
 5595,5,2,18,LA,2882,Daithi A. Stone,95,N/A,South Africa,NULL,NULL
 5607,5,2,18,LA,3001,Lourdes Tibig,437,Manila Observatory,Philippines,NULL,NULL
-5480,5,2,18,RE,1680,Rik Leemans,396,Wageningen University,The Netherlands,NULL,NULL
+5480,5,2,18,RE,1680,Rik Leemans,396,Wageningen University,Netherlands,NULL,NULL
 5584,5,2,18,RE,2698,Bernard Seguin,456,Institut National de la Recherche Agronomique (INRA),France,NULL,NULL
 5589,5,2,18,RE,2804,Kirk Robert Smith,298,University of California Berkeley,USA,NULL,NULL
-6270,5,2,18,CA,315,Laurens Bouwer,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+6270,5,2,18,CA,315,Laurens Bouwer,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 6167,5,2,18,CA,4170,Mark Carey,113,N/A,USA,NULL,NULL
 6299,5,2,18,CA,4207,Dim Coumou,36,N/A,Germany,NULL,NULL
 6368,5,2,18,CA,4365,Gerrit Hansen,36,N/A,Germany,NULL,NULL
@@ -6730,7 +6730,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5603,5,2,19,LA,2943,Kiyoshi Takahashi,129,National Institute for Environmental Studies,Japan,NULL,NULL
 5359,5,2,19,RE,349,Michael Brklacich,310,Carleton University,Canada,NULL,NULL
 5585,5,2,19,RE,2707,Serguei M. Semenov,622,Institute of Global Climate and Ecology,Russian Federation,NULL,NULL
-6263,5,2,19,CA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+6263,5,2,19,CA,241,Frans Berkhout,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 6212,5,2,19,CA,732,Pauline O. Dube,151,University of Botswana,Botswana,NULL,NULL
 6336,5,2,19,CA,4295,Wendy Foden,95,N/A,South Africa,NULL,NULL
 6361,5,2,19,CA,4346,Stefan Greiving,36,N/A,Germany,NULL,NULL
@@ -6746,7 +6746,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6555,5,2,19,CA,4807,Wolfram Schlenker,113,N/A,USA,NULL,NULL
 6585,5,2,19,CA,4870,John Richard Stepp,113,N/A,USA,NULL,NULL
 6204,5,2,19,CA,4901,Richard Tol,117,N/A,United Kingdom,NULL,NULL
-6608,5,2,19,CA,4918,Detlef van Vuuren,107,N/A,The Netherlands,NULL,NULL
+6608,5,2,19,CA,4918,Detlef van Vuuren,107,N/A,Netherlands,NULL,NULL
 5396,5,2,20,CLA,660,Fatima Denton,337,Independent Consultant,The Gambia,NULL,NULL
 5630,5,2,20,CLA,3225,Thomas J. Wilbanks,271,Oak Ridge National Laboratory,USA,NULL,NULL
 5329,5,2,20,LA,10,Achala Chandani Abeysekara,288,International Institute for Environment and Development (IIED),Sri Lanka,NULL,NULL
@@ -6768,7 +6768,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5470,5,2,21,LA,1607,Won-Tae Kwon,229,National Institute of Meteorological Research,South Korea,NULL,NULL
 5505,5,2,21,LA,1922,Linda O. Mearns,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 5580,5,2,21,LA,2652,Lisa Schipper,384,Stockholm Environment Institute,Sweden,NULL,NULL
-5618,5,2,21,LA,3064,Maarten van Aalst,475,Red Cross / Red Crescent Climate Centre,The Netherlands,NULL,NULL
+5618,5,2,21,LA,3064,Maarten van Aalst,475,Red Cross / Red Crescent Climate Centre,Netherlands,NULL,NULL
 5402,5,2,21,RE,719,Thomas E. Downing,340,Global Climate Adaptation Partnership,USA,NULL,NULL
 5407,5,2,21,RE,736,Phil Duffy,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 6168,5,2,21,CA,4181,Monalisa Chatterjee,44,N/A,India,NULL,NULL
@@ -6813,7 +6813,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6482,5,2,22,CA,4650,Andrew Newsham,117,N/A,United Kingdom,NULL,NULL
 6485,5,2,22,CA,4657,Sirra Njai,106,N/A,The Gambia,NULL,NULL
 6496,5,2,22,CA,2205,Jane Mukarugwiza Olwoch,426,South African National Space Agency (SANSA) South Africa,South Africa,NULL,NULL
-6504,5,2,22,CA,4691,Pieter Pauw,107,N/A,The Netherlands,NULL,NULL
+6504,5,2,22,CA,4691,Pieter Pauw,107,N/A,Netherlands,NULL,NULL
 6519,5,2,22,CA,4726,Emilia Pramova,17,N/A,Bulgaria,NULL,NULL
 6527,5,2,22,CA,4742,Clionadh Raleigh,47,N/A,Ireland,NULL,NULL
 6538,5,2,22,CA,2513,Debra Roberts,446,Ethekwini Municipality,South Africa,NULL,NULL
@@ -6834,7 +6834,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6637,5,2,22,CA,4989,Sidat Yaffa,106,N/A,The Gambia,NULL,NULL
 5467,5,2,23,CLA,1571,Sari Kovats,358,London School of Hygiene and Tropical Medicine,United Kingdom,NULL,NULL
 5616,5,2,23,CLA,3060,Riccardo Valentini,473,University of Tuscia and Euro-Mediterranean Center for Climate Change,Italy,NULL,NULL
-5355,5,2,23,LA,315,Laurens Bouwer,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+5355,5,2,23,LA,315,Laurens Bouwer,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 5418,5,2,23,LA,956,Elena Georgopoulou,353,National Observatory of Athens,Greece,NULL,NULL
 5445,5,2,23,LA,1316,Daniela Jacob,372,"Climate Service Center, Hamburg",Germany,NULL,NULL
 5499,5,2,23,LA,1859,Eric Martin,249,Météo-France,France,NULL,NULL
@@ -6849,7 +6849,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6308,5,2,23,CA,4222,Michael Davies,117,N/A,United Kingdom,NULL,NULL
 6370,5,2,23,CA,4369,Paula Harrison,117,N/A,United Kingdom,NULL,NULL
 6397,5,2,23,CA,4436,Olaf Jonkeren,49,N/A,Italy,NULL,NULL
-6409,5,2,23,CA,4478,Mark Koetse,107,N/A,The Netherlands,NULL,NULL
+6409,5,2,23,CA,4478,Mark Koetse,107,N/A,Netherlands,NULL,NULL
 6423,5,2,23,CA,4526,Markus Lindner,34,N/A,Finland,NULL,NULL
 6448,5,2,23,CA,4577,Andreas Matzarakis,36,N/A,Germany,NULL,NULL
 6461,5,2,23,CA,1924,Reinhard Mechler,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
@@ -6860,13 +6860,13 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6515,5,2,23,CA,4709,Juliane Peterson,36,N/A,Germany,NULL,NULL
 6524,5,2,23,CA,4731,Martin Price,117,N/A,United Kingdom,NULL,NULL
 6533,5,2,23,CA,2481,Boris Revich,444,Institute of Forecasting Russian Academy of Science,Russian Federation,NULL,NULL
-6537,5,2,23,CA,4764,Piet Rietveld,107,N/A,The Netherlands,NULL,NULL
+6537,5,2,23,CA,4764,Piet Rietveld,107,N/A,Netherlands,NULL,NULL
 6545,5,2,23,CA,4788,Cristina Sabbioni,49,N/A,Italy,NULL,NULL
 6550,5,2,23,CA,4798,Yannis Sarafidis,38,N/A,Greece,NULL,NULL
 6558,5,2,23,CA,4809,Philipp Schmidt-Thome,34,N/A,Finland,NULL,NULL
 6575,5,2,23,CA,4850,Vegard Skirbekk,7,N/A,Austria,NULL,NULL
 6582,5,2,23,CA,4863,Donatella Spano,49,N/A,Italy,NULL,NULL
-6609,5,2,23,CA,4923,Jan E. Vermaat,107,N/A,The Netherlands,NULL,NULL
+6609,5,2,23,CA,4923,Jan E. Vermaat,107,N/A,Netherlands,NULL,NULL
 6629,5,2,23,CA,4971,Meriwether Wilson,117,N/A,United Kingdom,NULL,NULL
 6650,5,2,23,CA,4061,Tomasz Zylicz,656,University of Warsaw,Poland,NULL,NULL
 5430,5,2,24,CLA,1194,Yasuaki Hijioka,129,National Institute for Environmental Studies,Japan,NULL,NULL
@@ -7159,7 +7159,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5931,5,3,1,CLA,3101,David G. Victor,544,University of California,USA,NULL,NULL
 5646,5,3,1,LA,43,Essam Hassan Mohamed Ahmed,493,Egyptian Environmental Affairs Agency,Egypt,NULL,NULL
 5700,5,3,1,LA,602,Pradeep Kumar Dadhich,524,Deloitte Touche Tohmatsu India Pvt. Ltd.,India,NULL,NULL
-5838,5,3,1,LA,2201,Jos G.J. Olivier,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+5838,5,3,1,LA,2201,Jos G.J. Olivier,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 5874,5,3,1,LA,2540,Hans-Holger Rogner,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
 5889,5,3,1,LA,2739,Kamel Sheikho,630,King Abdulaziz City for Science and Technology,Saudi Arabia,NULL,NULL
 5947,5,3,1,LA,3299,Mitsutsune Yamaguchi,148,University of Tokyo,Japan,NULL,NULL
@@ -7168,7 +7168,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6034,5,3,2,CLA,1058,Shreekant Gupta,386,University of Delhi,India,NULL,NULL
 6071,5,3,2,CLA,3856,Howard Kunreuther,583,University of Pennsylvania,USA,NULL,NULL
 5976,5,3,2,LA,3659,Valentina Bosetti,507,Fondazione Eni Enrico Mattei (FEEM),Italy,NULL,NULL
-5992,5,3,2,LA,3698,Roger Cooke,887,Delft University of Technology,The Netherlands,NULL,NULL
+5992,5,3,2,LA,3698,Roger Cooke,887,Delft University of Technology,Netherlands,NULL,NULL
 6008,5,3,2,LA,3723,Varun Dutt,150,Indian Institute of Technology,India,NULL,NULL
 5748,5,3,2,LA,1069,Minh Ha Duong,352,Centre National de la Recherche Scientifique (CNRS),France,NULL,NULL
 6042,5,3,2,LA,3795,Hermann Held,264,University of Hamburg,Germany,NULL,NULL
@@ -7210,11 +7210,11 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5879,5,3,4,RE,2578,Matthias Ruth,624,Center for Integrative Environmental Research,USA,NULL,NULL
 5883,5,3,4,RE,2624,Jayant Sathaye,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
 5973,5,3,5,CLA,3654,Gabriel Blanco,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,NULL,NULL
-6028,5,3,5,CLA,3765,Reyer Gerlagh,549,Tilburg University,The Netherlands,NULL,NULL
+6028,5,3,5,CLA,3765,Reyer Gerlagh,549,Tilburg University,Netherlands,NULL,NULL
 6142,5,3,5,CLA,4005,Sangwon Suh,640,University of California Santa Barbara,USA,NULL,NULL
 5963,5,3,5,LA,3632,Jiahua Ahenkorah Pan,492,Chinese Academy of Social Sciences (CASS),China,NULL,NULL
 5968,5,3,5,LA,3647,John Barrett,498,University of York / Stockholm Environment Institute (SEI),United Kingdom,NULL,NULL
-5997,5,3,5,LA,3706,Heleen de Coninck,526,University of Nijmegen,The Netherlands,NULL,NULL
+5997,5,3,5,LA,3706,Heleen de Coninck,526,University of Nijmegen,Netherlands,NULL,NULL
 6004,5,3,5,LA,681,Cristobal Felix Diaz Morejon,489,"Ministry of Science,Technology and Environment",Cuba,NULL,NULL
 6088,5,3,5,LA,3886,Ritu Mathur,598,Energy & Resources Institute (TERI),India,NULL,NULL
 5832,5,3,5,LA,2099,Nebojsa Nakicenovic,608,International Institute for Applied Systems Analysis (IIASA),Montenegro,NULL,NULL
@@ -7241,8 +7241,8 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5876,5,3,6,LA,2551,Steven K. Rose,505,Electric Power Research Institute (EPRI),USA,NULL,NULL
 6134,5,3,6,LA,2759,Priyadarshi R. Shukla,547,"Indian Institute of Management,Ahmedabad",India,NULL,NULL
 6145,5,3,6,LA,4012,Massimo Tavoni,507,Fondazione Eni Enrico Mattei (FEEM),Italy,NULL,NULL
-6152,5,3,6,LA,4024,Bob van der Zwaan,648,Energy research Centre of the Netherlands (ECN) / Columbia University,The Netherlands,NULL,NULL
-5925,5,3,6,LA,3080,Detlef P. Van Vuuren,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+6152,5,3,6,LA,4024,Bob van der Zwaan,648,Energy research Centre of the Netherlands (ECN) / Columbia University,Netherlands,NULL,NULL
+5925,5,3,6,LA,3080,Detlef P. Van Vuuren,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 5984,5,3,6,RE,3681,Wenying Chen,516,Tsinghua University,China,NULL,NULL
 5939,5,3,6,RE,3205,John P. Weyant,338,Stanford University,USA,NULL,NULL
 5970,5,3,7,CLA,3650,Igor Bashmakov,500,Center for Energy Efficiency (CENEF),Russian Federation,NULL,NULL
@@ -7251,7 +7251,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5987,5,3,7,LA,3687,Helena Chum,297,National Renewable Energy Laboratory (NREL),USA,NULL,NULL
 5998,5,3,7,LA,3707,Angel De la Vega,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
 6010,5,3,7,LA,762,James Edmonds,256,Pacific Northwest National Laboratory,USA,NULL,NULL
-5715,5,3,7,LA,803,Andre P.C. Faaij,273,University of Utrecht,The Netherlands,NULL,NULL
+5715,5,3,7,LA,803,Andre P.C. Faaij,273,University of Utrecht,Netherlands,NULL,NULL
 6022,5,3,7,LA,3753,Bundit Fungtammasan,545,King Mongkut's University of Technology,Thailand,NULL,NULL
 6025,5,3,7,LA,931,Amit Garg,547,"Indian Institute of Management,Ahmedabad",India,NULL,NULL
 6043,5,3,7,LA,3797,Edgar Hertwich,561,Norwegian University of Science & Technology,Norway,NULL,NULL
@@ -7337,7 +7337,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6137,5,3,11,LA,3995,Frank Sperling,637,World Wildlife Fund (WWF),Norway,NULL,NULL
 6148,5,3,11,LA,3039,Francesco Tubiello,644,Food and Agriculture Organization (FAO),Italy,NULL,NULL
 6070,5,3,11,RE,3855,Thelma Krug,173,National Institute for Space Research (INPE),Brazil,NULL,NULL
-6101,5,3,11,RE,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,The Netherlands,NULL,NULL
+6101,5,3,11,RE,2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,Netherlands,NULL,NULL
 6003,5,3,12,CLA,3714,Shobhakar Dhakal,531,Asian Institute of Technology,Thailand,NULL,NULL
 6131,5,3,12,CLA,3983,Karen Seto,629,Yale University,USA,NULL,NULL
 5972,5,3,12,LA,3653,Anthony Bigio,502,George Washington University,USA,NULL,NULL
@@ -7359,9 +7359,9 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6163,5,3,13,CLA,3379,Ji Zou,655,National Center for Climate Strategy Study and International Cooperation (NRDC),China,NULL,NULL
 5977,5,3,13,LA,3664,Thomas Brewer,508,Georgetown University,USA,NULL,NULL
 5991,5,3,13,LA,3697,Mariana Conte Grand,520,"Universidad del CEMA,Buenos Aires",Argentina,NULL,NULL
-5704,5,3,13,LA,656,Michel Den Elzen,530,Netherlands Environmental Assessment Agency,The Netherlands,NULL,NULL
+5704,5,3,13,LA,656,Michel Den Elzen,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 6017,5,3,13,LA,3739,Michael Finus,541,University of Bath,United Kingdom,NULL,NULL
-6033,5,3,13,LA,1057,Joyeeta Gupta,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
+6033,5,3,13,LA,1057,Joyeeta Gupta,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 6044,5,3,13,LA,1216,Niklas Höhne,562,Ecofys,Germany,NULL,NULL
 6075,5,3,13,LA,3865,Myung-Kyoon Lee,588,Keimyung University,South Korea,NULL,NULL
 6093,5,3,13,LA,1959,Axel Michaelowa,246,University of Zurich,Switzerland,NULL,NULL
