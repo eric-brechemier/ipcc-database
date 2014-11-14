@@ -1,1188 +1,1188 @@
 id,name,institution_type_id,Institution Type (INFO)
-1,N/A,12,Non Available
-124,National Aeronautics and Space Administration (NASA),5,Government Agency
-125,University of New South Wales,6,Higher Education Institution
-126,University of Bern,6,Higher Education Institution
-129,National Institute for Environmental Studies,11,Public Research Organisation
-130,University of Leeds,6,Higher Education Institution
-131,University of Exeter,6,Higher Education Institution
-132,University of Washington,6,Higher Education Institution
-133,University of Bergen,6,Higher Education Institution
-134,Indian Institute of Tropical Meteorology,11,Public Research Organisation
-135,University of Miami,6,Higher Education Institution
-136,ETH Zurich,6,Higher Education Institution
-137,Alfred Wegener Institute for Polar and Marine Research,11,Public Research Organisation
 139,A.M. Obukhov Institute of Atmospheric Physics,12,Non Available
-140,Peking University,6,Higher Education Institution
-141,State Key Laboratory for Cryospheric Science,12,Non Available
-143,University of Bremen,6,Higher Education Institution
-144,University of Chile,6,Higher Education Institution
-146,British Antarctic Survey,5,Government Agency
-148,University of Tokyo,6,Higher Education Institution
-149,University of Cape Town,6,Higher Education Institution
-150,Indian Institute of Technology,6,Higher Education Institution
-151,University of Botswana,6,Higher Education Institution
-152,"Agency for Meteorology,Climatology and Geophysics",5,Government Agency
-153,University of Oxford,6,Higher Education Institution
-154,Antarctic Climate and Ecosystems Cooperative Research Centre,5,Government Agency
-155,Yonsei University,6,Higher Education Institution
-156,Hokkaido University,6,Higher Education Institution
-157,Australian Bureau of Meteorology,11,Public Research Organisation
-158,University of Sao Paulo,6,Higher Education Institution
-159,Indian Institute of Science,6,Higher Education Institution
-160,University of Bristol,6,Higher Education Institution
-161,Eotvos Lorand University,6,Higher Education Institution
-162,Eawag,6,Higher Education Institution
-163,University of Tasmania,6,Higher Education Institution
-164,Environment Canada,5,Government Agency
-165,National Institute of Meteorology and Hydrology (NIMH),5,Government Agency
-166,National Center for Atmospheric Research (NCAR),11,Public Research Organisation
-167,Institut Pierre Simon Laplace (IPSL),11,Public Research Organisation
-168,Ohio State University,6,Higher Education Institution
-169,Max-Planck Institute for Meteorology,11,Public Research Organisation
-170,Universidad de Buenos Aires,11,Public Research Organisation
-171,Commonwealth Scientific and Industrial Research Organization (CSIRO),11,Public Research Organisation
-172,Direccion Meteorologica de Chile,5,Government Agency
-173,National Institute for Space Research (INPE),5,Government Agency
-174,Laboratoire d'Etudes en Géophysique et Océanographie Spatiale (LEGOS),11,Public Research Organisation
-175,University of South Florida,6,Higher Education Institution
-176,Sultan Qaboos University,6,Higher Education Institution
-177,University of Gothenburg,6,Higher Education Institution
-178,Indian Space Research Organisation,11,Public Research Organisation
-179,Danish Meteorological Institute,5,Government Agency
-180,Oregon State University,6,Higher Education Institution
-181,Lawrence Berkeley National Laboratory,11,Public Research Organisation
-182,Met Office,5,Government Agency
-183,Freie Universität Berlin,6,Higher Education Institution
-184,University of Castilla - La Mancha,6,Higher Education Institution
-185,Columbia University,6,Higher Education Institution
-187,China Meteorological Administration,5,Government Agency
-188,National Oceanographic and Atmospheric Administration (NOAA),5,Government Agency
-189,Catalan Institute of Climate Sciences,11,Public Research Organisation
-190,Beijing Normal University,6,Higher Education Institution
-191,Direction de la Meteorologie Nationale Maroc,5,Government Agency
-192,Deutsches Zentrum fur Luft und Raumfahrt,11,Public Research Organisation
-193,Institute of Atmospheric Sciences and Climate,11,Public Research Organisation
-194,Université Catholique de Louvain,6,Higher Education Institution
-195,Pennsylvania State University,6,Higher Education Institution
-196,Victoria University of Wellington,6,Higher Education Institution
-197,Institute of Ocean Sciences,5,Government Agency
-198,Center for International Climate and Environmental Research,11,Public Research Organisation
-199,University of Virginia,6,Higher Education Institution
-200,Potsdam Institute for Climate Impact Research,11,Public Research Organisation
-201,Lawrence Livermore National Laboratory,11,Public Research Organisation
-202,Universidad Complutense de Madrid,6,Higher Education Institution
-203,Centre for Mathematical Modeling and Computer Simulation,6,Higher Education Institution
-204,University of Reading,6,Higher Education Institution
-205,P.P. Shirshov Institute of Oceanography,11,Public Research Organisation
-206,Wadia Institute of Himalayan Geology,11,Public Research Organisation
-207,Iowa State University,6,Higher Education Institution
-208,University of New Mexico,6,Higher Education Institution
-209,University of California Los Angeles,6,Higher Education Institution
-210,University of Zambia,6,Higher Education Institution
-211,University of Edinburgh,6,Higher Education Institution
-212,Max-Planck Institute for Biogeochemistry,11,Public Research Organisation
-213,Lanzhou University,6,Higher Education Institution
-214,Vrije Universiteit Brussel,6,Higher Education Institution
-215,Harvard University,6,Higher Education Institution
-216,Monash University,6,Higher Education Institution
-217,Permanent Service for Mean Sea Level (PSMSL),11,Public Research Organisation
-219,National Oceanography Centre,11,Public Research Organisation
-220,Zambia Meteorological Department,5,Government Agency
-221,University of Innsbruck,6,Higher Education Institution
-222,Voeikov Main Geophysical Observatory,5,Government Agency
-223,Finnish Meteorological Institute,5,Government Agency
-224,George Mason University,6,Higher Education Institution
-225,Meteorological Research Institute,11,Public Research Organisation
-226,Royal Netherlands Meteorological Institute (KNMI),5,Government Agency
-227,U.S. Department of Energy,5,Government Agency
-228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),11,Public Research Organisation
-229,National Institute of Meteorological Research,5,Government Agency
-230,Australian National University,6,Higher Education Institution
-231,University of East Anglia,6,Higher Education Institution
-232,Manchester Metropolitan University,6,Higher Education Institution
-233,Chinese Academy of Sciences,1,Academy of Science
-234,Justus-Liebig University Giessen,6,Higher Education Institution
-235,Cornell University,6,Higher Education Institution
-236,Universidad Nacional Autonoma de Mexico (UNAM),6,Higher Education Institution
-237,University of Hawaii,6,Higher Education Institution
-238,University of Ottawa,6,Higher Education Institution
-239,Institute of Atmospheric Physics,1,Academy of Science
-240,Swansea University,6,Higher Education Institution
-241,Center for International Climate and Environment (CICERO),11,Public Research Organisation
-242,Boston University,6,Higher Education Institution
-243,Cooperative Institute for Research in Environmental Sciences (CIRES),6,Higher Education Institution
-244,University of New England,6,Higher Education Institution
-245,European Centre for Medium-Range Weather Forecasts (ECMWF),8,International Institution
-246,University of Zurich,6,Higher Education Institution
-247,University of Michigan,6,Higher Education Institution
-248,University of Colorado,6,Higher Education Institution
-249,Météo-France,5,Government Agency
-250,Bureau of Meteorology,5,Government Agency
-251,University of California Irvine,6,Higher Education Institution
-252,University of Texas-Austin,6,Higher Education Institution
-253,Iranian Meteorological Organization,5,Government Agency
-254,Physical Research Laboratory,5,Government Agency
-255,Colorado State University,6,Higher Education Institution
-256,Pacific Northwest National Laboratory,5,Government Agency
-257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),11,Public Research Organisation
-258,Rutgers University,6,Higher Education Institution
-259,University of California San Diego,6,Higher Education Institution
-260,Swedish Meteorological and Hydrological Institute,5,Government Agency
-261,Service Météorologique,5,Government Agency
-262,South African Weather Service,5,Government Agency
-263,Russian Federation Academy of Sciences,1,Academy of Science
-264,University of Hamburg,6,Higher Education Institution
-266,University of Rowan,6,Higher Education Institution
-267,Kyushu University,6,Higher Education Institution
-268,Scripps Institute of Oceanography,6,Higher Education Institution
-269,National University of Malaysia,6,Higher Education Institution
-270,"Climate Central,Inc.",2,Company
-271,Oak Ridge National Laboratory,11,Public Research Organisation
-272,National Institute of Oceanography,11,Public Research Organisation
-273,University of Utrecht,6,Higher Education Institution
-274,University of Helsinki,6,Higher Education Institution
-275,Instituto de Meteorologia,5,Government Agency
-276,University of Cambridge,6,Higher Education Institution
-277,University of Victoria,6,Higher Education Institution
-278,Norwegian Polar Institute,11,Public Research Organisation
-279,Proudman Oceanographic Laboratory,6,Higher Education Institution
-280,National Institute of Water and Atmospheric Research,11,Public Research Organisation
-282,Nagoya University,6,Higher Education Institution
-283,Pacific Climate Impacts Consortium (PCIC),12,Non Available
-285,Goethe University Frankfurt,6,Higher Education Institution
-286,University of Alexandria,6,Higher Education Institution
-287,"Ministry of Housing,Environment and Energy",5,Government Agency
-288,International Institute for Environment and Development (IIED),8,International Institution
-289,University of the West Indies,6,Higher Education Institution
-290,International Water Management Institute,8,International Institution
-291,United Nations Environment Programme (UNEP),8,International Institution
-292,"Ministry of Agriculture,Water Resources and Fisheries",5,Government Agency
-293,Institute of Geography,1,Academy of Science
-294,State Hydrological Institute,1,Academy of Science
-296,Centro Mario Molina,9,Non-Governmental Organization
-297,National Renewable Energy Laboratory (NREL),11,Public Research Organisation
-298,University of California Berkeley,6,Higher Education Institution
-299,National Institute of Environmental Health Sciences,5,Government Agency
-300,University of Melbourne,6,Higher Education Institution
-301,Spanish Council for Scientific Research,11,Public Research Organisation
-302,"Vrije Universiteit,Amsterdam",6,Higher Education Institution
-303,Energy and Resources Institute,9,Non-Governmental Organization
-304,University of Florence,6,Higher Education Institution
-305,United Nations University - Institute for Environment and Human Security,8,International Institution
-306,Institut de Recherche pour le Developpement (IRD),11,Public Research Organisation
-307,National Institute of Water and Atmosphere,11,Public Research Organisation
-308,Monterey Bay Aquarium Research Institute,9,Non-Governmental Organization
-309,University of Malta,6,Higher Education Institution
-310,Carleton University,6,Higher Education Institution
-311,Griffith University,6,Higher Education Institution
-312,U.S. Geological Survey,5,Government Agency
-313,University of Toronto,6,Higher Education Institution
-314,Third Institute of Oceanography Chinese State Oceanic Administration,5,Government Agency
-315,Universidad Nacional Mayor de San Marcos,6,Higher Education Institution
-316,University of Waikato,6,Higher Education Institution
-317,World Health Organization (WHO),8,International Institution
-318,Organization of American States,8,International Institution
-319,Universidad Nacional de Colombia,6,Higher Education Institution
-320,Massachusetts Institute of Technology,6,Higher Education Institution
-321,University of South Carolina,6,Higher Education Institution
-322,Finnish Environment Institute,5,Government Agency
-323,Universidad del Valle de Guatemala,6,Higher Education Institution
-324,United Nations Development Programme (UNDP),8,International Institution
-326,University of British Columbia,6,Higher Education Institution
-327,Rhodes University,6,Higher Education Institution
-328,Trent University,6,Higher Education Institution
-329,Oswaldo Cruz Foundation (FIOCRUZ),11,Public Research Organisation
-330,Australian Antarctic Division,5,Government Agency
-331,Organization for Economic Cooperation and Development (OECD),8,International Institution
-332,Independent Consultant,13,Consultants / Individuals
-333,University of Ohio,6,Higher Education Institution
-334,Institute of Economic Growth,11,Public Research Organisation
-335,University of Alberta,6,Higher Education Institution
-336,University Cheikh Anta Diop of Dakar,6,Higher Education Institution
-338,Stanford University,6,Higher Education Institution
-340,Global Climate Adaptation Partnership,2,Company
-341,Institute of Marine Research,11,Public Research Organisation
-342,Federal University of Rio de Janeiro,6,Higher Education Institution
-343,Hanoi University of Science,6,Higher Education Institution
-344,Universite de La Rochelle - National Centre for Scientific Research (CNRS),6,Higher Education Institution
-345,National Water Research Center,5,Government Agency
-346,Norwegian University of Life Sciences,6,Higher Education Institution
-347,University of Ghana Medical School,6,Higher Education Institution
-348,California State University,6,Higher Education Institution
-349,Munich Reinsurance Company,2,Company
-350,University of Otago,6,Higher Education Institution
-351,Chinese Institute of Environment and Sustainable Development in Agriculture,1,Academy of Science
-352,Centre National de la Recherche Scientifique (CNRS),11,Public Research Organisation
-353,National Observatory of Athens,11,Public Research Organisation
 354,Abdus Salam International Centre for Theoretical Physics,8,International Institution
-355,Fundacion Bariloche,4,Foundation
-356,World Bank,8,International Institution
-357,High Commission of Niger Valley Development,5,Government Agency
-358,London School of Hygiene and Tropical Medicine,6,Higher Education Institution
-359,MTT Agrifood Research Finland,5,Government Agency
-361,Columbia Business School,6,Higher Education Institution
-362,Sokoine University of Agriculture,6,Higher Education Institution
-363,Institut National de Recherche Halieutique,11,Public Research Organisation
-364,Global Climate Forum,9,Non-Governmental Organization
-365,University of Queensland,6,Higher Education Institution
-367,Nordland Research Institute,4,Foundation
-368,Macquarie University,6,Higher Education Institution
-370,Polytechnic University of Madrid,6,Higher Education Institution
-371,Global Change Impact Studies Centre,11,Public Research Organisation
-372,"Climate Service Center, Hamburg",11,Public Research Organisation
-373,"United Nations Educational,Scientific and Cultural Organization (UNESCO)",8,International Institution
-374,Victoria University,6,Higher Education Institution
-375,Jeju National University,6,Higher Education Institution
-376,International Institute for Applied Systems Analysis (IIASA),8,International Institution
-377,University of Ljubljana,6,Higher Education Institution
-378,Strathmore University,6,Higher Education Institution
-379,Ecole Nationale Forestiere d'Ingenieurs,6,Higher Education Institution
-380,Exxon Mobil Corporation,2,Company
-382,University New Hampshire,6,Higher Education Institution
-383,Ardhi University,6,Higher Education Institution
-384,Stockholm Environment Institute,11,Public Research Organisation
-385,Institute for Catastrophic Loss Reduction,6,Higher Education Institution
-386,University of Delhi,6,Higher Education Institution
-387,Polish Academy of Sciences,1,Academy of Science
-388,Universite Paris 8,6,Higher Education Institution
-389,University of the Philippines Los Baños,6,Higher Education Institution
-390,Stefansson Arctic Institute,11,Public Research Organisation
-391,World Agroforestry Center,8,International Institution
-392,Universite Paris-Sud 11,6,Higher Education Institution
-394,Dickinson College,6,Higher Education Institution
-396,Wageningen University,6,Higher Education Institution
-397,RAND Corporation,11,Public Research Organisation
-399,Agro-environment and Sustainable Development Institute,1,Academy of Science
-400,Karolinska Institutet,6,Higher Education Institution
-401,Chinese Center for Disease Control and Prevention,5,Government Agency
-402,Centro de Investigaciones Biologicas del Noroeste,11,Public Research Organisation
-403,Universidad de Cantabria,6,Higher Education Institution
-404,Centers for Disease Control and Prevention,5,Government Agency
-405,Environment and Fisheries Department,5,Government Agency
-406,Institute of Environment and Sustainable Development in Agriculture,1,Academy of Science
-407,Instituto Nacional de Tecnologia Agropecuaria (INTA),5,Government Agency
-408,Basque Centre for Climate Change,9,Non-Governmental Organization
-409,Texas A&M University,6,Higher Education Institution
-410,Pontificia Universidad Catolica de Chile,6,Higher Education Institution
-411,South African National Biodiversity Institute,11,Public Research Organisation
-412,Ibaraki University,6,Higher Education Institution
-413,University of Greenwich,6,Higher Education Institution
-414,University of Maryland,6,Higher Education Institution
-415,HELVETAS Swiss Intercooperation,9,Non-Governmental Organization
-416,University of Dar-es-Salaam,6,Higher Education Institution
-418,Instituto de Pesquisa Ambiental da Amazonia (IPAM),4,Foundation
-419,Industrial Economics Inc,13,Consultants / Individuals
-420,AgResearch,2,Company
-421,University of Southampton,6,Higher Education Institution
-422,Consultant,13,Consultants / Individuals
-424,University of Oslo,6,Higher Education Institution
-425,Lund University,6,Higher Education Institution
-426,South African National Space Agency (SANSA) South Africa,5,Government Agency
-427,University of Nairobi,6,Higher Education Institution
-428,Princeton University,6,Higher Education Institution
+1330,ABT Associates Inc.,2,Company
+1352,Academy of Agriculture,1,Academy of Science
+886,Adam Mickiewicz University,6,Higher Education Institution
+1019,Aerospace Engineering,10,Other
+518,Africa Carbon Credit Exchange,12,Non Available
 429,African Development Bank,8,International Institution
-430,University of Arizona,6,Higher Education Institution
-431,International START Secretariat,4,Foundation
-432,Indian Institute of Technology Bombay,6,Higher Education Institution
-433,Secretariat of the Pacific Regional Environment Programme,8,International Institution
-434,King's College London,6,Higher Education Institution
-435,International policy center for inclusive growth,8,International Institution
-437,Manila Observatory,4,Foundation
-438,University of Neuchatel,6,Higher Education Institution
-439,National Academy of Sciences,1,Academy of Science
-440,University of Copenhagen,6,Higher Education Institution
-441,Madagascar National Weather Service,5,Government Agency
-442,New Zealand Agricultural Greenhouse Gas Research Centre,11,Public Research Organisation
-443,Indian Institute for Human Settlements,6,Higher Education Institution
-444,Institute of Forecasting Russian Academy of Science,1,Academy of Science
-445,University of Vic,6,Higher Education Institution
-446,Ethekwini Municipality,13,Consultants / Individuals
-447,University of Stellenbosch,6,Higher Education Institution
-448,National Institute of Advanced Industrial Science and Technology,11,Public Research Organisation
-449,El Colegio de la Frontera Norte,6,Higher Education Institution
-450,University of Lisbon,6,Higher Education Institution
-452,Umea University,6,Higher Education Institution
-453,Conservation International,9,Non-Governmental Organization
-454,Council for Scientific and Industrial Research (CSIR),5,Government Agency
-456,Institut National de la Recherche Agronomique (INRA),11,Public Research Organisation
-457,Helmholtz Zentrum Geesthacht,11,Public Research Organisation
-458,Environmental Defense Fund,4,Foundation
-459,Stratus Consulting Inc.,13,Consultants / Individuals
-460,City University of New York,6,Higher Education Institution
-461,Woods Hole Oceanographic Institution,6,Higher Education Institution
-462,United Nations University,8,International Institution
-463,Cuban Environment Agency,5,Government Agency
-464,Kyoto University,6,Higher Education Institution
-466,International Centre for Water Hazard and Risk Management,8,International Institution
-467,United Nations University's World Institute for Development Economics Research,8,International Institution
-468,University of Sussex,6,Higher Education Institution
-469,School of Geography & Environment University of Southampton,6,Higher Education Institution
-470,International Atomic Energy Agency (IAEA),8,International Institution
-471,International Fund for Agricultural Development (IFAD),8,International Institution
-472,Plymouth Marine Laboratory,11,Public Research Organisation
-473,University of Tuscia and Euro-Mediterranean Center for Climate Change,6,Higher Education Institution
-474,University of Barcelona,6,Higher Education Institution
-475,Red Cross / Red Crescent Climate Centre,8,International Institution
-476,Inter-American Development Bank,8,International Institution
-477,Universidad Simon Bolivar,6,Higher Education Institution
-478,University of the Witwatersrand,6,Higher Education Institution
-480,Secretariat of the Pacific Community - Applied Geoscience and Technology Division (SOPAC),8,International Institution
-482,University of Auckland,6,Higher Education Institution
-483,Shenyang Agricultural University,6,Higher Education Institution
-484,"Center for Strategic Environmental Assessment, Nankai University",6,Higher Education Institution
-485,China Institute of Water Resources and Hydropower Research,5,Government Agency
-486,Wesleyan University,6,Higher Education Institution
-487,University of Khartoum,6,Higher Education Institution
-488,Integral Environmental Solutions,12,Non Available
-489,"Ministry of Science,Technology and Environment",12,Non Available
-490,"Centre for Energy,Environment and Sustainability / Univesity of Sheffield",12,Non Available
+646,African Technology Policy Studies (ATPS) Network,12,Non Available
+1046,Agencia Espacial Brasileira,5,Government Agency
+152,"Agency for Meteorology,Climatology and Geophysics",5,Government Agency
+420,AgResearch,2,Company
+1286,Agricultural Institute for Climate Research,11,Public Research Organisation
+1138,Agricultural Research Service,5,Government Agency
+941,Agriculture and Agri-Food Canada (AAFC),5,Government Agency
+399,Agro-environment and Sustainable Development Institute,1,Academy of Science
+1119,Agrometeorology Institute,1,Academy of Science
+1412,Ahmadu Bello University,6,Higher Education Institution
+1360,Aichi University,6,Higher Education Institution
+577,Ajou University,12,Non Available
+137,Alfred Wegener Institute for Polar and Marine Research,11,Public Research Organisation
+1146,All Russian Research Institute of Agricultural Meteorology,1,Academy of Science
+907,Allen Consulting Group,13,Consultants / Individuals
+937,Alliance to Save Energy,2,Company
+556,Alpen Adria University,12,Non Available
+966,ALTERRA Research Institute of the Green Environment,6,Higher Education Institution
+1139,American Bird Conservancy,9,Non-Governmental Organization
+1372,American Council for an Energy Efficient Economy,4,Foundation
+1026,American Meteorological Society,4,Foundation
+154,Antarctic Climate and Ecosystems Cooperative Research Centre,5,Government Agency
+1096,Antigua Public Utilities Authority (APUA),5,Government Agency
+383,Ardhi University,6,Higher Education Institution
+975,Argonne National Laboratory,11,Public Research Organisation
+784,Arizona State University,6,Higher Education Institution
+607,Ashoka Trust for Research in Ecology and the Environment (ATREE),12,Non Available
+935,Asian Development Bank,8,International Institution
+531,Asian Institute of Technology,12,Non Available
+1034,Atmospheric & Environmental Research Inc.,2,Company
+330,Australian Antarctic Division,5,Government Agency
 491,Australian Bureau of Agricultural and Resource Economics (ABARE),12,Non Available
-492,Chinese Academy of Social Sciences (CASS),1,Academy of Science
-493,Egyptian Environmental Affairs Agency,5,Government Agency
-494,Concordia University,12,Non Available
-495,Research Institute of Innovative Technology for the Earth (RITE),12,Non Available
+157,Australian Bureau of Meteorology,11,Public Research Organisation
+645,Australian Centre for Sustainable Mining Practices (ACSMP),12,Non Available
+1121,Australian Institute of Marine Science (AIMS),11,Public Research Organisation
+230,Australian National University,6,Higher Education Institution
 497,Austrian Energy Agency (AEA),12,Non Available
-498,University of York / Stockholm Environment Institute (SEI),12,Non Available
+567,Autonomous University of Southern Baja California,6,Higher Education Institution
+763,Bangladesh Centre for Advanced Studies (BCAS),4,Foundation
+1366,Bangladesh Institute of Development Studies (BIDS),11,Public Research Organisation
+761,Bangladesh Unnayan Parishad (BUP),4,Foundation
+854,Bard College,6,Higher Education Institution
+408,Basque Centre for Climate Change,9,Non-Governmental Organization
+1284,Battelle Institute,4,Foundation
+1279,Bavarian Academy of Sciences,11,Public Research Organisation
+1253,Bayreuth University,6,Higher Education Institution
+803,Bedford Institute of Oceanography,11,Public Research Organisation
+190,Beijing Normal University,6,Higher Education Institution
+1051,Belgian Institute for Space Aeronomy,11,Public Research Organisation
+1082,Benin National Meteorological Service,5,Government Agency
+961,Benviroc Ltd,13,Consultants / Individuals
+1246,Bermuda Biological Research Station,6,Higher Education Institution
+665,Bermuda Institute of Ocean Sciences,6,Higher Education Institution
+1251,Bhabha Atomic Research Centre,11,Public Research Organisation
+1118,BHP-Billiton Newcastle Research Laboratories,11,Public Research Organisation
+1080,Bidston Observatory,10,Other
+925,Biocarbon Consult,13,Consultants / Individuals
+1195,Biomass Users Network (BUN),9,Non-Governmental Organization
+681,Bjerknes Centre for Climate Research,11,Public Research Organisation
+870,Blaustein Institute for Desert Research,6,Higher Education Institution
+913,Bogor Agricultural University,6,Higher Education Institution
+242,Boston University,6,Higher Education Institution
+809,Bowdoin College,6,Higher Education Institution
+1149,BPPT,5,Government Agency
+1179,Brandeis University,6,Higher Education Institution
 499,Bright Green Energy Foundation,12,Non Available
+917,Brinkman Climate Change Consultancy,13,Consultants / Individuals
+146,British Antarctic Survey,5,Government Agency
+707,British Atmospheric Data Centre,5,Government Agency
+908,British Columbia Ministry of Environment,5,Government Agency
+1097,British Trust for Ornithology,5,Government Agency
+737,Brookhaven National Laboratory,11,Public Research Organisation
+1261,Brown University,6,Higher Education Institution
+611,Budapest University of Technology and Economics,12,Non Available
+604,Building Research Institute,12,Non Available
+250,Bureau of Meteorology,5,Government Agency
+609,Burgas University,12,Non Available
+650,Business Council for Sustainable Development Argentina,12,Non Available
+543,California Clean Energy Fund Innovations (CalCEF),12,Non Available
+1000,California Institute of Technology,6,Higher Education Institution
+348,California State University,6,Higher Education Institution
+922,CalRecovery Inc.,2,Company
+919,Canada Centre for Remote Sensing,5,Government Agency
+781,Canadian Climate Program Board,10,Other
+933,Carbon Trust,2,Company
+956,Carbosur,2,Company
+699,Cardiff University,6,Higher Education Institution
+885,Caribbean Community Climate Change Centre,8,International Institution
+310,Carleton University,6,Higher Education Institution
+667,Carnegie Institute of Washington,4,Foundation
+1038,Carnegie Mellon University,6,Higher Education Institution
+189,Catalan Institute of Climate Sciences,11,Public Research Organisation
+880,Catholic Agency for Overseas Development,9,Non-Governmental Organization
+1018,CEA,11,Public Research Organisation
+1314,CEFE,6,Higher Education Institution
+1274,Center d'Etude Spatiale du Rayonnement,11,Public Research Organisation
 500,Center for Energy Efficiency (CENEF),9,Non-Governmental Organization
-502,George Washington University,12,Non Available
-503,Universidad Nacional del Centro de la Provincia de Buenos Aires,12,Non Available
-504,University of Southern California,6,Higher Education Institution
+1198,"Center for Energy,Environment,Science and Technology",9,Non-Governmental Organization
+1176,Center for Environmental Economics,11,Public Research Organisation
+624,Center for Integrative Environmental Research,11,Public Research Organisation
+241,Center for International Climate and Environment (CICERO),11,Public Research Organisation
+198,Center for International Climate and Environmental Research,11,Public Research Organisation
+1032,Center for Ocean-Land-Atmosphere Studies,11,Public Research Organisation
+484,"Center for Strategic Environmental Assessment, Nankai University",6,Higher Education Institution
+404,Centers for Disease Control and Prevention,5,Government Agency
+1189,Centraal Planbureau (CPB),5,Government Agency
+1300,Central Arid Zone Research Institute,11,Public Research Organisation
+647,Central European University,6,Higher Education Institution
+663,Central Institute for Meteorology and Geodynamics,5,Government Agency
+770,Central Laboratory for Agricultural Climate,5,Government Agency
+639,Central Research Institute of Electric Power Industry,11,Public Research Organisation
+1259,Central Weather Bureau,5,Government Agency
+1223,Centre des Faibles Radioactivites,11,Public Research Organisation
+1237,Centre for Atmospheric Sciences,6,Higher Education Institution
+1177,Centre for Business and the Environment,6,Higher Education Institution
+864,Centre for Ecology and Hydrology at Wallingford,5,Government Agency
+899,Centre for Energy Research and Development,11,Public Research Organisation
+490,"Centre for Energy,Environment and Sustainability / Univesity of Sheffield",12,Non Available
+810,Centre for Environment Research Education and Development,9,Non-Governmental Organization
+560,Centre for Environmental Economics and Policy in Africa (CEEPA),6,Higher Education Institution
+593,Centre for European Economic Research (ZEW),12,Non Available
+203,Centre for Mathematical Modeling and Computer Simulation,6,Higher Education Institution
+534,Centre for Policy Research,12,Non Available
+1379,Centre for Social and Economic Research on the Global Environment (CSERGE),11,Public Research Organisation
+1115,Centre for Tropical Marine Ecology,11,Public Research Organisation
+1200,Centre For Wind Energy Technology (C-WET),11,Public Research Organisation
+587,Centre international de recherche sur l'environnement et le développement (CIRED),11,Public Research Organisation
+352,Centre National de la Recherche Scientifique (CNRS),11,Public Research Organisation
+1221,Centre National de Recherches Meteorologiques,11,Public Research Organisation
+858,Centre Régional AGRHYMET,8,International Institution
+672,Centro de Estudios Cientificos (CECS),9,Non-Governmental Organization
+402,Centro de Investigaciones Biologicas del Noroeste,11,Public Research Organisation
+973,Centro de Investigaciones de Economia Mundial (CIEM),11,Public Research Organisation
+528,Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades,12,Non Available
+986,Centro de Sensoriamento Remoto,6,Higher Education Institution
+296,Centro Mario Molina,9,Non-Governmental Organization
+829,CESDAC,9,Non-Governmental Organization
+1086,Chalmers University of Technology,6,Higher Education Institution
+1060,Chief Climatology Department,13,Consultants / Individuals
+953,China Academy of Building Research,1,Academy of Science
+563,China Academy of Urban Planning and Design (CAUPD),12,Non Available
+651,"China CDM Fund Management Center,Ministry of Finance",12,Non Available
+1276,China Institute for Marine Development Strategy,5,Government Agency
+485,China Institute of Water Resources and Hydropower Research,5,Government Agency
+187,China Meteorological Administration,5,Government Agency
+833,China Water Information Centre,5,Government Agency
+820,Chinese Academy of Agricultural Science,1,Academy of Science
+1288,Chinese Academy of Forestry,1,Academy of Science
+233,Chinese Academy of Sciences,1,Academy of Science
+492,Chinese Academy of Social Sciences (CASS),1,Academy of Science
+401,Chinese Center for Disease Control and Prevention,5,Government Agency
+351,Chinese Institute of Environment and Sustainable Development in Agriculture,1,Academy of Science
+928,Chinese Research Academy of Environmental Science,1,Academy of Science
+603,City University,12,Non Available
+830,City University of Hong Kong,6,Higher Education Institution
+460,City University of New York,6,Higher Education Institution
+1142,Ciudad Universitaria,6,Higher Education Institution
+1406,Clarkson University,6,Higher Education Institution
+270,"Climate Central,Inc.",2,Company
+1123,Climate Change Research Initiative,6,Higher Education Institution
+716,Climate Institute,11,Public Research Organisation
+901,Climate Network Africa,8,International Institution
+372,"Climate Service Center, Hamburg",11,Public Research Organisation
+1178,Climate Technology Initiative,5,Government Agency
+685,Colby College,6,Higher Education Institution
+1100,College of Forest Resources,6,Higher Education Institution
+749,College of Wooster,6,Higher Education Institution
+691,Colorado School of Mines,6,Higher Education Institution
+255,Colorado State University,6,Higher Education Institution
+361,Columbia Business School,6,Higher Education Institution
+185,Columbia University,6,Higher Education Institution
+1167,Comision Nac.de Cambio Clim.,5,Government Agency
+814,Commission on Geomorphological Response to Environmental Change,5,Government Agency
+171,Commonwealth Scientific and Industrial Research Organization (CSIRO),11,Public Research Organisation
+494,Concordia University,12,Non Available
+453,Conservation International,9,Non-Governmental Organization
+806,Conservatoire et Jardin botaniques de Genève,9,Non-Governmental Organization
+657,Consortium Ouranos,9,Non-Governmental Organization
+1374,Construction and Economy Research Institute of Korea,4,Foundation
+422,Consultant,13,Consultants / Individuals
+866,Consultant to Indian Ocean Commission,13,Consultants / Individuals
+243,Cooperative Institute for Research in Environmental Sciences (CIRES),6,Higher Education Institution
+1347,Cooperative Institute for Research in the Integrated Ocean Sciences,11,Public Research Organisation
+235,Cornell University,6,Higher Education Institution
+454,Council for Scientific and Industrial Research (CSIR),5,Government Agency
+1383,Council of Economic Advisors,5,Government Agency
+954,Council on Energy and Environment Korea,8,International Institution
+1208,Council on Foreign Relations,5,Government Agency
+926,CRA International,2,Company
+1281,Cranfield University,6,Higher Education Institution
+1144,Credit Suisse,2,Company
+1022,Creighton University,6,Higher Education Institution
+979,CSTB Building Research Center,11,Public Research Organisation
+463,Cuban Environment Agency,5,Government Agency
+643,Cuban Observatory for Science and Technology,5,Government Agency
+610,Curtin University,12,Non Available
+728,Dalhousie University,6,Higher Education Institution
+856,Danish Institute of Agricultural Sciences,6,Higher Education Institution
+179,Danish Meteorological Institute,5,Government Agency
+887,Delft University of Technology,6,Higher Education Institution
+524,Deloitte Touche Tohmatsu India Pvt. Ltd.,13,Consultants / Individuals
+967,Department for Business Enterprise and Regulatory Reform (BERR),5,Government Agency
+1342,Department of Agriculture,5,Government Agency
+1242,"Department of Education,Science and Training",5,Government Agency
+1285,Department of Forestry,5,Government Agency
+1341,Department of Land Evaluation Methods,6,Higher Education Institution
+1305,Department of Primary Industries and Energy,5,Government Agency
+1130,Department of Water and Environmental Studies,6,Higher Education Institution
+704,Department of Water Resources,5,Government Agency
+694,Deutscher Wetterdienst,5,Government Agency
+668,Deutsches Klimarechenzentrum,11,Public Research Organisation
+192,Deutsches Zentrum fur Luft und Raumfahrt,11,Public Research Organisation
+1184,Development Alternatives,9,Non-Governmental Organization
+394,Dickinson College,6,Higher Education Institution
+1291,Dipartimento di Scienze della Terra,6,Higher Education Institution
+172,Direccion Meteorologica de Chile,5,Government Agency
+1393,Direction de la Meteorologie Nationale,5,Government Agency
+191,Direction de la Meteorologie Nationale Maroc,5,Government Agency
+1410,Directorate of Meteorology,5,Government Agency
+1248,Dow Chemical Co.,2,Company
+1316,DRA,5,Government Agency
+652,Duke University,6,Higher Education Institution
+958,DuPont Fluoroproducts,2,Company
+825,Earthwise Consulting,13,Consultants / Individuals
+162,Eawag,6,Higher Education Institution
+1211,ECN Policy Studies,11,Public Research Organisation
+562,Ecofys,13,Consultants / Individuals
+379,Ecole Nationale Forestiere d'Ingenieurs,6,Higher Education Institution
+884,Economic and Social Research Institute,9,Non-Governmental Organization
+620,"Ecosystem Sciences Branch,Department of Fisheries and Oceans",12,Non Available
+746,EG&G Technical Services Inc.,2,Company
+493,Egyptian Environmental Affairs Agency,5,Government Agency
+449,El Colegio de la Frontera Norte,6,Higher Education Institution
 505,Electric Power Research Institute (EPRI),4,Foundation
-506,Risoe National Laboratory,11,Public Research Organisation
+1249,Electricite de France (EDF),2,Company
+1382,ENDA - TM Programme-Energie.,8,International Institution
+598,Energy & Resources Institute (TERI),12,Non Available
+303,Energy and Resources Institute,9,Non-Governmental Organization
+537,Energy Commission,12,Non Available
+654,Energy Environment Computer and Geophysical Applications Group (EECG Consultants),13,Consultants / Individuals
+648,Energy research Centre of the Netherlands (ECN) / Columbia University,12,Non Available
+525,Energy Research Institute,11,Public Research Organisation
+1075,Enviroment Institute of European Commission,8,International Institution
+1324,Environment Agency,5,Government Agency
+756,Environment Agency of England and Wales,5,Government Agency
+868,Environment Agency of Thames,5,Government Agency
+405,Environment and Fisheries Department,5,Government Agency
+1106,Environment Australia,5,Government Agency
+164,Environment Canada,5,Government Agency
+1057,Environment Management Authority,5,Government Agency
+768,Environmental Change Institute,6,Higher Education Institution
+1037,Environmental Chemical Processes Laboratory,6,Higher Education Institution
+458,Environmental Defense Fund,4,Foundation
+702,Environmental Systems Science Centre,11,Public Research Organisation
+796,Environnement Conseil (TEC),13,Consultants / Individuals
+161,Eotvos Lorand University,6,Higher Education Institution
+844,ERM India Pvt,13,Consultants / Individuals
+992,Eskom,2,Company
+836,Esquel Group Foundation Brazil (FGEB),9,Non-Governmental Organization
+1236,ESSA Ltd,2,Company
+1335,Estacion Experimental de Zonas Aridas,11,Public Research Organisation
+136,ETH Zurich,6,Higher Education Institution
+446,Ethekwini Municipality,13,Consultants / Individuals
+1340,ETSU,8,International Institution
+586,Euro Mediterranean Center on Climate Change (CMCC),12,Non Available
+801,European Bank for Reconstruction and Development (EBRD),8,International Institution
+245,European Centre for Medium-Range Weather Forecasts (ECMWF),8,International Institution
+745,European Centre for Research and Advanced Training in Scientific Computation,8,International Institution
+1243,European Commission,8,International Institution
+679,European Commission Joint Research Centre,11,Public Research Organisation
+1187,European Forest Institute,8,International Institution
+1028,European Ozone Research Coordinating Unit,6,Higher Education Institution
+797,Exponent,13,Consultants / Individuals
+380,Exxon Mobil Corporation,2,Company
+910,Facultés Universitaires Catholique de Mons,6,Higher Education Institution
+964,Faculty of Law Sophia University,6,Higher Education Institution
+1302,Federal Institute of Hydrology,5,Government Agency
+955,Federal Ministry for Environment,5,Government Agency
+1346,Federal Ministry of Environment,5,Government Agency
+689,Federal Office of Meteorology and Climatology Meteo-Swiss,5,Government Agency
+342,Federal University of Rio de Janeiro,6,Higher Education Institution
+322,Finnish Environment Institute,5,Government Agency
+946,Finnish Forest Research Institute,5,Government Agency
+223,Finnish Meteorological Institute,5,Government Agency
+1290,Fire and Life Assurance Corp.,2,Company
+676,Fisheries and Oceans Canada,5,Government Agency
+1322,Florida Institute of Technology,6,Higher Education Institution
+1247,Florida State University,6,Higher Education Institution
 507,Fondazione Eni Enrico Mattei (FEEM),9,Non-Governmental Organization
+644,Food and Agriculture Organization (FAO),8,International Institution
+927,Ford-Robertson Initiatives (FRI) Ltd,2,Company
+1388,Forest National Corporation,11,Public Research Organisation
+1201,Forest Research Institute Malaysia (FRIM),11,Public Research Organisation
+957,Forestry and Forest Products Research Institute,11,Public Research Organisation
+1269,Forestry Research Institute,5,Government Agency
+1317,Forestry University of Beijing,6,Higher Education Institution
+1380,Forschungszentrum Jülich,4,Foundation
+1387,Foundation for International Environmental Law and Development,4,Foundation
+778,Foundation for International Studies,6,Higher Education Institution
+944,Fraunhofer Institute for Systems and Innovation Research,11,Public Research Organisation
+183,Freie Universität Berlin,6,Higher Education Institution
+584,Frischsenteret,4,Foundation
+660,Frontier Research Center for Global Change,11,Public Research Organisation
+1378,Fundacao Getulio Vargas,6,Higher Education Institution
+355,Fundacion Bariloche,4,Foundation
+983,Fundación CEAM,11,Public Research Organisation
+1147,Fundacion Instituto Latinoamericano de Politicas Sociales (ILAPS),4,Foundation
+1061,Fundacion para la Investigacion del Clima,4,Foundation
+1017,Gateborg University,6,Higher Education Institution
+1310,Geobotanik,9,Non-Governmental Organization
+1055,Geographisches Institut ETH,6,Higher Education Institution
+741,Geological Survey of Canada,5,Government Agency
+1358,Geological Survey of Greenland,11,Public Research Organisation
+1362,GEOMAR,11,Public Research Organisation
+224,George Mason University,6,Higher Education Institution
+502,George Washington University,12,Non Available
 508,Georgetown University,12,Non Available
 509,Georgia Institute of Technology,6,Higher Education Institution
-510,University of Leipzig,12,Non Available
-511,Vista Analysis,13,Consultants / Individuals
-512,University of Brasília,12,Non Available
-513,University of Lleida,12,Non Available
-514,Universidad Autonoma de Baja California Sur,6,Higher Education Institution
-515,Université de Limoges,6,Higher Education Institution
-516,Tsinghua University,6,Higher Education Institution
-517,University of Zimbabwe,6,Higher Education Institution
-518,Africa Carbon Credit Exchange,12,Non Available
-519,University of Surrey,12,Non Available
-520,"Universidad del CEMA,Buenos Aires",12,Non Available
-522,Mercator Research Institute on Global Commons and ClimateChange (MCC),12,Non Available
-524,Deloitte Touche Tohmatsu India Pvt. Ltd.,13,Consultants / Individuals
-525,Energy Research Institute,11,Public Research Organisation
-526,University of Nijmegen,12,Non Available
-528,Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades,12,Non Available
-529,"United Nations Environment Programme (UNEP,Nairobi)",12,Non Available
-530,Netherlands Environmental Assessment Agency,5,Government Agency
-531,Asian Institute of Technology,12,Non Available
-534,Centre for Policy Research,12,Non Available
-535,Margaree Consultants Inc.,13,Consultants / Individuals
-537,Energy Commission,12,Non Available
-541,University of Bath,6,Higher Education Institution
-542,"Wuppertal Institute for Climate,Environment and Energy",2,Company
-543,California Clean Energy Fund Innovations (CalCEF),12,Non Available
-544,University of California,6,Higher Education Institution
-545,King Mongkut's University of Technology,6,Higher Education Institution
-546,Universidad Autonoma de Baja California Sur (UABCS),12,Non Available
-547,"Indian Institute of Management,Ahmedabad",12,Non Available
-549,Tilburg University,12,Non Available
-550,University of Toulouse,6,Higher Education Institution
-551,Pontifical Catholic University of Rio de Janeiro,12,Non Available
-555,Universidad de Costa Rica,12,Non Available
-556,Alpen Adria University,12,Non Available
-557,Technical University of Denmark,12,Non Available
-558,KFW German Development Bank,12,Non Available
-559,Murdoch University,12,Non Available
-560,Centre for Environmental Economics and Policy in Africa (CEEPA),6,Higher Education Institution
-561,Norwegian University of Science & Technology,12,Non Available
-562,Ecofys,13,Consultants / Individuals
-563,China Academy of Urban Planning and Design (CAUPD),12,Non Available
-564,"United Nations University,World Institute for Development Economics Research",12,Non Available
-565,Kogakuin University,12,Non Available
-566,University of Strathclyde,12,Non Available
-567,Autonomous University of Southern Baja California,6,Higher Education Institution
-568,Islamic Republic of Iran Meteorological Organization (IRIMO),12,Non Available
-569,Motu Economic and Public Policy Research,12,Non Available
-572,University Hassan II,12,Non Available
-573,Stockholm Environment Institute Boston,8,International Institution
-574,North South University,6,Higher Education Institution
-575,Senior Energy & Climate Change Expert,12,Non Available
-577,Ajou University,12,Non Available
-578,Korea Environment Institute,12,Non Available
-579,University of Göttingen,12,Non Available
-583,University of Pennsylvania,12,Non Available
-584,Frischsenteret,4,Foundation
-585,University of Vigo,12,Non Available
-586,Euro Mediterranean Center on Climate Change (CMCC),12,Non Available
-587,Centre international de recherche sur l'environnement et le développement (CIRED),11,Public Research Organisation
-588,Keimyung University,12,Non Available
-589,World Resources Institute,9,Non-Governmental Organization
-590,Third World Network,8,International Institution
-592,Havana University Centre for Environmental Studies,6,Higher Education Institution
-593,Centre for European Economic Research (ZEW),12,Non Available
-594,São Paulo State Environment Secretariat,12,Non Available
-595,Makerere University,6,Higher Education Institution
-596,Ministry of Science and Technology,12,Non Available
-597,"Graduate School of Environmental Studies,Tohoku University",12,Non Available
-598,Energy & Resources Institute (TERI),12,Non Available
-599,Kühne Logistics University,12,Non Available
-600,Université Cadi Ayyad,12,Non Available
-601,University of Graz,6,Higher Education Institution
-603,City University,12,Non Available
-604,Building Research Institute,12,Non Available
-605,National Institute for Scientific and Industrial Research,5,Government Agency
-607,Ashoka Trust for Research in Ecology and the Environment (ATREE),12,Non Available
-609,Burgas University,12,Non Available
-610,Curtin University,12,Non Available
-611,Budapest University of Technology and Economics,12,Non Available
-612,Integrated Research and Action for Development (IRADe),9,Non-Governmental Organization
-613,Indian Agricultural Research Institute,11,Public Research Organisation
-614,Instituto Torcuato di Tella,12,Non Available
-615,Institute for Research in Technology,12,Non Available
-616,US Green Building Council,12,Non Available
-618,Institut für Volkswirtschaftslehre/University Rostock,12,Non Available
-619,Kansas State University,6,Higher Education Institution
-620,"Ecosystem Sciences Branch,Department of Fisheries and Oceans",12,Non Available
-621,Intercooperation,12,Non Available
-622,Institute of Global Climate and Ecology,12,Non Available
-623,Jadavpur University,6,Higher Education Institution
-624,Center for Integrative Environmental Research,11,Public Research Organisation
-625,Indian Institute of Technology Delhi,6,Higher Education Institution
-627,University of Wisconsin-Madison,12,Non Available
-628,Research Institute for Applied Economics (IPEA),12,Non Available
-629,Yale University,6,Higher Education Institution
-630,King Abdulaziz City for Science and Technology,5,Government Agency
-632,Tulane University,12,Non Available
-633,Massey University,6,Higher Education Institution
-634,UK Energy Research Centre (UKERC),11,Public Research Organisation
-635,University of Aberdeen,6,Higher Education Institution
-636,"Indian Statistical Institute,Delhi",12,Non Available
-637,World Wildlife Fund (WWF),12,Non Available
-638,University College London,6,Higher Education Institution
-639,Central Research Institute of Electric Power Industry,11,Public Research Organisation
-640,University of California Santa Barbara,6,Higher Education Institution
-641,Private Sector Consultant,12,Non Available
-642,Japan Science and Technology Agency (JST),12,Non Available
-643,Cuban Observatory for Science and Technology,5,Government Agency
-644,Food and Agriculture Organization (FAO),8,International Institution
-645,Australian Centre for Sustainable Mining Practices (ACSMP),12,Non Available
-646,African Technology Policy Studies (ATPS) Network,12,Non Available
-647,Central European University,6,Higher Education Institution
-648,Energy research Centre of the Netherlands (ECN) / Columbia University,12,Non Available
-649,University of Antwerp,6,Higher Education Institution
-650,Business Council for Sustainable Development Argentina,12,Non Available
-651,"China CDM Fund Management Center,Ministry of Finance",12,Non Available
-652,Duke University,6,Higher Education Institution
-653,Universiti Teknologi MARA,12,Non Available
-654,Energy Environment Computer and Geophysical Applications Group (EECG Consultants),13,Consultants / Individuals
-655,National Center for Climate Strategy Study and International Cooperation (NRDC),12,Non Available
-656,University of Warsaw,12,Non Available
-657,Consortium Ouranos,9,Non-Governmental Organization
-658,University of Las Palmas de Gran Canaria,6,Higher Education Institution
-659,Kenya Meteorological Department,5,Government Agency
-660,Frontier Research Center for Global Change,11,Public Research Organisation
-661,University of Chicago,6,Higher Education Institution
-662,Italian National Agency for New Technologies Energy and the Environment (ENEA),5,Government Agency
-663,Central Institute for Meteorology and Geodynamics,5,Government Agency
-664,Northwest Research Associates,4,Foundation
-665,Bermuda Institute of Ocean Sciences,6,Higher Education Institution
-666,Norwegian Meteorological Institute,11,Public Research Organisation
-667,Carnegie Institute of Washington,4,Foundation
-668,Deutsches Klimarechenzentrum,11,Public Research Organisation
-669,Univerity of California Merced,6,Higher Education Institution
-670,Ramkhamhaeng University,6,Higher Education Institution
-671,National Meteorological Administration,5,Government Agency
-672,Centro de Estudios Cientificos (CECS),9,Non-Governmental Organization
-674,State University of New York Stony Brook,6,Higher Education Institution
-676,Fisheries and Oceans Canada,5,Government Agency
-677,University of Alabama Huntsville,6,Higher Education Institution
-678,University of Missouri-St. Louis,6,Higher Education Institution
-679,European Commission Joint Research Centre,11,Public Research Organisation
-680,Institute of Numerical Mathematics,1,Academy of Science
-681,Bjerknes Centre for Climate Research,11,Public Research Organisation
-682,Nansen Environmental and Remote Sensing Center,4,Foundation
-683,Open University,6,Higher Education Institution
-684,University of Kansas,6,Higher Education Institution
-685,Colby College,6,Higher Education Institution
-686,Heliophysics Inc.,4,Foundation
-687,National Snow and Ice Data Center,11,Public Research Organisation
-688,Hunter College,6,Higher Education Institution
-689,Federal Office of Meteorology and Climatology Meteo-Swiss,5,Government Agency
-690,National Institute of Polar Research,11,Public Research Organisation
-691,Colorado School of Mines,6,Higher Education Institution
-692,National Research Council,11,Public Research Organisation
-693,Laboratory of Atmospheric Physics,6,Higher Education Institution
-694,Deutscher Wetterdienst,5,Government Agency
-695,Purdue University,6,Higher Education Institution
-696,National Center for Climatology,11,Public Research Organisation
-697,Imperial College London,6,Higher Education Institution
-698,Tohoku Gakuin University,6,Higher Education Institution
-699,Cardiff University,6,Higher Education Institution
-700,World Meteorological Organization (WMO),8,International Institution
-701,Stockholm University,6,Higher Education Institution
-702,Environmental Systems Science Centre,11,Public Research Organisation
-703,Los Alamos National Laboratory,11,Public Research Organisation
-704,Department of Water Resources,5,Government Agency
-705,Université du Quebec a Montreal,6,Higher Education Institution
 706,GKSS Research Centre,11,Public Research Organisation
-707,British Atmospheric Data Centre,5,Government Agency
-708,Seoul National University,6,Higher Education Institution
-710,Institut fur Meteorologie und Klimaforschung Universitat Karlsruhe,6,Higher Education Institution
-711,Illinois State Water Survey,11,Public Research Organisation
-712,"Meteorological Research Institute (METRI),Korean Meteorological Administration",11,Public Research Organisation
-713,Hong Kong Observatory,5,Government Agency
-714,University of Quebec at Montreal,6,Higher Education Institution
-715,Naval Research Laboratory,5,Government Agency
-716,Climate Institute,11,Public Research Organisation
-717,National Institute for Geophysics and Volcanology,11,Public Research Organisation
-718,University of Minnesota,6,Higher Education Institution
-719,University of Calgary,6,Higher Education Institution
-721,University of Manchester,6,Higher Education Institution
-722,Remote Sensing Systems,4,Foundation
-723,Secretariat of Council for Science and Technology Policy Cabinet Office,5,Government Agency
-724,IGAD Climate Prediction and Application Centre,8,International Institution
-725,Swiss Federal Institute of Technology,6,Higher Education Institution
-726,Hokkaido National Fisheries Research Institute,11,Public Research Organisation
-728,Dalhousie University,6,Higher Education Institution
-729,Loyola Marymount University,6,Higher Education Institution
-731,University of Wisconsin,6,Higher Education Institution
-732,Leibniz Institute for MarineSciences,11,Public Research Organisation
-733,University of Liege,6,Higher Education Institution
-735,McGill University,6,Higher Education Institution
-736,Lehigh University,6,Higher Education Institution
-737,Brookhaven National Laboratory,11,Public Research Organisation
-738,University of Georgia,6,Higher Education Institution
-739,University of Mainz,6,Higher Education Institution
-740,National Centre for Atmospheric Science,11,Public Research Organisation
-741,Geological Survey of Canada,5,Government Agency
-742,Max Planck Institute for Solar System Research,11,Public Research Organisation
-743,Institut fur Meereskunde Zentrum fur Meeres und Klimaforschung,6,Higher Education Institution
-744,Harvard-Smithsonian Center for Astrophysics,11,Public Research Organisation
-745,European Centre for Research and Advanced Training in Scientific Computation,8,International Institution
-746,EG&G Technical Services Inc.,2,Company
-747,State University of New York Albany,6,Higher Education Institution
-748,"Instituto Argentino de Nivología,Glaciología y Ciencias Ambientales",11,Public Research Organisation
-749,College of Wooster,6,Higher Education Institution
-750,National Climate Center,11,Public Research Organisation
-751,Japanese Society of Snow and Ice,9,Non-Governmental Organization
-752,University of California Santa Cruz,6,Higher Education Institution
-753,University of Geneva,6,Higher Education Institution
-754,North Carolina State University,6,Higher Education Institution
-755,University of Alaska,6,Higher Education Institution
-756,Environment Agency of England and Wales,5,Government Agency
-757,University of Wollongong,6,Higher Education Institution
-758,Obafemi Awolowo University,6,Higher Education Institution
-759,University of Abomey-Calavi,6,Higher Education Institution
-760,National Meteorological Service,5,Government Agency
-761,Bangladesh Unnayan Parishad (BUP),4,Foundation
-762,Jawaharlal Nehru University,6,Higher Education Institution
-763,Bangladesh Centre for Advanced Studies (BCAS),4,Foundation
-764,University of Kassel,6,Higher Education Institution
-765,Ministry of Agriculture Rural Development and Fishing,5,Government Agency
-766,University of Waterloo,6,Higher Education Institution
-767,Montana State University,6,Higher Education Institution
-768,Environmental Change Institute,6,Higher Education Institution
-769,India Meteorological Department,5,Government Agency
-770,Central Laboratory for Agricultural Climate,5,Government Agency
-771,International Fertilizer Development Center (IFDC),8,International Institution
-772,Huazhong Agricultural University,6,Higher Education Institution
-773,Mekong River Commission,8,International Institution
-774,Landcare Research,11,Public Research Organisation
-775,National Environmental Trust,9,Non-Governmental Organization
-776,Universite de Bourgogne,6,Higher Education Institution
-777,International Council for the Exploration of the Sea,8,International Institution
-778,Foundation for International Studies,6,Higher Education Institution
-779,Loughborough University,6,Higher Education Institution
-780,Newcastle University,6,Higher Education Institution
-781,Canadian Climate Program Board,10,Other
-782,Royal Swedish Academy of Sciences,1,Academy of Science
-783,National Meteorological Institute,5,Government Agency
-784,Arizona State University,6,Higher Education Institution
-785,Insurance Australia Group,2,Company
-786,Regionica,9,Non-Governmental Organization
-787,Simon Fraser University,6,Higher Education Institution
-788,Ministry of Sustainable Development,5,Government Agency
-789,WIJ Delft Hydraulics,2,Company
-790,Natural Resources Canada,5,Government Agency
-791,International Development Research Centre,8,International Institution
-792,University College Cork,6,Higher Education Institution
-793,Universidad Nacional de Córdoba,6,Higher Education Institution
-794,University of Western Australia,6,Higher Education Institution
-796,Environnement Conseil (TEC),13,Consultants / Individuals
-797,Exponent,13,Consultants / Individuals
-798,Sir Alister Hardy Foundation for Ocean Science,4,Foundation
-799,Technical University of Munich,6,Higher Education Institution
-800,Tongji University,6,Higher Education Institution
-801,European Bank for Reconstruction and Development (EBRD),8,International Institution
-802,Instituto Nacional de Pesquisas da Amazonia,11,Public Research Organisation
-803,Bedford Institute of Oceanography,11,Public Research Organisation
-805,Kenya Medical Research Institute,11,Public Research Organisation
-806,Conservatoire et Jardin botaniques de Genève,9,Non-Governmental Organization
-807,University of Adelaide,6,Higher Education Institution
-808,Ministry of Health,5,Government Agency
-809,Bowdoin College,6,Higher Education Institution
-810,Centre for Environment Research Education and Development,9,Non-Governmental Organization
-811,James Cook University,6,Higher Education Institution
-812,Swiss Tropical Institute,11,Public Research Organisation
-814,Commission on Geomorphological Response to Environmental Change,5,Government Agency
-815,University of Chittagong,6,Higher Education Institution
-816,H. John Heinz III Center for Science Economics and the Environment,9,Non-Governmental Organization
-817,National Environmental Research Institute,6,Higher Education Institution
-819,Southern Oregon University,6,Higher Education Institution
-820,Chinese Academy of Agricultural Science,1,Academy of Science
-821,International Secretariat for Dialogue on Water and Climate,9,Non-Governmental Organization
-822,Maulana Azad National Institute of Technology,6,Higher Education Institution
-824,University of Joensuu,6,Higher Education Institution
-825,Earthwise Consulting,13,Consultants / Individuals
-826,University of North Dakota,6,Higher Education Institution
-827,University of Basel,6,Higher Education Institution
-828,University of Ukraine,6,Higher Education Institution
-829,CESDAC,9,Non-Governmental Organization
-830,City University of Hong Kong,6,Higher Education Institution
-832,Institute of Meteorology and Hydrology Vietnam,5,Government Agency
-833,China Water Information Centre,5,Government Agency
-834,United Nations Development Programme (UNDP) - GEF,8,International Institution
-835,University of Nebraska,6,Higher Education Institution
-836,Esquel Group Foundation Brazil (FGEB),9,Non-Governmental Organization
-838,Nord-Sud Zentrum fur Entwicklungsforschung,6,Higher Education Institution
-840,National Botanical Institute,5,Government Agency
-841,University of Montana,6,Higher Education Institution
-842,Universidade Estadual Paulista,6,Higher Education Institution
-843,Union of Concerned Scientists,4,Foundation
-844,ERM India Pvt,13,Consultants / Individuals
-845,Risk Management Solutions,2,Company
-846,Universidad de la República,6,Higher Education Institution
-847,South Pacific Regional Environment Programme,8,International Institution
-848,Southwest Watershed Research Center,11,Public Research Organisation
-849,U.S. Department of Agriculture,5,Government Agency
-850,University of Delaware,6,Higher Education Institution
-851,Keio University,6,Higher Education Institution
-852,Szent István University,6,Higher Education Institution
-854,Bard College,6,Higher Education Institution
-855,Heriot-Watt University,6,Higher Education Institution
-856,Danish Institute of Agricultural Sciences,6,Higher Education Institution
-857,High Council for Environment and Natural Resources (HCENR),5,Government Agency
-858,Centre Régional AGRHYMET,8,International Institution
-859,Global Environment Centre,9,Non-Governmental Organization
-860,Ministry of Industries and International Business,5,Government Agency
-861,University of Guelph,6,Higher Education Institution
-862,Université Paris VI Pierre et Marie Curie,6,Higher Education Institution
-863,Philippine Atmospheric Geophysical and Astronomical Services Administration,5,Government Agency
-864,Centre for Ecology and Hydrology at Wallingford,5,Government Agency
-865,Institute of Meteorology and Hydrology Mongolia,11,Public Research Organisation
-866,Consultant to Indian Ocean Commission,13,Consultants / Individuals
-867,Retired,13,Consultants / Individuals
-868,Environment Agency of Thames,5,Government Agency
-869,Memorial University of Newfoundland,6,Higher Education Institution
-870,Blaustein Institute for Desert Research,6,Higher Education Institution
-871,Portland State University,6,Higher Education Institution
-872,University of KwaZulu-Natal,6,Higher Education Institution
-873,Resources for the Future,4,Foundation
-874,National Institute for Agricultural Research,11,Public Research Organisation
-875,UNFCCC Secretariat,8,International Institution
-876,Istanbul Technical University,6,Higher Education Institution
-877,Institut Hydrométéorologique de Formation et de Recherches (IHFR),11,Public Research Organisation
-878,Halcrow Consulting India,13,Consultants / Individuals
-879,Government of Nepal,5,Government Agency
-880,Catholic Agency for Overseas Development,9,Non-Governmental Organization
-881,National University of Ireland,6,Higher Education Institution
-882,ICRISAT,11,Public Research Organisation
-883,Laboratoire d'Ecologie Alpine UMR-CNRS,11,Public Research Organisation
-884,Economic and Social Research Institute,9,Non-Governmental Organization
-885,Caribbean Community Climate Change Centre,8,International Institution
-886,Adam Mickiewicz University,6,Higher Education Institution
-887,Delft University of Technology,6,Higher Education Institution
-888,National Institute for Public Health and the Environment (RIVM),5,Government Agency
-889,UNESCO,8,International Institution
-890,Marine Research Institute,11,Public Research Organisation
-891,University of Sri Jayew Ardenepura,6,Higher Education Institution
-892,Paul Watkiss Associates,13,Consultants / Individuals
-893,Graduate Institute of International Studies,6,Higher Education Institution
-894,National University of Singapore,6,Higher Education Institution
-895,UN Economic Commission for LatinAmerican and the Caribbean (ECLAC),8,International Institution
-896,South China Sea Institute of Oceanology,1,Academy of Science
-897,Indian Institute of Management,6,Higher Education Institution
-899,Centre for Energy Research and Development,11,Public Research Organisation
-900,National Institute of Advanced Studies,6,Higher Education Institution
-901,Climate Network Africa,8,International Institution
-902,Statistics Norway,5,Government Agency
-903,Saudi Aramco,2,Company
-905,U.S. Environmental Protection Agency (EPA),5,Government Agency
-906,Joanneum Research Graz,2,Company
-907,Allen Consulting Group,13,Consultants / Individuals
-908,British Columbia Ministry of Environment,5,Government Agency
-909,L. S. Bernstein & Associates L.L.C.,2,Company
-910,Facultés Universitaires Catholique de Mons,6,Higher Education Institution
-911,International Energy Agency,8,International Institution
-913,Bogor Agricultural University,6,Higher Education Institution
-914,Landfills + Inc,2,Company
-915,Tata Energy Research Institute (TERI),9,Non-Governmental Organization
-917,Brinkman Climate Change Consultancy,13,Consultants / Individuals
-918,Institute of Soil Science Chinese Academy of Sciences,1,Academy of Science
-919,Canada Centre for Remote Sensing,5,Government Agency
-920,University of Sierra Leone,6,Higher Education Institution
-921,Research Triangle Institute (RTI) International,9,Non-Governmental Organization
-922,CalRecovery Inc.,2,Company
-923,Ministery of Science Technology and the Environment,5,Government Agency
-924,International Institute for Sustainable Development,9,Non-Governmental Organization
-925,Biocarbon Consult,13,Consultants / Individuals
-926,CRA International,2,Company
-927,Ford-Robertson Initiatives (FRI) Ltd,2,Company
-928,Chinese Research Academy of Environmental Science,1,Academy of Science
-929,Government of India,5,Government Agency
-930,Mexican Petroleum Institute,11,Public Research Organisation
-932,Golder Associates (UK) Ltd.,2,Company
-933,Carbon Trust,2,Company
-934,Hardner & Gullison Associates LLC,2,Company
-935,Asian Development Bank,8,International Institution
-936,University of Maiduguri,6,Higher Education Institution
-937,Alliance to Save Energy,2,Company
-938,Railway Technical Research Institute,4,Foundation
-939,Natural Resources Defence Council (NRDC),9,Non-Governmental Organization
-940,University of Flensburg,6,Higher Education Institution
-941,Agriculture and Agri-Food Canada (AAFC),5,Government Agency
-942,University of Groningen,6,Higher Education Institution
-943,Universidad Nacional de San Luis,6,Higher Education Institution
-944,Fraunhofer Institute for Systems and Innovation Research,11,Public Research Organisation
-945,University of Nizwa,6,Higher Education Institution
-946,Finnish Forest Research Institute,5,Government Agency
-947,Toyota Central R&D Labs Inc,2,Company
-948,Global Change Programme Jadavpur University,6,Higher Education Institution
-949,Lithuanian Energy Institute,11,Public Research Organisation
-950,National Commission on Energy Policy,5,Government Agency
-951,Technical University Eindhoven,6,Higher Education Institution
-952,University of Liverpool,6,Higher Education Institution
-953,China Academy of Building Research,1,Academy of Science
-954,Council on Energy and Environment Korea,8,International Institution
-955,Federal Ministry for Environment,5,Government Agency
-956,Carbosur,2,Company
-957,Forestry and Forest Products Research Institute,11,Public Research Organisation
-958,DuPont Fluoroproducts,2,Company
-959,National Council for Air and Stream Improvement,4,Foundation
-960,HELIO International,9,Non-Governmental Organization
-961,Benviroc Ltd,13,Consultants / Individuals
-962,Tufts University,6,Higher Education Institution
-963,Munasinghe Institute for Development,9,Non-Governmental Organization
-964,Faculty of Law Sophia University,6,Higher Education Institution
-965,Tokyo Institute of Technology,6,Higher Education Institution
-966,ALTERRA Research Institute of the Green Environment,6,Higher Education Institution
-967,Department for Business Enterprise and Regulatory Reform (BERR),5,Government Agency
-968,University College Dublin,6,Higher Education Institution
-969,Nippon Steel Corporation,2,Company
-970,Ministry of Livestock Agriculture and Fisheries,5,Government Agency
-971,Nanjing Agricultural University,6,Higher Education Institution
-972,USDA Forest Service,8,International Institution
-973,Centro de Investigaciones de Economia Mundial (CIEM),11,Public Research Organisation
-974,Statistics Finland,11,Public Research Organisation
-975,Argonne National Laboratory,11,Public Research Organisation
-976,Syracuse University,6,Higher Education Institution
-977,Reliance Industries Ltd.,2,Company
-979,CSTB Building Research Center,11,Public Research Organisation
-981,Russian Academy of Agricultural Sciences,1,Academy of Science
-982,Osaka University,6,Higher Education Institution
-983,Fundación CEAM,11,Public Research Organisation
-984,PT Ecosecurities,2,Company
-985,Ministry of Economy Trade and Industry,5,Government Agency
-986,Centro de Sensoriamento Remoto,6,Higher Education Institution
-987,Marintek,2,Company
-988,Sahara and Sahel Observatory (OSS) Tunis,8,International Institution
-989,Ministry of Environment Indonesia,5,Government Agency
-991,Treeness Consult,13,Consultants / Individuals
-992,Eskom,2,Company
-993,University of Tsukuba,6,Higher Education Institution
-994,Technical Research Centre of Finland,5,Government Agency
-995,Ministry of Research Technical Training and Technology,5,Government Agency
-997,Stichting Natuur en Milieu,9,Non-Governmental Organization
-998,University of Sydney,6,Higher Education Institution
-999,Renmin University of China,6,Higher Education Institution
-1000,California Institute of Technology,6,Higher Education Institution
-1001,Rutherford Appleton Laboratory,5,Government Agency
-1002,Max-Planck Institute for Chemistry,11,Public Research Organisation
-1003,University of Bradford,6,Higher Education Institution
-1004,Mathsoft Data Analysis Products Division,2,Company
-1005,Universitat Kiel,6,Higher Education Institution
-1006,Quaternary Research,2,Company
-1008,Laboratoire d'Optique Atmospherique,11,Public Research Organisation
-1009,University of Massachusetts,6,Higher Education Institution
-1010,Masaryk University,6,Higher Education Institution
-1011,Institute of Atmospheric Physics Germany,11,Public Research Organisation
-1012,University Rovira I Virgili,6,Higher Education Institution
-1013,Program in Atmospheric and Oceanic Sciences,6,Higher Education Institution
-1014,Southampton Oceanography Centre,6,Higher Education Institution
-1015,Northern Illinois University,6,Higher Education Institution
-1016,University of Illinois at Urbana-Champaign,6,Higher Education Institution
-1017,Gateborg University,6,Higher Education Institution
-1018,CEA,11,Public Research Organisation
-1019,Aerospace Engineering,10,Other
-1020,University of Bonn,6,Higher Education Institution
-1021,Institute for Baltic Sea Research,11,Public Research Organisation
-1022,Creighton University,6,Higher Education Institution
-1023,Institut fur Chemie der KFA Julich GmbH,11,Public Research Organisation
-1024,Weather Bureau,5,Government Agency
-1026,American Meteorological Society,4,Foundation
-1027,University of Vienna,6,Higher Education Institution
-1028,European Ozone Research Coordinating Unit,6,Higher Education Institution
-1029,Japan Environment Agency,5,Government Agency
-1031,Woods Hole Research Center,4,Foundation
-1032,Center for Ocean-Land-Atmosphere Studies,11,Public Research Organisation
-1033,Research Institute for Global Change,11,Public Research Organisation
-1034,Atmospheric & Environmental Research Inc.,2,Company
-1035,Universitaet Wuerzburg,6,Higher Education Institution
-1036,Universiteit Antwerpen,6,Higher Education Institution
-1037,Environmental Chemical Processes Laboratory,6,Higher Education Institution
-1038,Carnegie Mellon University,6,Higher Education Institution
-1039,Marine Biological Laboratory,8,International Institution
-1040,Institut fuer Chemie und Dynamik der Geosphaere,11,Public Research Organisation
-1041,Institute of Terrestrial Ecology,6,Higher Education Institution
-1042,St Petersburg University,6,Higher Education Institution
-1043,Northern Geothermal,13,Consultants / Individuals
-1044,Universite Degli Studi dellâ Aquila,6,Higher Education Institution
-1045,York University Canada,6,Higher Education Institution
-1046,Agencia Espacial Brasileira,5,Government Agency
-1047,M&D Consulting,13,Consultants / Individuals
-1048,Institute of Meteorology & Water Management,11,Public Research Organisation
-1049,New Mexico Institute of Mining and Technology,6,Higher Education Institution
-1050,University of New Hampshire,6,Higher Education Institution
-1051,Belgian Institute for Space Aeronomy,11,Public Research Organisation
-1052,Japan Meteorological Agency,5,Government Agency
-1053,Zimbabwe Drought Monitoring Centre,5,Government Agency
-1054,Institute for Computational Earth System Science,11,Public Research Organisation
-1055,Geographisches Institut ETH,6,Higher Education Institution
-1056,Universitat Bonn,6,Higher Education Institution
-1057,Environment Management Authority,5,Government Agency
-1058,Nanjing University,6,Higher Education Institution
-1059,Universidad Central Venezuela,6,Higher Education Institution
-1060,Chief Climatology Department,13,Consultants / Individuals
-1061,Fundacion para la Investigacion del Clima,4,Foundation
-1062,University of Stockholm,6,Higher Education Institution
-1063,Hampton University,6,Higher Education Institution
-1065,Institut fur Klimaforschung ETH,6,Higher Education Institution
-1066,Institute for World Forestry and Ecology,6,Higher Education Institution
-1067,Institut fur Klimafolgenforschung,11,Public Research Organisation
-1068,University of Arkansas,6,Higher Education Institution
-1069,RIHMI-WDCB,5,Government Agency
-1070,Norwegian Institute for Air Research,11,Public Research Organisation
-1071,National Institute for Resources and Environment,11,Public Research Organisation
-1072,Institut fuer Geophysik und Meteorologie,6,Higher Education Institution
-1073,University of Wyoming,6,Higher Education Institution
-1074,Institute for Marine and Atmospheric Research,6,Higher Education Institution
-1075,Enviroment Institute of European Commission,8,International Institution
-1076,Scott Polar Research Institute,6,Higher Education Institution
-1078,University of Derby,6,Higher Education Institution
-1079,Institut fur Meereskunde an der Universitat Kiel,6,Higher Education Institution
-1080,Bidston Observatory,10,Other
-1081,Malaysian Meteorological Service,5,Government Agency
-1082,Benin National Meteorological Service,5,Government Agency
-1083,Office of the US Global Change Research Program,5,Government Agency
-1084,Water and Energy Commission Secretariat,5,Government Agency
-1085,University of Kashmir,6,Higher Education Institution
-1086,Chalmers University of Technology,6,Higher Education Institution
-1088,Pacific Biological Station,5,Government Agency
-1089,Overseas Development Institute,9,Non-Governmental Organization
-1090,Office of Science and Technology Policy (OSTP),5,Government Agency
-1091,National Institute for Coastal and Marine Management,5,Government Agency
-1092,National Marine Fisheries Service,5,Government Agency
-1093,University of Newcastle upon Tyne,6,Higher Education Institution
-1094,Winrock International,9,Non-Governmental Organization
-1095,Instituto Oswaldo Cruz,11,Public Research Organisation
-1096,Antigua Public Utilities Authority (APUA),5,Government Agency
-1097,British Trust for Ornithology,5,Government Agency
-1098,Queensland Centre for Climate Applications (QCCA)/,11,Public Research Organisation
-1099,Universidade Nova de Lisboa,6,Higher Education Institution
-1100,College of Forest Resources,6,Higher Education Institution
-1101,Office of the Prime Minister,5,Government Agency
-1103,University Corporation for Atmospheric Research (UCAR),6,Higher Education Institution
-1104,University of Windsor,6,Higher Education Institution
-1105,Harvard Medical School,6,Higher Education Institution
-1106,Environment Australia,5,Government Agency
-1107,Universidad Nacional de la Plata,6,Higher Education Institution
-1108,Institute of Ecosystem Studies,4,Foundation
-1109,London Medical School,6,Higher Education Institution
-1110,Greenpeace International,9,Non-Governmental Organization
-1111,Terrestrial Ecology Research Institute,11,Public Research Organisation
-1113,Universiti Sains Malaysia,6,Higher Education Institution
-1114,Yamanashi Institute of Environmental Sciences,11,Public Research Organisation
-1115,Centre for Tropical Marine Ecology,11,Public Research Organisation
-1116,National University,6,Higher Education Institution
-1117,Second Institute of Oceanography,5,Government Agency
-1118,BHP-Billiton Newcastle Research Laboratories,11,Public Research Organisation
-1119,Agrometeorology Institute,1,Academy of Science
-1120,Hydrological Forecasting and Water Control Center,5,Government Agency
-1121,Australian Institute of Marine Science (AIMS),11,Public Research Organisation
-1122,Maastricht University,6,Higher Education Institution
-1123,Climate Change Research Initiative,6,Higher Education Institution
-1124,INSTAAR,4,Foundation
-1125,WHO-European Centre for Environment and Health,8,International Institution
-1126,North American Center for Environmental Information and Communication,9,Non-Governmental Organization
-1127,Middlesex University,6,Higher Education Institution
-1128,University of Nigeria,6,Higher Education Institution
-1129,San Diego State University,6,Higher Education Institution
-1130,Department of Water and Environmental Studies,6,Higher Education Institution
-1131,KazNIIMOSK,5,Government Agency
-1132,University of Texas,6,Higher Education Institution
-1133,Jackson Environment Institute,6,Higher Education Institution
-1134,Johns Hopkins School of Public Health,6,Higher Education Institution
-1135,Nice University,6,Higher Education Institution
-1136,University of Wales Swansea,6,Higher Education Institution
-1138,Agricultural Research Service,5,Government Agency
-1139,American Bird Conservancy,9,Non-Governmental Organization
-1140,Mauritius Meteorological Services,5,Government Agency
-1141,Ministry for the Environment,5,Government Agency
-1142,Ciudad Universitaria,6,Higher Education Institution
-1143,National Institute of Public Health,11,Public Research Organisation
-1144,Credit Suisse,2,Company
-1145,University of Bayreuth,6,Higher Education Institution
-1146,All Russian Research Institute of Agricultural Meteorology,1,Academy of Science
-1147,Fundacion Instituto Latinoamericano de Politicas Sociales (ILAPS),4,Foundation
-1148,U.S. Army Institute for Water Resources,5,Government Agency
-1149,BPPT,5,Government Agency
-1150,Slovak Technical University,6,Higher Education Institution
-1151,Landbouw Universiteit Wageningen,6,Higher Education Institution
-1152,Saskatchewan Research Council,2,Company
-1153,Wellington School of Medicine,6,Higher Education Institution
-1154,Ministry of Water Resources,5,Government Agency
-1155,Ministry of Environment Norway,5,Government Agency
-1156,Southern Company Services,2,Company
-1157,Indira Gandhi Institute of Development Research,6,Higher Education Institution
-1159,King Saud University,6,Higher Education Institution
-1161,London Business School,6,Higher Education Institution
-1162,Tsentr po Effektivnomu Ispolzovanlu Energii,11,Public Research Organisation
-1163,Tellus Institute,4,Foundation
-1164,International Petroleum Industry Environmental Conservation Association (IPIECA),9,Non-Governmental Organization
-1165,Ministry of Environment and Forests,5,Government Agency
-1166,Institute of Energy Economics and the Rational Use of Energy,6,Higher Education Institution
-1167,Comision Nac.de Cambio Clim.,5,Government Agency
-1168,University of Venice,6,Higher Education Institution
-1169,Personal,13,Consultants / Individuals
-1170,IPCC Secretariat,8,International Institution
-1171,Institut d'Economie et de Politique de l'Energie,6,Higher Education Institution
-1172,World Business Council for Sustainable Development,8,International Institution
-1173,University of Heidelberg,6,Higher Education Institution
-1174,Japan Forest Technical Ass.,9,Non-Governmental Organization
-1176,Center for Environmental Economics,11,Public Research Organisation
-1177,Centre for Business and the Environment,6,Higher Education Institution
-1178,Climate Technology Initiative,5,Government Agency
-1179,Brandeis University,6,Higher Education Institution
-1180,Universidade Estadual de Campinas (UNICAMP),6,Higher Education Institution
-1182,Global Energy & Environmental Consultants,13,Consultants / Individuals
-1183,Tokyo University of Agriculture & Technology,6,Higher Education Institution
-1184,Development Alternatives,9,Non-Governmental Organization
-1185,Korea Energy Economics Institute,11,Public Research Organisation
-1187,European Forest Institute,8,International Institution
-1188,Ministry of Finance,5,Government Agency
-1189,Centraal Planbureau (CPB),5,Government Agency
-1190,Southern Center for Energy and Environment,2,Company
-1191,Universitaet Essen,6,Higher Education Institution
-1192,Oxford Centre for the Environment Ethics & Society (OCEES),6,Higher Education Institution
-1193,National Institute of Agro-Environmental Sciences,11,Public Research Organisation
-1194,Japan Automobile Research Institute (JARI),4,Foundation
-1195,Biomass Users Network (BUN),9,Non-Governmental Organization
-1196,Science University of Tokyo,6,Higher Education Institution
-1197,University of Colombo,6,Higher Education Institution
-1198,"Center for Energy,Environment,Science and Technology",9,Non-Governmental Organization
-1199,Group for the Analysis of Development (Grade),4,Foundation
-1200,Centre For Wind Energy Technology (C-WET),11,Public Research Organisation
-1201,Forest Research Institute Malaysia (FRIM),11,Public Research Organisation
-1202,ICF Consulting,13,Consultants / Individuals
-1204,University of Haifa,6,Higher Education Institution
-1205,Norwegian Forest Research Institute,11,Public Research Organisation
-1206,Global Industrial and Social Progress Research Institute (GISPRI),2,Company
-1207,Ministerio de Ciencia,5,Government Agency
-1208,Council on Foreign Relations,5,Government Agency
-1210,University of London,6,Higher Education Institution
-1211,ECN Policy Studies,11,Public Research Organisation
-1212,State Environmental Protection Administration,5,Government Agency
-1213,National Meteorological Centre,5,Government Agency
-1214,National Weather Service,5,Government Agency
-1215,University of Oregon,6,Higher Education Institution
-1216,Merrill Lynch Derivative Products,2,Company
-1217,Swedish University of Agricultural Sciences,6,Higher Education Institution
-1218,Indiana University,6,Higher Education Institution
-1219,State University of New York,6,Higher Education Institution
-1220,Hydrometeorological Research Centre of Russian Federation,11,Public Research Organisation
-1221,Centre National de Recherches Meteorologiques,11,Public Research Organisation
-1222,Howard University,6,Higher Education Institution
-1223,Centre des Faibles Radioactivites,11,Public Research Organisation
-1224,James Rennell Centre (NERC),11,Public Research Organisation
-1225,Institute of Oceanographic Sciences,6,Higher Education Institution
-1226,Universite des Science & Technologie de Lille,6,Higher Education Institution
-1227,Institut fur Tropospharenforschung,11,Public Research Organisation
-1228,Old Dominion University,6,Higher Education Institution
-1229,Skidaway Institution of Oceanography,11,Public Research Organisation
-1230,Orkustofnun (National Energy Authority),5,Government Agency
-1231,University of Manchester Institute of Science and Technology (UMIST),6,Higher Education Institution
-1232,LMCE/DSM,11,Public Research Organisation
-1233,W/NMC2,5,Government Agency
-1234,Institute of Experimental Meteorology,5,Government Agency
-1235,Russian Federation Agricultural Academy,1,Academy of Science
-1236,ESSA Ltd,2,Company
-1237,Centre for Atmospheric Sciences,6,Higher Education Institution
-1238,University of Oklahoma,6,Higher Education Institution
-1239,Institut de Mecanique de Grenoble,6,Higher Education Institution
-1240,Universitat Heidelberg,6,Higher Education Institution
-1241,Pacific Geoscience Centre,5,Government Agency
-1242,"Department of Education,Science and Training",5,Government Agency
-1243,European Commission,8,International Institution
-1244,University of Technology,6,Higher Education Institution
-1245,Hort Research,2,Company
-1246,Bermuda Biological Research Station,6,Higher Education Institution
-1247,Florida State University,6,Higher Education Institution
-1248,Dow Chemical Co.,2,Company
-1249,Electricite de France (EDF),2,Company
-1250,Telemark College of Engineering,6,Higher Education Institution
-1251,Bhabha Atomic Research Centre,11,Public Research Organisation
-1252,Instituto Venezolano de Investigaciones Cientificas,5,Government Agency
-1253,Bayreuth University,6,Higher Education Institution
-1254,Naval Postgraduate School,6,Higher Education Institution
-1256,National Research Institute for Earth Science & Disaster Prevention,11,Public Research Organisation
-1257,Interuniversity Institute for Marine Sciences,6,Higher Education Institution
-1258,University of Bologna,6,Higher Education Institution
-1259,Central Weather Bureau,5,Government Agency
-1260,IMGA-CNR,11,Public Research Organisation
-1261,Brown University,6,Higher Education Institution
-1262,University of Sheffield,6,Higher Education Institution
-1263,Meteorological Institute,5,Government Agency
-1264,University of Durham,6,Higher Education Institution
-1265,Royal Institute of International Affairs,9,Non-Governmental Organization
-1266,Indian Council of Agriculture Research,11,Public Research Organisation
-1267,Instituto de Geografia,6,Higher Education Institution
-1268,King Abdulaziz University,6,Higher Education Institution
-1269,Forestry Research Institute,5,Government Agency
-1270,Imam Muhammed Ibn Saudi Islamic University,6,Higher Education Institution
-1271,St. George's Medical School,6,Higher Education Institution
-1272,University of Merida,6,Higher Education Institution
-1273,ProClim,1,Academy of Science
-1274,Center d'Etude Spatiale du Rayonnement,11,Public Research Organisation
-1275,University of Lagos,6,Higher Education Institution
-1276,China Institute for Marine Development Strategy,5,Government Agency
-1277,IFREMER,11,Public Research Organisation
-1278,National University of Benin,6,Higher Education Institution
-1279,Bavarian Academy of Sciences,11,Public Research Organisation
-1280,Institute of Arable Crops Research,2,Company
-1281,Cranfield University,6,Higher Education Institution
-1282,Royal Meteorological Institute,5,Government Agency
-1283,ICIMOD,8,International Institution
-1284,Battelle Institute,4,Foundation
-1285,Department of Forestry,5,Government Agency
-1286,Agricultural Institute for Climate Research,11,Public Research Organisation
-1287,St. Jerome Institut Mediterranean,6,Higher Education Institution
-1288,Chinese Academy of Forestry,1,Academy of Science
-1289,University of Hong Kong,6,Higher Education Institution
-1290,Fire and Life Assurance Corp.,2,Company
-1291,Dipartimento di Scienze della Terra,6,Higher Education Institution
-1292,World Conservation Union,8,International Institution
-1293,ORSTOM,11,Public Research Organisation
-1294,U.S. Forest Service,5,Government Agency
-1296,Research Institute of Forestry,11,Public Research Organisation
-1297,University of Freiburg,6,Higher Education Institution
-1299,University of East London,6,Higher Education Institution
-1300,Central Arid Zone Research Institute,11,Public Research Organisation
-1301,University of Technology Graz,6,Higher Education Institution
-1302,Federal Institute of Hydrology,5,Government Agency
-1303,University of Muenster,6,Higher Education Institution
-1304,Ministry of Transport,5,Government Agency
-1305,Department of Primary Industries and Energy,5,Government Agency
-1306,Swiss Federal Institute for Forest Snow and Landscape Research,11,Public Research Organisation
-1307,University of Finland,6,Higher Education Institution
-1309,National Institute of Deserts,5,Government Agency
-1310,Geobotanik,9,Non-Governmental Organization
-1311,Russian Federal Research Institute of Fisheries and Oceanography,1,Academy of Science
-1313,Northern Prairie Science Center,11,Public Research Organisation
-1314,CEFE,6,Higher Education Institution
-1315,University of Agricultural Sciences,6,Higher Education Institution
-1316,DRA,5,Government Agency
-1317,Forestry University of Beijing,6,Higher Education Institution
-1318,Social Science Research Council,11,Public Research Organisation
-1319,WWF,9,Non-Governmental Organization
-1320,University of Limburg,6,Higher Education Institution
-1321,National Public Health Institute,5,Government Agency
-1322,Florida Institute of Technology,6,Higher Education Institution
-1323,Pan American Health Organization,8,International Institution
-1324,Environment Agency,5,Government Agency
-1325,KEFRI,11,Public Research Organisation
-1326,Kenya Marine and Fisheries Research Institute,11,Public Research Organisation
-1327,Obirin University,6,Higher Education Institution
-1328,University of Leicester,6,Higher Education Institution
-1329,Roodeplaat Grasland Institute,9,Non-Governmental Organization
-1330,ABT Associates Inc.,2,Company
-1331,MAF Fisheries,5,Government Agency
-1333,Thailand Environment Institute,4,Foundation
-1334,International Institute for Energy Conservation,9,Non-Governmental Organization
-1335,Estacion Experimental de Zonas Aridas,11,Public Research Organisation
-1337,National Institute of Hydrology,11,Public Research Organisation
-1338,Ministry of Agriculture Fisheries and Food,5,Government Agency
-1339,University of Nottingham,6,Higher Education Institution
-1340,ETSU,8,International Institution
-1341,Department of Land Evaluation Methods,6,Higher Education Institution
-1342,Department of Agriculture,5,Government Agency
-1343,Ministry of Water Energy and Minerals,5,Government Agency
-1344,Norwegian Water Resources and Energy Administration,5,Government Agency
-1345,IEEJ,11,Public Research Organisation
-1346,Federal Ministry of Environment,5,Government Agency
-1347,Cooperative Institute for Research in the Integrated Ocean Sciences,11,Public Research Organisation
-1349,IRRI,8,International Institution
-1350,Instituto Antartico Argentino,5,Government Agency
-1352,Academy of Agriculture,1,Academy of Science
-1353,Roskilde University,6,Higher Education Institution
-1354,Water Resource Research Center,11,Public Research Organisation
-1355,Huonbrook Environment and Heritage,2,Company
-1357,U.S. Army Corps of Engineers,5,Government Agency
-1358,Geological Survey of Greenland,11,Public Research Organisation
-1360,Aichi University,6,Higher Education Institution
-1361,Wilfrid Laurier University,6,Higher Education Institution
-1362,GEOMAR,11,Public Research Organisation
-1363,Zimbabwe Meteorological Services,5,Government Agency
-1364,World Energy Council,4,Foundation
-1365,Kwansei Gakuin University,6,Higher Education Institution
-1366,Bangladesh Institute of Development Studies (BIDS),11,Public Research Organisation
-1367,Sustainable Development Policy Institute,4,Foundation
-1368,Institute for International Economics,4,Foundation
-1369,Global Environment Facility,8,International Institution
-1370,Universite de Versailles,6,Higher Education Institution
-1371,Paul Scherrer Institute,11,Public Research Organisation
-1372,American Council for an Energy Efficient Economy,4,Foundation
-1373,Institute for Prospective Technologies,11,Public Research Organisation
-1374,Construction and Economy Research Institute of Korea,4,Foundation
-1375,International Project for Sustainable Energy Paths,11,Public Research Organisation
-1376,IDEA Inc.,2,Company
-1378,Fundacao Getulio Vargas,6,Higher Education Institution
-1379,Centre for Social and Economic Research on the Global Environment (CSERGE),11,Public Research Organisation
-1380,Forschungszentrum Jülich,4,Foundation
-1381,Ministry of Power Industry,5,Government Agency
-1382,ENDA - TM Programme-Energie.,8,International Institution
-1383,Council of Economic Advisors,5,Government Agency
-1384,Teisberg Associates,13,Consultants / Individuals
-1385,ISTAT,11,Public Research Organisation
-1386,University of Twente,6,Higher Education Institution
-1387,Foundation for International Environmental Law and Development,4,Foundation
-1388,Forest National Corporation,11,Public Research Organisation
-1389,Hatherly Laboratories,11,Public Research Organisation
 1390,Global Atmosphere Division,5,Government Agency
-1391,Quebec,13,Consultants / Individuals
-1392,St David's University College,6,Higher Education Institution
-1393,Direction de la Meteorologie Nationale,5,Government Agency
-1394,Institute of Geography and Spatial Organization,11,Public Research Organisation
-1396,Main Geophysical Observatory,5,Government Agency
-1397,Institut National des Sciences de l'Univers,11,Public Research Organisation
-1398,State Meteorological Administration,5,Government Agency
+371,Global Change Impact Studies Centre,11,Public Research Organisation
+948,Global Change Programme Jadavpur University,6,Higher Education Institution
+340,Global Climate Adaptation Partnership,2,Company
+364,Global Climate Forum,9,Non-Governmental Organization
+1182,Global Energy & Environmental Consultants,13,Consultants / Individuals
+859,Global Environment Centre,9,Non-Governmental Organization
+1369,Global Environment Facility,8,International Institution
+1206,Global Industrial and Social Progress Research Institute (GISPRI),2,Company
+285,Goethe University Frankfurt,6,Higher Education Institution
+932,Golder Associates (UK) Ltd.,2,Company
+929,Government of India,5,Government Agency
+879,Government of Nepal,5,Government Agency
+893,Graduate Institute of International Studies,6,Higher Education Institution
+597,"Graduate School of Environmental Studies,Tohoku University",12,Non Available
+1110,Greenpeace International,9,Non-Governmental Organization
+311,Griffith University,6,Higher Education Institution
+1199,Group for the Analysis of Development (Grade),4,Foundation
+816,H. John Heinz III Center for Science Economics and the Environment,9,Non-Governmental Organization
+878,Halcrow Consulting India,13,Consultants / Individuals
+1063,Hampton University,6,Higher Education Institution
+343,Hanoi University of Science,6,Higher Education Institution
+934,Hardner & Gullison Associates LLC,2,Company
+1105,Harvard Medical School,6,Higher Education Institution
+215,Harvard University,6,Higher Education Institution
+744,Harvard-Smithsonian Center for Astrophysics,11,Public Research Organisation
 1399,Harwell Laboratory,11,Public Research Organisation
-1400,Meteorologisches Institut,6,Higher Education Institution
-1402,Institute of Freshwater Ecology,9,Non-Governmental Organization
-1403,International Christian University,6,Higher Education Institution
-1404,New York University,6,Higher Education Institution
-1405,Institut fur Physikahsche und Theoretisch Chemie,6,Higher Education Institution
-1406,Clarkson University,6,Higher Education Institution
-1407,University of Essex,6,Higher Education Institution
-1408,Institute of Tropical Forestry,11,Public Research Organisation
-1409,University of Pans,6,Higher Education Institution
-1410,Directorate of Meteorology,5,Government Agency
-1411,University of Ibadan,6,Higher Education Institution
-1412,Ahmadu Bello University,6,Higher Education Institution
-1413,Institute of Plant Ecology,6,Higher Education Institution
-1414,Universidade do Estado de Sao Paulo,6,Higher Education Institution
+1389,Hatherly Laboratories,11,Public Research Organisation
+592,Havana University Centre for Environmental Studies,6,Higher Education Institution
+960,HELIO International,9,Non-Governmental Organization
+686,Heliophysics Inc.,4,Foundation
+457,Helmholtz Zentrum Geesthacht,11,Public Research Organisation
+415,HELVETAS Swiss Intercooperation,9,Non-Governmental Organization
+855,Heriot-Watt University,6,Higher Education Institution
+357,High Commission of Niger Valley Development,5,Government Agency
+857,High Council for Environment and Natural Resources (HCENR),5,Government Agency
+726,Hokkaido National Fisheries Research Institute,11,Public Research Organisation
+156,Hokkaido University,6,Higher Education Institution
+713,Hong Kong Observatory,5,Government Agency
+1245,Hort Research,2,Company
+1222,Howard University,6,Higher Education Institution
+772,Huazhong Agricultural University,6,Higher Education Institution
+688,Hunter College,6,Higher Education Institution
+1355,Huonbrook Environment and Heritage,2,Company
+1120,Hydrological Forecasting and Water Control Center,5,Government Agency
+1220,Hydrometeorological Research Centre of Russian Federation,11,Public Research Organisation
+412,Ibaraki University,6,Higher Education Institution
+1202,ICF Consulting,13,Consultants / Individuals
+1283,ICIMOD,8,International Institution
+882,ICRISAT,11,Public Research Organisation
+1376,IDEA Inc.,2,Company
+1345,IEEJ,11,Public Research Organisation
+1277,IFREMER,11,Public Research Organisation
+724,IGAD Climate Prediction and Application Centre,8,International Institution
+711,Illinois State Water Survey,11,Public Research Organisation
+1270,Imam Muhammed Ibn Saudi Islamic University,6,Higher Education Institution
+1260,IMGA-CNR,11,Public Research Organisation
+697,Imperial College London,6,Higher Education Institution
+332,Independent Consultant,13,Consultants / Individuals
+769,India Meteorological Department,5,Government Agency
+613,Indian Agricultural Research Institute,11,Public Research Organisation
+1266,Indian Council of Agriculture Research,11,Public Research Organisation
+443,Indian Institute for Human Settlements,6,Higher Education Institution
+897,Indian Institute of Management,6,Higher Education Institution
+547,"Indian Institute of Management,Ahmedabad",12,Non Available
+159,Indian Institute of Science,6,Higher Education Institution
+150,Indian Institute of Technology,6,Higher Education Institution
+432,Indian Institute of Technology Bombay,6,Higher Education Institution
+625,Indian Institute of Technology Delhi,6,Higher Education Institution
+134,Indian Institute of Tropical Meteorology,11,Public Research Organisation
+178,Indian Space Research Organisation,11,Public Research Organisation
+636,"Indian Statistical Institute,Delhi",12,Non Available
+1218,Indiana University,6,Higher Education Institution
+1157,Indira Gandhi Institute of Development Research,6,Higher Education Institution
+419,Industrial Economics Inc,13,Consultants / Individuals
+1124,INSTAAR,4,Foundation
+1171,Institut d'Economie et de Politique de l'Energie,6,Higher Education Institution
+1239,Institut de Mecanique de Grenoble,6,Higher Education Institution
+306,Institut de Recherche pour le Developpement (IRD),11,Public Research Organisation
+1040,Institut fuer Chemie und Dynamik der Geosphaere,11,Public Research Organisation
+1072,Institut fuer Geophysik und Meteorologie,6,Higher Education Institution
+1023,Institut fur Chemie der KFA Julich GmbH,11,Public Research Organisation
+1067,Institut fur Klimafolgenforschung,11,Public Research Organisation
+1065,Institut fur Klimaforschung ETH,6,Higher Education Institution
+1079,Institut fur Meereskunde an der Universitat Kiel,6,Higher Education Institution
+743,Institut fur Meereskunde Zentrum fur Meeres und Klimaforschung,6,Higher Education Institution
 1415,Institut fur Meteorologie und Geophysics,6,Higher Education Institution
-1416,Institute of Hydrology,6,Higher Education Institution
-1417,University of New York,6,Higher Education Institution
-1418,York University United Kingdom,6,Higher Education Institution
-1419,National Environment Research Council,5,Government Agency
+710,Institut fur Meteorologie und Klimaforschung Universitat Karlsruhe,6,Higher Education Institution
+1405,Institut fur Physikahsche und Theoretisch Chemie,6,Higher Education Institution
+1227,Institut fur Tropospharenforschung,11,Public Research Organisation
+618,Institut für Volkswirtschaftslehre/University Rostock,12,Non Available
+877,Institut Hydrométéorologique de Formation et de Recherches (IHFR),11,Public Research Organisation
+456,Institut National de la Recherche Agronomique (INRA),11,Public Research Organisation
+363,Institut National de Recherche Halieutique,11,Public Research Organisation
+1397,Institut National des Sciences de l'Univers,11,Public Research Organisation
+167,Institut Pierre Simon Laplace (IPSL),11,Public Research Organisation
+1021,Institute for Baltic Sea Research,11,Public Research Organisation
+385,Institute for Catastrophic Loss Reduction,6,Higher Education Institution
+1054,Institute for Computational Earth System Science,11,Public Research Organisation
+1368,Institute for International Economics,4,Foundation
+1074,Institute for Marine and Atmospheric Research,6,Higher Education Institution
+1373,Institute for Prospective Technologies,11,Public Research Organisation
+615,Institute for Research in Technology,12,Non Available
+1066,Institute for World Forestry and Ecology,6,Higher Education Institution
+1280,Institute of Arable Crops Research,2,Company
+239,Institute of Atmospheric Physics,1,Academy of Science
+1011,Institute of Atmospheric Physics Germany,11,Public Research Organisation
+193,Institute of Atmospheric Sciences and Climate,11,Public Research Organisation
+334,Institute of Economic Growth,11,Public Research Organisation
+1108,Institute of Ecosystem Studies,4,Foundation
+1166,Institute of Energy Economics and the Rational Use of Energy,6,Higher Education Institution
+406,Institute of Environment and Sustainable Development in Agriculture,1,Academy of Science
+1234,Institute of Experimental Meteorology,5,Government Agency
+444,Institute of Forecasting Russian Academy of Science,1,Academy of Science
+1402,Institute of Freshwater Ecology,9,Non-Governmental Organization
+293,Institute of Geography,1,Academy of Science
+1394,Institute of Geography and Spatial Organization,11,Public Research Organisation
 1420,Institute of Geoscience,6,Higher Education Institution
+622,Institute of Global Climate and Ecology,12,Non Available
+1416,Institute of Hydrology,6,Higher Education Institution
+341,Institute of Marine Research,11,Public Research Organisation
+1048,Institute of Meteorology & Water Management,11,Public Research Organisation
+865,Institute of Meteorology and Hydrology Mongolia,11,Public Research Organisation
+832,Institute of Meteorology and Hydrology Vietnam,5,Government Agency
+680,Institute of Numerical Mathematics,1,Academy of Science
+197,Institute of Ocean Sciences,5,Government Agency
+1225,Institute of Oceanographic Sciences,6,Higher Education Institution
+1413,Institute of Plant Ecology,6,Higher Education Institution
+918,Institute of Soil Science Chinese Academy of Sciences,1,Academy of Science
+1041,Institute of Terrestrial Ecology,6,Higher Education Institution
+1408,Institute of Tropical Forestry,11,Public Research Organisation
+1350,Instituto Antartico Argentino,5,Government Agency
+748,"Instituto Argentino de Nivología,Glaciología y Ciencias Ambientales",11,Public Research Organisation
+1267,Instituto de Geografia,6,Higher Education Institution
+275,Instituto de Meteorologia,5,Government Agency
+418,Instituto de Pesquisa Ambiental da Amazonia (IPAM),4,Foundation
+802,Instituto Nacional de Pesquisas da Amazonia,11,Public Research Organisation
+407,Instituto Nacional de Tecnologia Agropecuaria (INTA),5,Government Agency
+1095,Instituto Oswaldo Cruz,11,Public Research Organisation
+614,Instituto Torcuato di Tella,12,Non Available
+1252,Instituto Venezolano de Investigaciones Cientificas,5,Government Agency
+785,Insurance Australia Group,2,Company
+488,Integral Environmental Solutions,12,Non Available
+612,Integrated Research and Action for Development (IRADe),9,Non-Governmental Organization
+476,Inter-American Development Bank,8,International Institution
+621,Intercooperation,12,Non Available
+470,International Atomic Energy Agency (IAEA),8,International Institution
+466,International Centre for Water Hazard and Risk Management,8,International Institution
+1403,International Christian University,6,Higher Education Institution
+777,International Council for the Exploration of the Sea,8,International Institution
+791,International Development Research Centre,8,International Institution
+911,International Energy Agency,8,International Institution
+771,International Fertilizer Development Center (IFDC),8,International Institution
+471,International Fund for Agricultural Development (IFAD),8,International Institution
+376,International Institute for Applied Systems Analysis (IIASA),8,International Institution
+1334,International Institute for Energy Conservation,9,Non-Governmental Organization
+288,International Institute for Environment and Development (IIED),8,International Institution
+924,International Institute for Sustainable Development,9,Non-Governmental Organization
+1164,International Petroleum Industry Environmental Conservation Association (IPIECA),9,Non-Governmental Organization
+435,International policy center for inclusive growth,8,International Institution
+1375,International Project for Sustainable Energy Paths,11,Public Research Organisation
+821,International Secretariat for Dialogue on Water and Climate,9,Non-Governmental Organization
+431,International START Secretariat,4,Foundation
+290,International Water Management Institute,8,International Institution
+1257,Interuniversity Institute for Marine Sciences,6,Higher Education Institution
+207,Iowa State University,6,Higher Education Institution
+1170,IPCC Secretariat,8,International Institution
+253,Iranian Meteorological Organization,5,Government Agency
+1349,IRRI,8,International Institution
+568,Islamic Republic of Iran Meteorological Organization (IRIMO),12,Non Available
+876,Istanbul Technical University,6,Higher Education Institution
+1385,ISTAT,11,Public Research Organisation
+662,Italian National Agency for New Technologies Energy and the Environment (ENEA),5,Government Agency
+1133,Jackson Environment Institute,6,Higher Education Institution
+623,Jadavpur University,6,Higher Education Institution
+811,James Cook University,6,Higher Education Institution
+1224,James Rennell Centre (NERC),11,Public Research Organisation
+1194,Japan Automobile Research Institute (JARI),4,Foundation
+1029,Japan Environment Agency,5,Government Agency
+1174,Japan Forest Technical Ass.,9,Non-Governmental Organization
+1052,Japan Meteorological Agency,5,Government Agency
+642,Japan Science and Technology Agency (JST),12,Non Available
+751,Japanese Society of Snow and Ice,9,Non-Governmental Organization
+762,Jawaharlal Nehru University,6,Higher Education Institution
+375,Jeju National University,6,Higher Education Institution
+906,Joanneum Research Graz,2,Company
+1134,Johns Hopkins School of Public Health,6,Higher Education Institution
+234,Justus-Liebig University Giessen,6,Higher Education Institution
+619,Kansas State University,6,Higher Education Institution
+400,Karolinska Institutet,6,Higher Education Institution
+1131,KazNIIMOSK,5,Government Agency
+1325,KEFRI,11,Public Research Organisation
+588,Keimyung University,12,Non Available
+851,Keio University,6,Higher Education Institution
+1326,Kenya Marine and Fisheries Research Institute,11,Public Research Organisation
+805,Kenya Medical Research Institute,11,Public Research Organisation
+659,Kenya Meteorological Department,5,Government Agency
+558,KFW German Development Bank,12,Non Available
+630,King Abdulaziz City for Science and Technology,5,Government Agency
+1268,King Abdulaziz University,6,Higher Education Institution
+545,King Mongkut's University of Technology,6,Higher Education Institution
+1159,King Saud University,6,Higher Education Institution
+434,King's College London,6,Higher Education Institution
+565,Kogakuin University,12,Non Available
+1185,Korea Energy Economics Institute,11,Public Research Organisation
+578,Korea Environment Institute,12,Non Available
+599,Kühne Logistics University,12,Non Available
+1365,Kwansei Gakuin University,6,Higher Education Institution
+464,Kyoto University,6,Higher Education Institution
+267,Kyushu University,6,Higher Education Institution
+909,L. S. Bernstein & Associates L.L.C.,2,Company
+883,Laboratoire d'Ecologie Alpine UMR-CNRS,11,Public Research Organisation
+174,Laboratoire d'Etudes en Géophysique et Océanographie Spatiale (LEGOS),11,Public Research Organisation
+1008,Laboratoire d'Optique Atmospherique,11,Public Research Organisation
+228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),11,Public Research Organisation
+257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),11,Public Research Organisation
+693,Laboratory of Atmospheric Physics,6,Higher Education Institution
+1151,Landbouw Universiteit Wageningen,6,Higher Education Institution
+774,Landcare Research,11,Public Research Organisation
+914,Landfills + Inc,2,Company
+213,Lanzhou University,6,Higher Education Institution
+181,Lawrence Berkeley National Laboratory,11,Public Research Organisation
+201,Lawrence Livermore National Laboratory,11,Public Research Organisation
+736,Lehigh University,6,Higher Education Institution
+732,Leibniz Institute for MarineSciences,11,Public Research Organisation
+949,Lithuanian Energy Institute,11,Public Research Organisation
+1232,LMCE/DSM,11,Public Research Organisation
+1161,London Business School,6,Higher Education Institution
+1109,London Medical School,6,Higher Education Institution
+358,London School of Hygiene and Tropical Medicine,6,Higher Education Institution
+703,Los Alamos National Laboratory,11,Public Research Organisation
+779,Loughborough University,6,Higher Education Institution
+729,Loyola Marymount University,6,Higher Education Institution
+425,Lund University,6,Higher Education Institution
+1047,M&D Consulting,13,Consultants / Individuals
+1122,Maastricht University,6,Higher Education Institution
+368,Macquarie University,6,Higher Education Institution
+441,Madagascar National Weather Service,5,Government Agency
+1331,MAF Fisheries,5,Government Agency
+1396,Main Geophysical Observatory,5,Government Agency
+595,Makerere University,6,Higher Education Institution
+1081,Malaysian Meteorological Service,5,Government Agency
+232,Manchester Metropolitan University,6,Higher Education Institution
+437,Manila Observatory,4,Foundation
+535,Margaree Consultants Inc.,13,Consultants / Individuals
+1039,Marine Biological Laboratory,8,International Institution
+890,Marine Research Institute,11,Public Research Organisation
+987,Marintek,2,Company
+1010,Masaryk University,6,Higher Education Institution
+320,Massachusetts Institute of Technology,6,Higher Education Institution
+633,Massey University,6,Higher Education Institution
+1004,Mathsoft Data Analysis Products Division,2,Company
+822,Maulana Azad National Institute of Technology,6,Higher Education Institution
+1140,Mauritius Meteorological Services,5,Government Agency
+742,Max Planck Institute for Solar System Research,11,Public Research Organisation
+212,Max-Planck Institute for Biogeochemistry,11,Public Research Organisation
+1002,Max-Planck Institute for Chemistry,11,Public Research Organisation
+169,Max-Planck Institute for Meteorology,11,Public Research Organisation
+735,McGill University,6,Higher Education Institution
+773,Mekong River Commission,8,International Institution
+869,Memorial University of Newfoundland,6,Higher Education Institution
+522,Mercator Research Institute on Global Commons and ClimateChange (MCC),12,Non Available
+1216,Merrill Lynch Derivative Products,2,Company
+182,Met Office,5,Government Agency
+249,Météo-France,5,Government Agency
+1263,Meteorological Institute,5,Government Agency
+225,Meteorological Research Institute,11,Public Research Organisation
+712,"Meteorological Research Institute (METRI),Korean Meteorological Administration",11,Public Research Organisation
+1400,Meteorologisches Institut,6,Higher Education Institution
+930,Mexican Petroleum Institute,11,Public Research Organisation
+1127,Middlesex University,6,Higher Education Institution
+1207,Ministerio de Ciencia,5,Government Agency
+923,Ministery of Science Technology and the Environment,5,Government Agency
+1141,Ministry for the Environment,5,Government Agency
+1338,Ministry of Agriculture Fisheries and Food,5,Government Agency
+765,Ministry of Agriculture Rural Development and Fishing,5,Government Agency
+292,"Ministry of Agriculture,Water Resources and Fisheries",5,Government Agency
+985,Ministry of Economy Trade and Industry,5,Government Agency
+1165,Ministry of Environment and Forests,5,Government Agency
+989,Ministry of Environment Indonesia,5,Government Agency
+1155,Ministry of Environment Norway,5,Government Agency
+1188,Ministry of Finance,5,Government Agency
+808,Ministry of Health,5,Government Agency
+287,"Ministry of Housing,Environment and Energy",5,Government Agency
+860,Ministry of Industries and International Business,5,Government Agency
+970,Ministry of Livestock Agriculture and Fisheries,5,Government Agency
+1381,Ministry of Power Industry,5,Government Agency
+995,Ministry of Research Technical Training and Technology,5,Government Agency
+596,Ministry of Science and Technology,12,Non Available
+489,"Ministry of Science,Technology and Environment",12,Non Available
+788,Ministry of Sustainable Development,5,Government Agency
+1304,Ministry of Transport,5,Government Agency
+1343,Ministry of Water Energy and Minerals,5,Government Agency
+1154,Ministry of Water Resources,5,Government Agency
+216,Monash University,6,Higher Education Institution
+767,Montana State University,6,Higher Education Institution
+308,Monterey Bay Aquarium Research Institute,9,Non-Governmental Organization
+569,Motu Economic and Public Policy Research,12,Non Available
+359,MTT Agrifood Research Finland,5,Government Agency
+963,Munasinghe Institute for Development,9,Non-Governmental Organization
+349,Munich Reinsurance Company,2,Company
+559,Murdoch University,12,Non Available
+1,N/A,12,Non Available
+282,Nagoya University,6,Higher Education Institution
+971,Nanjing Agricultural University,6,Higher Education Institution
+1058,Nanjing University,6,Higher Education Institution
+682,Nansen Environmental and Remote Sensing Center,4,Foundation
+439,National Academy of Sciences,1,Academy of Science
+124,National Aeronautics and Space Administration (NASA),5,Government Agency
+840,National Botanical Institute,5,Government Agency
+166,National Center for Atmospheric Research (NCAR),11,Public Research Organisation
+655,National Center for Climate Strategy Study and International Cooperation (NRDC),12,Non Available
+696,National Center for Climatology,11,Public Research Organisation
+740,National Centre for Atmospheric Science,11,Public Research Organisation
+750,National Climate Center,11,Public Research Organisation
+950,National Commission on Energy Policy,5,Government Agency
+959,National Council for Air and Stream Improvement,4,Foundation
+1419,National Environment Research Council,5,Government Agency
+817,National Environmental Research Institute,6,Higher Education Institution
+775,National Environmental Trust,9,Non-Governmental Organization
+874,National Institute for Agricultural Research,11,Public Research Organisation
+1091,National Institute for Coastal and Marine Management,5,Government Agency
+129,National Institute for Environmental Studies,11,Public Research Organisation
+717,National Institute for Geophysics and Volcanology,11,Public Research Organisation
+888,National Institute for Public Health and the Environment (RIVM),5,Government Agency
+1071,National Institute for Resources and Environment,11,Public Research Organisation
+605,National Institute for Scientific and Industrial Research,5,Government Agency
+173,National Institute for Space Research (INPE),5,Government Agency
+448,National Institute of Advanced Industrial Science and Technology,11,Public Research Organisation
+900,National Institute of Advanced Studies,6,Higher Education Institution
+1193,National Institute of Agro-Environmental Sciences,11,Public Research Organisation
+1309,National Institute of Deserts,5,Government Agency
+299,National Institute of Environmental Health Sciences,5,Government Agency
+1337,National Institute of Hydrology,11,Public Research Organisation
+229,National Institute of Meteorological Research,5,Government Agency
+165,National Institute of Meteorology and Hydrology (NIMH),5,Government Agency
+272,National Institute of Oceanography,11,Public Research Organisation
+690,National Institute of Polar Research,11,Public Research Organisation
+1143,National Institute of Public Health,11,Public Research Organisation
+307,National Institute of Water and Atmosphere,11,Public Research Organisation
+280,National Institute of Water and Atmospheric Research,11,Public Research Organisation
+1092,National Marine Fisheries Service,5,Government Agency
+671,National Meteorological Administration,5,Government Agency
+1213,National Meteorological Centre,5,Government Agency
+783,National Meteorological Institute,5,Government Agency
+760,National Meteorological Service,5,Government Agency
 1421,National Meteorological Services Agency,5,Government Agency
+353,National Observatory of Athens,11,Public Research Organisation
+188,National Oceanographic and Atmospheric Administration (NOAA),5,Government Agency
+219,National Oceanography Centre,11,Public Research Organisation
+1321,National Public Health Institute,5,Government Agency
+297,National Renewable Energy Laboratory (NREL),11,Public Research Organisation
+692,National Research Council,11,Public Research Organisation
+1256,National Research Institute for Earth Science & Disaster Prevention,11,Public Research Organisation
+687,National Snow and Ice Data Center,11,Public Research Organisation
+1116,National University,6,Higher Education Institution
+1278,National University of Benin,6,Higher Education Institution
+881,National University of Ireland,6,Higher Education Institution
+269,National University of Malaysia,6,Higher Education Institution
+894,National University of Singapore,6,Higher Education Institution
+345,National Water Research Center,5,Government Agency
+1214,National Weather Service,5,Government Agency
+790,Natural Resources Canada,5,Government Agency
+939,Natural Resources Defence Council (NRDC),9,Non-Governmental Organization
+1254,Naval Postgraduate School,6,Higher Education Institution
+715,Naval Research Laboratory,5,Government Agency
+530,Netherlands Environmental Assessment Agency,5,Government Agency
+1049,New Mexico Institute of Mining and Technology,6,Higher Education Institution
+1404,New York University,6,Higher Education Institution
+442,New Zealand Agricultural Greenhouse Gas Research Centre,11,Public Research Organisation
+780,Newcastle University,6,Higher Education Institution
+1135,Nice University,6,Higher Education Institution
+969,Nippon Steel Corporation,2,Company
+838,Nord-Sud Zentrum fur Entwicklungsforschung,6,Higher Education Institution
+367,Nordland Research Institute,4,Foundation
+1126,North American Center for Environmental Information and Communication,9,Non-Governmental Organization
+754,North Carolina State University,6,Higher Education Institution
+574,North South University,6,Higher Education Institution
+1043,Northern Geothermal,13,Consultants / Individuals
+1015,Northern Illinois University,6,Higher Education Institution
+1313,Northern Prairie Science Center,11,Public Research Organisation
+664,Northwest Research Associates,4,Foundation
+1205,Norwegian Forest Research Institute,11,Public Research Organisation
+1070,Norwegian Institute for Air Research,11,Public Research Organisation
+666,Norwegian Meteorological Institute,11,Public Research Organisation
+278,Norwegian Polar Institute,11,Public Research Organisation
+346,Norwegian University of Life Sciences,6,Higher Education Institution
+561,Norwegian University of Science & Technology,12,Non Available
+1344,Norwegian Water Resources and Energy Administration,5,Government Agency
+271,Oak Ridge National Laboratory,11,Public Research Organisation
+758,Obafemi Awolowo University,6,Higher Education Institution
+1327,Obirin University,6,Higher Education Institution
+1090,Office of Science and Technology Policy (OSTP),5,Government Agency
+1101,Office of the Prime Minister,5,Government Agency
+1083,Office of the US Global Change Research Program,5,Government Agency
+168,Ohio State University,6,Higher Education Institution
+1228,Old Dominion University,6,Higher Education Institution
+683,Open University,6,Higher Education Institution
+180,Oregon State University,6,Higher Education Institution
+331,Organization for Economic Cooperation and Development (OECD),8,International Institution
+318,Organization of American States,8,International Institution
+1230,Orkustofnun (National Energy Authority),5,Government Agency
+1293,ORSTOM,11,Public Research Organisation
+982,Osaka University,6,Higher Education Institution
+329,Oswaldo Cruz Foundation (FIOCRUZ),11,Public Research Organisation
+1089,Overseas Development Institute,9,Non-Governmental Organization
+1192,Oxford Centre for the Environment Ethics & Society (OCEES),6,Higher Education Institution
+205,P.P. Shirshov Institute of Oceanography,11,Public Research Organisation
+1088,Pacific Biological Station,5,Government Agency
+283,Pacific Climate Impacts Consortium (PCIC),12,Non Available
+1241,Pacific Geoscience Centre,5,Government Agency
+256,Pacific Northwest National Laboratory,5,Government Agency
+1323,Pan American Health Organization,8,International Institution
+1371,Paul Scherrer Institute,11,Public Research Organisation
+892,Paul Watkiss Associates,13,Consultants / Individuals
+140,Peking University,6,Higher Education Institution
+195,Pennsylvania State University,6,Higher Education Institution
+217,Permanent Service for Mean Sea Level (PSMSL),11,Public Research Organisation
+1169,Personal,13,Consultants / Individuals
+863,Philippine Atmospheric Geophysical and Astronomical Services Administration,5,Government Agency
+254,Physical Research Laboratory,5,Government Agency
+472,Plymouth Marine Laboratory,11,Public Research Organisation
+387,Polish Academy of Sciences,1,Academy of Science
+370,Polytechnic University of Madrid,6,Higher Education Institution
+551,Pontifical Catholic University of Rio de Janeiro,12,Non Available
+410,Pontificia Universidad Catolica de Chile,6,Higher Education Institution
+871,Portland State University,6,Higher Education Institution
+200,Potsdam Institute for Climate Impact Research,11,Public Research Organisation
+428,Princeton University,6,Higher Education Institution
+641,Private Sector Consultant,12,Non Available
+1273,ProClim,1,Academy of Science
+1013,Program in Atmospheric and Oceanic Sciences,6,Higher Education Institution
+279,Proudman Oceanographic Laboratory,6,Higher Education Institution
+984,PT Ecosecurities,2,Company
+695,Purdue University,6,Higher Education Institution
+1006,Quaternary Research,2,Company
+1391,Quebec,13,Consultants / Individuals
+1098,Queensland Centre for Climate Applications (QCCA)/,11,Public Research Organisation
+938,Railway Technical Research Institute,4,Foundation
+670,Ramkhamhaeng University,6,Higher Education Institution
+397,RAND Corporation,11,Public Research Organisation
+475,Red Cross / Red Crescent Climate Centre,8,International Institution
+786,Regionica,9,Non-Governmental Organization
+977,Reliance Industries Ltd.,2,Company
+722,Remote Sensing Systems,4,Foundation
+999,Renmin University of China,6,Higher Education Institution
+628,Research Institute for Applied Economics (IPEA),12,Non Available
+1033,Research Institute for Global Change,11,Public Research Organisation
+1296,Research Institute of Forestry,11,Public Research Organisation
+495,Research Institute of Innovative Technology for the Earth (RITE),12,Non Available
+921,Research Triangle Institute (RTI) International,9,Non-Governmental Organization
+873,Resources for the Future,4,Foundation
+867,Retired,13,Consultants / Individuals
+327,Rhodes University,6,Higher Education Institution
+1069,RIHMI-WDCB,5,Government Agency
+845,Risk Management Solutions,2,Company
+506,Risoe National Laboratory,11,Public Research Organisation
+1329,Roodeplaat Grasland Institute,9,Non-Governmental Organization
+1353,Roskilde University,6,Higher Education Institution
+1265,Royal Institute of International Affairs,9,Non-Governmental Organization
+1282,Royal Meteorological Institute,5,Government Agency
+226,Royal Netherlands Meteorological Institute (KNMI),5,Government Agency
+782,Royal Swedish Academy of Sciences,1,Academy of Science
+981,Russian Academy of Agricultural Sciences,1,Academy of Science
+1311,Russian Federal Research Institute of Fisheries and Oceanography,1,Academy of Science
+263,Russian Federation Academy of Sciences,1,Academy of Science
+1235,Russian Federation Agricultural Academy,1,Academy of Science
+258,Rutgers University,6,Higher Education Institution
+1001,Rutherford Appleton Laboratory,5,Government Agency
+988,Sahara and Sahel Observatory (OSS) Tunis,8,International Institution
+1129,San Diego State University,6,Higher Education Institution
+594,São Paulo State Environment Secretariat,12,Non Available
+1152,Saskatchewan Research Council,2,Company
+903,Saudi Aramco,2,Company
+469,School of Geography & Environment University of Southampton,6,Higher Education Institution
+1196,Science University of Tokyo,6,Higher Education Institution
+1076,Scott Polar Research Institute,6,Higher Education Institution
+268,Scripps Institute of Oceanography,6,Higher Education Institution
+1117,Second Institute of Oceanography,5,Government Agency
+723,Secretariat of Council for Science and Technology Policy Cabinet Office,5,Government Agency
+480,Secretariat of the Pacific Community - Applied Geoscience and Technology Division (SOPAC),8,International Institution
+433,Secretariat of the Pacific Regional Environment Programme,8,International Institution
+575,Senior Energy & Climate Change Expert,12,Non Available
+708,Seoul National University,6,Higher Education Institution
+261,Service Météorologique,5,Government Agency
+483,Shenyang Agricultural University,6,Higher Education Institution
+787,Simon Fraser University,6,Higher Education Institution
+798,Sir Alister Hardy Foundation for Ocean Science,4,Foundation
+1229,Skidaway Institution of Oceanography,11,Public Research Organisation
+1150,Slovak Technical University,6,Higher Education Institution
+1318,Social Science Research Council,11,Public Research Organisation
+362,Sokoine University of Agriculture,6,Higher Education Institution
+411,South African National Biodiversity Institute,11,Public Research Organisation
+426,South African National Space Agency (SANSA) South Africa,5,Government Agency
+262,South African Weather Service,5,Government Agency
+896,South China Sea Institute of Oceanology,1,Academy of Science
+847,South Pacific Regional Environment Programme,8,International Institution
+1014,Southampton Oceanography Centre,6,Higher Education Institution
+1190,Southern Center for Energy and Environment,2,Company
+1156,Southern Company Services,2,Company
+819,Southern Oregon University,6,Higher Education Institution
+848,Southwest Watershed Research Center,11,Public Research Organisation
+301,Spanish Council for Scientific Research,11,Public Research Organisation
+1392,St David's University College,6,Higher Education Institution
+1042,St Petersburg University,6,Higher Education Institution
+1271,St. George's Medical School,6,Higher Education Institution
+1287,St. Jerome Institut Mediterranean,6,Higher Education Institution
+338,Stanford University,6,Higher Education Institution
+1212,State Environmental Protection Administration,5,Government Agency
+294,State Hydrological Institute,1,Academy of Science
+141,State Key Laboratory for Cryospheric Science,12,Non Available
+1398,State Meteorological Administration,5,Government Agency
+1219,State University of New York,6,Higher Education Institution
+747,State University of New York Albany,6,Higher Education Institution
+674,State University of New York Stony Brook,6,Higher Education Institution
+974,Statistics Finland,11,Public Research Organisation
+902,Statistics Norway,5,Government Agency
+390,Stefansson Arctic Institute,11,Public Research Organisation
+997,Stichting Natuur en Milieu,9,Non-Governmental Organization
+384,Stockholm Environment Institute,11,Public Research Organisation
+573,Stockholm Environment Institute Boston,8,International Institution
+701,Stockholm University,6,Higher Education Institution
+378,Strathmore University,6,Higher Education Institution
+459,Stratus Consulting Inc.,13,Consultants / Individuals
+176,Sultan Qaboos University,6,Higher Education Institution
+1367,Sustainable Development Policy Institute,4,Foundation
+240,Swansea University,6,Higher Education Institution
+260,Swedish Meteorological and Hydrological Institute,5,Government Agency
+1217,Swedish University of Agricultural Sciences,6,Higher Education Institution
+1306,Swiss Federal Institute for Forest Snow and Landscape Research,11,Public Research Organisation
+725,Swiss Federal Institute of Technology,6,Higher Education Institution
+812,Swiss Tropical Institute,11,Public Research Organisation
+976,Syracuse University,6,Higher Education Institution
+852,Szent István University,6,Higher Education Institution
+915,Tata Energy Research Institute (TERI),9,Non-Governmental Organization
+994,Technical Research Centre of Finland,5,Government Agency
+951,Technical University Eindhoven,6,Higher Education Institution
+557,Technical University of Denmark,12,Non Available
+799,Technical University of Munich,6,Higher Education Institution
+1384,Teisberg Associates,13,Consultants / Individuals
+1250,Telemark College of Engineering,6,Higher Education Institution
+1163,Tellus Institute,4,Foundation
+1111,Terrestrial Ecology Research Institute,11,Public Research Organisation
+409,Texas A&M University,6,Higher Education Institution
+1333,Thailand Environment Institute,4,Foundation
+314,Third Institute of Oceanography Chinese State Oceanic Administration,5,Government Agency
+590,Third World Network,8,International Institution
+549,Tilburg University,12,Non Available
+698,Tohoku Gakuin University,6,Higher Education Institution
+965,Tokyo Institute of Technology,6,Higher Education Institution
+1183,Tokyo University of Agriculture & Technology,6,Higher Education Institution
+800,Tongji University,6,Higher Education Institution
+947,Toyota Central R&D Labs Inc,2,Company
+991,Treeness Consult,13,Consultants / Individuals
+328,Trent University,6,Higher Education Institution
+1162,Tsentr po Effektivnomu Ispolzovanlu Energii,11,Public Research Organisation
+516,Tsinghua University,6,Higher Education Institution
+962,Tufts University,6,Higher Education Institution
+632,Tulane University,12,Non Available
+1357,U.S. Army Corps of Engineers,5,Government Agency
+1148,U.S. Army Institute for Water Resources,5,Government Agency
+849,U.S. Department of Agriculture,5,Government Agency
+227,U.S. Department of Energy,5,Government Agency
 1422,U.S. Department of State,5,Government Agency
+905,U.S. Environmental Protection Agency (EPA),5,Government Agency
+1294,U.S. Forest Service,5,Government Agency
+312,U.S. Geological Survey,5,Government Agency
+634,UK Energy Research Centre (UKERC),11,Public Research Organisation
+452,Umea University,6,Higher Education Institution
+895,UN Economic Commission for LatinAmerican and the Caribbean (ECLAC),8,International Institution
+889,UNESCO,8,International Institution
+875,UNFCCC Secretariat,8,International Institution
+843,Union of Concerned Scientists,4,Foundation
+324,United Nations Development Programme (UNDP),8,International Institution
+834,United Nations Development Programme (UNDP) - GEF,8,International Institution
+373,"United Nations Educational,Scientific and Cultural Organization (UNESCO)",8,International Institution
+291,United Nations Environment Programme (UNEP),8,International Institution
+529,"United Nations Environment Programme (UNEP,Nairobi)",12,Non Available
+462,United Nations University,8,International Institution
+305,United Nations University - Institute for Environment and Human Security,8,International Institution
+467,United Nations University's World Institute for Development Economics Research,8,International Institution
+564,"United Nations University,World Institute for Development Economics Research",12,Non Available
+669,Univerity of California Merced,6,Higher Education Institution
+514,Universidad Autonoma de Baja California Sur,6,Higher Education Institution
+546,Universidad Autonoma de Baja California Sur (UABCS),12,Non Available
+1059,Universidad Central Venezuela,6,Higher Education Institution
+202,Universidad Complutense de Madrid,6,Higher Education Institution
+170,Universidad de Buenos Aires,11,Public Research Organisation
+403,Universidad de Cantabria,6,Higher Education Institution
+555,Universidad de Costa Rica,12,Non Available
+846,Universidad de la República,6,Higher Education Institution
+520,"Universidad del CEMA,Buenos Aires",12,Non Available
+323,Universidad del Valle de Guatemala,6,Higher Education Institution
+236,Universidad Nacional Autonoma de Mexico (UNAM),6,Higher Education Institution
+319,Universidad Nacional de Colombia,6,Higher Education Institution
+793,Universidad Nacional de Córdoba,6,Higher Education Institution
+1107,Universidad Nacional de la Plata,6,Higher Education Institution
+943,Universidad Nacional de San Luis,6,Higher Education Institution
+503,Universidad Nacional del Centro de la Provincia de Buenos Aires,12,Non Available
+315,Universidad Nacional Mayor de San Marcos,6,Higher Education Institution
+477,Universidad Simon Bolivar,6,Higher Education Institution
+1414,Universidade do Estado de Sao Paulo,6,Higher Education Institution
+1180,Universidade Estadual de Campinas (UNICAMP),6,Higher Education Institution
+842,Universidade Estadual Paulista,6,Higher Education Institution
+1099,Universidade Nova de Lisboa,6,Higher Education Institution
+1191,Universitaet Essen,6,Higher Education Institution
+1035,Universitaet Wuerzburg,6,Higher Education Institution
+1056,Universitat Bonn,6,Higher Education Institution
+1240,Universitat Heidelberg,6,Higher Education Institution
+1005,Universitat Kiel,6,Higher Education Institution
+600,Université Cadi Ayyad,12,Non Available
+194,Université Catholique de Louvain,6,Higher Education Institution
+776,Universite de Bourgogne,6,Higher Education Institution
+344,Universite de La Rochelle - National Centre for Scientific Research (CNRS),6,Higher Education Institution
+515,Université de Limoges,6,Higher Education Institution
+1370,Universite de Versailles,6,Higher Education Institution
+1226,Universite des Science & Technologie de Lille,6,Higher Education Institution
+705,Université du Quebec a Montreal,6,Higher Education Institution
+388,Universite Paris 8,6,Higher Education Institution
+862,Université Paris VI Pierre et Marie Curie,6,Higher Education Institution
+392,Universite Paris-Sud 11,6,Higher Education Institution
+1036,Universiteit Antwerpen,6,Higher Education Institution
+1044,Universite Degli Studi dellâ Aquila,6,Higher Education Institution
+1113,Universiti Sains Malaysia,6,Higher Education Institution
+653,Universiti Teknologi MARA,12,Non Available
+336,University Cheikh Anta Diop of Dakar,6,Higher Education Institution
+792,University College Cork,6,Higher Education Institution
+968,University College Dublin,6,Higher Education Institution
+638,University College London,6,Higher Education Institution
+1103,University Corporation for Atmospheric Research (UCAR),6,Higher Education Institution
+572,University Hassan II,12,Non Available
+382,University New Hampshire,6,Higher Education Institution
+635,University of Aberdeen,6,Higher Education Institution
+759,University of Abomey-Calavi,6,Higher Education Institution
+807,University of Adelaide,6,Higher Education Institution
+1315,University of Agricultural Sciences,6,Higher Education Institution
+677,University of Alabama Huntsville,6,Higher Education Institution
+755,University of Alaska,6,Higher Education Institution
+335,University of Alberta,6,Higher Education Institution
+286,University of Alexandria,6,Higher Education Institution
+649,University of Antwerp,6,Higher Education Institution
+430,University of Arizona,6,Higher Education Institution
+1068,University of Arkansas,6,Higher Education Institution
+482,University of Auckland,6,Higher Education Institution
+474,University of Barcelona,6,Higher Education Institution
+827,University of Basel,6,Higher Education Institution
+541,University of Bath,6,Higher Education Institution
+1145,University of Bayreuth,6,Higher Education Institution
+133,University of Bergen,6,Higher Education Institution
+126,University of Bern,6,Higher Education Institution
+1258,University of Bologna,6,Higher Education Institution
+1020,University of Bonn,6,Higher Education Institution
+151,University of Botswana,6,Higher Education Institution
+1003,University of Bradford,6,Higher Education Institution
+512,University of Brasília,12,Non Available
+143,University of Bremen,6,Higher Education Institution
+160,University of Bristol,6,Higher Education Institution
+326,University of British Columbia,6,Higher Education Institution
+719,University of Calgary,6,Higher Education Institution
+544,University of California,6,Higher Education Institution
+298,University of California Berkeley,6,Higher Education Institution
+251,University of California Irvine,6,Higher Education Institution
+209,University of California Los Angeles,6,Higher Education Institution
+259,University of California San Diego,6,Higher Education Institution
+640,University of California Santa Barbara,6,Higher Education Institution
+752,University of California Santa Cruz,6,Higher Education Institution
+276,University of Cambridge,6,Higher Education Institution
+149,University of Cape Town,6,Higher Education Institution
+184,University of Castilla - La Mancha,6,Higher Education Institution
+661,University of Chicago,6,Higher Education Institution
+144,University of Chile,6,Higher Education Institution
+815,University of Chittagong,6,Higher Education Institution
+1197,University of Colombo,6,Higher Education Institution
+248,University of Colorado,6,Higher Education Institution
+440,University of Copenhagen,6,Higher Education Institution
+416,University of Dar-es-Salaam,6,Higher Education Institution
+850,University of Delaware,6,Higher Education Institution
+386,University of Delhi,6,Higher Education Institution
+1078,University of Derby,6,Higher Education Institution
+1264,University of Durham,6,Higher Education Institution
+231,University of East Anglia,6,Higher Education Institution
+1299,University of East London,6,Higher Education Institution
+211,University of Edinburgh,6,Higher Education Institution
+1407,University of Essex,6,Higher Education Institution
+131,University of Exeter,6,Higher Education Institution
+1307,University of Finland,6,Higher Education Institution
+940,University of Flensburg,6,Higher Education Institution
+304,University of Florence,6,Higher Education Institution
+1297,University of Freiburg,6,Higher Education Institution
+753,University of Geneva,6,Higher Education Institution
+738,University of Georgia,6,Higher Education Institution
+347,University of Ghana Medical School,6,Higher Education Institution
+177,University of Gothenburg,6,Higher Education Institution
+579,University of Göttingen,12,Non Available
+601,University of Graz,6,Higher Education Institution
+413,University of Greenwich,6,Higher Education Institution
+942,University of Groningen,6,Higher Education Institution
+861,University of Guelph,6,Higher Education Institution
+1204,University of Haifa,6,Higher Education Institution
+264,University of Hamburg,6,Higher Education Institution
+237,University of Hawaii,6,Higher Education Institution
+1173,University of Heidelberg,6,Higher Education Institution
+274,University of Helsinki,6,Higher Education Institution
+1289,University of Hong Kong,6,Higher Education Institution
+1411,University of Ibadan,6,Higher Education Institution
+1016,University of Illinois at Urbana-Champaign,6,Higher Education Institution
+221,University of Innsbruck,6,Higher Education Institution
+824,University of Joensuu,6,Higher Education Institution
+684,University of Kansas,6,Higher Education Institution
+1085,University of Kashmir,6,Higher Education Institution
+764,University of Kassel,6,Higher Education Institution
+487,University of Khartoum,6,Higher Education Institution
+872,University of KwaZulu-Natal,6,Higher Education Institution
+1275,University of Lagos,6,Higher Education Institution
+658,University of Las Palmas de Gran Canaria,6,Higher Education Institution
+130,University of Leeds,6,Higher Education Institution
+1328,University of Leicester,6,Higher Education Institution
+510,University of Leipzig,12,Non Available
+733,University of Liege,6,Higher Education Institution
+1320,University of Limburg,6,Higher Education Institution
+450,University of Lisbon,6,Higher Education Institution
+952,University of Liverpool,6,Higher Education Institution
+377,University of Ljubljana,6,Higher Education Institution
+513,University of Lleida,12,Non Available
+1210,University of London,6,Higher Education Institution
+936,University of Maiduguri,6,Higher Education Institution
+739,University of Mainz,6,Higher Education Institution
+309,University of Malta,6,Higher Education Institution
+721,University of Manchester,6,Higher Education Institution
+1231,University of Manchester Institute of Science and Technology (UMIST),6,Higher Education Institution
+414,University of Maryland,6,Higher Education Institution
+1009,University of Massachusetts,6,Higher Education Institution
+300,University of Melbourne,6,Higher Education Institution
+1272,University of Merida,6,Higher Education Institution
+135,University of Miami,6,Higher Education Institution
+247,University of Michigan,6,Higher Education Institution
+718,University of Minnesota,6,Higher Education Institution
+678,University of Missouri-St. Louis,6,Higher Education Institution
+841,University of Montana,6,Higher Education Institution
+1303,University of Muenster,6,Higher Education Institution
+427,University of Nairobi,6,Higher Education Institution
+835,University of Nebraska,6,Higher Education Institution
+438,University of Neuchatel,6,Higher Education Institution
+244,University of New England,6,Higher Education Institution
+1050,University of New Hampshire,6,Higher Education Institution
+208,University of New Mexico,6,Higher Education Institution
+125,University of New South Wales,6,Higher Education Institution
+1417,University of New York,6,Higher Education Institution
+1093,University of Newcastle upon Tyne,6,Higher Education Institution
+1128,University of Nigeria,6,Higher Education Institution
+526,University of Nijmegen,12,Non Available
+945,University of Nizwa,6,Higher Education Institution
+826,University of North Dakota,6,Higher Education Institution
+1339,University of Nottingham,6,Higher Education Institution
+333,University of Ohio,6,Higher Education Institution
+1238,University of Oklahoma,6,Higher Education Institution
+1215,University of Oregon,6,Higher Education Institution
+424,University of Oslo,6,Higher Education Institution
+350,University of Otago,6,Higher Education Institution
+238,University of Ottawa,6,Higher Education Institution
+153,University of Oxford,6,Higher Education Institution
+1409,University of Pans,6,Higher Education Institution
+583,University of Pennsylvania,12,Non Available
+714,University of Quebec at Montreal,6,Higher Education Institution
+365,University of Queensland,6,Higher Education Institution
+204,University of Reading,6,Higher Education Institution
+266,University of Rowan,6,Higher Education Institution
+158,University of Sao Paulo,6,Higher Education Institution
+1262,University of Sheffield,6,Higher Education Institution
+920,University of Sierra Leone,6,Higher Education Institution
+321,University of South Carolina,6,Higher Education Institution
+175,University of South Florida,6,Higher Education Institution
+421,University of Southampton,6,Higher Education Institution
+504,University of Southern California,6,Higher Education Institution
+891,University of Sri Jayew Ardenepura,6,Higher Education Institution
+447,University of Stellenbosch,6,Higher Education Institution
+1062,University of Stockholm,6,Higher Education Institution
+566,University of Strathclyde,12,Non Available
+519,University of Surrey,12,Non Available
+468,University of Sussex,6,Higher Education Institution
+998,University of Sydney,6,Higher Education Institution
+163,University of Tasmania,6,Higher Education Institution
+1244,University of Technology,6,Higher Education Institution
+1301,University of Technology Graz,6,Higher Education Institution
+1132,University of Texas,6,Higher Education Institution
+252,University of Texas-Austin,6,Higher Education Institution
+389,University of the Philippines Los Baños,6,Higher Education Institution
+289,University of the West Indies,6,Higher Education Institution
+478,University of the Witwatersrand,6,Higher Education Institution
+148,University of Tokyo,6,Higher Education Institution
+313,University of Toronto,6,Higher Education Institution
+550,University of Toulouse,6,Higher Education Institution
+993,University of Tsukuba,6,Higher Education Institution
+473,University of Tuscia and Euro-Mediterranean Center for Climate Change,6,Higher Education Institution
+1386,University of Twente,6,Higher Education Institution
+828,University of Ukraine,6,Higher Education Institution
+273,University of Utrecht,6,Higher Education Institution
+1168,University of Venice,6,Higher Education Institution
+445,University of Vic,6,Higher Education Institution
+277,University of Victoria,6,Higher Education Institution
+1027,University of Vienna,6,Higher Education Institution
+585,University of Vigo,12,Non Available
+199,University of Virginia,6,Higher Education Institution
+316,University of Waikato,6,Higher Education Institution
+1136,University of Wales Swansea,6,Higher Education Institution
+656,University of Warsaw,12,Non Available
+132,University of Washington,6,Higher Education Institution
+766,University of Waterloo,6,Higher Education Institution
+794,University of Western Australia,6,Higher Education Institution
+1104,University of Windsor,6,Higher Education Institution
+731,University of Wisconsin,6,Higher Education Institution
+627,University of Wisconsin-Madison,12,Non Available
+757,University of Wollongong,6,Higher Education Institution
+1073,University of Wyoming,6,Higher Education Institution
+498,University of York / Stockholm Environment Institute (SEI),12,Non Available
+210,University of Zambia,6,Higher Education Institution
+517,University of Zimbabwe,6,Higher Education Institution
+246,University of Zurich,6,Higher Education Institution
+1012,University Rovira I Virgili,6,Higher Education Institution
+616,US Green Building Council,12,Non Available
+972,USDA Forest Service,8,International Institution
+374,Victoria University,6,Higher Education Institution
+196,Victoria University of Wellington,6,Higher Education Institution
+511,Vista Analysis,13,Consultants / Individuals
+222,Voeikov Main Geophysical Observatory,5,Government Agency
+214,Vrije Universiteit Brussel,6,Higher Education Institution
+302,"Vrije Universiteit,Amsterdam",6,Higher Education Institution
+1233,W/NMC2,5,Government Agency
+206,Wadia Institute of Himalayan Geology,11,Public Research Organisation
+396,Wageningen University,6,Higher Education Institution
+1084,Water and Energy Commission Secretariat,5,Government Agency
+1354,Water Resource Research Center,11,Public Research Organisation
+1024,Weather Bureau,5,Government Agency
+1153,Wellington School of Medicine,6,Higher Education Institution
+486,Wesleyan University,6,Higher Education Institution
+1125,WHO-European Centre for Environment and Health,8,International Institution
+789,WIJ Delft Hydraulics,2,Company
+1361,Wilfrid Laurier University,6,Higher Education Institution
+1094,Winrock International,9,Non-Governmental Organization
+461,Woods Hole Oceanographic Institution,6,Higher Education Institution
+1031,Woods Hole Research Center,4,Foundation
+391,World Agroforestry Center,8,International Institution
+356,World Bank,8,International Institution
+1172,World Business Council for Sustainable Development,8,International Institution
+1292,World Conservation Union,8,International Institution
+1364,World Energy Council,4,Foundation
+317,World Health Organization (WHO),8,International Institution
+700,World Meteorological Organization (WMO),8,International Institution
+589,World Resources Institute,9,Non-Governmental Organization
+637,World Wildlife Fund (WWF),12,Non Available
+542,"Wuppertal Institute for Climate,Environment and Energy",2,Company
+1319,WWF,9,Non-Governmental Organization
+629,Yale University,6,Higher Education Institution
+1114,Yamanashi Institute of Environmental Sciences,11,Public Research Organisation
+155,Yonsei University,6,Higher Education Institution
+1045,York University Canada,6,Higher Education Institution
+1418,York University United Kingdom,6,Higher Education Institution
+220,Zambia Meteorological Department,5,Government Agency
+1053,Zimbabwe Drought Monitoring Centre,5,Government Agency
+1363,Zimbabwe Meteorological Services,5,Government Agency

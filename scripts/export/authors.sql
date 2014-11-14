@@ -1,4 +1,4 @@
 SELECT *
 FROM authors
-ORDER BY id
+ORDER BY last_name, first_name
 ;

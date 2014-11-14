@@ -6,5 +6,5 @@ SELECT
 FROM institutions
 LEFT JOIN institution_types
 ON institutions.institution_type_id = institution_types.id
-ORDER BY institutions.id
+ORDER BY institutions.name
 ;
