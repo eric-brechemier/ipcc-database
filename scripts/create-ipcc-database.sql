@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `institution_types` (
 ;
 
 CREATE TABLE IF NOT EXISTS `institutions` (
-  `id` int(10) unsigned NOT NULL DEFAULT '0',
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,
   `institution_type_id` int(10) unsigned NOT NULL,
   PRIMARY KEY (`id`),
