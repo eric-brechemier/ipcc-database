@@ -1007,6 +1007,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1620,2,1,11,LA,2668,Stephen Schneider,338,Stanford University,USA,NULL,NULL
 541,2,1,TS,LA,55,D.L. Albritton,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
 630,2,1,TS,LA,291,Bert Bolin,101,N/A,Sweden,NULL,NULL
+7521,2,1,TS,LA,5042,B. Callander,1425,IPCC,United Kingdom,NULL,NULL
 766,2,1,TS,LA,657,Kenneth L. Denman,197,Institute of Ocean Sciences,Canada,NULL,NULL
 782,2,1,TS,LA,684,Robert E. Dickinson,430,University of Arizona,USA,NULL,NULL
 884,2,1,TS,LA,937,W.L. Gates,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
