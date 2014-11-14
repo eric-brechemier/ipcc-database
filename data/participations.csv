@@ -500,7 +500,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 492,1,2,7,CA,3610,M. Smith,20,N/A,Canada,NULL,NULL
 354,1,2,7,CA,3091,Andrei A. Velichko,1,N/A,N/A,NULL,NULL
 504,1,2,7,CA,3622,I.M. Whillans,113,N/A,USA,NULL,NULL
-7520,1,3,1,CLA,5033,Frederick M. Bernthal,113,N/A,USA,NULL,NULL
+7520,1,3,1,CLA,5033,Frederick M. Bernthal,1424,U.S. Department of State,USA,NULL,NULL
 347,1,3,2,CLA,3007,Dennis A. Tirpak,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 355,1,3,2,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",The Netherlands,NULL,NULL
 395,1,3,3,CLA,3290,Shao-Xiong Xie,23,N/A,China,NULL,NULL
