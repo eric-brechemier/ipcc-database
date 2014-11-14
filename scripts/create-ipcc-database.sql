@@ -112,6 +112,15 @@ CREATE TABLE IF NOT EXISTS `institution_countries` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
+CREATE TABLE IF NOT EXISTS `institution_country_aliases` (
+  `alias` varchar(255) PRIMARY KEY
+    COMMENT
+    'alternate form of institution name in the context of a specific country',
+  `institution_id` int(10) REFERENCES `institutions` (`id`),
+  `country_id` int(10) REFERENCES `countries` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
 CREATE TABLE IF NOT EXISTS `author_institutions` (
   `author_id` int(10) unsigned NOT NULL,
   `institution_id` int(10) unsigned NOT NULL,

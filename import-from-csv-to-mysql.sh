@@ -86,6 +86,9 @@ import groupings id,symbol,@skip,country_id,@skip
 import institution_countries \
   id,institution_id,@skip,country_id,@skip
 
+import institution_country_aliases \
+  alias,institution_id,@skip,country_id,@skip
+
 import author_institutions author_id,@skip,institution_id,@skip,@skip
 
 import departments id,name,institution_id,@skip,@skip
