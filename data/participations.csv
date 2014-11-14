@@ -3532,7 +3532,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3467,3,3,SPM,LA,208,Igor Alexeyevich Bashmakov,1162,Tsentr po Effektivnomu Ispolzovanlu Energii,Russian Federation,NULL,NULL
 3439,3,3,SPM,LA,276,Kornelis Blok,912,Ecofys,Netherlands,NULL,NULL
 3420,3,3,SPM,LA,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,207,Instituto de Economia Energetica (IDEE)
-3361,3,3,SPM,LA,502,R. Christ,1170,IPCC Secretariat,Switzerland,NULL,NULL
+3361,3,3,SPM,LA,502,R. Christ,1170,IPCC,Switzerland,NULL,NULL
 3305,3,3,SPM,LA,617,Ogunlade R. Davidson,149,University of Cape Town,South Africa,NULL,NULL
 1928,3,3,SPM,LA,762,James Edmonds,1,N/A,N/A,NULL,NULL
 3147,3,3,SPM,LA,1024,Jonathan M. Gregory,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
