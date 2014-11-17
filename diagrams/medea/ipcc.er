@@ -130,8 +130,8 @@ institution_countries *--1 countries {label:"country_id"}
 
 [institution_country_aliases]
 * alias {label:"varchar(255)"}
+* country_id {label:"int(10)"}
 institution_id {label:"int(10)"}
-country_id {label:"int(10)"}
 
 institution_country_aliases *--1 institutions {label:"institution_id"}
 institution_country_aliases *--1 countries {label:"country_id"}

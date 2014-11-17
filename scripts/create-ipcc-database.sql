@@ -113,11 +113,12 @@ CREATE TABLE IF NOT EXISTS `institution_countries` (
 ;
 
 CREATE TABLE IF NOT EXISTS `institution_country_aliases` (
-  `alias` varchar(255) PRIMARY KEY
+  `alias` varchar(255) NOT NULL
     COMMENT
     'alternate form of institution name in the context of a specific country',
-  `institution_id` int(10) REFERENCES `institutions` (`id`),
-  `country_id` int(10) REFERENCES `countries` (`id`)
+  `country_id` int(10) REFERENCES `countries` (`id`),
+  PRIMARY KEY (`alias`,`country_id`),
+  `institution_id` int(10) REFERENCES `institutions` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
