@@ -25,8 +25,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 491,6,Australia,491,Australian Bureau of Agricultural and Resource Economics (ABARE)
 157,6,Australia,157,Australian Bureau of Meteorology
 645,6,Australia,645,Australian Centre for Sustainable Mining Practices (ACSMP)
-1426,6,Australia,1423,"Australian Department of Arts, Sport, Environment, Tourism and Territories"
-1427,6,Australia,1423,"Australian Department of Arts, Sport, Environment, Tourism and Territories"
 1121,6,Australia,1121,Australian Institute of Marine Science (AIMS)
 230,6,Australia,230,Australian National University
 1118,6,Australia,1118,BHP-Billiton Newcastle Research Laboratories
@@ -83,7 +81,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 9,9,Barbados,1,N/A
 423,9,Barbados,289,University of the West Indies
 1051,10,Belgium,1051,Belgian Institute for Space Aeronomy
-1428,10,Belgium,1243,European Commission
 910,10,Belgium,910,Facultés Universitaires Catholique de Mons
 10,10,Belgium,1,N/A
 1282,10,Belgium,1282,Royal Meteorological Institute
@@ -108,8 +105,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 151,15,Botswana,151,University of Botswana
 1046,16,Brazil,1046,Agencia Espacial Brasileira
 1195,16,Brazil,1195,Biomass Users Network (BUN)
-1430,16,Brazil,1425,Brazilian Ministry of External Relations
-1429,16,Brazil,1424,Brazilian Mission to the U.N.
 986,16,Brazil,986,Centro de Sensoriamento Remoto
 453,16,Brazil,453,Conservation International
 836,16,Brazil,836,Esquel Group Foundation Brazil (FGEB)
@@ -306,7 +301,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 1249,35,France,1249,Electricite de France (EDF)
 796,35,France,796,Environnement Conseil (TEC)
 745,35,France,745,European Centre for Research and Advanced Training in Scientific Computation
-1431,35,France,1426,French Ministry of Environment
 1277,35,France,1277,IFREMER
 1171,35,France,1171,Institut d'Economie et de Politique de l'Energie
 1239,35,France,1239,Institut de Mecanique de Grenoble
@@ -328,7 +322,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 331,35,France,331,Organization for Economic Cooperation and Development (OECD)
 1293,35,France,1293,ORSTOM
 1287,35,France,1287,St. Jerome Institut Mediterranean
-1432,35,France,889,UNESCO
 776,35,France,776,Universite de Bourgogne
 344,35,France,344,Universite de La Rochelle - National Centre for Scientific Research (CNRS)
 515,35,France,515,Université de Limoges
@@ -559,7 +552,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 1174,51,Japan,1174,Japan Forest Technical Ass.
 1052,51,Japan,1052,Japan Meteorological Agency
 642,51,Japan,642,Japan Science and Technology Agency (JST)
-1433,51,Japan,1427,Japanese Ministry of Foreign Affairs
 751,51,Japan,751,Japanese Society of Snow and Ice
 851,51,Japan,851,Keio University
 565,51,Japan,565,Kogakuin University
@@ -629,7 +621,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 287,61,Maldives,287,"Ministry of Housing,Environment and Energy"
 61,61,Maldives,1,N/A
 778,62,Malta,778,Foundation for International Studies
-1434,62,Malta,1428,Maltese Ministry of Foreign Affairs
 62,62,Malta,1,N/A
 309,62,Malta,309,University of Malta
 866,63,Mauritius,866,Consultant to Indian Ocean Commission
@@ -676,14 +667,12 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 879,72,Nepal,879,Government of Nepal
 1283,72,Nepal,1283,ICIMOD
 72,72,Nepal,1,N/A
-1435,72,Nepal,1429,Nepalese Department of Hydrology & Meteorology
 1084,72,Nepal,1084,Water and Energy Commission Secretariat
 966,107,Netherlands,966,ALTERRA Research Institute of the Green Environment
 917,107,Netherlands,917,Brinkman Climate Change Consultancy
 1189,107,Netherlands,1189,Centraal Planbureau (CPB)
 814,107,Netherlands,814,Commission on Geomorphological Response to Environmental Change
 887,107,Netherlands,887,Delft University of Technology
-1436,107,Netherlands,1430,Dutch Ministry of Agriculture and Fisheries
 1211,107,Netherlands,1211,ECN Policy Studies
 912,107,Netherlands,562,Ecofys
 648,107,Netherlands,648,Energy research Centre of the Netherlands (ECN) / Columbia University
@@ -831,7 +820,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 433,87,Samoa,433,Secretariat of the Pacific Regional Environment Programme
 875,87,Samoa,875,UNFCCC Secretariat
 831,87,Samoa,700,World Meteorological Organization (WMO)
-1437,88,Saudi Arabia,1431,Embassy of Saudi Arabia
 1270,88,Saudi Arabia,1270,Imam Muhammed Ibn Saudi Islamic University
 630,88,Saudi Arabia,630,King Abdulaziz City for Science and Technology
 1268,88,Saudi Arabia,1268,King Abdulaziz University
@@ -939,7 +927,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 806,102,Switzerland,806,Conservatoire et Jardin botaniques de Genève
 162,102,Switzerland,162,Eawag
 136,102,Switzerland,136,ETH Zurich
-1438,102,Switzerland,1432,"Federal Office of Environmental, Forest and Landscape"
 689,102,Switzerland,689,Federal Office of Meteorology and Climatology Meteo-Swiss
 1310,102,Switzerland,1310,Geobotanik
 1055,102,Switzerland,1055,Geographisches Institut ETH
@@ -970,7 +957,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 1343,104,Tanzania,1343,Ministry of Water Energy and Minerals
 104,104,Tanzania,1,N/A
 362,104,Tanzania,362,Sokoine University of Agriculture
-1439,104,Tanzania,1433,Tanzanian Institute of Resource Assessment
 416,104,Tanzania,416,University of Dar-es-Salaam
 531,105,Thailand,531,Asian Institute of Technology
 545,105,Thailand,545,King Mongkut's University of Technology
@@ -1072,7 +1058,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 1392,117,United Kingdom,1392,St David's University College
 1271,117,United Kingdom,1271,St. George's Medical School
 240,117,United Kingdom,240,Swansea University
-1442,117,United Kingdom,1436,UK Department of the Environment
 634,117,United Kingdom,634,UK Energy Research Centre (UKERC)
 638,117,United Kingdom,638,University College London
 635,117,United Kingdom,635,University of Aberdeen
@@ -1280,10 +1265,8 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 1357,113,USA,1357,U.S. Army Corps of Engineers
 1148,113,USA,1148,U.S. Army Institute for Water Resources
 849,113,USA,849,U.S. Department of Agriculture
-1440,113,USA,1434,U.S. Department of Defense
 227,113,USA,227,U.S. Department of Energy
 1424,113,USA,1422,U.S. Department of State
-1441,113,USA,1435,U.S. Department of the Interior
 905,113,USA,905,U.S. Environmental Protection Agency (EPA)
 1294,113,USA,1294,U.S. Forest Service
 312,113,USA,312,U.S. Geological Survey
@@ -1356,7 +1339,6 @@ id,country_id,Country (INFO),institution_id,Institution (INFO)
 1423,114,USSR,1311,Russian Federal Research Institute of Fisheries and Oceanography
 1422,114,USSR,263,Russian Federation Academy of Sciences
 1395,114,USSR,294,State Hydrological Institute
-1443,114,USSR,1437,USSR State Committee for Hydrometeorology
 1131,119,Uzbekistan,1131,KazNIIMOSK
 119,119,Uzbekistan,1,N/A
 1252,120,Venezuela,1252,Instituto Venezolano de Investigaciones Cientificas
