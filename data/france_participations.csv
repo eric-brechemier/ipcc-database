@@ -76,7 +76,7 @@ Thierry,Delcroix,5,1,3,CA,N/A,Non Available,France
 Pascale,Delecluse,3,1,8,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Pascale,Delecluse,5,1,11,RE,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 M.,Deque,2,1,6,CA,Centre National de Recherches Meteorologiques,Public Research Organisation,France
-Ghislain,Dubois,4,2,9,CA,Environnement Conseil (TEC),Consultants,France
+Ghislain,Dubois,4,2,9,CA,Environnement Conseil (TEC),Consultants / Individuals,France
 Jean-Louis,Dufresne,4,1,10,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Jean-Louis,Dufresne,4,1,8,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Jean-Louis,Dufresne,5,1,12,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
@@ -129,7 +129,7 @@ Jean-Charles,Hourcade,3,3,SPM,LA,Centre international de recherche sur l'environ
 Jean-Charles,Hourcade,4,3,3,LA,Centre international de recherche sur l'environnement et le développement (CIRED),Public Research Organisation,France
 Jean-Charles,Hourcade,5,3,6,LA,Centre National de la Recherche Scientifique (CNRS),Public Research Organisation,France
 F.,Hourdin,3,1,7,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
-N.,Husson,1,1,5,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
+N.,Husson,1,1,2,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Sylvie,Joussaume,3,1,8,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Sylvie,Joussaume,3,1,TS,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Sylvie,Joussaume,5,1,12,RE,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
@@ -158,7 +158,7 @@ Henri,Le Houerou,2,2,4,CLA,CEFE,Higher Education Institution,France
 Henri,Le Houerou,2,2,A,CA,CEFE,Higher Education Institution,France
 Henri,Le Houerou,2,2,TS,LA,CEFE,Higher Education Institution,France
 C.,Le Provost,2,1,7,LA,Institut de Mecanique de Grenoble,Higher Education Institution,France
-Hervé,Le Treut,1,1,1,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
+Hervé,Le Treut,1,1,4,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Hervé,Le Treut,2,1,2,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Hervé,Le Treut,3,1,7,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Hervé,Le Treut,4,1,1,CLA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
@@ -172,9 +172,10 @@ Franck,Lecocq,4,3,9,CA,Institut National de la Recherche Agronomique (INRA),Publ
 Franck,Lecocq,5,3,4,LA,Centre international de recherche sur l'environnement et le développement (CIRED),Public Research Organisation,France
 Nathalie,Lefevre,4,1,5,CA,Institut de Recherche pour le Developpement (IRD),Public Research Organisation,France
 Nicolas,Lefevre,4,3,1,CA,International Energy Agency,International Institution,France
-P.,Levelle,1,1,4,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
+P.,Levelle,1,1,10,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Bruno,Locatelli,5,2,22,CA,N/A,Non Available,France
-C.,Lorius,1,2,3,CLA,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),Public Research Organisation,France
+C.,Lorius,1,1,5,LA,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),Public Research Organisation,France
+C.,Lorius,1,1,9,LA,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),Public Research Organisation,France
 G.,Madec,3,1,8,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Eric,Martin,4,2,12,LA,Météo-France,Government Agency,France
 Eric,Martin,5,2,23,LA,Météo-France,Government Agency,France
@@ -184,7 +185,7 @@ Valerie,Masson-Delmotte,5,1,1,CA,Institut Pierre Simon Laplace (IPSL),Public Res
 Valerie,Masson-Delmotte,5,1,10,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Valerie,Masson-Delmotte,5,1,5,CLA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Valerie,Masson-Delmotte,5,1,SPM,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
-L.,Merlivat,1,2,2,CA,University of Pans,Higher Education Institution,France
+L.,Merlivat,1,1,1,LA,Université Paris VI Pierre et Marie Curie,Higher Education Institution,France
 Nicolas,Metzl,5,1,6,CA,N/A,Non Available,France
 Laurie,Michaelis,2,2,21,CLA,Organization for Economic Cooperation and Development (OECD),International Institution,France
 Laurie,Michaelis,2,2,TS,LA,Organization for Economic Cooperation and Development (OECD),International Institution,France
