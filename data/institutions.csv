@@ -72,7 +72,6 @@ id,name,institution_type_id,Institution Type (INFO)
 809,Bowdoin College,6,Higher Education Institution
 1149,BPPT,5,Government Agency
 1179,Brandeis University,6,Higher Education Institution
-1423,Brazilian Mission to the U.N.,5,Government Agency
 499,Bright Green Energy Foundation,12,Non Available
 917,Brinkman Climate Change Consultancy,13,Consultants / Individuals
 146,British Antarctic Survey,5,Government Agency
@@ -180,11 +179,9 @@ id,name,institution_type_id,Institution Type (INFO)
 361,Columbia Business School,6,Higher Education Institution
 185,Columbia University,6,Higher Education Institution
 1167,Comision Nac.de Cambio Clim.,5,Government Agency
-1424,Commission of the European Communities,5,Government Agency
 814,Commission on Geomorphological Response to Environmental Change,5,Government Agency
 171,Commonwealth Scientific and Industrial Research Organization (CSIRO),11,Public Research Organisation
 494,Concordia University,12,Non Available
-1425,"Conservation Division, Department of Arts, Sport, Environment, Tourism and Territories",5,Government Agency
 453,Conservation International,9,Non-Governmental Organization
 806,Conservatoire et Jardin botaniques de Genève,9,Non-Governmental Organization
 657,Consortium Ouranos,9,Non-Governmental Organization
@@ -213,14 +210,10 @@ id,name,institution_type_id,Institution Type (INFO)
 524,Deloitte Touche Tohmatsu India Pvt. Ltd.,13,Consultants / Individuals
 967,Department for Business Enterprise and Regulatory Reform (BERR),5,Government Agency
 1342,Department of Agriculture,5,Government Agency
-1426,"Department of Arts, Sport, Environment, Tourism and Territories",5,Government Agency
 1242,"Department of Education,Science and Training",5,Government Agency
 1285,Department of Forestry,5,Government Agency
-1427,Department of Hydrology & Meteorology,5,Government Agency
 1341,Department of Land Evaluation Methods,6,Higher Education Institution
 1305,Department of Primary Industries and Energy,5,Government Agency
-1428,"Department of the Army, Civil Works",5,Government Agency
-1429,Department of the Environment,5,Government Agency
 1130,Department of Water and Environmental Studies,6,Higher Education Institution
 704,Department of Water Resources,5,Government Agency
 694,Deutscher Wetterdienst,5,Government Agency
@@ -249,7 +242,6 @@ id,name,institution_type_id,Institution Type (INFO)
 449,El Colegio de la Frontera Norte,6,Higher Education Institution
 505,Electric Power Research Institute (EPRI),4,Foundation
 1249,Electricite de France (EDF),2,Company
-1430,Embassy of Saudi Arabia,5,Government Agency
 1382,ENDA - TM Programme-Energie.,8,International Institution
 598,Energy & Resources Institute (TERI),12,Non Available
 303,Energy and Resources Institute,9,Non-Governmental Organization
@@ -294,7 +286,6 @@ id,name,institution_type_id,Institution Type (INFO)
 1302,Federal Institute of Hydrology,5,Government Agency
 955,Federal Ministry for Environment,5,Government Agency
 1346,Federal Ministry of Environment,5,Government Agency
-1431,"Federal Office of Environmental, Forest and Landscape",5,Government Agency
 689,Federal Office of Meteorology and Climatology Meteo-Swiss,5,Government Agency
 342,Federal University of Rio de Janeiro,6,Higher Education Institution
 322,Finnish Environment Institute,5,Government Agency
@@ -463,7 +454,6 @@ id,name,institution_type_id,Institution Type (INFO)
 197,Institute of Ocean Sciences,5,Government Agency
 1225,Institute of Oceanographic Sciences,6,Higher Education Institution
 1413,Institute of Plant Ecology,6,Higher Education Institution
-1432,Institute of Resource Assessment,5,Government Agency
 918,Institute of Soil Science Chinese Academy of Sciences,1,Academy of Science
 1041,Institute of Terrestrial Ecology,6,Higher Education Institution
 1408,Institute of Tropical Forestry,11,Public Research Organisation
@@ -607,11 +597,9 @@ id,name,institution_type_id,Institution Type (INFO)
 1400,Meteorologisches Institut,6,Higher Education Institution
 930,Mexican Petroleum Institute,11,Public Research Organisation
 1127,Middlesex University,6,Higher Education Institution
-1433,Ministere de l'Environnement,5,Government Agency
 1207,Ministerio de Ciencia,5,Government Agency
 923,Ministery of Science Technology and the Environment,5,Government Agency
 1141,Ministry for the Environment,5,Government Agency
-1434,Ministry of Agriculture and Fisheries,5,Government Agency
 1338,Ministry of Agriculture Fisheries and Food,5,Government Agency
 765,Ministry of Agriculture Rural Development and Fishing,5,Government Agency
 292,"Ministry of Agriculture,Water Resources and Fisheries",5,Government Agency
@@ -619,10 +607,7 @@ id,name,institution_type_id,Institution Type (INFO)
 1165,Ministry of Environment and Forests,5,Government Agency
 989,Ministry of Environment Indonesia,5,Government Agency
 1155,Ministry of Environment Norway,5,Government Agency
-1435,Ministry of External Relations,5,Government Agency
 1188,Ministry of Finance,5,Government Agency
-1436,Ministry of Foreign Affairs,5,Government Agency
-1437,Ministry of Foreign Affairs,5,Government Agency
 808,Ministry of Health,5,Government Agency
 287,"Ministry of Housing,Environment and Energy",5,Government Agency
 860,Ministry of Industries and International Business,5,Government Agency
@@ -903,10 +888,8 @@ id,name,institution_type_id,Institution Type (INFO)
 1357,U.S. Army Corps of Engineers,5,Government Agency
 1148,U.S. Army Institute for Water Resources,5,Government Agency
 849,U.S. Department of Agriculture,5,Government Agency
-1438,U.S. Department of Defense,5,Government Agency
 227,U.S. Department of Energy,5,Government Agency
 1422,U.S. Department of State,5,Government Agency
-1439,U.S. Department of the Interior,5,Government Agency
 905,U.S. Environmental Protection Agency (EPA),5,Government Agency
 1294,U.S. Forest Service,5,Government Agency
 312,U.S. Geological Survey,5,Government Agency
@@ -1164,7 +1147,6 @@ id,name,institution_type_id,Institution Type (INFO)
 1012,University Rovira I Virgili,6,Higher Education Institution
 616,US Green Building Council,12,Non Available
 972,USDA Forest Service,8,International Institution
-1440,USSR State Committee for Hydrometeorology,5,Government Agency
 374,Victoria University,6,Higher Education Institution
 196,Victoria University of Wellington,6,Higher Education Institution
 511,Vista Analysis,13,Consultants / Individuals
