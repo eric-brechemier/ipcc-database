@@ -15,10 +15,10 @@ SELECT
     END
   ) AS `Bridge WG`,
   all_bridge_authors.ar AS `AR`,
-  france_bridge_authors.total AS `Total France Bridge Authors`,
+  IFNULL(france_bridge_authors.total,0) AS `Total France Bridge Authors`,
   all_bridge_authors.total AS `Total Bridge Authors`,
   (
-    france_bridge_authors.total / all_bridge_authors.total
+    IFNULL(france_bridge_authors.total,0) / all_bridge_authors.total
   ) * 100 AS `Percentage of Bridge Authors in France`
 FROM
 (
@@ -44,7 +44,7 @@ FROM
   ) france_bridge_authors
   GROUP BY ar, wg_left, wg_right
 ) france_bridge_authors
-JOIN
+RIGHT JOIN
 (
   SELECT ar, wg_left, wg_right, COUNT(*) AS total
   FROM

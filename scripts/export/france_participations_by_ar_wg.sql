@@ -3,10 +3,10 @@
 SELECT
   ar AS AR,
   wg AS WG,
-  france_participations.total AS `Total France Participations`,
+  IFNULL(france_participations.total,0) AS `Total France Participations`,
   all_participations.total AS `Total Participations`,
   (
-    france_participations.total / all_participations.total
+    IFNULL(france_participations.total,0) / all_participations.total
   ) * 100 AS `Percentage of France Participations`
 FROM
 (
@@ -17,7 +17,7 @@ FROM
   WHERE c.name = 'France'
   GROUP BY ar, wg
 ) france_participations
-JOIN
+RIGHT JOIN
 (
   SELECT ar, wg, COUNT(*) total
   FROM participations

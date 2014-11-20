@@ -4,10 +4,10 @@ SELECT
   chapters.ar AS AR,
   chapters.wg AS WG,
   chapters.number AS `Chapter`,
-  france_participations.total AS `Total France Participations`,
+  IFNULL(france_participations.total,0) AS `Total France Participations`,
   all_participations.total AS `Total Participations`,
   (
-    france_participations.total / all_participations.total
+    IFNULL(france_participations.total,0) / all_participations.total
   ) * 100 AS `Percentage of France Participations` 
 FROM
 (
@@ -18,7 +18,7 @@ FROM
   WHERE c.name = 'France'
   GROUP BY ar, wg, chapter
 ) france_participations
-JOIN
+RIGHT JOIN
 (
   SELECT ar, wg, chapter, COUNT(*) AS total
   FROM participations

@@ -3,10 +3,10 @@
 SELECT
   ar AS AR,
   wg AS WG,
-  france_authors.total AS `Total France Authors`,
+  IFNULL(france_authors.total,0) AS `Total France Authors`,
   all_authors.total AS `Total Authors`,
   (
-    france_authors.total / all_authors.total
+    IFNULL(france_authors.total,0) / all_authors.total
   ) * 100 AS `Percentage of Authors in France`
 FROM
 (
@@ -21,7 +21,7 @@ FROM
   ) france_authors
   GROUP BY ar, wg
 ) france_authors
-JOIN
+RIGHT JOIN
 (
   SELECT ar, wg, COUNT(*) AS total
   FROM
