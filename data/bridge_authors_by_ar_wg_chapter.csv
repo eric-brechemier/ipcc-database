@@ -1,0 +1,1373 @@
+AR,WG,Chapter,Chapter Title,Bridge Author,Bridge Author Id
+1,1,1,Greenhouse Gases and AER,Paul Fraser,876
+1,1,1,Greenhouse Gases and AER,R.J. Luxmoore,1790
+1,1,1,Greenhouse Gases and AER,K. Minami,1990
+1,1,1,Greenhouse Gases and AER,B.H. Svensson,2929
+1,1,1,Greenhouse Gases and AER,Robert T. Watson,3178
+1,1,10,Effects on Ecosystems,Terry V. Callaghan,414
+1,1,10,Effects on Ecosystems,Christopher B. Field,829
+1,1,10,Effects on Ecosystems,P.M. Holligan,3388
+1,1,10,Effects on Ecosystems,P.G. Jarvis,1336
+1,1,10,Effects on Ecosystems,L.A. Joyce,1394
+1,1,10,Effects on Ecosystems,S. Linder,1730
+1,1,10,Effects on Ecosystems,James J. McCarthy,1895
+1,1,10,Effects on Ecosystems,David Schimel,2649
+1,1,10,Effects on Ecosystems,S.K. Sinha,2779
+1,1,11,Narrowing the Uncertainties,Gordon McBean,1893
+1,1,11,Narrowing the Uncertainties,James J. McCarthy,1895
+1,1,12,Annex,Anthony Janetos,1329
+1,1,12,Annex,Philip D. Jones,1382
+1,1,12,Annex,David J. Karoly,1434
+1,1,12,Annex,R. Kintanar,1508
+1,1,12,Annex,Michael Prather,2383
+1,1,12,Annex,Sarah C.B. Raper,2441
+1,1,12,Annex,Dennis A. Tirpak,3007
+1,1,12,Annex,Richard A. Warrick,3170
+1,1,2,Radiative Forcing of Climate,A.J. Apling,112
+1,1,4,Validation of Climate Models,Danny Harvey,1123
+1,1,4,Validation of Climate Models,Hervé Le Treut,1662
+1,1,4,Validation of Climate Models,Stephen Schneider,2668
+1,1,4,Validation of Climate Models,John E. Walsh,3141
+1,1,5,Equilibrium Climate Change,B. Huntley,1276
+1,1,5,Equilibrium Climate Change,Roy M. Koerner,1540
+1,1,5,Equilibrium Climate Change,Michael C. MacCracken,1799
+1,1,5,Equilibrium Climate Change,A. Barrie Pittock,2350
+1,1,5,Equilibrium Climate Change,Stephen Schneider,2668
+1,1,5,Equilibrium Climate Change,Ronald J. Stouffer,2890
+1,1,5,Equilibrium Climate Change,Andrei A. Velichko,3091
+1,1,6,Time-Dependent Greenhouse Gas Induced Climate Change,Sarah C.B. Raper,2441
+1,1,6,Time-Dependent Greenhouse Gas Induced Climate Change,Ronald J. Stouffer,2890
+1,1,7,Observed Climate Variations and Change,Roger G. Barry,202
+1,1,7,Observed Climate Variations and Change,Michael J. Coughlan,571
+1,1,7,Observed Climate Variations and Change,H.F. Diaz,678
+1,1,7,Observed Climate Variations and Change,S. Hastenrath,1131
+1,1,7,Observed Climate Variations and Change,Ann Henderson-Sellers,1175
+1,1,7,Observed Climate Variations and Change,K. Higuchi,1190
+1,1,7,Observed Climate Variations and Change,Philip D. Jones,1382
+1,1,7,Observed Climate Variations and Change,Thomas R. Karl,1431
+1,1,7,Observed Climate Variations and Change,Neville Nicholls,2123
+1,1,7,Observed Climate Variations and Change,J S. Oguntoyinbo,2182
+1,1,7,Observed Climate Variations and Change,A. Barrie Pittock,2350
+1,1,7,Observed Climate Variations and Change,Andrew Solow,2828
+1,1,7,Observed Climate Variations and Change,Peter Wadhams,3132
+1,1,8,Detection of the Greenhouse Effect in the Observations,W. Degefu,644
+1,1,8,Detection of the Greenhouse Effect in the Observations,Philip D. Jones,1382
+1,1,8,Detection of the Greenhouse Effect in the Observations,David J. Karoly,1434
+1,1,8,Detection of the Greenhouse Effect in the Observations,Michael C. MacCracken,1799
+1,1,8,Detection of the Greenhouse Effect in the Observations,Carlos A. Nobre,2137
+1,1,8,Detection of the Greenhouse Effect in the Observations,Laban J. Ogallo,2176
+1,1,8,Detection of the Greenhouse Effect in the Observations,A. Barrie Pittock,2350
+1,1,8,Detection of the Greenhouse Effect in the Observations,Sarah C.B. Raper,2441
+1,1,8,Detection of the Greenhouse Effect in the Observations,Andrew Solow,2828
+1,1,9,Sea Level Rise,R.J. Braithwaite,328
+1,1,9,Sea Level Rise,Vivien Gornitz,1002
+1,1,9,Sea Level Rise,Wilfreid Haeberli,1075
+1,1,9,Sea Level Rise,Sarah C.B. Raper,2441
+1,1,9,Sea Level Rise,Richard A. Warrick,3170
+1,1,9,Sea Level Rise,Philip Woodworth,3270
+1,2,2,Agriculture and Forestry,W. Degefu,644
+1,2,2,Agriculture and Forestry,R. Kintanar,1508
+1,2,2,Agriculture and Forestry,Antonio R. Magalhaes,1811
+1,2,2,Agriculture and Forestry,Neville Nicholls,2123
+1,2,2,Agriculture and Forestry,Laban J. Ogallo,2176
+1,2,2,Agriculture and Forestry,J S. Oguntoyinbo,2182
+1,2,2,Agriculture and Forestry,A. Barrie Pittock,2350
+1,2,2,Agriculture and Forestry,John M. Reilly,2470
+1,2,2,Agriculture and Forestry,"Michael James ""Jim"" Salinger",2602
+1,2,2,Agriculture and Forestry,S.K. Sinha,2779
+1,2,2,Agriculture and Forestry,Oleg D. Sirotenko,2782
+1,2,3,Natural terrestrial Ecosystems,Terry V. Callaghan,414
+1,2,3,Natural terrestrial Ecosystems,B.F. Findlay,830
+1,2,3,Natural terrestrial Ecosystems,R. Holesgrove,1218
+1,2,3,Natural terrestrial Ecosystems,Anthony Janetos,1329
+1,2,3,Natural terrestrial Ecosystems,Andrei A. Velichko,3091
+1,2,4,Hydrology and Water Resources,H. Lins,1739
+1,2,4,Hydrology and Water Resources,Igor Shiklomanov,2748
+1,2,4,Hydrology and Water Resources,Eugene Z. Stakhiv,2856
+1,2,5,Human Settlement; the Energy Transport and Industrial sectors; Human Health; Air quality and Changes in Ultraviolet-B Radiation,Richard Odingo,2170
+1,2,5,Human Settlement; the Energy Transport and Industrial sectors; Human Health; Air quality and Changes in Ultraviolet-B Radiation,Michael Oppenheimer,2214
+1,2,6,Oceans and coastal zones,M. Rees,3597
+1,2,6,Oceans and coastal zones,Eugene Z. Stakhiv,2856
+1,2,6,Oceans and coastal zones,J. Titus,5030
+1,2,7,"Seasonal snow cover, ice and permafrost",Oleg A. Anisimov,102
+1,2,7,"Seasonal snow cover, ice and permafrost",B. Blair Fitzharris,844
+1,2,7,"Seasonal snow cover, ice and permafrost",Roy M. Koerner,1540
+1,2,7,"Seasonal snow cover, ice and permafrost",Andrei A. Velichko,3091
+1,3,10,Financial Mechanisms,Pier Vellinga,3092
+1,3,2,Emissions Scenarios,Dennis A. Tirpak,3007
+1,3,2,Emissions Scenarios,Pier Vellinga,3092
+1,3,4,"Agriculture, Forestry and other Human Activities",Thomas R. Karl,1431
+1,3,5,Coastal Zone Management,John R. Campbell,424
+1,3,5,Coastal Zone Management,Job Dronkers,727
+1,3,5,Coastal Zone Management,J. Titus,5030
+1,3,5,Coastal Zone Management,L. Vallianos,3063
+1,3,5,Coastal Zone Management,Pier Vellinga,3092
+1,3,6,Resource Use and Management,Sharad P. Adhikary,28
+1,3,6,Resource Use and Management,A.J. Apling,112
+1,3,6,Resource Use and Management,John Everett,800
+1,3,6,Resource Use and Management,R. Holesgrove,1218
+1,3,6,Resource Use and Management,Erda Lin,1726
+1,3,6,Resource Use and Management,M. Rees,3597
+1,3,6,Resource Use and Management,Joel B. Smith,2803
+1,3,6,Resource Use and Management,Eugene Z. Stakhiv,2856
+1,3,7,Public Education and Information,R.J. Luxmoore,1790
+1,3,8,Technology Development and Transfer,Antonio R. Magalhaes,1811
+2,1,10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,Harvey J. Marchant,1842
+2,1,10,Marine Biotic Responses to Environmental Change and Feedbacks to Climate,John E. Walsh,3141
+2,1,11,Advancing our Understanding,Gordon McBean,1893
+2,1,11,Advancing our Understanding,Stephen Schneider,2668
+2,1,2,Radiative Forcing of Climate Change,Hervé Le Treut,1662
+2,1,2,Radiative Forcing of Climate Change,Gregg Marland,1849
+2,1,2,Radiative Forcing of Climate Change,Brian C. O'Neill,2164
+2,1,2,Radiative Forcing of Climate Change,Michael Prather,2383
+2,1,2,Radiative Forcing of Climate Change,Alan Robock,2521
+2,1,2,Radiative Forcing of Climate Change,David Schimel,2649
+2,1,2,Radiative Forcing of Climate Change,Jayaraman Srinivasan,2850
+2,1,2,Radiative Forcing of Climate Change,E. Sulzman,2916
+2,1,3,Observed Climate Variability and Change,R. Balling,177
+2,1,3,Observed Climate Variability and Change,Roger G. Barry,202
+2,1,3,Observed Climate Variability and Change,Daniel R. Cayan,457
+2,1,3,Observed Climate Variability and Change,Francis Chiew,498
+2,1,3,Observed Climate Variability and Change,H.F. Diaz,678
+2,1,3,Observed Climate Variability and Change,David Easterling,754
+2,1,3,Observed Climate Variability and Change,B.F. Findlay,830
+2,1,3,Observed Climate Variability and Change,Wilfreid Haeberli,1075
+2,1,3,Observed Climate Variability and Change,S. Hastenrath,1131
+2,1,3,Observed Climate Variability and Change,Ann Henderson-Sellers,1175
+2,1,3,Observed Climate Variability and Change,Mike Hulme,1273
+2,1,3,Observed Climate Variability and Change,Thomas R. Karl,1431
+2,1,3,Observed Climate Variability and Change,H. Lins,1739
+2,1,3,Observed Climate Variability and Change,Jose Marengo,1844
+2,1,3,Observed Climate Variability and Change,Neville Nicholls,2123
+2,1,3,Observed Climate Variability and Change,S. Nicholson,2125
+2,1,3,Observed Climate Variability and Change,Laban J. Ogallo,2176
+2,1,3,Observed Climate Variability and Change,E.Ya. Rankova,2439
+2,1,3,Observed Climate Variability and Change,Igor Shiklomanov,2748
+2,1,3,Observed Climate Variability and Change,John E. Walsh,3141
+2,1,4,Climate Processes,Alan Robock,2521
+2,1,5,Climate Models - Evaluation,Filippo Giorgi,973
+2,1,5,Climate Models - Evaluation,Ann Henderson-Sellers,1175
+2,1,5,Climate Models - Evaluation,Alan Robock,2521
+2,1,5,Climate Models - Evaluation,Frederick H.M. Semazzi,2706
+2,1,5,Climate Models - Evaluation,Ronald J. Stouffer,2890
+2,1,5,Climate Models - Evaluation,Karl E. Taylor,2965
+2,1,5,Climate Models - Evaluation,D. Williamson,3238
+2,1,6,Climate Models – Projections for the Future,Martin Beniston,231
+2,1,6,Climate Models – Projections for the Future,Jens Hesselbjerg Krishna Christensen,503
+2,1,6,Climate Models – Projections for the Future,Filippo Giorgi,973
+2,1,6,Climate Models – Projections for the Future,Jonathan M. Gregory,1024
+2,1,6,Climate Models – Projections for the Future,Ann Henderson-Sellers,1175
+2,1,6,Climate Models – Projections for the Future,Kevin Hennessy,1178
+2,1,6,Climate Models – Projections for the Future,Thomas R. Karl,1431
+2,1,6,Climate Models – Projections for the Future,David J. Karoly,1434
+2,1,6,Climate Models – Projections for the Future,T. Kittel,1519
+2,1,6,Climate Models – Projections for the Future,Linda O. Mearns,1922
+2,1,6,Climate Models – Projections for the Future,Sarah C.B. Raper,2441
+2,1,6,Climate Models – Projections for the Future,Frederick H.M. Semazzi,2706
+2,1,6,Climate Models – Projections for the Future,Ronald J. Stouffer,2890
+2,1,6,Climate Models – Projections for the Future,Karl E. Taylor,2965
+2,1,6,Climate Models – Projections for the Future,Hans von Storch,3126
+2,1,6,Climate Models – Projections for the Future,Penny Whetton,3210
+2,1,7,Changes in Sea Level,R.J. Braithwaite,328
+2,1,7,Changes in Sea Level,Vivien Gornitz,1002
+2,1,7,Changes in Sea Level,Jonathan M. Gregory,1024
+2,1,7,Changes in Sea Level,Wilfreid Haeberli,1075
+2,1,7,Changes in Sea Level,Sarah C.B. Raper,2441
+2,1,7,Changes in Sea Level,Philip Woodworth,3270
+2,1,8,Detection of Climate Change and Attribution of Causes,Jonathan M. Gregory,1024
+2,1,8,Detection of Climate Change and Attribution of Causes,Thomas R. Karl,1431
+2,1,8,Detection of Climate Change and Attribution of Causes,David J. Karoly,1434
+2,1,8,Detection of Climate Change and Attribution of Causes,Haroon Kheshgi,1482
+2,1,8,Detection of Climate Change and Attribution of Causes,Michael C. MacCracken,1799
+2,1,8,Detection of Climate Change and Attribution of Causes,Neville Nicholls,2123
+2,1,8,Detection of Climate Change and Attribution of Causes,G. North,2145
+2,1,8,Detection of Climate Change and Attribution of Causes,Michael Oppenheimer,2214
+2,1,8,Detection of Climate Change and Attribution of Causes,Alan Robock,2521
+2,1,8,Detection of Climate Change and Attribution of Causes,Karl E. Taylor,2965
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Christopher B. Field,829
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,B. Huntley,1276
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Christian Korner,1562
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Werner A. Kurz,1599
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Rik Leemans,1680
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Ron Neilson,2108
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Jonathan Overpeck,2228
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,L.F. Pitelka,2348
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,L.C. Prentice,2384
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,Steve Running,2570
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,O. Sala,2595
+2,1,9,Terrestrial Biotic Responses to Environmental Change and Feedbacks to Climate,David Schimel,2649
+2,1,TS,Technical Summary,Bert Bolin,291
+2,1,TS,Technical Summary,Michael Grubb,1039
+2,1,TS,Technical Summary,Gordon McBean,1893
+2,1,TS,Technical Summary,Mack McFarland,1902
+2,1,TS,Technical Summary,Neville Nicholls,2123
+2,1,TS,Technical Summary,Laban J. Ogallo,2176
+2,1,TS,Technical Summary,Michael Oppenheimer,2214
+2,1,TS,Technical Summary,Michael Prather,2383
+2,1,TS,Technical Summary,David Schimel,2649
+2,1,TS,Technical Summary,Robert T. Watson,3178
+2,1,TS,Technical Summary,John Zillman,3376
+2,2,1,Climate Change Impacts on Forests,Wolfgang P. Cramer,577
+2,2,1,Climate Change Impacts on Forests,Ann Henderson-Sellers,1175
+2,2,1,Climate Change Impacts on Forests,B. Huntley,1276
+2,2,1,Climate Change Impacts on Forests,Christian Korner,1562
+2,2,1,Climate Change Impacts on Forests,Rik Leemans,1680
+2,2,1,Climate Change Impacts on Forests,S. Linder,1730
+2,2,1,Climate Change Impacts on Forests,R.J. Luxmoore,1790
+2,2,1,Climate Change Impacts on Forests,Ron Neilson,2108
+2,2,1,Climate Change Impacts on Forests,Richard J. Norby,2142
+2,2,1,Climate Change Impacts on Forests,L.F. Pitelka,2348
+2,2,1,Climate Change Impacts on Forests,L.C. Prentice,2384
+2,2,10,Hydrology and Freshwater Ecology,Bryson C. Bates,211
+2,2,10,Hydrology and Freshwater Ecology,H. Lins,1739
+2,2,10,Hydrology and Freshwater Ecology,Eugene Z. Stakhiv,2856
+2,2,11,"Industry, Energy and Transportation: Impacts and Adaptation",Roberto Acosta Moreno,21
+2,2,11,"Industry, Energy and Transportation: Impacts and Adaptation",David L. Greene,1021
+2,2,11,"Industry, Energy and Transportation: Impacts and Adaptation",William Moomaw,2021
+2,2,11,"Industry, Energy and Transportation: Impacts and Adaptation",Jim F. Skea,2785
+2,2,12,Human Settlements in a Changing Climate: Impacts and Adaptation,B.C. Douglas,711
+2,2,12,Human Settlements in a Changing Climate: Impacts and Adaptation,Jos G.J. Olivier,2201
+2,2,12,Human Settlements in a Changing Climate: Impacts and Adaptation,Jyoti K. Parikh,2255
+2,2,12,Human Settlements in a Changing Climate: Impacts and Adaptation,Jim F. Skea,2785
+2,2,13,Agriculture in a Changing Climate: Impacts and Adaptation,Mark Howden,1253
+2,2,13,Agriculture in a Changing Climate: Impacts and Adaptation,Erda Lin,1726
+2,2,13,Agriculture in a Changing Climate: Impacts and Adaptation,John M. Reilly,2470
+2,2,13,Agriculture in a Changing Climate: Impacts and Adaptation,Oleg D. Sirotenko,2782
+2,2,14,Water Resources Management,H. Lins,1739
+2,2,14,Water Resources Management,A. Barrie Pittock,2350
+2,2,14,Water Resources Management,Eugene Z. Stakhiv,2856
+2,2,15,Wood Production under Changing Climate and Land Use,L.A. Joyce,1394
+2,2,15,Wood Production under Changing Climate and Land Use,W.R. Makundi,1825
+2,2,15,Wood Production under Changing Climate and Land Use,Nijavalli H. Ravindranath,2452
+2,2,16,Fisheries,John Everett,800
+2,2,19,Energy Supply Mitigation Options,H. Audus,150
+2,2,19,Energy Supply Mitigation Options,James Edmonds,762
+2,2,19,Energy Supply Mitigation Options,Atsushi Inaba,1292
+2,2,19,Energy Supply Mitigation Options,Hisashi Ishitani,1305
+2,2,19,Energy Supply Mitigation Options,M. Jefferson,1343
+2,2,19,Energy Supply Mitigation Options,Erda Lin,1726
+2,2,19,Energy Supply Mitigation Options,Jose Roberto Moreira,2026
+2,2,19,Energy Supply Mitigation Options,Nebojsa Nakicenovic,2099
+2,2,19,Energy Supply Mitigation Options,R.K. Pachauri,2234
+2,2,19,Energy Supply Mitigation Options,Steve Rayner,2460
+2,2,19,Energy Supply Mitigation Options,Hans-Holger Rogner,2540
+2,2,19,Energy Supply Mitigation Options,Fengqi Zhou,3366
+2,2,2,"Rangelands in a Changing Climate: Impacts, Adaptations and Mitigation",H.F. Diaz,678
+2,2,2,"Rangelands in a Changing Climate: Impacts, Adaptations and Mitigation",Mark Howden,1253
+2,2,2,"Rangelands in a Changing Climate: Impacts, Adaptations and Mitigation",L.A. Joyce,1394
+2,2,2,"Rangelands in a Changing Climate: Impacts, Adaptations and Mitigation",P. Matson,1873
+2,2,2,"Rangelands in a Changing Climate: Impacts, Adaptations and Mitigation",O. Sala,2595
+2,2,20,Industry,Takao Kashiwagi,1437
+2,2,20,Industry,William Moomaw,2021
+2,2,21,Mitigation Options in the Transportation Sector,Ogunlade R. Davidson,617
+2,2,21,Mitigation Options in the Transportation Sector,David L. Greene,1021
+2,2,21,Mitigation Options in the Transportation Sector,Amulf Grubler,1042
+2,2,21,Mitigation Options in the Transportation Sector,Laurie Michaelis,1958
+2,2,21,Mitigation Options in the Transportation Sector,Nebojsa Nakicenovic,2099
+2,2,22,Mitigation Options for Human Settlements,Hashem Akbari,3633
+2,2,22,Mitigation Options for Human Settlements,K. Hogan,1213
+2,2,22,Mitigation Options for Human Settlements,Siwei Lang,1631
+2,2,22,Mitigation Options for Human Settlements,Mark D. Levine,1707
+2,2,22,Mitigation Options for Human Settlements,Lynn K. Price,2390
+2,2,23,Agricultural Options for Mitigation of Greenhouse Gas Emissions,Carlos Clemente Cerri,461
+2,2,23,Agricultural Options for Mitigation of Greenhouse Gas Emissions,K. Minami,1990
+2,2,24,Management of Forests for Mitigation of Greenhouse Gas Emissions,Sandra Brown,365
+2,2,24,Management of Forests for Mitigation of Greenhouse Gas Emissions,P.E. Kauppi,1447
+2,2,24,Management of Forests for Mitigation of Greenhouse Gas Emissions,Rik Leemans,1680
+2,2,24,Management of Forests for Mitigation of Greenhouse Gas Emissions,Jayant Sathaye,2624
+2,2,24,Management of Forests for Mitigation of Greenhouse Gas Emissions,Roger Sedjo,2697
+2,2,25,Mitigation: Cross-Sectoral and Other Issues,Shardul Agrawala,37
+2,2,25,Mitigation: Cross-Sectoral and Other Issues,James Edmonds,762
+2,2,25,Mitigation: Cross-Sectoral and Other Issues,Rik Leemans,1680
+2,2,25,Mitigation: Cross-Sectoral and Other Issues,Michael C. MacCracken,1799
+2,2,26,Technical Guidelines for Assessing Climate Change Impacts and Adaptation,Timothy Carter,449
+2,2,26,Technical Guidelines for Assessing Climate Change Impacts and Adaptation,R. Christ,502
+2,2,26,Technical Guidelines for Assessing Climate Change Impacts and Adaptation,Eugene Z. Stakhiv,2856
+2,2,27,Methods for Assessment of Mitigation Options,Jens Hesselbjerg Krishna Christensen,503
+2,2,27,Methods for Assessment of Mitigation Options,Ogunlade R. Davidson,617
+2,2,27,Methods for Assessment of Mitigation Options,Jayant Sathaye,2624
+2,2,27,Methods for Assessment of Mitigation Options,Dennis A. Tirpak,3007
+2,2,28,"Inventory of Technologies, Methods and Practices",K. Hogan,1213
+2,2,4,Land Degradation and Desertification,R. Balling,177
+2,2,5,Impacts of Climate Change on Mountain Regions,Sharad P. Adhikary,28
+2,2,5,Impacts of Climate Change on Mountain Regions,Roger G. Barry,202
+2,2,5,Impacts of Climate Change on Mountain Regions,Martin Beniston,231
+2,2,5,Impacts of Climate Change on Mountain Regions,T. Kittel,1519
+2,2,5,Impacts of Climate Change on Mountain Regions,Christian Korner,1562
+2,2,5,Impacts of Climate Change on Mountain Regions,Erda Lin,1726
+2,2,5,Impacts of Climate Change on Mountain Regions,Xuemei Shao,2723
+2,2,5,Impacts of Climate Change on Mountain Regions,Olga Solomina,2824
+2,2,5,Impacts of Climate Change on Mountain Regions,E. Sulzman,2916
+2,2,6,Non-Tidal Wetlands,Nigel Roulet,2564
+2,2,6,Non-Tidal Wetlands,B.H. Svensson,2929
+2,2,6,Non-Tidal Wetlands,Y. Zhang,3347
+2,2,7,The CryosphereL Changes and their Impacts,Ian Allison,71
+2,2,7,The CryosphereL Changes and their Impacts,Oleg A. Anisimov,102
+2,2,7,The CryosphereL Changes and their Impacts,Roger G. Barry,202
+2,2,7,The CryosphereL Changes and their Impacts,R.J. Braithwaite,328
+2,2,7,The CryosphereL Changes and their Impacts,Ross D. Brown,363
+2,2,7,The CryosphereL Changes and their Impacts,B. Blair Fitzharris,844
+2,2,7,The CryosphereL Changes and their Impacts,Wilfreid Haeberli,1075
+2,2,7,The CryosphereL Changes and their Impacts,S. Hastenrath,1131
+2,2,7,The CryosphereL Changes and their Impacts,K. Higuchi,1190
+2,2,7,The CryosphereL Changes and their Impacts,Terry D. Prowse,2397
+2,2,7,The CryosphereL Changes and their Impacts,David Robinson,2517
+2,2,7,The CryosphereL Changes and their Impacts,Peter Wadhams,3132
+2,2,8,Oceans,John A. Church,510
+2,2,8,Oceans,John Everett,800
+2,2,8,Oceans,Patrick D. Nunn,2151
+2,2,8,Oceans,A. Barrie Pittock,2350
+2,2,9,Coastal Zones and Small Islands,Vivien Gornitz,1002
+2,2,9,Coastal Zones and Small Islands,P.M. Holligan,3388
+2,2,9,Coastal Zones and Small Islands,Kathleen McInnes,1911
+2,2,9,Coastal Zones and Small Islands,Eugene Z. Stakhiv,2856
+2,2,9,Coastal Zones and Small Islands,L. Vallianos,3063
+2,2,9,Coastal Zones and Small Islands,Richard A. Warrick,3170
+2,2,9,Coastal Zones and Small Islands,Philip Woodworth,3270
+2,2,A,"Ecophysical, Ecological and Soil Processes in Terrestrial Ecosystems: A primer on general concepts",Sandra Brown,365
+2,2,A,"Ecophysical, Ecological and Soil Processes in Terrestrial Ecosystems: A primer on general concepts",Wolfgang P. Cramer,577
+2,2,A,"Ecophysical, Ecological and Soil Processes in Terrestrial Ecosystems: A primer on general concepts",H.F. Diaz,678
+2,2,A,"Ecophysical, Ecological and Soil Processes in Terrestrial Ecosystems: A primer on general concepts",P.G. Jarvis,1336
+2,2,A,"Ecophysical, Ecological and Soil Processes in Terrestrial Ecosystems: A primer on general concepts",R.J. Luxmoore,1790
+2,2,A,"Ecophysical, Ecological and Soil Processes in Terrestrial Ecosystems: A primer on general concepts",L.F. Pitelka,2348
+2,2,B,Energy Primer,Amulf Grubler,1042
+2,2,B,Energy Primer,Hisashi Ishitani,1305
+2,2,B,Energy Primer,Gregg Marland,1849
+2,2,B,Energy Primer,Jose Roberto Moreira,2026
+2,2,B,Energy Primer,Nebojsa Nakicenovic,2099
+2,2,B,Energy Primer,Hans-Holger Rogner,2540
+2,2,TS,Technical Summary,Roberto Acosta Moreno,21
+2,2,TS,Technical Summary,Sharad P. Adhikary,28
+2,2,TS,Technical Summary,Shardul Agrawala,37
+2,2,TS,Technical Summary,Bryson C. Bates,211
+2,2,TS,Technical Summary,Martin Beniston,231
+2,2,TS,Technical Summary,Bert Bolin,291
+2,2,TS,Technical Summary,Sandra Brown,365
+2,2,TS,Technical Summary,Carlos Clemente Cerri,461
+2,2,TS,Technical Summary,William U. Chandler,472
+2,2,TS,Technical Summary,Wolfgang P. Cramer,577
+2,2,TS,Technical Summary,Ogunlade R. Davidson,617
+2,2,TS,Technical Summary,H.F. Diaz,678
+2,2,TS,Technical Summary,James Edmonds,762
+2,2,TS,Technical Summary,John Everett,800
+2,2,TS,Technical Summary,B. Blair Fitzharris,844
+2,2,TS,Technical Summary,Amulf Grubler,1042
+2,2,TS,Technical Summary,Hisashi Ishitani,1305
+2,2,TS,Technical Summary,Takao Kashiwagi,1437
+2,2,TS,Technical Summary,Rik Leemans,1680
+2,2,TS,Technical Summary,Mark D. Levine,1707
+2,2,TS,Technical Summary,Erda Lin,1726
+2,2,TS,Technical Summary,Michael C. MacCracken,1799
+2,2,TS,Technical Summary,Gregg Marland,1849
+2,2,TS,Technical Summary,Laurie Michaelis,1958
+2,2,TS,Technical Summary,William Moomaw,2021
+2,2,TS,Technical Summary,Jose Roberto Moreira,2026
+2,2,TS,Technical Summary,Nebojsa Nakicenovic,2099
+2,2,TS,Technical Summary,Nijavalli H. Ravindranath,2452
+2,2,TS,Technical Summary,John M. Reilly,2470
+2,2,TS,Technical Summary,Hans-Holger Rogner,2540
+2,2,TS,Technical Summary,Jayant Sathaye,2624
+2,2,TS,Technical Summary,S.K. Sinha,2779
+2,2,TS,Technical Summary,Jim F. Skea,2785
+2,2,TS,Technical Summary,Eugene Z. Stakhiv,2856
+2,2,TS,Technical Summary,B.H. Svensson,2929
+2,2,TS,Technical Summary,Dennis A. Tirpak,3007
+2,2,TS,Technical Summary,Pier Vellinga,3092
+2,2,TS,Technical Summary,Robert T. Watson,3178
+2,2,TS,Technical Summary,Fengqi Zhou,3366
+2,3,1,Introduction: Scope the Assessment,Sally Kane,1418
+2,3,1,Introduction: Scope the Assessment,John M. Reilly,2470
+2,3,10,Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results,Ogunlade R. Davidson,617
+2,3,10,Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results,James Edmonds,762
+2,3,10,Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results,Samuel Fankhauser,810
+2,3,10,Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results,Michael Grubb,1039
+2,3,10,Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results,Richard G. Richels,2492
+2,3,10,Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results,Priyadarshi R. Shukla,2759
+2,3,10,Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results,Richard S.J. Tol,3011
+2,3,10,Integrated Assessment of Climate Change: An Overview and Comparison of Approaches and Results,John P. Weyant,3205
+2,3,2,Decision-Making Frameworks for Addressing Climate Change,G. Chichilnisky,496
+2,3,2,Decision-Making Frameworks for Addressing Climate Change,Michael Grubb,1039
+2,3,2,Decision-Making Frameworks for Addressing Climate Change,Jyoti K. Parikh,2255
+2,3,2,Decision-Making Frameworks for Addressing Climate Change,Farhana Yamin,3304
+2,3,3,Equity and Social Considerations,Michael Grubb,1039
+2,3,3,Equity and Social Considerations,Farhana Yamin,3304
+2,3,5,Applicability of Techniques of Cost-Benefit Analysis to Climate Change,Karl E. Taylor,2965
+2,3,6,The Social Costs of Climate Change: Greenhouse Damage and the Benefits of Control,Samuel Fankhauser,810
+2,3,6,The Social Costs of Climate Change: Greenhouse Damage and the Benefits of Control,R.K. Pachauri,2234
+2,3,6,The Social Costs of Climate Change: Greenhouse Damage and the Benefits of Control,Karl E. Taylor,2965
+2,3,6,The Social Costs of Climate Change: Greenhouse Damage and the Benefits of Control,Richard S.J. Tol,3011
+2,3,6,The Social Costs of Climate Change: Greenhouse Damage and the Benefits of Control,Pier Vellinga,3092
+2,3,7,A Generic Assessment of Response Options,M. Jefferson,1343
+2,3,7,A Generic Assessment of Response Options,Roger Sedjo,2697
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,William U. Chandler,472
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,Ogunlade R. Davidson,617
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,James Edmonds,762
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,Michael Grubb,1039
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,K. Hogan,1213
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,Emilio Lebre La Rovere,1670
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,Richard G. Richels,2492
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,John B. Robinson,2518
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,Priyadarshi R. Shukla,2759
+2,3,8,Estimating the Costs of Mitigating Greenhouse Gases,Karl E. Taylor,2965
+2,3,9,A Review of Mitigation Cost Studies,William U. Chandler,472
+2,3,9,A Review of Mitigation Cost Studies,Ogunlade R. Davidson,617
+2,3,9,A Review of Mitigation Cost Studies,James Edmonds,762
+2,3,9,A Review of Mitigation Cost Studies,K. Hogan,1213
+2,3,9,A Review of Mitigation Cost Studies,Emilio Lebre La Rovere,1670
+2,3,9,A Review of Mitigation Cost Studies,Richard G. Richels,2492
+2,3,9,A Review of Mitigation Cost Studies,John B. Robinson,2518
+2,3,9,A Review of Mitigation Cost Studies,Priyadarshi R. Shukla,2759
+2,3,9,A Review of Mitigation Cost Studies,John P. Weyant,3205
+3,1,1,The Climate System: an Overview,Bert Bolin,291
+3,1,1,The Climate System: an Overview,David Schimel,2649
+3,1,10,Regional Climate Information – Evaluation and Projections,Bryson C. Bates,211
+3,1,10,Regional Climate Information – Evaluation and Projections,John M. Christensen,504
+3,1,10,Regional Climate Information – Evaluation and Projections,Wolfgang P. Cramer,577
+3,1,10,Regional Climate Information – Evaluation and Projections,Seita Emori,784
+3,1,10,Regional Climate Information – Evaluation and Projections,Filippo Giorgi,973
+3,1,10,Regional Climate Information – Evaluation and Projections,Dimitrios Gyalistras,1068
+3,1,10,Regional Climate Information – Evaluation and Projections,Bruce Charles Hewitson,1188
+3,1,10,Regional Climate Information – Evaluation and Projections,Mike Hulme,1273
+3,1,10,Regional Climate Information – Evaluation and Projections,Andy Jones,1375
+3,1,10,Regional Climate Information – Evaluation and Projections,Linda O. Mearns,1922
+3,1,10,Regional Climate Information – Evaluation and Projections,Frederick H.M. Semazzi,2706
+3,1,10,Regional Climate Information – Evaluation and Projections,Hans von Storch,3126
+3,1,10,Regional Climate Information – Evaluation and Projections,John E. Walsh,3141
+3,1,10,Regional Climate Information – Evaluation and Projections,Robert T. Watson,3178
+3,1,10,Regional Climate Information – Evaluation and Projections,Penny Whetton,3210
+3,1,10,Regional Climate Information – Evaluation and Projections,Robert Wilby,3226
+3,1,11,Changes in Sea Level,Oleg A. Anisimov,102
+3,1,11,Changes in Sea Level,John A. Church,510
+3,1,11,Changes in Sea Level,B.C. Douglas,711
+3,1,11,Changes in Sea Level,B. Blair Fitzharris,844
+3,1,11,Changes in Sea Level,Vivien Gornitz,1002
+3,1,11,Changes in Sea Level,K. Gregory,1025
+3,1,11,Changes in Sea Level,Jason A. Lowe,1776
+3,1,11,Changes in Sea Level,Michael Oppenheimer,2214
+3,1,11,Changes in Sea Level,Dahe Qin,2405
+3,1,11,Changes in Sea Level,Sarah C.B. Raper,2441
+3,1,11,Changes in Sea Level,Ronald J. Stouffer,2890
+3,1,11,Changes in Sea Level,Philip Woodworth,3270
+3,1,12,Detection of Climate Change and Attribution of Causes,Roger N. Jones,1385
+3,1,12,Detection of Climate Change and Attribution of Causes,Milind Kandlikar,1417
+3,1,12,Detection of Climate Change and Attribution of Causes,David J. Karoly,1434
+3,1,12,Detection of Climate Change and Attribution of Causes,Haroon Kheshgi,1482
+3,1,12,Detection of Climate Change and Attribution of Causes,Michael C. MacCracken,1799
+3,1,12,Detection of Climate Change and Attribution of Causes,Jose Marengo,1844
+3,1,12,Detection of Climate Change and Attribution of Causes,Alan Robock,2521
+3,1,12,Detection of Climate Change and Attribution of Causes,Frederick H.M. Semazzi,2706
+3,1,12,Detection of Climate Change and Attribution of Causes,Robert T. Watson,3178
+3,1,13,Climate Scenario Development,Timothy Carter,449
+3,1,13,Climate Scenario Development,John Hay,1141
+3,1,13,Climate Scenario Development,Mike Hulme,1273
+3,1,13,Climate Scenario Development,Andy Jones,1375
+3,1,13,Climate Scenario Development,T. Kittel,1519
+3,1,13,Climate Scenario Development,Rik Leemans,1680
+3,1,13,Climate Scenario Development,Luis Jose Mata,1871
+3,1,13,Climate Scenario Development,Linda O. Mearns,1922
+3,1,13,Climate Scenario Development,Robert T. Watson,3178
+3,1,13,Climate Scenario Development,Penny Whetton,3210
+3,1,13,Climate Scenario Development,Robert Wilby,3226
+3,1,14,Advancing our Understanding,Bert Bolin,291
+3,1,14,Advancing our Understanding,Luis Jose Mata,1871
+3,1,14,Advancing our Understanding,Ronald J. Stouffer,2890
+3,1,14,Advancing our Understanding,A. Underdal,3052
+3,1,2,Observed Climate Variability and Change,R. Balling,177
+3,1,2,Observed Climate Variability and Change,Ross D. Brown,363
+3,1,2,Observed Climate Variability and Change,Sandra Brown,365
+3,1,2,Observed Climate Variability and Change,B.C. Douglas,711
+3,1,2,Observed Climate Variability and Change,William Easterling,755
+3,1,2,Observed Climate Variability and Change,Wilfreid Haeberli,1075
+3,1,2,Observed Climate Variability and Change,Kevin Hennessy,1178
+3,1,2,Observed Climate Variability and Change,Mike Hulme,1273
+3,1,2,Observed Climate Variability and Change,Roger N. Jones,1385
+3,1,2,Observed Climate Variability and Change,Thomas R. Karl,1431
+3,1,2,Observed Climate Variability and Change,David J. Karoly,1434
+3,1,2,Observed Climate Variability and Change,H. Lins,1739
+3,1,2,Observed Climate Variability and Change,Jose Marengo,1844
+3,1,2,Observed Climate Variability and Change,Laban J. Ogallo,2176
+3,1,2,Observed Climate Variability and Change,Jonathan Overpeck,2228
+3,1,2,Observed Climate Variability and Change,Christian Pfister,2322
+3,1,2,Observed Climate Variability and Change,E.Ya. Rankova,2439
+3,1,2,Observed Climate Variability and Change,James A. Renwick,2478
+3,1,2,Observed Climate Variability and Change,John B. Robinson,2518
+3,1,2,Observed Climate Variability and Change,Alan Robock,2521
+3,1,2,Observed Climate Variability and Change,"Michael James ""Jim"" Salinger",2602
+3,1,2,Observed Climate Variability and Change,David Vaughan,3087
+3,1,2,Observed Climate Variability and Change,Hans von Storch,3126
+3,1,2,Observed Climate Variability and Change,Peter Wadhams,3132
+3,1,3,The Carbon Cycle and Atmospheric Carbon Dioxide,Wolfgang P. Cramer,577
+3,1,3,The Carbon Cycle and Atmospheric Carbon Dioxide,Christopher B. Field,829
+3,1,3,The Carbon Cycle and Atmospheric Carbon Dioxide,Haroon Kheshgi,1482
+3,1,3,The Carbon Cycle and Atmospheric Carbon Dioxide,K. Lindsay,1733
+3,1,3,The Carbon Cycle and Atmospheric Carbon Dioxide,L.F. Pitelka,2348
+3,1,3,The Carbon Cycle and Atmospheric Carbon Dioxide,Steve Rayner,2460
+3,1,3,The Carbon Cycle and Atmospheric Carbon Dioxide,Robert (Bob) J. Scholes,2674
+3,1,4,Atmospheric Chemistry and Greenhouse Gases,Amulf Grubler,1042
+3,1,4,Atmospheric Chemistry and Greenhouse Gases,Andrew C. Manning,1836
+3,1,4,Atmospheric Chemistry and Greenhouse Gases,P. Matson,1873
+3,1,4,Atmospheric Chemistry and Greenhouse Gases,D.L. Mauzerall,1885
+3,1,4,Atmospheric Chemistry and Greenhouse Gases,Mack McFarland,1902
+3,1,4,Atmospheric Chemistry and Greenhouse Gases,Jos G.J. Olivier,2201
+3,1,4,Atmospheric Chemistry and Greenhouse Gases,Michael Prather,2383
+3,1,4,Atmospheric Chemistry and Greenhouse Gases,Joel B. Smith,2803
+3,1,6,Radiative Forcing of Climate Change,Richard A. Betts,252
+3,1,6,Radiative Forcing of Climate Change,Richard Jones,1384
+3,1,6,Radiative Forcing of Climate Change,Stephen Schneider,2668
+3,1,6,Radiative Forcing of Climate Change,Joel B. Smith,2803
+3,1,6,Radiative Forcing of Climate Change,Jayaraman Srinivasan,2850
+3,1,7,Physical Climate Processes and Feedbacks,Oleg A. Anisimov,102
+3,1,7,Physical Climate Processes and Feedbacks,Roger G. Barry,202
+3,1,7,Physical Climate Processes and Feedbacks,Ann Henderson-Sellers,1175
+3,1,7,Physical Climate Processes and Feedbacks,Hervé Le Treut,1662
+3,1,8,Model Evaluation,Richard A. Betts,252
+3,1,8,Model Evaluation,Phil Duffy,736
+3,1,8,Model Evaluation,K. Gregory,1025
+3,1,8,Model Evaluation,Roger N. Jones,1385
+3,1,8,Model Evaluation,D. Keith,1456
+3,1,8,Model Evaluation,Frederick H.M. Semazzi,2706
+3,1,8,Model Evaluation,John M.R. Stone,2883
+3,1,8,Model Evaluation,Ronald J. Stouffer,2890
+3,1,8,Model Evaluation,Y. Zhang,3347
+3,1,9,Projections of Future Climate Change,K. Gregory,1025
+3,1,9,Projections of Future Climate Change,Linda O. Mearns,1922
+3,1,9,Projections of Future Climate Change,Chris Milly,1986
+3,1,9,Projections of Future Climate Change,T. Nozawa,2149
+3,1,9,Projections of Future Climate Change,Sarah C.B. Raper,2441
+3,1,9,Projections of Future Climate Change,Joel B. Smith,2803
+3,1,9,Projections of Future Climate Change,John M.R. Stone,2883
+3,1,9,Projections of Future Climate Change,Ronald J. Stouffer,2890
+3,1,9,Projections of Future Climate Change,Penny Whetton,3210
+3,1,TS,Technical Summary,John A. Church,510
+3,1,TS,Technical Summary,Filippo Giorgi,973
+3,1,TS,Technical Summary,K. Gregory,1025
+3,1,TS,Technical Summary,Bruce Charles Hewitson,1188
+3,1,TS,Technical Summary,Mike Hulme,1273
+3,1,TS,Technical Summary,Thomas R. Karl,1431
+3,1,TS,Technical Summary,David J. Karoly,1434
+3,1,TS,Technical Summary,Haroon Kheshgi,1482
+3,1,TS,Technical Summary,Luis Jose Mata,1871
+3,1,TS,Technical Summary,Mack McFarland,1902
+3,1,TS,Technical Summary,Linda O. Mearns,1922
+3,1,TS,Technical Summary,Michael Oppenheimer,2214
+3,1,TS,Technical Summary,Michael Prather,2383
+3,1,TS,Technical Summary,Sarah C.B. Raper,2441
+3,1,TS,Technical Summary,"Michael James ""Jim"" Salinger",2602
+3,1,TS,Technical Summary,Robert (Bob) J. Scholes,2674
+3,1,TS,Technical Summary,John M.R. Stone,2883
+3,1,TS,Technical Summary,Ronald J. Stouffer,2890
+3,1,TS,Technical Summary,Robert T. Watson,3178
+3,1,TS,Technical Summary,John Zillman,3376
+3,2,1,"Overview of Impacts, Adaptation and Vulnerability to Climate Change",Andy Jones,1375
+3,2,1,"Overview of Impacts, Adaptation and Vulnerability to Climate Change",Richard G. Richels,2492
+3,2,10,Africa,Thomas E. Downing,719
+3,2,10,Africa,Johannes Feddema,819
+3,2,10,Africa,Daniel M. Gwary,1067
+3,2,10,Africa,Bubu Pateh Jallow,1327
+3,2,10,Africa,S. Nicholson,2125
+3,2,10,Africa,Daniel Olago,2196
+3,2,10,Africa,Robert (Bob) J. Scholes,2674
+3,2,10,Africa,Frederick H.M. Semazzi,2706
+3,2,10,Africa,Mukiri Wa Githendu,3131
+3,2,10,Africa,Richard Washington,3173
+3,2,11,Asia,Sharad P. Adhikary,28
+3,2,11,Asia,Deliang Chen,486
+3,2,11,Asia,Seita Emori,784
+3,2,11,Asia,T. Nozawa,2149
+3,2,11,Asia,E.Ya. Rankova,2439
+3,2,11,Asia,Jayaraman Srinivasan,2850
+3,2,11,Asia,Y. Zhang,3347
+3,2,11,Asia,Peter P. Zhou,3371
+3,2,12,Australia and New Zealand,Bryson C. Bates,211
+3,2,12,Australia and New Zealand,Justin Ford-Robertson,862
+3,2,12,Australia and New Zealand,Mark Howden,1253
+3,2,12,Australia and New Zealand,Philip D. Jones,1382
+3,2,12,Australia and New Zealand,Kathleen McInnes,1911
+3,2,12,Australia and New Zealand,A. Barrie Pittock,2350
+3,2,12,Australia and New Zealand,James A. Renwick,2478
+3,2,12,Australia and New Zealand,John E. Walsh,3141
+3,2,12,Australia and New Zealand,David Wratt,3274
+3,2,13,Europe,Martin Beniston,231
+3,2,13,Europe,Timothy Carter,449
+3,2,13,Europe,Wolfgang P. Cramer,577
+3,2,13,Europe,Mike Hulme,1273
+3,2,13,Europe,Jason A. Lowe,1776
+3,2,13,Europe,Andrei A. Velichko,3091
+3,2,14,Latin America,Jorge O. Codignotto,535
+3,2,14,Latin America,Victor Magana,1812
+3,2,14,Latin America,Jose Marengo,1844
+3,2,14,Latin America,Luis Jose Mata,1871
+3,2,14,Latin America,Carlos A. Nobre,2137
+3,2,14,Latin America,Silvina Solman,2823
+3,2,15,North America,G. Chichilnisky,496
+3,2,15,North America,James Rodger Fleming,849
+3,2,15,North America,Victor Magana,1812
+3,2,15,North America,Evan Mills,1983
+3,2,15,North America,David Schimel,2649
+3,2,16,Polar Regions,Oleg A. Anisimov,102
+3,2,16,Polar Regions,B. Blair Fitzharris,844
+3,2,16,Polar Regions,Jon Ove Hagen,1076
+3,2,16,Polar Regions,Harvey J. Marchant,1842
+3,2,16,Polar Regions,Terry D. Prowse,2397
+3,2,16,Polar Regions,Dahe Qin,2405
+3,2,16,Polar Regions,Igor Shiklomanov,2748
+3,2,16,Polar Regions,David Vaughan,3087
+3,2,17,Small Island States,K. Gregory,1025
+3,2,17,Small Island States,Lynn K. Price,2390
+3,2,17,Small Island States,Dahe Qin,2405
+3,2,18,Adaptation to Climate Change in the Context of Sustainable Development and Equity,Thomas E. Downing,719
+3,2,18,Adaptation to Climate Change in the Context of Sustainable Development and Equity,Sally Kane,1418
+3,2,18,Adaptation to Climate Change in the Context of Sustainable Development and Equity,Doug M. Smith,2802
+3,2,18,Adaptation to Climate Change in the Context of Sustainable Development and Equity,Gary Yohe,3324
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Samuel Fankhauser,810
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Rik Leemans,1680
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Erda Lin,1726
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Laban J. Ogallo,2176
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,A. Barrie Pittock,2350
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Lynn K. Price,2390
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Stefan Rahmstorf,2421
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Richard G. Richels,2492
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,S.K. Sinha,2779
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Doug M. Smith,2802
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Richard S.J. Tol,3011
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,John P. Weyant,3205
+3,2,19,Vulnerability to Climate Change and Reasons for Concern: A Synthesis,Gary Yohe,3324
+3,2,2,Methods and Tools,Thomas E. Downing,719
+3,2,2,Methods and Tools,B. Blair Fitzharris,844
+3,2,2,Methods and Tools,Andy Jones,1375
+3,2,2,Methods and Tools,G. North,2145
+3,2,2,Methods and Tools,Jyoti K. Parikh,2255
+3,2,2,Methods and Tools,Gerhard Petschel-Held,2317
+3,2,2,Methods and Tools,Richard G. Richels,2492
+3,2,2,Methods and Tools,Ferenc L. Toth,3017
+3,2,2,Methods and Tools,Richard A. Warrick,3170
+3,2,2,Methods and Tools,Gary Yohe,3324
+3,2,3,Developing and Applying Scenarios,Timothy Carter,449
+3,2,3,Developing and Applying Scenarios,Sujata Gupta,1059
+3,2,3,Developing and Applying Scenarios,Mike Hulme,1273
+3,2,3,Developing and Applying Scenarios,Andy Jones,1375
+3,2,3,Developing and Applying Scenarios,Emilio Lebre La Rovere,1670
+3,2,3,Developing and Applying Scenarios,Rik Leemans,1680
+3,2,3,Developing and Applying Scenarios,Linda O. Mearns,1922
+3,2,3,Developing and Applying Scenarios,Nebojsa Nakicenovic,2099
+3,2,3,Developing and Applying Scenarios,A. Barrie Pittock,2350
+3,2,3,Developing and Applying Scenarios,Jim F. Skea,2785
+3,2,3,Developing and Applying Scenarios,Andrei A. Velichko,3091
+3,2,4,Hydrology and Water Resources,Igor Shiklomanov,2748
+3,2,4,Hydrology and Water Resources,Eugene Z. Stakhiv,2856
+3,2,5,Ecosystems and Their Goods and Services,Michael J. Apps,114
+3,2,5,Ecosystems and Their Goods and Services,Ross D. Brown,363
+3,2,5,Ecosystems and Their Goods and Services,Wolfgang P. Cramer,577
+3,2,5,Ecosystems and Their Goods and Services,David Easterling,754
+3,2,5,Ecosystems and Their Goods and Services,James Rodger Fleming,849
+3,2,5,Ecosystems and Their Goods and Services,Paul Fraser,876
+3,2,5,Ecosystems and Their Goods and Services,Mark Howden,1253
+3,2,5,Ecosystems and Their Goods and Services,Bubu Pateh Jallow,1327
+3,2,5,Ecosystems and Their Goods and Services,Erda Lin,1726
+3,2,5,Ecosystems and Their Goods and Services,Ron Neilson,2108
+3,2,5,Ecosystems and Their Goods and Services,Lynn K. Price,2390
+3,2,5,Ecosystems and Their Goods and Services,Terry D. Prowse,2397
+3,2,5,Ecosystems and Their Goods and Services,Nigel Roulet,2564
+3,2,5,Ecosystems and Their Goods and Services,Oleg D. Sirotenko,2782
+3,2,5,Ecosystems and Their Goods and Services,Brent Sohngen,2814
+3,2,5,Ecosystems and Their Goods and Services,D. Williamson,3238
+3,2,6,Coastal Zones and Marine Ecosystems,Jorge O. Codignotto,535
+3,2,7,"Human Settlements, Energy and Industry",Shreekant Gupta,1058
+3,2,7,"Human Settlements, Energy and Industry",Jim F. Skea,2785
+3,2,8,Insurance and Other Financial Services,Evan Mills,1983
+3,2,8,Insurance and Other Financial Services,Pier Vellinga,3092
+3,2,9,Human Health,K. Lindsay,1733
+3,2,SPM,Summary For Policy Makers,Oleg A. Anisimov,102
+3,2,SPM,Summary For Policy Makers,Ross D. Brown,363
+3,2,SPM,Summary For Policy Makers,Timothy Carter,449
+3,2,SPM,Summary For Policy Makers,David Easterling,754
+3,2,SPM,Summary For Policy Makers,B. Blair Fitzharris,844
+3,2,SPM,Summary For Policy Makers,Shreekant Gupta,1058
+3,2,SPM,Summary For Policy Makers,Bubu Pateh Jallow,1327
+3,2,SPM,Summary For Policy Makers,Philip D. Jones,1382
+3,2,SPM,Summary For Policy Makers,Emilio Lebre La Rovere,1670
+3,2,SPM,Summary For Policy Makers,Rik Leemans,1680
+3,2,SPM,Summary For Policy Makers,Andrew C. Manning,1836
+3,2,SPM,Summary For Policy Makers,Luis Jose Mata,1871
+3,2,SPM,Summary For Policy Makers,James J. McCarthy,1895
+3,2,SPM,Summary For Policy Makers,Evan Mills,1983
+3,2,SPM,Summary For Policy Makers,A. Barrie Pittock,2350
+3,2,SPM,Summary For Policy Makers,Lynn K. Price,2390
+3,2,SPM,Summary For Policy Makers,Robert (Bob) J. Scholes,2674
+3,2,SPM,Summary For Policy Makers,Doug M. Smith,2802
+3,2,SPM,Summary For Policy Makers,Brent Sohngen,2814
+3,2,SPM,Summary For Policy Makers,Pier Vellinga,3092
+3,2,SPM,Summary For Policy Makers,Richard A. Warrick,3170
+3,2,SPM,Summary For Policy Makers,David Wratt,3274
+3,2,TS,Technical Summary,Oleg A. Anisimov,102
+3,2,TS,Technical Summary,Ross D. Brown,363
+3,2,TS,Technical Summary,Timothy Carter,449
+3,2,TS,Technical Summary,David Easterling,754
+3,2,TS,Technical Summary,B. Blair Fitzharris,844
+3,2,TS,Technical Summary,Sujata Gupta,1059
+3,2,TS,Technical Summary,Bubu Pateh Jallow,1327
+3,2,TS,Technical Summary,Emilio Lebre La Rovere,1670
+3,2,TS,Technical Summary,Andrew C. Manning,1836
+3,2,TS,Technical Summary,Luis Jose Mata,1871
+3,2,TS,Technical Summary,Evan Mills,1983
+3,2,TS,Technical Summary,Carlos A. Nobre,2137
+3,2,TS,Technical Summary,A. Barrie Pittock,2350
+3,2,TS,Technical Summary,Lynn K. Price,2390
+3,2,TS,Technical Summary,Doug M. Smith,2802
+3,2,TS,Technical Summary,Pier Vellinga,3092
+3,2,TS,Technical Summary,Richard A. Warrick,3170
+3,2,TS,Technical Summary,David Wratt,3274
+3,3,1,Setting the Stage: Climate Change and Sustainable Development,Thomas E. Downing,719
+3,3,1,Setting the Stage: Climate Change and Sustainable Development,Jyoti K. Parikh,2255
+3,3,1,Setting the Stage: Climate Change and Sustainable Development,David Robinson,2517
+3,3,1,Setting the Stage: Climate Change and Sustainable Development,John P. Weyant,3205
+3,3,1,Setting the Stage: Climate Change and Sustainable Development,Gary Yohe,3324
+3,3,10,Decision-making Frameworks,John M. Christensen,504
+3,3,10,Decision-making Frameworks,James Edmonds,762
+3,3,10,Decision-making Frameworks,Carlos Gay Garcia,941
+3,3,10,Decision-making Frameworks,Robert Lempert,1691
+3,3,10,Decision-making Frameworks,Atiq Rahman,2420
+3,3,10,Decision-making Frameworks,Richard G. Richels,2492
+3,3,10,Decision-making Frameworks,Ferenc L. Toth,3017
+3,3,10,Decision-making Frameworks,A. Underdal,3052
+3,3,10,Decision-making Frameworks,John P. Weyant,3205
+3,3,2,Greenhouse Gas Emission Mitigation Scenarios and Implications,Joseph M. Alcamo,56
+3,3,2,Greenhouse Gas Emission Mitigation Scenarios and Implications,Lisa Alexander,59
+3,3,2,Greenhouse Gas Emission Mitigation Scenarios and Implications,Emilio Lebre La Rovere,1670
+3,3,2,Greenhouse Gas Emission Mitigation Scenarios and Implications,Nebojsa Nakicenovic,2099
+3,3,2,Greenhouse Gas Emission Mitigation Scenarios and Implications,David Robinson,2517
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,H. Audus,150
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,David L. Greene,1021
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Jonathan M. Gregory,1024
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Hisashi Ishitani,1305
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Takao Kashiwagi,1437
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Mark D. Levine,1707
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Mack McFarland,1902
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Evan Mills,1983
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,William Moomaw,2021
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Jose Roberto Moreira,2026
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Jeff Price,2389
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Hans-Holger Rogner,2540
+3,3,3,Technological and Economic Potential of Greenhouse Gas Emissions Reduction,Fengqi Zhou,3366
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",Michael J. Apps,114
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",Eduardo Calvo Buendia,419
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",Carlos Clemente Cerri,461
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",P.E. Kauppi,1447
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",D. Keith,1456
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",Haroon Kheshgi,1482
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",W.R. Makundi,1825
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",Gregg Marland,1849
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",Nijavalli H. Ravindranath,2452
+3,3,4,"Technological and Economic Potential of Options to Enhance, Maintain, and Manage Biological Carbon Reservoirs and Geo-engineering",Roger Sedjo,2697
+3,3,5,"Barriers, Opportunities, and market Potential of Technologies and Practices",Alex Hall,1084
+3,3,5,"Barriers, Opportunities, and market Potential of Technologies and Practices",M. Jefferson,1343
+3,3,5,"Barriers, Opportunities, and market Potential of Technologies and Practices",Laurie Michaelis,1958
+3,3,5,"Barriers, Opportunities, and market Potential of Technologies and Practices",Jayant Sathaye,2624
+3,3,6,"Policies, Measures and Instruments",Shreekant Gupta,1058
+3,3,6,"Policies, Measures and Instruments",Anil Markandya,1847
+3,3,6,"Policies, Measures and Instruments",Farhana Yamin,3304
+3,3,7,Costing Methodologies,Karl E. Taylor,2965
+3,3,8,"Global, Regional and National Costs and Ancillary Benefits of Mitigation",James Edmonds,762
+3,3,8,"Global, Regional and National Costs and Ancillary Benefits of Mitigation",John M. Reilly,2470
+3,3,8,"Global, Regional and National Costs and Ancillary Benefits of Mitigation",Richard G. Richels,2492
+3,3,8,"Global, Regional and National Costs and Ancillary Benefits of Mitigation",Priyadarshi R. Shukla,2759
+3,3,9,Sector Costs and Ancillary Benefits of Mitigation,D.L. Mauzerall,1885
+3,3,SPM,Summary For Policy Makers,R. Christ,502
+3,3,SPM,Summary For Policy Makers,Ogunlade R. Davidson,617
+3,3,SPM,Summary For Policy Makers,James Edmonds,762
+3,3,SPM,Summary For Policy Makers,Jonathan M. Gregory,1024
+3,3,SPM,Summary For Policy Makers,Michael Grubb,1039
+3,3,SPM,Summary For Policy Makers,Hisashi Ishitani,1305
+3,3,SPM,Summary For Policy Makers,P.E. Kauppi,1447
+3,3,SPM,Summary For Policy Makers,Anil Markandya,1847
+3,3,SPM,Summary For Policy Makers,William Moomaw,2021
+3,3,SPM,Summary For Policy Makers,Nebojsa Nakicenovic,2099
+3,3,SPM,Summary For Policy Makers,Hans-Holger Rogner,2540
+3,3,SPM,Summary For Policy Makers,Jayant Sathaye,2624
+3,3,SPM,Summary For Policy Makers,Roger Sedjo,2697
+3,3,SPM,Summary For Policy Makers,Priyadarshi R. Shukla,2759
+3,3,SPM,Summary For Policy Makers,Ferenc L. Toth,3017
+3,3,TS,Technical Summary,John M. Christensen,504
+3,3,TS,Technical Summary,Ogunlade R. Davidson,617
+3,3,TS,Technical Summary,Michael Grubb,1039
+3,3,TS,Technical Summary,Hisashi Ishitani,1305
+3,3,TS,Technical Summary,P.E. Kauppi,1447
+3,3,TS,Technical Summary,Anil Markandya,1847
+3,3,TS,Technical Summary,William Moomaw,2021
+3,3,TS,Technical Summary,Jose Roberto Moreira,2026
+3,3,TS,Technical Summary,R.K. Pachauri,2234
+3,3,TS,Technical Summary,Jeff Price,2389
+3,3,TS,Technical Summary,Richard G. Richels,2492
+3,3,TS,Technical Summary,David Robinson,2517
+3,3,TS,Technical Summary,Jayant Sathaye,2624
+3,3,TS,Technical Summary,Karl E. Taylor,2965
+3,3,TS,Technical Summary,Ferenc L. Toth,3017
+4,1,1,Historical Overview of Climate Change Science,James Rodger Fleming,849
+4,1,1,Historical Overview of Climate Change Science,Hervé Le Treut,1662
+4,1,1,Historical Overview of Climate Change Science,Michael C. MacCracken,1799
+4,1,1,Historical Overview of Climate Change Science,Christian Pfister,2322
+4,1,1,Historical Overview of Climate Change Science,Michael Prather,2383
+4,1,1,Historical Overview of Climate Change Science,Ronald J. Stouffer,2890
+4,1,1,Historical Overview of Climate Change Science,Karl E. Taylor,2965
+4,1,10,Global Climate Projections,Julie Arblaster,118
+4,1,10,Global Climate Projections,Mark Dyurgerov,752
+4,1,10,Global Climate Projections,Seita Emori,784
+4,1,10,Global Climate Projections,Jonathan M. Gregory,1024
+4,1,10,Global Climate Projections,Jason A. Lowe,1776
+4,1,10,Global Climate Projections,Malte Meinshausen,1930
+4,1,10,Global Climate Projections,Michael Oppenheimer,2214
+4,1,10,Global Climate Projections,Jonathan Overpeck,2228
+4,1,10,Global Climate Projections,Sarah C.B. Raper,2441
+4,1,10,Global Climate Projections,Ronald J. Stouffer,2890
+4,1,10,Global Climate Projections,Karl E. Taylor,2965
+4,1,10,Global Climate Projections,Claudia Tebaldi,2968
+4,1,10,Global Climate Projections,David Vaughan,3087
+4,1,11,Regional Climate Projections,Martin Beniston,231
+4,1,11,Regional Climate Projections,Jens Hesselbjerg Krishna Christensen,503
+4,1,11,Regional Climate Projections,Seita Emori,784
+4,1,11,Regional Climate Projections,Johannes Feddema,819
+4,1,11,Regional Climate Projections,Filippo Giorgi,973
+4,1,11,Regional Climate Projections,Bruce Charles Hewitson,1188
+4,1,11,Regional Climate Projections,Richard Jones,1384
+4,1,11,Regional Climate Projections,Won-Tae Kwon,1607
+4,1,11,Regional Climate Projections,Jason A. Lowe,1776
+4,1,11,Regional Climate Projections,Kathleen McInnes,1911
+4,1,11,Regional Climate Projections,Linda O. Mearns,1922
+4,1,11,Regional Climate Projections,Daithi A. Stone,2882
+4,1,11,Regional Climate Projections,Claudia Tebaldi,2968
+4,1,11,Regional Climate Projections,Penny Whetton,3210
+4,1,11,Regional Climate Projections,Robert Wilby,3226
+4,1,2,Changes in Atmospheric Constituents and Radiative Forcing,Richard A. Betts,252
+4,1,2,Changes in Atmospheric Constituents and Radiative Forcing,Paul Fraser,876
+4,1,2,Changes in Atmospheric Constituents and Radiative Forcing,Andrew C. Manning,1836
+4,1,3,Observations: Atmospheric Surface and Climate Change,Lisa Alexander,59
+4,1,3,Observations: Atmospheric Surface and Climate Change,Martin Beniston,231
+4,1,3,Observations: Atmospheric Surface and Climate Change,Daniel R. Cayan,457
+4,1,3,Observations: Atmospheric Surface and Climate Change,David Easterling,754
+4,1,3,Observations: Atmospheric Surface and Climate Change,Bubu Pateh Jallow,1327
+4,1,3,Observations: Atmospheric Surface and Climate Change,Philip D. Jones,1382
+4,1,3,Observations: Atmospheric Surface and Climate Change,Thomas R. Karl,1431
+4,1,3,Observations: Atmospheric Surface and Climate Change,Neville Nicholls,2123
+4,1,3,Observations: Atmospheric Surface and Climate Change,Taikan Oki,2192
+4,1,3,Observations: Atmospheric Surface and Climate Change,James A. Renwick,2478
+4,1,3,Observations: Atmospheric Surface and Climate Change,Frederick H.M. Semazzi,2706
+4,1,3,Observations: Atmospheric Surface and Climate Change,Richard Washington,3173
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Ian Allison,71
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Roger G. Barry,202
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Ross D. Brown,363
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",J. Graham Cogley,538
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Mark Dyurgerov,752
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",B. Blair Fitzharris,844
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Jon Ove Hagen,1076
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Regine Hock,1204
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Georg Kaser,1436
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Terry D. Prowse,2397
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",David Robinson,2517
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",Olga Solomina,2824
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",David Vaughan,3087
+4,1,4,"Observations: Changes in Snow, Ice and Frozen Ground",John E. Walsh,3141
+4,1,5,Observations: Ocean Climate Change and Sea Level,John A. Church,510
+4,1,5,Observations: Ocean Climate Change and Sea Level,Jonathan M. Gregory,1024
+4,1,5,Observations: Ocean Climate Change and Sea Level,Chris Milly,1986
+4,1,5,Observations: Ocean Climate Change and Sea Level,Yukihiro Nojiri,2141
+4,1,5,Observations: Ocean Climate Change and Sea Level,Stefan Rahmstorf,2421
+4,1,5,Observations: Ocean Climate Change and Sea Level,Philip Woodworth,3270
+4,1,5,Observations: Ocean Climate Change and Sea Level,David Wratt,3274
+4,1,6,Paleoclimate,Daniel Olago,2196
+4,1,6,Paleoclimate,Jonathan Overpeck,2228
+4,1,6,Paleoclimate,Stefan Rahmstorf,2421
+4,1,6,Paleoclimate,Olga Solomina,2824
+4,1,7,Coupling Between Changes in the Climate System and Biogeochemistry,Richard A. Betts,252
+4,1,7,Coupling Between Changes in the Climate System and Biogeochemistry,Josep Canadell,431
+4,1,7,Coupling Between Changes in the Climate System and Biogeochemistry,David Easterling,754
+4,1,7,Coupling Between Changes in the Climate System and Biogeochemistry,Ann Henderson-Sellers,1175
+4,1,7,Coupling Between Changes in the Climate System and Biogeochemistry,Andy Jones,1375
+4,1,7,Coupling Between Changes in the Climate System and Biogeochemistry,Nigel Roulet,2564
+4,1,8,Climate Models and their Evaluation,Seita Emori,784
+4,1,8,Climate Models and their Evaluation,Jonathan M. Gregory,1024
+4,1,8,Climate Models and their Evaluation,Alex Hall,1084
+4,1,8,Climate Models and their Evaluation,Stephane Hallegatte,1090
+4,1,8,Climate Models and their Evaluation,Ann Henderson-Sellers,1175
+4,1,8,Climate Models and their Evaluation,Malte Meinshausen,1930
+4,1,8,Climate Models and their Evaluation,Stefan Rahmstorf,2421
+4,1,8,Climate Models and their Evaluation,Sarah C.B. Raper,2441
+4,1,8,Climate Models and their Evaluation,Doug M. Smith,2802
+4,1,8,Climate Models and their Evaluation,Jayaraman Srinivasan,2850
+4,1,8,Climate Models and their Evaluation,Daithi A. Stone,2882
+4,1,8,Climate Models and their Evaluation,Ronald J. Stouffer,2890
+4,1,8,Climate Models and their Evaluation,Karl E. Taylor,2965
+4,1,9,Understanding and Attributing Climate Change,Natalia Andronova,98
+4,1,9,Understanding and Attributing Climate Change,Richard A. Betts,252
+4,1,9,Understanding and Attributing Climate Change,Jonathan M. Gregory,1024
+4,1,9,Understanding and Attributing Climate Change,Danny Harvey,1123
+4,1,9,Understanding and Attributing Climate Change,David J. Karoly,1434
+4,1,9,Understanding and Attributing Climate Change,Jose Marengo,1844
+4,1,9,Understanding and Attributing Climate Change,Neville Nicholls,2123
+4,1,9,Understanding and Attributing Climate Change,Laban J. Ogallo,2176
+4,1,9,Understanding and Attributing Climate Change,Daithi A. Stone,2882
+4,1,SPM,Summary For Policy Makers,Julie Arblaster,118
+4,1,SPM,Summary For Policy Makers,Jens Hesselbjerg Krishna Christensen,503
+4,1,SPM,Summary For Policy Makers,Jonathan M. Gregory,1024
+4,1,SPM,Summary For Policy Makers,Bruce Charles Hewitson,1188
+4,1,SPM,Summary For Policy Makers,Philip D. Jones,1382
+4,1,SPM,Summary For Policy Makers,Hervé Le Treut,1662
+4,1,SPM,Summary For Policy Makers,Neville Nicholls,2123
+4,1,SPM,Summary For Policy Makers,Jonathan Overpeck,2228
+4,1,SPM,Summary For Policy Makers,Dahe Qin,2405
+4,1,SPM,Summary For Policy Makers,Daithi A. Stone,2882
+4,1,SPM,Summary For Policy Makers,Ronald J. Stouffer,2890
+4,1,SPM,Summary For Policy Makers,Penny Whetton,3210
+4,1,SPM,Summary For Policy Makers,David Wratt,3274
+4,1,TS,Technical Summary,Julie Arblaster,118
+4,1,TS,Technical Summary,Jens Hesselbjerg Krishna Christensen,503
+4,1,TS,Technical Summary,Filippo Giorgi,973
+4,1,TS,Technical Summary,Jonathan M. Gregory,1024
+4,1,TS,Technical Summary,Bruce Charles Hewitson,1188
+4,1,TS,Technical Summary,Bubu Pateh Jallow,1327
+4,1,TS,Technical Summary,Philip D. Jones,1382
+4,1,TS,Technical Summary,Hervé Le Treut,1662
+4,1,TS,Technical Summary,Neville Nicholls,2123
+4,1,TS,Technical Summary,Jonathan Overpeck,2228
+4,1,TS,Technical Summary,Dahe Qin,2405
+4,1,TS,Technical Summary,Daithi A. Stone,2882
+4,1,TS,Technical Summary,Ronald J. Stouffer,2890
+4,1,TS,Technical Summary,Penny Whetton,3210
+4,1,TS,Technical Summary,David Wratt,3274
+4,2,1,Assessment of Observed Changes and Responses in Natural and Managed Systems,Mark Dyurgerov,752
+4,2,1,Assessment of Observed Changes and Responses in Natural and Managed Systems,Vivien Gornitz,1002
+4,2,1,Assessment of Observed Changes and Responses in Natural and Managed Systems,Wilfreid Haeberli,1075
+4,2,1,Assessment of Observed Changes and Responses in Natural and Managed Systems,John Hay,1141
+4,2,1,Assessment of Observed Changes and Responses in Natural and Managed Systems,David J. Karoly,1434
+4,2,1,Assessment of Observed Changes and Responses in Natural and Managed Systems,Georg Kaser,1436
+4,2,1,Assessment of Observed Changes and Responses in Natural and Managed Systems,Jeff Price,2389
+4,2,10,Asia,Josep Canadell,431
+4,2,10,Asia,Seita Emori,784
+4,2,10,Asia,Mostafa Jafari,1321
+4,2,11,Australia and New Zealand,Bryson C. Bates,211
+4,2,11,Australia and New Zealand,Michael J. Coughlan,571
+4,2,11,Australia and New Zealand,B. Blair Fitzharris,844
+4,2,11,Australia and New Zealand,Kevin Hennessy,1178
+4,2,11,Australia and New Zealand,Mark Howden,1253
+4,2,11,Australia and New Zealand,"Michael James ""Jim"" Salinger",2602
+4,2,11,Australia and New Zealand,Richard A. Warrick,3170
+4,2,12,Europe,Joseph M. Alcamo,56
+4,2,13,Latin America,Carlos Gay Garcia,941
+4,2,13,Latin America,Jose Marengo,1844
+4,2,13,Latin America,Carlos A. Nobre,2137
+4,2,14,North America,Natalia Andronova,98
+4,2,14,North America,Daniel R. Cayan,457
+4,2,14,North America,Christopher B. Field,829
+4,2,14,North America,Michael C. MacCracken,1799
+4,2,14,North America,Gordon McBean,1893
+4,2,14,North America,Evan Mills,1983
+4,2,14,North America,Steve Running,2570
+4,2,15,Polar Regions,Oleg A. Anisimov,102
+4,2,15,Polar Regions,Roger G. Barry,202
+4,2,15,Polar Regions,Terry V. Callaghan,414
+4,2,15,Polar Regions,Harvey J. Marchant,1842
+4,2,15,Polar Regions,Terry D. Prowse,2397
+4,2,15,Polar Regions,John M.R. Stone,2883
+4,2,15,Polar Regions,David Vaughan,3087
+4,2,15,Polar Regions,John E. Walsh,3141
+4,2,16,Small Islands,John Hay,1141
+4,2,17,"Assessment of adaptation practices, options, constraints and capacity",Shardul Agrawala,37
+4,2,17,"Assessment of adaptation practices, options, constraints and capacity",Samuel Fankhauser,810
+4,2,17,"Assessment of adaptation practices, options, constraints and capacity",Antonio R. Magalhaes,1811
+4,2,17,"Assessment of adaptation practices, options, constraints and capacity",Priyadarshi R. Shukla,2759
+4,2,17,"Assessment of adaptation practices, options, constraints and capacity",Joel B. Smith,2803
+4,2,18,Inter-relationships between adaptation and mitigation,Sarah Burch,393
+4,2,18,Inter-relationships between adaptation and mitigation,Thomas E. Downing,719
+4,2,18,Inter-relationships between adaptation and mitigation,Michael Grubb,1039
+4,2,18,Inter-relationships between adaptation and mitigation,Richard G. Richels,2492
+4,2,18,Inter-relationships between adaptation and mitigation,John B. Robinson,2518
+4,2,18,Inter-relationships between adaptation and mitigation,Ferenc L. Toth,3017
+4,2,18,Inter-relationships between adaptation and mitigation,Rachel Warren,3167
+4,2,19,Assessing key vulnerabilities and the risk from climate change,Jan Corfee-Morlot,563
+4,2,19,Assessing key vulnerabilities and the risk from climate change,Michael D. Mastrandrea,1869
+4,2,19,Assessing key vulnerabilities and the risk from climate change,Michael Oppenheimer,2214
+4,2,19,Assessing key vulnerabilities and the risk from climate change,A. Barrie Pittock,2350
+4,2,19,Assessing key vulnerabilities and the risk from climate change,Atiq Rahman,2420
+4,2,19,Assessing key vulnerabilities and the risk from climate change,Stephen Schneider,2668
+4,2,19,Assessing key vulnerabilities and the risk from climate change,Joel B. Smith,2803
+4,2,19,Assessing key vulnerabilities and the risk from climate change,Farhana Yamin,3304
+4,2,19,Assessing key vulnerabilities and the risk from climate change,John Zillman,3376
+4,2,2,New Assessment methods and the characterization of future conditions,Timothy Carter,449
+4,2,2,New Assessment methods and the characterization of future conditions,Stephane Hallegatte,1090
+4,2,2,New Assessment methods and the characterization of future conditions,Roger N. Jones,1385
+4,2,2,New Assessment methods and the characterization of future conditions,Milind Kandlikar,1417
+4,2,2,New Assessment methods and the characterization of future conditions,Linda O. Mearns,1922
+4,2,2,New Assessment methods and the characterization of future conditions,Malte Meinshausen,1930
+4,2,2,New Assessment methods and the characterization of future conditions,Brian C. O'Neill,2164
+4,2,2,New Assessment methods and the characterization of future conditions,Michael Oppenheimer,2214
+4,2,2,New Assessment methods and the characterization of future conditions,Anthony Patt,2271
+4,2,2,New Assessment methods and the characterization of future conditions,Sarah C.B. Raper,2441
+4,2,2,New Assessment methods and the characterization of future conditions,Claudia Tebaldi,2968
+4,2,2,New Assessment methods and the characterization of future conditions,Detlef P. Van Vuuren,3080
+4,2,20,Perspectives on climate change and sustainability,Anthony Janetos,1329
+4,2,20,Perspectives on climate change and sustainability,Elizabeth L. Malone,1829
+4,2,20,Perspectives on climate change and sustainability,John M.R. Stone,2883
+4,2,20,Perspectives on climate change and sustainability,Ferenc L. Toth,3017
+4,2,20,Perspectives on climate change and sustainability,Gary Yohe,3324
+4,2,3,Freshwater resources and their management,Richard A. Betts,252
+4,2,3,Freshwater resources and their management,Luis Jose Mata,1871
+4,2,3,Freshwater resources and their management,Chris Milly,1986
+4,2,3,Freshwater resources and their management,Taikan Oki,2192
+4,2,3,Freshwater resources and their management,Igor Shiklomanov,2748
+4,2,3,Freshwater resources and their management,Robert Wilby,3226
+4,2,4,"Ecosystems, their properties, goods and services",Martin Beniston,231
+4,2,4,"Ecosystems, their properties, goods and services",Terry V. Callaghan,414
+4,2,4,"Ecosystems, their properties, goods and services",Wolfgang P. Cramer,577
+4,2,4,"Ecosystems, their properties, goods and services",Dimitrios Gyalistras,1068
+4,2,4,"Ecosystems, their properties, goods and services",Christian Korner,1562
+4,2,4,"Ecosystems, their properties, goods and services",Rik Leemans,1680
+4,2,4,"Ecosystems, their properties, goods and services",Wolfgang Lucht,1779
+4,2,4,"Ecosystems, their properties, goods and services",Ron Neilson,2108
+4,2,4,"Ecosystems, their properties, goods and services",Jeff Price,2389
+4,2,4,"Ecosystems, their properties, goods and services",Andrei A. Velichko,3091
+4,2,4,"Ecosystems, their properties, goods and services",Rachel Warren,3167
+4,2,5,"Food, Fibre and Forest Products",William Easterling,755
+4,2,5,"Food, Fibre and Forest Products",Mark Howden,1253
+4,2,5,"Food, Fibre and Forest Products",Erda Lin,1726
+4,2,5,"Food, Fibre and Forest Products",Roger Sedjo,2697
+4,2,5,"Food, Fibre and Forest Products",Francesco Tubiello,3039
+4,2,6,Coastal Systems and low-lying areas,Julie Arblaster,118
+4,2,6,Coastal Systems and low-lying areas,Jorge O. Codignotto,535
+4,2,6,Coastal Systems and low-lying areas,Job Dronkers,727
+4,2,6,Coastal Systems and low-lying areas,John Hay,1141
+4,2,6,Coastal Systems and low-lying areas,Jason A. Lowe,1776
+4,2,6,Coastal Systems and low-lying areas,Kathleen McInnes,1911
+4,2,6,Coastal Systems and low-lying areas,Richard S.J. Tol,3011
+4,2,7,"Industry, settlements and society",Jean-Paul Ceron,460
+4,2,7,"Industry, settlements and society",Thomas E. Downing,719
+4,2,7,"Industry, settlements and society",Christian Pfister,2322
+4,2,8,Human Health,Anil Markandya,1847
+4,2,9,Africa,Frederick H.M. Semazzi,2706
+4,2,9,Africa,Mukiri Wa Githendu,3131
+4,2,9,Africa,Richard Washington,3173
+4,2,SPM,Summary For Policy Makers,Shardul Agrawala,37
+4,2,SPM,Summary For Policy Makers,Joseph M. Alcamo,56
+4,2,SPM,Summary For Policy Makers,Oleg A. Anisimov,102
+4,2,SPM,Summary For Policy Makers,Timothy Carter,449
+4,2,SPM,Summary For Policy Makers,William Easterling,755
+4,2,SPM,Summary For Policy Makers,Christopher B. Field,829
+4,2,SPM,Summary For Policy Makers,B. Blair Fitzharris,844
+4,2,SPM,Summary For Policy Makers,Carlos Gay Garcia,941
+4,2,SPM,Summary For Policy Makers,Kevin Hennessy,1178
+4,2,SPM,Summary For Policy Makers,Roger N. Jones,1385
+4,2,SPM,Summary For Policy Makers,David J. Karoly,1434
+4,2,SPM,Summary For Policy Makers,Luis Jose Mata,1871
+4,2,SPM,Summary For Policy Makers,Michael Oppenheimer,2214
+4,2,SPM,Summary For Policy Makers,Stephen Schneider,2668
+4,2,SPM,Summary For Policy Makers,Joel B. Smith,2803
+4,2,SPM,Summary For Policy Makers,John M.R. Stone,2883
+4,2,SPM,Summary For Policy Makers,David Vaughan,3087
+4,2,SPM,Summary For Policy Makers,Gary Yohe,3324
+4,2,TS,Technical Summary,Shardul Agrawala,37
+4,2,TS,Technical Summary,Joseph M. Alcamo,56
+4,2,TS,Technical Summary,Oleg A. Anisimov,102
+4,2,TS,Technical Summary,Timothy Carter,449
+4,2,TS,Technical Summary,Wolfgang P. Cramer,577
+4,2,TS,Technical Summary,William Easterling,755
+4,2,TS,Technical Summary,Christopher B. Field,829
+4,2,TS,Technical Summary,B. Blair Fitzharris,844
+4,2,TS,Technical Summary,Carlos Gay Garcia,941
+4,2,TS,Technical Summary,Kevin Hennessy,1178
+4,2,TS,Technical Summary,Roger N. Jones,1385
+4,2,TS,Technical Summary,David J. Karoly,1434
+4,2,TS,Technical Summary,Luis Jose Mata,1871
+4,2,TS,Technical Summary,Michael Oppenheimer,2214
+4,2,TS,Technical Summary,Stephen Schneider,2668
+4,2,TS,Technical Summary,Joel B. Smith,2803
+4,2,TS,Technical Summary,John M.R. Stone,2883
+4,2,TS,Technical Summary,David Vaughan,3087
+4,2,TS,Technical Summary,Gary Yohe,3324
+4,3,1,Introduction,William L. Hare,1110
+4,3,1,Introduction,Richard Odingo,2170
+4,3,1,Introduction,Jos G.J. Olivier,2201
+4,3,1,Introduction,Hans-Holger Rogner,2540
+4,3,10,Waste Management,Qingxian Gao,925
+4,3,11,Mitigation from a cross sectoral perspective,Michael Grubb,1039
+4,3,11,Mitigation from a cross sectoral perspective,Ferenc L. Toth,3017
+4,3,12,Sustainable Development and mitigation,Sarah Burch,393
+4,3,12,Sustainable Development and mitigation,Jan Corfee-Morlot,563
+4,3,12,Sustainable Development and mitigation,Gerhard Petschel-Held,2317
+4,3,12,Sustainable Development and mitigation,Steve Rayner,2460
+4,3,12,Sustainable Development and mitigation,John B. Robinson,2518
+4,3,12,Sustainable Development and mitigation,Jayant Sathaye,2624
+4,3,13,"Policies, instruments and co-operative agreements",Sujata Gupta,1059
+4,3,13,"Policies, instruments and co-operative agreements",Dennis A. Tirpak,3007
+4,3,2,Framing Issues,James Edmonds,762
+4,3,2,Framing Issues,Amulf Grubler,1042
+4,3,2,Framing Issues,Elizabeth L. Malone,1829
+4,3,2,Framing Issues,Anil Markandya,1847
+4,3,2,Framing Issues,Mack McFarland,1902
+4,3,2,Framing Issues,Priyadarshi R. Shukla,2759
+4,3,3,Issues Related to Mitigation in the Long Term Context,Jan Corfee-Morlot,563
+4,3,3,Issues Related to Mitigation in the Long Term Context,Emilio Lebre La Rovere,1670
+4,3,3,Issues Related to Mitigation in the Long Term Context,Michael D. Mastrandrea,1869
+4,3,3,Issues Related to Mitigation in the Long Term Context,Nebojsa Nakicenovic,2099
+4,3,3,Issues Related to Mitigation in the Long Term Context,Brian C. O'Neill,2164
+4,3,3,Issues Related to Mitigation in the Long Term Context,Richard G. Richels,2492
+4,3,3,Issues Related to Mitigation in the Long Term Context,Ferenc L. Toth,3017
+4,3,3,Issues Related to Mitigation in the Long Term Context,Detlef P. Van Vuuren,3080
+4,3,3,Issues Related to Mitigation in the Long Term Context,Rachel Warren,3167
+4,3,3,Issues Related to Mitigation in the Long Term Context,John P. Weyant,3205
+4,3,4,Energy Supply,William Moomaw,2021
+4,3,4,Energy Supply,Jose Roberto Moreira,2026
+4,3,5,Transport and its Infrastructure,David L. Greene,1021
+4,3,5,Transport and its Infrastructure,Haroon Kheshgi,1482
+4,3,5,Transport and its Infrastructure,David S. Lee,1675
+4,3,5,Transport and its Infrastructure,Peter P. Zhou,3371
+4,3,6,Residential and Commercial Buildings,Danny Harvey,1123
+4,3,6,Residential and Commercial Buildings,Siwei Lang,1631
+4,3,6,Residential and Commercial Buildings,Mark D. Levine,1707
+4,3,7,Industry,Lynn K. Price,2390
+4,3,7,Industry,Fengqi Zhou,3366
+4,3,8,Agriculture,Daniel M. Gwary,1067
+4,3,8,Agriculture,Mark Howden,1253
+4,3,8,Agriculture,Bruce McCarl,1894
+4,3,8,Agriculture,Robert (Bob) J. Scholes,2674
+4,3,8,Agriculture,Oleg D. Sirotenko,2782
+4,3,8,Agriculture,Mukiri Wa Githendu,3131
+4,3,9,Forestry,Michael J. Apps,114
+4,3,9,Forestry,Eduardo Calvo Buendia,419
+4,3,9,Forestry,Justin Ford-Robertson,862
+4,3,9,Forestry,Werner A. Kurz,1599
+4,3,9,Forestry,Nijavalli H. Ravindranath,2452
+4,3,9,Forestry,Brent Sohngen,2814
+4,3,SPM,Summary For Policy Makers,Ogunlade R. Davidson,617
+4,3,SPM,Summary For Policy Makers,Michael Grubb,1039
+4,3,SPM,Summary For Policy Makers,Sujata Gupta,1059
+4,3,SPM,Summary For Policy Makers,Mark D. Levine,1707
+4,3,SPM,Summary For Policy Makers,Nebojsa Nakicenovic,2099
+4,3,SPM,Summary For Policy Makers,Hans-Holger Rogner,2540
+4,3,SPM,Summary For Policy Makers,Jayant Sathaye,2624
+4,3,SPM,Summary For Policy Makers,Priyadarshi R. Shukla,2759
+4,3,SPM,Summary For Policy Makers,Dennis A. Tirpak,3007
+4,3,TS,Technical Summary,Jean-Paul Ceron,460
+4,3,TS,Technical Summary,Jorge O. Codignotto,535
+4,3,TS,Technical Summary,Ogunlade R. Davidson,617
+4,3,TS,Technical Summary,Sujata Gupta,1059
+4,3,TS,Technical Summary,Mark D. Levine,1707
+4,3,TS,Technical Summary,Nebojsa Nakicenovic,2099
+4,3,TS,Technical Summary,Hans-Holger Rogner,2540
+4,3,TS,Technical Summary,Jayant Sathaye,2624
+4,3,TS,Technical Summary,Priyadarshi R. Shukla,2759
+4,3,TS,Technical Summary,Dennis A. Tirpak,3007
+4,3,TS,Technical Summary,Mukiri Wa Githendu,3131
+5,1,1,Introduction,Deliang Chen,486
+5,1,1,Introduction,Linda O. Mearns,1922
+5,1,1,Introduction,Malte Meinshausen,1930
+5,1,1,Introduction,Peter Wadhams,3132
+5,1,10,Detection and Attribution of Climate Change: from Global to Regional,Jonathan M. Gregory,1024
+5,1,10,Detection and Attribution of Climate Change: from Global to Regional,Georg Kaser,1436
+5,1,11,Near-term Climate Change: Projections and Predictability,Ed Hawkins,4374
+5,1,11,Near-term Climate Change: Projections and Predictability,Michael Prather,2383
+5,1,11,Near-term Climate Change: Projections and Predictability,Alan Robock,2521
+5,1,11,Near-term Climate Change: Projections and Predictability,Doug M. Smith,2802
+5,1,11,Near-term Climate Change: Projections and Predictability,Bart van den Hurk,4915
+5,1,12,"Long-term Climate Change: Projections, Commitments and Irreversibility",Julie Arblaster,118
+5,1,12,"Long-term Climate Change: Projections, Commitments and Irreversibility",Jonathan M. Gregory,1024
+5,1,12,"Long-term Climate Change: Projections, Commitments and Irreversibility",Wolfgang Lucht,1779
+5,1,12,"Long-term Climate Change: Projections, Commitments and Irreversibility",Malte Meinshausen,1930
+5,1,12,"Long-term Climate Change: Projections, Commitments and Irreversibility",Stefan Rahmstorf,2421
+5,1,12,"Long-term Climate Change: Projections, Commitments and Irreversibility",Mxolisi Shongwe,2753
+5,1,12,"Long-term Climate Change: Projections, Commitments and Irreversibility",Karl E. Taylor,2965
+5,1,12,"Long-term Climate Change: Projections, Commitments and Irreversibility",Claudia Tebaldi,2968
+5,1,13,Sea Level Change,John A. Church,510
+5,1,13,Sea Level Change,Jonathan M. Gregory,1024
+5,1,13,Sea Level Change,Regine Hock,1204
+5,1,13,Sea Level Change,Georg Kaser,1436
+5,1,13,Sea Level Change,Kathleen McInnes,1911
+5,1,13,Sea Level Change,Patrick D. Nunn,2151
+5,1,13,Sea Level Change,Philip Woodworth,3270
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,Jens Hesselbjerg Krishna Christensen,503
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,Alex Hall,1084
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,Won-Tae Kwon,1607
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,Chris Lennard,4515
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,Victor Magana,1812
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,Linda O. Mearns,1922
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,James A. Renwick,2478
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,Silvina Solman,2823
+5,1,14,Climate Phenomena and their Relevance for Future Regional Climate Change,David Wratt,3274
+5,1,2,Observations: Atmosphere and Surface,Lisa Alexander,59
+5,1,2,Observations: Atmosphere and Surface,David Easterling,754
+5,1,2,Observations: Atmosphere and Surface,Jose Marengo,1844
+5,1,3,Observations: Ocean,Ian Allison,71
+5,1,3,Observations: Ocean,Sarah Cooley,4203
+5,1,3,Observations: Ocean,David Karl,1430
+5,1,3,Observations: Ocean,Georg Kaser,1436
+5,1,3,Observations: Ocean,Joan Kleypas,4471
+5,1,3,Observations: Ocean,Yukihiro Nojiri,2141
+5,1,3,Observations: Ocean,Doug M. Smith,2802
+5,1,3,Observations: Ocean,Hans von Storch,3126
+5,1,3,Observations: Ocean,Philip Woodworth,3270
+5,1,4,Observations: Cryosphere,Ian Allison,71
+5,1,4,Observations: Cryosphere,J. Graham Cogley,538
+5,1,4,Observations: Cryosphere,Jon Ove Hagen,1076
+5,1,4,Observations: Cryosphere,Regine Hock,1204
+5,1,4,Observations: Cryosphere,Georg Kaser,1436
+5,1,4,Observations: Cryosphere,Terry D. Prowse,2397
+5,1,4,Observations: Cryosphere,David Robinson,2517
+5,1,4,Observations: Cryosphere,Olga Solomina,2824
+5,1,4,Observations: Cryosphere,David Vaughan,3087
+5,1,4,Observations: Cryosphere,Peter Wadhams,3132
+5,1,5,Information and Paleoclimate Archives,Gerardo Benito,233
+5,1,5,Information and Paleoclimate Archives,Robert Kopp,4481
+5,1,5,Information and Paleoclimate Archives,Alan Robock,2521
+5,1,5,Information and Paleoclimate Archives,Xuemei Shao,2723
+5,1,5,Information and Paleoclimate Archives,Olga Solomina,2824
+5,1,6,Carbon and Other biogeochemical Cycles,Long Cao,4169
+5,1,6,Carbon and Other biogeochemical Cycles,Gregg Marland,1849
+5,1,6,Carbon and Other biogeochemical Cycles,Richard J. Norby,2142
+5,1,6,Carbon and Other biogeochemical Cycles,Stephen Sitch,4849
+5,1,6,Carbon and Other biogeochemical Cycles,Detlef van Vuuren,4918
+5,1,7,Clouds and AER,Josep Canadell,431
+5,1,7,Clouds and AER,Andy Jones,1375
+5,1,7,Clouds and AER,Alan Robock,2521
+5,1,8,Anthropogenic and Natural Radiative Forcing,David S. Lee,1675
+5,1,8,Anthropogenic and Natural Radiative Forcing,Brian C. O'Neill,2164
+5,1,8,Anthropogenic and Natural Radiative Forcing,Michael Prather,2383
+5,1,8,Anthropogenic and Natural Radiative Forcing,Alan Robock,2521
+5,1,9,Evaluation of Climate Models,Seita Emori,784
+5,1,9,Evaluation of Climate Models,Emiloa Gbobaniyi,4320
+5,1,9,Evaluation of Climate Models,Alex Hall,1084
+5,1,SPM,Summary For Policy Makers,Lisa Alexander,59
+5,1,SPM,Summary For Policy Makers,Jens Hesselbjerg Krishna Christensen,503
+5,1,SPM,Summary For Policy Makers,John A. Church,510
+5,1,SPM,Summary For Policy Makers,Seita Emori,784
+5,1,SPM,Summary For Policy Makers,Jonathan M. Gregory,1024
+5,1,SPM,Summary For Policy Makers,Georg Kaser,1436
+5,1,SPM,Summary For Policy Makers,Dahe Qin,2405
+5,1,SPM,Summary For Policy Makers,David Vaughan,3087
+5,2,1,Point of Departure,William L. Hare,1110
+5,2,1,Point of Departure,Hervé Le Treut,1662
+5,2,1,Point of Departure,Michael D. Mastrandrea,1869
+5,2,1,Point of Departure,Michael Prather,2383
+5,2,1,Point of Departure,Gary Yohe,3324
+5,2,10,Key Economic Sectors and Services,Stephane Hallegatte,1090
+5,2,10,Key Economic Sectors and Services,Haroon Kheshgi,1482
+5,2,10,Key Economic Sectors and Services,Richard S.J. Tol,3011
+5,2,10,Key Economic Sectors and Services,Ferenc L. Toth,3017
+5,2,11,Human Health,Joel B. Smith,2803
+5,2,14,Adaptation needs and options,Anthony Patt,2271
+5,2,14,Adaptation needs and options,Joel B. Smith,2803
+5,2,17,Economics of Adaptation,Eduardo Calvo Buendia,419
+5,2,17,Economics of Adaptation,Samuel Fankhauser,810
+5,2,17,Economics of Adaptation,Stephane Hallegatte,1090
+5,2,17,Economics of Adaptation,Howard Kunreuther,3856
+5,2,17,Economics of Adaptation,Anil Markandya,1847
+5,2,17,Economics of Adaptation,Bruce McCarl,1894
+5,2,18,Detection and Attribution of Observed Impacts,Wolfgang P. Cramer,577
+5,2,18,Detection and Attribution of Observed Impacts,Rik Leemans,1680
+5,2,18,Detection and Attribution of Observed Impacts,Andrew Solow,2828
+5,2,18,Detection and Attribution of Observed Impacts,Daithi A. Stone,2882
+5,2,18,Detection and Attribution of Observed Impacts,Gary Yohe,3324
+5,2,19,Emergent Risks and Key Vulnerabilities,Joan Kleypas,4471
+5,2,19,Emergent Risks and Key Vulnerabilities,Robert Kopp,4481
+5,2,19,Emergent Risks and Key Vulnerabilities,Brian C. O'Neill,2164
+5,2,19,Emergent Risks and Key Vulnerabilities,Michael Oppenheimer,2214
+5,2,19,Emergent Risks and Key Vulnerabilities,Jeff Price,2389
+5,2,19,Emergent Risks and Key Vulnerabilities,Alan Robock,2521
+5,2,19,Emergent Risks and Key Vulnerabilities,Detlef van Vuuren,4918
+5,2,19,Emergent Risks and Key Vulnerabilities,Rachel Warren,3167
+5,2,2,Foundations for Decisionmaking,Richard Jones,1384
+5,2,2,Foundations for Decisionmaking,Robert Lempert,1691
+5,2,2,Foundations for Decisionmaking,Hans von Storch,3126
+5,2,21,Regional Context,Timothy Carter,449
+5,2,21,Regional Context,Thomas E. Downing,719
+5,2,21,Regional Context,Phil Duffy,736
+5,2,21,Regional Context,Filippo Giorgi,973
+5,2,21,Regional Context,Bruce Charles Hewitson,1188
+5,2,21,Regional Context,Anthony Janetos,1329
+5,2,21,Regional Context,Roger N. Jones,1385
+5,2,21,Regional Context,Won-Tae Kwon,1607
+5,2,21,Regional Context,Linda O. Mearns,1922
+5,2,22,Africa,Emiloa Gbobaniyi,4320
+5,2,22,Africa,Chris Lennard,4515
+5,2,22,Africa,Mxolisi Shongwe,2753
+5,2,22,Africa,Daithi A. Stone,2882
+5,2,23,Europe,Martin Beniston,231
+5,2,23,Europe,Tomasz Zylicz,4061
+5,2,24,Asia,Qingxian Gao,925
+5,2,24,Asia,Erda Lin,1726
+5,2,25,Australiasia,Francis Chiew,498
+5,2,25,Australiasia,B. Blair Fitzharris,844
+5,2,25,Australiasia,Mark Howden,1253
+5,2,25,Australiasia,David J. Karoly,1434
+5,2,25,Australiasia,Kathleen McInnes,1911
+5,2,25,Australiasia,Penny Whetton,3210
+5,2,27,Central and South America,Jose Marengo,1844
+5,2,27,Central and South America,Carlos A. Nobre,2137
+5,2,27,Central and South America,Carlos A. Nobre,2137
+5,2,28,Polar Regions,Oleg A. Anisimov,102
+5,2,28,Polar Regions,Terry V. Callaghan,414
+5,2,28,Polar Regions,Terry D. Prowse,2397
+5,2,28,Polar Regions,John M.R. Stone,2883
+5,2,29,Small Islands,John R. Campbell,424
+5,2,3,Freshwater Resources,Gerardo Benito,233
+5,2,3,Freshwater Resources,J. Graham Cogley,538
+5,2,3,Freshwater Resources,Regine Hock,1204
+5,2,3,Freshwater Resources,Luis Jose Mata,1871
+5,2,3,Freshwater Resources,Taikan Oki,2192
+5,2,3,Freshwater Resources,Bart van den Hurk,4915
+5,2,30,Open Oceans,Long Cao,4169
+5,2,30,Open Oceans,Daithi A. Stone,2882
+5,2,4,Terrestrial and Inland water Systems,Richard A. Betts,252
+5,2,4,Terrestrial and Inland water Systems,Ed Hawkins,4374
+5,2,4,Terrestrial and Inland water Systems,Jonathan Overpeck,2228
+5,2,4,Terrestrial and Inland water Systems,Robert (Bob) J. Scholes,2674
+5,2,4,Terrestrial and Inland water Systems,Stephen Sitch,4849
+5,2,5,Coastal systesms and low-lying Areas,Kathleen McInnes,1911
+5,2,6,Ocean Systems,Sarah Cooley,4203
+5,2,6,Ocean Systems,David Karl,1430
+5,2,6,Ocean Systems,Yukihiro Nojiri,2141
+5,2,7,Food Production systems and Food Security,Mark Howden,1253
+5,2,8,Urban Areas,Jan Corfee-Morlot,563
+5,2,SPM,Summary For Policy Makers,Oleg A. Anisimov,102
+5,2,SPM,Summary For Policy Makers,Wolfgang P. Cramer,577
+5,2,SPM,Summary For Policy Makers,Christopher B. Field,829
+5,2,SPM,Summary For Policy Makers,Richard Jones,1384
+5,2,SPM,Summary For Policy Makers,Roger N. Jones,1385
+5,2,SPM,Summary For Policy Makers,Erda Lin,1726
+5,2,SPM,Summary For Policy Makers,Jose Marengo,1844
+5,2,SPM,Summary For Policy Makers,Anil Markandya,1847
+5,2,SPM,Summary For Policy Makers,Michael D. Mastrandrea,1869
+5,2,SPM,Summary For Policy Makers,Bruce McCarl,1894
+5,2,SPM,Summary For Policy Makers,Linda O. Mearns,1922
+5,2,SPM,Summary For Policy Makers,Taikan Oki,2192
+5,2,SPM,Summary For Policy Makers,Michael Oppenheimer,2214
+5,2,SPM,Summary For Policy Makers,Jonathan Overpeck,2228
+5,2,SPM,Summary For Policy Makers,Michael Prather,2383
+5,2,SPM,Summary For Policy Makers,Rachel Warren,3167
+5,2,SPM,Summary For Policy Makers,Gary Yohe,3324
+5,3,1,Introduction,Amulf Grubler,1042
+5,3,1,Introduction,Jos G.J. Olivier,2201
+5,3,1,Introduction,Hans-Holger Rogner,2540
+5,3,10,Industry,Jean-Paul Ceron,460
+5,3,10,Industry,Haroon Kheshgi,1482
+5,3,10,Industry,Ronald J. Stouffer,2890
+5,3,11,AFOLU,Mostafa Jafari,1321
+5,3,11,AFOLU,Nijavalli H. Ravindranath,2452
+5,3,11,AFOLU,Francesco Tubiello,3039
+5,3,12,"Human Settlements, Infrastructure and Spatial Planning",Atsushi Inaba,1292
+5,3,14,Regional Development and Cooperation,Roberto Acosta Moreno,21
+5,3,14,Regional Development and Cooperation,Shardul Agrawala,37
+5,3,14,Regional Development and Cooperation,Anthony Patt,2271
+5,3,15,National and Sub-National Policies,Tomasz Zylicz,4061
+5,3,16,Investment and Finance,Sujata Gupta,1059
+5,3,2,Integrated Risk and Uncertainty,Shreekant Gupta,1058
+5,3,2,Integrated Risk and Uncertainty,Howard Kunreuther,3856
+5,3,2,Integrated Risk and Uncertainty,Anthony Patt,2271
+5,3,4,Sustainable Development and Equity,Jayant Sathaye,2624
+5,3,5,"Drivers, Trends and Mitigation",Nebojsa Nakicenovic,2099
+5,3,5,"Drivers, Trends and Mitigation",Richard G. Richels,2492
+5,3,5,"Drivers, Trends and Mitigation",Ferenc L. Toth,3017
+5,3,5,"Drivers, Trends and Mitigation",Peter P. Zhou,3371
+5,3,6,Assessing Transformation Pathways,Priyadarshi R. Shukla,2759
+5,3,6,Assessing Transformation Pathways,Detlef P. Van Vuuren,3080
+5,3,6,Assessing Transformation Pathways,John P. Weyant,3205
+5,3,7,Energy Systems,James Edmonds,762
+5,3,7,Energy Systems,Jim F. Skea,2785
+5,3,9,Buildings,Hashem Akbari,3633
+5,3,9,Buildings,Jyoti K. Parikh,2255
