@@ -24,3 +24,4 @@ JOIN
   GROUP BY ar, wg
 ) all_participations
 USING (ar,wg)
+ORDER BY ar, wg
