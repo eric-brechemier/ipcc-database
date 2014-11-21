@@ -1,16 +1,18 @@
 -- List of Bridge Authors by AR, WG, Chapter
 
 SELECT
-  participations.ar AS AR,
-  participations.wg AS WG,
-  participations.chapter AS Chapter,
-  chapters.title AS `Chapter Title`,
+  authors.id AS `Bridge Author Id`,
   CONCAT(
     authors.first_name,
     ' ',
     authors.last_name
   ) AS `Bridge Author`,
-  authors.id AS `Bridge Author Id`
+  participations.ar AS AR,
+  participations.wg AS WG,
+  participations.chapter AS Chapter,
+  chapters.title AS `Chapter Title`,
+  institutions.name AS `Institution`,
+  countries.name AS `Country`
 FROM participations
 JOIN chapters
 ON participations.ar = chapters.ar
@@ -27,5 +29,11 @@ JOIN
 ON participations.author_id = bridge_authors.author_id
 JOIN authors
 ON participations.author_id = authors.id
-ORDER BY ar, wg, chapter, authors.last_name, authors.first_name
+JOIN institution_countries
+ON participations.institution_country_id = institution_countries.id
+JOIN institutions
+ON institution_countries.institution_id = institutions.id
+JOIN countries
+ON institution_countries.country_id = countries.id
+ORDER BY authors.last_name, authors.first_name, ar, wg, chapter
 ;
