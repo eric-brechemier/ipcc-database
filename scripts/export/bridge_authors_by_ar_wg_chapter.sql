@@ -12,7 +12,11 @@ SELECT
   bridge_wg_ratios.bridge12 * 100 AS '% WG I+II',
   bridge_wg_ratios.bridge13 * 100 AS '% WG I+III',
   bridge_wg_ratios.bridge23 * 100 AS '% WG II+III',
-  participations.wg AS WG,
+  CASE participations.wg
+    WHEN 1 THEN 'WG I'
+    WHEN 2 THEN 'WG II'
+    WHEN 3 THEN 'WG III'
+  END AS WG,
   bridge_wg_ratios.wg1 * 100 AS '% WG I',
   bridge_wg_ratios.wg2 * 100 AS '% WG II',
   bridge_wg_ratios.wg3 * 100 AS '% WG III',
