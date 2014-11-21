@@ -1,16 +1,20 @@
 alias,author_id,Author (INFO)
 Inder Abrol,12,I. Abrol
 Sharad Adhikary,28,Sharad P. Adhikary
+A. G. Aguilar,39,Adrian Guillermo Aguilar
 Daniel L. Albritton,55,D.L. Albritton
 K. Andrasko,94,Kenneth Andrasko
+Beng-Wa Ang,99,B.W. Ang
 J. Angell,100,J.K. Angell
 A. Apling,112,A.J. Apling
+A. Arquit-Niederberger,128,Anne Arquit-Niederberger
 Alfons P. M. Baede,164,Alphonsus Baede
 Bryson Bates,211,Bryson C. Bates
 J. Campbell,424,John R. Campbell
 Melvin Cannell,434,Melvin G.R. Cannell
 Osvaldo Canziani,436,Osvaldo F. Canziani
 William Chandler,472,William U. Chandler
+Fred C. Cheghe,482,Fred Cheghe
 J. Churo,511,J. Churc
 Wolfgang Cramer,577,Wolfgang P. Cramer
 Ogunlade Davidson,617,Ogunlade R. Davidson
@@ -20,16 +24,21 @@ Sandra Diaz,680,Sandra Myrna Diaz
 Ding Yihui,692,Yihui Ding
 Andrew Dlugolecki,699,Andrew F. Dlugolecki
 J. Dronkers,727,Job Dronkers
+James A. Edmonds,762,James Edmonds
 Dieter H. Ehhalt,767,D.H. Ehhalt
 P. Eraser,790,P. Fraser
 Gary Evans,797,G. Evans
 John T. Everett,800,John Everett
 Blair Fitzharris,844,B. Blair Fitzharris
+Douglas G. Fox,869,Douglas Fox
 J.T.E. Gilbert,966,J. Gilbert
 Peter Groffman,1034,Peter M. Groffman
 Arnulf Grubler,1042,Amulf Grubler
+Howard K. Gruenspecht,1043,Howard Gruenspecht
+Steven P. Hamburg,1094,Steven Hamburg
 Jim M. Haywood,1147,James M. Haywood
 Bruce Hewitson,1188,Bruce Charles Hewitson
+M.T. (Timm) Hoffman,1210,M. Timm Hoffman
 Timm Hoffman,1210,M. Timm Hoffman
 Rod Holesgrove,1218,R. Holesgrove
 John T. Houghton,1244,J.T. Houghton
@@ -37,15 +46,19 @@ Michael Hulme,1273,Mike Hulme
 Ivar Isaksen,1301,I.S.A Isaksen
 Victor J. Jaramillo,1335,V.J. Jaramillo
 Achuthan Jayaraman,1341,A. Jayaraman
+Thomas B. Johansson,1364,Thomas Johansson
 Thomas Karl,1431,Thomas R. Karl
 Haroon S. Kheshgi,1482,Haroon Kheshgi
 Richard Klein,1523,Richard J.T. Klein
+Andrei S. Krovnin,1581,Andrei Krovnin
+Shashi M. Kulshrestha,1589,Shashi Kulshrestha
 M. Lai,1610,M. Lal
 Henry Le Houerou,1658,Henri Le Houerou
 Corrine Le Quéré,1695,Corrine Le Quéré
 Mark Levine,1707,Mark D. Levine
 Tran Viet Lien,1723,Tranviet Lien
 Lin Erda,1726,Erda Lin
+Liu Chunzhen,1743,Chunzhen Liu
 Jibin Luo,1784,Ji-Bin Luo
 Michael MacCracken,1799,Michael C. MacCracken
 Antonio Rochas Magalhaes,1811,Antonio R. Magalhaes
@@ -62,7 +75,9 @@ Richard K. Mugara,2052,R.K. Mugara
 Robert Nicholls,2124,Robert J. Nicholls
 Maria Noguer,2140,M. Noguer
 Buruhani S. Nyenzi,2156,B.S. Nyenzi
+Rispa Achieng Odongo,2171,Rispa Odongo
 Ryousuke Ohashi,2183,Ryousauke Ohashi
+Martin Lewis Parry,2266,Martin Parry
 Ralph Pentland,2300,R. Pentland
 Ramon Pichs Madruga,2329,Ramon Pichs-Madruga
 Warren Piver,2351,Warren T. Piver
@@ -70,10 +85,13 @@ Steven Pollonais,2365,S. Pollonais
 Venkatchalam Ramaswamy,2430,Venkatachalam Ramaswamy
 Armando Ramirez-Rojas,2433,A. Ramirez-Rojas
 Sarah C. B. Raper,2441,Sarah C.B. Raper
+Alexander Ranja Gacuhi,2449,Alexander Rauja Gacuhi
 N.H. Ravindranath,2452,Nijavalli H. Ravindranath
 John Reilly,2470,John M. Reilly
+H-H. Rogner,2540,Hans-Holger Rogner
 Norman Rosenberg,2553,N. Rosenberg
 M. Jim Salinger,2602,"Michael James ""Jim"" Salinger"
+Dieter R. Sauerbeck,2628,Dieter Sauerbeck
 Robert J. Scholes,2674,Robert (Bob) J. Scholes
 Michael Scott,2694,Michael J. Scott
 R. Sedjo,2697,Roger Sedjo
@@ -82,6 +100,7 @@ Jim Skea,2785,Jim F. Skea
 Joel Smith,2803,Joel B. Smith
 Allen Solomon,2826,Allen M. Solomon
 Eugene Stakhiv,2856,Eugene Z. Stakhiv
+Odön Starosolszky,2861,Oedon Starosolszky
 Robert Stavins,2862,Robert N. Stavins
 John M. R. Stone,2883,John M.R. Stone
 Avelino Suarez,2903,Avelino G. Suarez
@@ -90,6 +109,7 @@ Jacques Theys,2982,J. Theys
 Dennis Tirpak,3007,Dennis A. Tirpak
 M.C. Trexler,3024,M. Trexler
 David Victor,3101,David G. Victor
+Edward R. Williams,3235,Ted Williams
 Kok S. Yap,3312,K.S. Yap
 Zhou Fengqi,3366,Fengqi Zhou
 Dadi Zhou,3367,Zhou Dadi
@@ -100,3 +120,4 @@ Kevin Urama,4022,Kevin Chika Urama
 Steven J. Smith,4856,Steven Smith
 J.G. Titus,5030,J. Titus
 F. Bernthal,5033,Frederick M. Bernthal
+Subodh K. Sharma,5037,Subodh Sharma
