@@ -95,6 +95,79 @@ JOIN
     ) AS wg_participations
 ) AS bridge_wg_ratios
 ON participations.author_id = bridge_wg_ratios.author_id
+JOIN
+(
+  SELECT
+    total_participations.author_id,
+    (
+      IFNULL(responsibility_roles.total,0)
+      / total_participations.total
+    ) AS responsibility,
+    (
+      IFNULL(cla_roles.total,0)
+      / total_participations.total
+    ) AS cla,
+    (
+      IFNULL(la_roles.total,0)
+      / total_participations.total
+    ) AS la,
+    (
+      IFNULL(re_roles.total,0)
+      / total_participations.total
+    ) AS re,
+    (
+      IFNULL(ca_roles.total,0)
+      / total_participations.total
+    ) AS ca,
+    total_participations.total AS total_participations
+  FROM
+    (
+      SELECT author_id, COUNT(*) AS total
+      FROM participations
+      GROUP BY author_id
+    ) AS total_participations
+    LEFT JOIN
+    (
+      SELECT author_id, COUNT(*) AS total
+      FROM participations
+      WHERE role IN ('CLA', 'LA', 'RE')
+      GROUP BY author_id
+    ) AS responsibility_roles
+    ON total_participations.author_id = responsibility_roles.author_id
+    LEFT JOIN
+    (
+      SELECT author_id, COUNT(*) AS 'total'
+      FROM participations
+      WHERE role = 'CLA'
+      GROUP BY author_id
+    ) AS cla_roles
+    ON total_participations.author_id = cla_roles.author_id
+    LEFT JOIN
+    (
+      SELECT author_id, COUNT(*) AS 'total'
+      FROM participations
+      WHERE role = 'LA'
+      GROUP BY author_id
+    ) AS la_roles
+    ON total_participations.author_id = la_roles.author_id
+    LEFT JOIN
+    (
+      SELECT author_id, COUNT(*) AS 'total'
+      FROM participations
+      WHERE role = 'RE'
+      GROUP BY author_id
+    ) AS re_roles
+    ON total_participations.author_id = re_roles.author_id
+    LEFT JOIN
+    (
+      SELECT author_id, COUNT(*) AS 'total'
+      FROM participations
+      WHERE role = 'CA'
+      GROUP BY author_id
+    ) AS ca_roles
+    ON total_participations.author_id = ca_roles.author_id
+) AS role_ratios
+ON participations.author_id = role_ratios.author_id
 JOIN authors
 ON participations.author_id = authors.id
 JOIN institution_countries
