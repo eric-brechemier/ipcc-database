@@ -20,7 +20,7 @@ SELECT
   bridge_wg_ratios.wg1 * 100 AS '% WG I',
   bridge_wg_ratios.wg2 * 100 AS '% WG II',
   bridge_wg_ratios.wg3 * 100 AS '% WG III',
-  participations.chapter AS Chapter,
+  participations.chapter AS `Chapter #`,
   chapters.title AS `Chapter Title`,
   institutions.name AS `Institution`,
   countries.name AS `Country`
