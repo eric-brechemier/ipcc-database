@@ -1,2849 +1,2849 @@
-ar,wg,chapter,Total,country_id,Country
-1,1,1,14,113,USA
-1,1,1,6,36,Germany
-1,1,1,4,117,United Kingdom
-1,1,1,2,6,Australia
-1,1,1,2,35,France
-1,1,1,2,101,Sweden
-1,1,1,2,102,Switzerland
-1,1,1,1,10,Belgium
-1,1,1,1,16,Brazil
-1,1,1,1,23,China
-1,1,1,1,44,India
-1,1,1,1,51,Japan
-1,1,1,1,1,N/A
-1,1,10,17,113,USA
-1,1,10,11,117,United Kingdom
-1,1,10,1,6,Australia
-1,1,10,1,16,Brazil
-1,1,10,1,20,Canada
-1,1,10,1,28,Denmark
-1,1,10,1,35,France
-1,1,10,1,44,India
-1,1,10,1,107,Netherlands
-1,1,10,1,82,Poland
-1,1,10,1,99,Sudan
-1,1,10,1,101,Sweden
-1,1,11,2,113,USA
-1,1,11,1,20,Canada
-1,1,11,1,102,Switzerland
-1,1,11,1,117,United Kingdom
-1,1,12,9,113,USA
-1,1,12,8,117,United Kingdom
-1,1,12,4,36,Germany
-1,1,12,3,114,USSR
-1,1,12,2,6,Australia
-1,1,12,2,75,Norway
-1,1,12,1,20,Canada
-1,1,12,1,107,Netherlands
-1,1,12,1,81,Philippines
-1,1,12,1,102,Switzerland
-1,1,2,6,117,United Kingdom
-1,1,2,5,113,USA
-1,1,2,2,20,Canada
-1,1,2,1,10,Belgium
-1,1,2,1,23,China
-1,1,2,1,35,France
-1,1,2,1,36,Germany
-1,1,2,1,51,Japan
-1,1,2,1,101,Sweden
-1,1,2,1,114,USSR
-1,1,3,5,117,United Kingdom
-1,1,3,3,113,USA
-1,1,3,2,36,Germany
-1,1,3,1,51,Japan
-1,1,4,11,113,USA
-1,1,4,4,117,United Kingdom
-1,1,4,2,6,Australia
-1,1,4,2,20,Canada
-1,1,4,2,35,France
-1,1,4,2,36,Germany
-1,1,4,1,10,Belgium
-1,1,4,1,23,China
-1,1,4,1,28,Denmark
-1,1,4,1,34,Finland
-1,1,4,1,107,Netherlands
-1,1,4,1,102,Switzerland
-1,1,5,14,113,USA
-1,1,5,7,117,United Kingdom
-1,1,5,3,114,USSR
-1,1,5,2,6,Australia
-1,1,5,2,20,Canada
-1,1,5,2,1,N/A
-1,1,5,2,107,Netherlands
-1,1,5,1,10,Belgium
-1,1,5,1,23,China
-1,1,5,1,28,Denmark
-1,1,5,1,35,France
-1,1,5,1,44,India
-1,1,5,1,51,Japan
-1,1,5,1,74,Nigeria
-1,1,6,11,113,USA
-1,1,6,3,117,United Kingdom
-1,1,7,18,113,USA
-1,1,7,4,6,Australia
-1,1,7,4,117,United Kingdom
-1,1,7,2,20,Canada
-1,1,7,2,23,China
-1,1,7,2,36,Germany
-1,1,7,2,114,USSR
-1,1,7,1,35,France
-1,1,7,1,44,India
-1,1,7,1,51,Japan
-1,1,7,1,1,N/A
-1,1,7,1,74,Nigeria
-1,1,7,1,101,Sweden
-1,1,7,1,102,Switzerland
-1,1,7,1,104,Tanzania
-1,1,8,14,113,USA
-1,1,8,6,117,United Kingdom
-1,1,8,3,36,Germany
-1,1,8,2,6,Australia
-1,1,8,2,16,Brazil
-1,1,8,2,114,USSR
-1,1,8,1,20,Canada
-1,1,8,1,23,China
-1,1,8,1,32,Ethiopia
-1,1,8,1,44,India
-1,1,8,1,51,Japan
-1,1,8,1,53,Kenya
-1,1,8,1,107,Netherlands
-1,1,8,1,74,Nigeria
-1,1,9,6,117,United Kingdom
-1,1,9,2,113,USA
-1,1,9,1,5,Argentina
-1,1,9,1,28,Denmark
-1,1,9,1,35,France
-1,1,9,1,51,Japan
-1,1,9,1,107,Netherlands
-1,1,9,1,75,Norway
-1,1,9,1,102,Switzerland
-1,2,2,5,6,Australia
-1,2,2,5,113,USA
-1,2,2,2,20,Canada
-1,2,2,2,44,India
-1,2,2,2,51,Japan
-1,2,2,2,73,New Zealand
-1,2,2,2,82,Poland
-1,2,2,2,117,United Kingdom
-1,2,2,2,114,USSR
-1,2,2,1,12,Benin
-1,2,2,1,16,Brazil
-1,2,2,1,23,China
-1,2,2,1,25,Costa Rica
-1,2,2,1,27,Czech Republic
-1,2,2,1,32,Ethiopia
-1,2,2,1,34,Finland
-1,2,2,1,36,Germany
-1,2,2,1,42,Hungary
-1,2,2,1,47,Ireland
-1,2,2,1,48,Israel
-1,2,2,1,53,Kenya
-1,2,2,1,74,Nigeria
-1,2,2,1,81,Philippines
-1,2,2,1,105,Thailand
-1,2,2,1,121,Vietnam
-1,2,3,8,20,Canada
-1,2,3,5,113,USA
-1,2,3,2,6,Australia
-1,2,3,2,74,Nigeria
-1,2,3,2,117,United Kingdom
-1,2,3,1,36,Germany
-1,2,3,1,64,Mexico
-1,2,3,1,1,N/A
-1,2,3,1,107,Netherlands
-1,2,3,1,73,New Zealand
-1,2,3,1,75,Norway
-1,2,4,9,1,N/A
-1,2,4,2,113,USA
-1,2,4,1,6,Australia
-1,2,4,1,10,Belgium
-1,2,4,1,20,Canada
-1,2,4,1,23,China
-1,2,4,1,73,New Zealand
-1,2,4,1,83,Portugal
-1,2,4,1,117,United Kingdom
-1,2,4,1,114,USSR
-1,2,5,29,1,N/A
-1,2,5,3,51,Japan
-1,2,5,3,113,USA
-1,2,5,1,20,Canada
-1,2,5,1,23,China
-1,2,5,1,36,Germany
-1,2,5,1,45,Indonesia
-1,2,5,1,53,Kenya
-1,2,6,21,1,N/A
-1,2,6,2,113,USA
-1,2,6,2,114,USSR
-1,2,6,1,6,Australia
-1,2,6,1,20,Canada
-1,2,7,10,20,Canada
-1,2,7,7,113,USA
-1,2,7,4,114,USSR
-1,2,7,2,73,New Zealand
-1,2,7,1,6,Australia
-1,2,7,1,23,China
-1,2,7,1,64,Mexico
-1,2,7,1,1,N/A
-1,2,7,1,107,Netherlands
-1,2,7,1,75,Norway
-1,2,7,1,117,United Kingdom
-1,3,1,1,113,USA
-1,3,10,1,35,France
-1,3,10,1,107,Netherlands
-1,3,11,1,20,Canada
-1,3,11,1,62,Malta
-1,3,11,1,117,United Kingdom
-1,3,2,1,107,Netherlands
-1,3,2,1,113,USA
-1,3,3,1,23,China
-1,3,3,1,51,Japan
-1,3,4,1,113,USA
-1,3,5,6,113,USA
-1,3,5,4,107,Netherlands
-1,3,5,4,73,New Zealand
-1,3,5,3,6,Australia
-1,3,6,9,113,USA
-1,3,6,4,35,France
-1,3,6,4,117,United Kingdom
-1,3,6,3,6,Australia
-1,3,6,3,51,Japan
-1,3,6,2,16,Brazil
-1,3,6,2,20,Canada
-1,3,6,2,23,China
-1,3,6,2,44,India
-1,3,6,2,102,Switzerland
-1,3,6,1,10,Belgium
-1,3,6,1,49,Italy
-1,3,6,1,53,Kenya
-1,3,6,1,62,Malta
-1,3,6,1,72,Nepal
-1,3,6,1,107,Netherlands
-1,3,6,1,88,Saudi Arabia
-1,3,6,1,104,Tanzania
-1,3,6,1,114,USSR
-1,3,6,1,123,Zimbabwe
-1,3,7,2,113,USA
-1,3,8,1,16,Brazil
-1,3,8,1,51,Japan
-1,3,9,1,6,Australia
-1,3,9,1,73,New Zealand
-2,1,1,1,16,Brazil
-2,1,1,1,117,United Kingdom
-2,1,1,1,113,USA
-2,1,10,6,113,USA
-2,1,10,5,20,Canada
-2,1,10,4,117,United Kingdom
-2,1,10,2,36,Germany
-2,1,10,1,6,Australia
-2,1,10,1,13,Bermuda
-2,1,10,1,48,Israel
-2,1,11,1,20,Canada
-2,1,11,1,117,United Kingdom
-2,1,11,1,113,USA
-2,1,2,36,113,USA
-2,1,2,9,36,Germany
-2,1,2,9,117,United Kingdom
-2,1,2,5,35,France
-2,1,2,3,44,India
-2,1,2,2,6,Australia
-2,1,2,2,75,Norway
-2,1,2,1,16,Brazil
-2,1,2,1,20,Canada
-2,1,2,1,23,China
-2,1,2,1,51,Japan
-2,1,2,1,107,Netherlands
-2,1,2,1,86,Russian Federation
-2,1,2,1,101,Sweden
-2,1,2,1,102,Switzerland
-2,1,2,1,120,Venezuela
-2,1,3,36,113,USA
-2,1,3,18,86,Russian Federation
-2,1,3,11,6,Australia
-2,1,3,7,20,Canada
-2,1,3,6,117,United Kingdom
-2,1,3,3,23,China
-2,1,3,3,36,Germany
-2,1,3,2,35,France
-2,1,3,2,44,India
-2,1,3,2,51,Japan
-2,1,3,2,102,Switzerland
-2,1,3,1,5,Argentina
-2,1,3,1,16,Brazil
-2,1,3,1,28,Denmark
-2,1,3,1,49,Italy
-2,1,3,1,53,Kenya
-2,1,3,1,107,Netherlands
-2,1,3,1,103,Taiwan
-2,1,4,23,113,USA
-2,1,4,5,117,United Kingdom
-2,1,4,2,36,Germany
-2,1,4,1,16,Brazil
-2,1,4,1,20,Canada
-2,1,4,1,35,France
-2,1,4,1,73,New Zealand
-2,1,4,1,86,Russian Federation
-2,1,4,1,101,Sweden
-2,1,4,1,102,Switzerland
-2,1,5,38,113,USA
-2,1,5,9,6,Australia
-2,1,5,7,117,United Kingdom
-2,1,5,6,20,Canada
-2,1,5,6,51,Japan
-2,1,5,4,36,Germany
-2,1,5,2,23,China
-2,1,5,1,35,France
-2,1,5,1,49,Italy
-2,1,5,1,86,Russian Federation
-2,1,6,26,113,USA
-2,1,6,12,6,Australia
-2,1,6,12,117,United Kingdom
-2,1,6,7,36,Germany
-2,1,6,6,20,Canada
-2,1,6,5,51,Japan
-2,1,6,3,107,Netherlands
-2,1,6,2,35,France
-2,1,6,2,102,Switzerland
-2,1,6,1,23,China
-2,1,6,1,28,Denmark
-2,1,6,1,34,Finland
-2,1,6,1,1,N/A
-2,1,6,1,75,Norway
-2,1,7,7,113,USA
-2,1,7,6,117,United Kingdom
-2,1,7,2,35,France
-2,1,7,2,36,Germany
-2,1,7,2,107,Netherlands
-2,1,7,1,43,Iceland
-2,1,7,1,73,New Zealand
-2,1,7,1,86,Russian Federation
-2,1,7,1,102,Switzerland
-2,1,8,21,113,USA
-2,1,8,7,117,United Kingdom
-2,1,8,3,6,Australia
-2,1,8,2,36,Germany
-2,1,8,1,20,Canada
-2,1,9,19,113,USA
-2,1,9,3,6,Australia
-2,1,9,2,36,Germany
-2,1,9,2,101,Sweden
-2,1,9,2,117,United Kingdom
-2,1,9,1,5,Argentina
-2,1,9,1,20,Canada
-2,1,9,1,49,Italy
-2,1,9,1,107,Netherlands
-2,1,9,1,73,New Zealand
-2,1,9,1,102,Switzerland
-2,1,TS,10,113,USA
-2,1,TS,6,117,United Kingdom
-2,1,TS,2,6,Australia
-2,1,TS,2,20,Canada
-2,1,TS,2,53,Kenya
-2,1,TS,1,16,Brazil
-2,1,TS,1,107,Netherlands
-2,1,TS,1,73,New Zealand
-2,1,TS,1,101,Sweden
-2,1,TS,1,102,Switzerland
-2,2,1,8,6,Australia
-2,2,1,8,113,USA
-2,2,1,4,36,Germany
-2,2,1,4,102,Switzerland
-2,2,1,2,101,Sweden
-2,2,1,2,117,United Kingdom
-2,2,1,1,7,Austria
-2,2,1,1,20,Canada
-2,2,1,1,23,China
-2,2,1,1,26,Cuba
-2,2,1,1,49,Italy
-2,2,1,1,53,Kenya
-2,2,1,1,59,Malawi
-2,2,1,1,107,Netherlands
-2,2,1,1,81,Philippines
-2,2,1,1,82,Poland
-2,2,1,1,86,Russian Federation
-2,2,10,11,113,USA
-2,2,10,2,20,Canada
-2,2,10,2,42,Hungary
-2,2,10,2,102,Switzerland
-2,2,10,1,6,Australia
-2,2,10,1,23,China
-2,2,10,1,36,Germany
-2,2,10,1,44,India
-2,2,10,1,48,Israel
-2,2,10,1,51,Japan
-2,2,10,1,72,Nepal
-2,2,10,1,80,Peru
-2,2,10,1,117,United Kingdom
-2,2,11,5,113,USA
-2,2,11,1,26,Cuba
-2,2,11,1,35,France
-2,2,11,1,51,Japan
-2,2,11,1,53,Kenya
-2,2,11,1,117,United Kingdom
-2,2,11,1,121,Vietnam
-2,2,12,5,113,USA
-2,2,12,3,117,United Kingdom
-2,2,12,2,51,Japan
-2,2,12,1,44,India
-2,2,12,1,53,Kenya
-2,2,12,1,64,Mexico
-2,2,12,1,107,Netherlands
-2,2,12,1,98,Sri Lanka
-2,2,12,1,123,Zimbabwe
-2,2,13,7,113,USA
-2,2,13,2,20,Canada
-2,2,13,2,36,Germany
-2,2,13,2,107,Netherlands
-2,2,13,1,6,Australia
-2,2,13,1,23,China
-2,2,13,1,35,France
-2,2,13,1,49,Italy
-2,2,13,1,53,Kenya
-2,2,13,1,73,New Zealand
-2,2,13,1,81,Philippines
-2,2,13,1,86,Russian Federation
-2,2,13,1,97,Spain
-2,2,13,1,117,United Kingdom
-2,2,14,6,113,USA
-2,2,14,2,42,Hungary
-2,2,14,2,82,Poland
-2,2,14,2,102,Switzerland
-2,2,14,1,6,Australia
-2,2,14,1,10,Belgium
-2,2,14,1,36,Germany
-2,2,14,1,51,Japan
-2,2,14,1,53,Kenya
-2,2,14,1,1,N/A
-2,2,14,1,107,Netherlands
-2,2,14,1,104,Tanzania
-2,2,15,6,20,Canada
-2,2,15,3,113,USA
-2,2,15,2,44,India
-2,2,15,1,23,China
-2,2,15,1,36,Germany
-2,2,15,1,51,Japan
-2,2,15,1,60,Malaysia
-2,2,15,1,86,Russian Federation
-2,2,15,1,101,Sweden
-2,2,15,1,104,Tanzania
-2,2,16,18,113,USA
-2,2,16,3,6,Australia
-2,2,16,3,73,New Zealand
-2,2,16,2,20,Canada
-2,2,16,2,35,France
-2,2,16,1,53,Kenya
-2,2,16,1,64,Mexico
-2,2,16,1,86,Russian Federation
-2,2,16,1,117,United Kingdom
-2,2,17,2,117,United Kingdom
-2,2,17,2,113,USA
-2,2,17,1,50,Jamaica
-2,2,17,1,104,Tanzania
-2,2,18,7,113,USA
-2,2,18,3,117,United Kingdom
-2,2,18,2,5,Argentina
-2,2,18,1,20,Canada
-2,2,18,1,36,Germany
-2,2,18,1,51,Japan
-2,2,18,1,53,Kenya
-2,2,18,1,64,Mexico
-2,2,18,1,107,Netherlands
-2,2,18,1,73,New Zealand
-2,2,18,1,102,Switzerland
-2,2,18,1,120,Venezuela
-2,2,19,4,113,USA
-2,2,19,3,35,France
-2,2,19,3,51,Japan
-2,2,19,3,117,United Kingdom
-2,2,19,2,7,Austria
-2,2,19,2,23,China
-2,2,19,2,28,Denmark
-2,2,19,1,16,Brazil
-2,2,19,1,20,Canada
-2,2,19,1,34,Finland
-2,2,19,1,36,Germany
-2,2,19,1,43,Iceland
-2,2,19,1,44,India
-2,2,19,1,107,Netherlands
-2,2,19,1,88,Saudi Arabia
-2,2,19,1,101,Sweden
-2,2,19,1,120,Venezuela
-2,2,2,16,113,USA
-2,2,2,4,5,Argentina
-2,2,2,2,6,Australia
-2,2,2,2,53,Kenya
-2,2,2,2,123,Zimbabwe
-2,2,2,1,20,Canada
-2,2,2,1,26,Cuba
-2,2,2,1,51,Japan
-2,2,2,1,97,Spain
-2,2,2,1,117,United Kingdom
-2,2,20,1,35,France
-2,2,20,1,44,India
-2,2,20,1,51,Japan
-2,2,20,1,107,Netherlands
-2,2,20,1,113,USA
-2,2,21,7,113,USA
-2,2,21,4,7,Austria
-2,2,21,2,35,France
-2,2,21,2,117,United Kingdom
-2,2,21,1,16,Brazil
-2,2,21,1,41,Hong Kong
-2,2,21,1,49,Italy
-2,2,21,1,51,Japan
-2,2,21,1,107,Netherlands
-2,2,21,1,74,Nigeria
-2,2,21,1,91,Sierra Leone
-2,2,22,7,113,USA
-2,2,22,1,5,Argentina
-2,2,22,1,23,China
-2,2,22,1,51,Japan
-2,2,22,1,117,United Kingdom
-2,2,23,16,113,USA
-2,2,23,6,20,Canada
-2,2,23,2,35,France
-2,2,23,2,36,Germany
-2,2,23,2,44,India
-2,2,23,2,117,United Kingdom
-2,2,23,1,6,Australia
-2,2,23,1,16,Brazil
-2,2,23,1,23,China
-2,2,23,1,45,Indonesia
-2,2,23,1,49,Italy
-2,2,23,1,51,Japan
-2,2,23,1,73,New Zealand
-2,2,23,1,86,Russian Federation
-2,2,24,5,113,USA
-2,2,24,3,36,Germany
-2,2,24,2,7,Austria
-2,2,24,2,117,United Kingdom
-2,2,24,1,16,Brazil
-2,2,24,1,34,Finland
-2,2,24,1,44,India
-2,2,24,1,107,Netherlands
-2,2,24,1,101,Sweden
-2,2,25,3,113,USA
-2,2,25,2,44,India
-2,2,25,1,107,Netherlands
-2,2,26,3,113,USA
-2,2,26,2,51,Japan
-2,2,26,1,34,Finland
-2,2,26,1,53,Kenya
-2,2,26,1,72,Nepal
-2,2,26,1,117,United Kingdom
-2,2,27,5,113,USA
-2,2,27,1,16,Brazil
-2,2,27,1,28,Denmark
-2,2,27,1,91,Sierra Leone
-2,2,27,1,105,Thailand
-2,2,28,4,113,USA
-2,2,28,1,105,Thailand
-2,2,3,4,6,Australia
-2,2,3,1,88,Saudi Arabia
-2,2,3,1,95,South Africa
-2,2,4,4,95,South Africa
-2,2,4,4,117,United Kingdom
-2,2,4,2,5,Argentina
-2,2,4,2,23,China
-2,2,4,2,35,France
-2,2,4,2,36,Germany
-2,2,4,2,44,India
-2,2,4,2,49,Italy
-2,2,4,1,3,Algeria
-2,2,4,1,42,Hungary
-2,2,4,1,51,Japan
-2,2,4,1,53,Kenya
-2,2,4,1,97,Spain
-2,2,4,1,112,Turkmenistan
-2,2,4,1,113,USA
-2,2,5,9,113,USA
-2,2,5,7,102,Switzerland
-2,2,5,4,75,Norway
-2,2,5,3,35,France
-2,2,5,2,23,China
-2,2,5,2,34,Finland
-2,2,5,1,28,Denmark
-2,2,5,1,36,Germany
-2,2,5,1,53,Kenya
-2,2,5,1,72,Nepal
-2,2,5,1,86,Russian Federation
-2,2,5,1,101,Sweden
-2,2,5,1,117,United Kingdom
-2,2,5,1,120,Venezuela
-2,2,6,6,113,USA
-2,2,6,3,34,Finland
-2,2,6,2,20,Canada
-2,2,6,2,107,Netherlands
-2,2,6,2,101,Sweden
-2,2,6,2,117,United Kingdom
-2,2,6,1,5,Argentina
-2,2,6,1,12,Benin
-2,2,6,1,23,China
-2,2,7,7,113,USA
-2,2,7,4,5,Argentina
-2,2,7,4,20,Canada
-2,2,7,2,73,New Zealand
-2,2,7,2,86,Russian Federation
-2,2,7,2,102,Switzerland
-2,2,7,2,117,United Kingdom
-2,2,7,1,6,Australia
-2,2,7,1,23,China
-2,2,7,1,28,Denmark
-2,2,7,1,49,Italy
-2,2,7,1,51,Japan
-2,2,8,8,113,USA
-2,2,8,6,80,Peru
-2,2,8,5,86,Russian Federation
-2,2,8,4,36,Germany
-2,2,8,3,6,Australia
-2,2,8,2,44,India
-2,2,8,1,23,China
-2,2,8,1,33,Fiji
-2,2,8,1,35,France
-2,2,8,1,117,United Kingdom
-2,2,9,7,117,United Kingdom
-2,2,9,5,113,USA
-2,2,9,3,6,Australia
-2,2,9,3,107,Netherlands
-2,2,9,2,23,China
-2,2,9,2,51,Japan
-2,2,9,2,73,New Zealand
-2,2,9,1,9,Barbados
-2,2,9,1,20,Canada
-2,2,9,1,36,Germany
-2,2,9,1,44,India
-2,2,9,1,1,N/A
-2,2,9,1,102,Switzerland
-2,2,9,1,120,Venezuela
-2,2,A,8,6,Australia
-2,2,A,7,117,United Kingdom
-2,2,A,7,113,USA
-2,2,A,5,36,Germany
-2,2,A,1,35,France
-2,2,A,1,49,Italy
-2,2,A,1,107,Netherlands
-2,2,A,1,75,Norway
-2,2,A,1,101,Sweden
-2,2,B,2,7,Austria
-2,2,B,1,16,Brazil
-2,2,B,1,20,Canada
-2,2,B,1,51,Japan
-2,2,B,1,101,Sweden
-2,2,B,1,113,USA
-2,2,TS,35,113,USA
-2,2,TS,7,51,Japan
-2,2,TS,7,117,United Kingdom
-2,2,TS,6,23,China
-2,2,TS,6,44,India
-2,2,TS,6,53,Kenya
-2,2,TS,5,35,France
-2,2,TS,4,6,Australia
-2,2,TS,4,107,Netherlands
-2,2,TS,4,101,Sweden
-2,2,TS,4,102,Switzerland
-2,2,TS,3,36,Germany
-2,2,TS,3,120,Venezuela
-2,2,TS,2,5,Argentina
-2,2,TS,2,7,Austria
-2,2,TS,2,16,Brazil
-2,2,TS,2,20,Canada
-2,2,TS,2,26,Cuba
-2,2,TS,2,64,Mexico
-2,2,TS,2,82,Poland
-2,2,TS,1,9,Barbados
-2,2,TS,1,12,Benin
-2,2,TS,1,42,Hungary
-2,2,TS,1,1,N/A
-2,2,TS,1,72,Nepal
-2,2,TS,1,73,New Zealand
-2,2,TS,1,75,Norway
-2,2,TS,1,81,Philippines
-2,2,TS,1,86,Russian Federation
-2,2,TS,1,88,Saudi Arabia
-2,2,TS,1,91,Sierra Leone
-2,2,TS,1,92,Singapore
-2,2,TS,1,95,South Africa
-2,2,TS,1,110,Tunisia
-2,2,TS,1,121,Vietnam
-2,2,TS,1,123,Zimbabwe
-2,3,1,4,113,USA
-2,3,1,2,1,N/A
-2,3,1,1,16,Brazil
-2,3,1,1,23,China
-2,3,1,1,51,Japan
-2,3,10,7,113,USA
-2,3,10,2,107,Netherlands
-2,3,10,1,44,India
-2,3,10,1,91,Sierra Leone
-2,3,10,1,117,United Kingdom
-2,3,11,3,6,Australia
-2,3,11,2,113,USA
-2,3,11,1,20,Canada
-2,3,11,1,51,Japan
-2,3,11,1,101,Sweden
-2,3,11,1,115,Uganda
-2,3,11,1,117,United Kingdom
-2,3,2,4,44,India
-2,3,2,3,35,France
-2,3,2,3,102,Switzerland
-2,3,2,3,113,USA
-2,3,2,2,117,United Kingdom
-2,3,2,1,5,Argentina
-2,3,2,1,20,Canada
-2,3,3,2,117,United Kingdom
-2,3,3,1,1,N/A
-2,3,3,1,78,Pakistan
-2,3,3,1,86,Russian Federation
-2,3,3,1,113,USA
-2,3,4,3,113,USA
-2,3,4,2,1,N/A
-2,3,4,1,98,Sri Lanka
-2,3,5,2,75,Norway
-2,3,5,2,113,USA
-2,3,5,1,96,South Korea
-2,3,5,1,98,Sri Lanka
-2,3,6,3,113,USA
-2,3,6,2,44,India
-2,3,6,2,107,Netherlands
-2,3,6,1,117,United Kingdom
-2,3,7,5,113,USA
-2,3,7,2,107,Netherlands
-2,3,7,1,8,Bangladesh
-2,3,7,1,36,Germany
-2,3,7,1,88,Saudi Arabia
-2,3,7,1,97,Spain
-2,3,7,1,101,Sweden
-2,3,7,1,117,United Kingdom
-2,3,7,1,123,Zimbabwe
-2,3,8,8,113,USA
-2,3,8,3,35,France
-2,3,8,2,16,Brazil
-2,3,8,2,20,Canada
-2,3,8,2,49,Italy
-2,3,8,1,7,Austria
-2,3,8,1,28,Denmark
-2,3,8,1,44,India
-2,3,8,1,86,Russian Federation
-2,3,8,1,89,Senegal
-2,3,8,1,91,Sierra Leone
-2,3,8,1,117,United Kingdom
-2,3,9,9,113,USA
-2,3,9,3,35,France
-2,3,9,2,16,Brazil
-2,3,9,2,20,Canada
-2,3,9,2,86,Russian Federation
-2,3,9,1,7,Austria
-2,3,9,1,28,Denmark
-2,3,9,1,44,India
-2,3,9,1,49,Italy
-2,3,9,1,89,Senegal
-2,3,9,1,91,Sierra Leone
-3,1,1,1,12,Benin
-3,1,1,1,23,China
-3,1,1,1,36,Germany
-3,1,1,1,107,Netherlands
-3,1,1,1,101,Sweden
-3,1,1,1,109,Trinidad and Tobago
-3,1,10,12,36,Germany
-3,1,10,12,113,USA
-3,1,10,7,117,United Kingdom
-3,1,10,3,6,Australia
-3,1,10,3,20,Canada
-3,1,10,3,51,Japan
-3,1,10,2,28,Denmark
-3,1,10,2,1,N/A
-3,1,10,2,75,Norway
-3,1,10,2,95,South Africa
-3,1,10,2,97,Spain
-3,1,10,1,7,Austria
-3,1,10,1,23,China
-3,1,10,1,49,Italy
-3,1,10,1,107,Netherlands
-3,1,10,1,81,Philippines
-3,1,10,1,82,Poland
-3,1,10,1,101,Sweden
-3,1,10,1,102,Switzerland
-3,1,11,11,113,USA
-3,1,11,4,117,United Kingdom
-3,1,11,3,6,Australia
-3,1,11,3,20,Canada
-3,1,11,3,36,Germany
-3,1,11,2,7,Austria
-3,1,11,2,35,France
-3,1,11,2,51,Japan
-3,1,11,2,102,Switzerland
-3,1,11,1,10,Belgium
-3,1,11,1,23,China
-3,1,11,1,1,N/A
-3,1,11,1,73,New Zealand
-3,1,11,1,86,Russian Federation
-3,1,11,1,120,Venezuela
-3,1,11,1,121,Vietnam
-3,1,12,16,113,USA
-3,1,12,9,117,United Kingdom
-3,1,12,3,20,Canada
-3,1,12,3,36,Germany
-3,1,12,2,6,Australia
-3,1,12,1,5,Argentina
-3,1,12,1,16,Brazil
-3,1,12,1,1,N/A
-3,1,13,6,113,USA
-3,1,13,3,117,United Kingdom
-3,1,13,1,6,Australia
-3,1,13,1,34,Finland
-3,1,13,1,107,Netherlands
-3,1,13,1,73,New Zealand
-3,1,13,1,102,Switzerland
-3,1,13,1,120,Venezuela
-3,1,14,3,113,USA
-3,1,14,2,120,Venezuela
-3,1,14,1,75,Norway
-3,1,14,1,101,Sweden
-3,1,2,71,113,USA
-3,1,2,12,117,United Kingdom
-3,1,2,10,6,Australia
-3,1,2,9,20,Canada
-3,1,2,8,86,Russian Federation
-3,1,2,6,36,Germany
-3,1,2,4,23,China
-3,1,2,4,35,France
-3,1,2,4,1,N/A
-3,1,2,3,73,New Zealand
-3,1,2,3,102,Switzerland
-3,1,2,2,34,Finland
-3,1,2,2,44,India
-3,1,2,2,53,Kenya
-3,1,2,2,107,Netherlands
-3,1,2,2,75,Norway
-3,1,2,2,101,Sweden
-3,1,2,1,16,Brazil
-3,1,2,1,27,Czech Republic
-3,1,2,1,28,Denmark
-3,1,2,1,97,Spain
-3,1,2,1,123,Zimbabwe
-3,1,3,23,113,USA
-3,1,3,13,36,Germany
-3,1,3,6,35,France
-3,1,3,6,117,United Kingdom
-3,1,3,4,6,Australia
-3,1,3,3,102,Switzerland
-3,1,3,2,51,Japan
-3,1,3,1,10,Belgium
-3,1,3,1,49,Italy
-3,1,3,1,64,Mexico
-3,1,3,1,73,New Zealand
-3,1,3,1,95,South Africa
-3,1,3,1,120,Venezuela
-3,1,4,33,113,USA
-3,1,4,7,36,Germany
-3,1,4,7,75,Norway
-3,1,4,5,117,United Kingdom
-3,1,4,3,6,Australia
-3,1,4,3,107,Netherlands
-3,1,4,3,102,Switzerland
-3,1,4,2,49,Italy
-3,1,4,1,7,Austria
-3,1,4,1,10,Belgium
-3,1,4,1,16,Brazil
-3,1,4,1,20,Canada
-3,1,4,1,23,China
-3,1,4,1,35,France
-3,1,4,1,38,Greece
-3,1,4,1,1,N/A
-3,1,4,1,104,Tanzania
-3,1,5,30,113,USA
-3,1,5,6,36,Germany
-3,1,5,5,20,Canada
-3,1,5,3,49,Italy
-3,1,5,3,117,United Kingdom
-3,1,5,2,35,France
-3,1,5,2,51,Japan
-3,1,5,2,107,Netherlands
-3,1,5,1,6,Australia
-3,1,5,1,44,India
-3,1,5,1,53,Kenya
-3,1,5,1,95,South Africa
-3,1,5,1,123,Zimbabwe
-3,1,6,16,113,USA
-3,1,6,7,117,United Kingdom
-3,1,6,4,36,Germany
-3,1,6,3,107,Netherlands
-3,1,6,3,75,Norway
-3,1,6,2,6,Australia
-3,1,6,2,35,France
-3,1,6,2,101,Sweden
-3,1,6,1,20,Canada
-3,1,6,1,23,China
-3,1,6,1,44,India
-3,1,6,1,51,Japan
-3,1,6,1,102,Switzerland
-3,1,7,37,113,USA
-3,1,7,6,117,United Kingdom
-3,1,7,5,36,Germany
-3,1,7,4,35,France
-3,1,7,3,6,Australia
-3,1,7,3,20,Canada
-3,1,7,3,86,Russian Federation
-3,1,7,3,102,Switzerland
-3,1,7,2,51,Japan
-3,1,7,2,107,Netherlands
-3,1,7,1,122,Zambia
-3,1,8,25,113,USA
-3,1,8,8,6,Australia
-3,1,8,8,35,France
-3,1,8,8,117,United Kingdom
-3,1,8,7,20,Canada
-3,1,8,6,51,Japan
-3,1,8,5,36,Germany
-3,1,8,2,23,China
-3,1,8,2,86,Russian Federation
-3,1,8,1,10,Belgium
-3,1,8,1,53,Kenya
-3,1,8,1,1,N/A
-3,1,9,12,113,USA
-3,1,9,9,36,Germany
-3,1,9,6,20,Canada
-3,1,9,4,117,United Kingdom
-3,1,9,3,51,Japan
-3,1,9,2,6,Australia
-3,1,9,1,60,Malaysia
-3,1,9,1,96,South Korea
-3,1,9,1,101,Sweden
-3,1,9,1,102,Switzerland
-3,1,TS,17,113,USA
-3,1,TS,8,117,United Kingdom
-3,1,TS,5,36,Germany
-3,1,TS,4,6,Australia
-3,1,TS,2,23,China
-3,1,TS,2,95,South Africa
-3,1,TS,2,102,Switzerland
-3,1,TS,2,120,Venezuela
-3,1,TS,1,16,Brazil
-3,1,TS,1,20,Canada
-3,1,TS,1,35,France
-3,1,TS,1,44,India
-3,1,TS,1,49,Italy
-3,1,TS,1,60,Malaysia
-3,1,TS,1,64,Mexico
-3,1,TS,1,107,Netherlands
-3,1,TS,1,73,New Zealand
-3,1,TS,1,75,Norway
-3,1,TS,1,86,Russian Federation
-3,1,TS,1,109,Trinidad and Tobago
-3,1,TS,1,123,Zimbabwe
-3,2,1,5,113,USA
-3,2,1,2,117,United Kingdom
-3,2,1,1,6,Australia
-3,2,1,1,10,Belgium
-3,2,1,1,20,Canada
-3,2,1,1,36,Germany
-3,2,1,1,64,Mexico
-3,2,1,1,74,Nigeria
-3,2,1,1,101,Sweden
-3,2,10,14,1,N/A
-3,2,10,3,74,Nigeria
-3,2,10,2,53,Kenya
-3,2,10,2,117,United Kingdom
-3,2,10,2,113,USA
-3,2,10,1,15,Botswana
-3,2,10,1,35,France
-3,2,10,1,69,Morocco
-3,2,10,1,89,Senegal
-3,2,10,1,95,South Africa
-3,2,10,1,106,The Gambia
-3,2,10,1,115,Uganda
-3,2,10,1,123,Zimbabwe
-3,2,11,19,1,N/A
-3,2,11,5,44,India
-3,2,11,5,51,Japan
-3,2,11,3,86,Russian Federation
-3,2,11,3,113,USA
-3,2,11,2,23,China
-3,2,11,2,45,Indonesia
-3,2,11,2,81,Philippines
-3,2,11,2,117,United Kingdom
-3,2,11,1,15,Botswana
-3,2,11,1,20,Canada
-3,2,11,1,48,Israel
-3,2,11,1,60,Malaysia
-3,2,11,1,72,Nepal
-3,2,11,1,101,Sweden
-3,2,11,1,119,Uzbekistan
-3,2,12,27,1,N/A
-3,2,12,6,6,Australia
-3,2,12,4,73,New Zealand
-3,2,12,3,113,USA
-3,2,12,1,117,United Kingdom
-3,2,13,27,1,N/A
-3,2,13,9,117,United Kingdom
-3,2,13,2,34,Finland
-3,2,13,2,36,Germany
-3,2,13,2,101,Sweden
-3,2,13,1,10,Belgium
-3,2,13,1,107,Netherlands
-3,2,13,1,75,Norway
-3,2,13,1,82,Poland
-3,2,13,1,83,Portugal
-3,2,13,1,93,Slovakia
-3,2,14,12,1,N/A
-3,2,14,5,5,Argentina
-3,2,14,4,16,Brazil
-3,2,14,2,64,Mexico
-3,2,14,2,120,Venezuela
-3,2,14,1,22,Chile
-3,2,14,1,25,Costa Rica
-3,2,14,1,26,Cuba
-3,2,15,7,113,USA
-3,2,15,6,20,Canada
-3,2,15,4,1,N/A
-3,2,15,1,36,Germany
-3,2,15,1,64,Mexico
-3,2,15,1,117,United Kingdom
-3,2,16,4,20,Canada
-3,2,16,4,1,N/A
-3,2,16,3,86,Russian Federation
-3,2,16,2,75,Norway
-3,2,16,2,113,USA
-3,2,16,1,6,Australia
-3,2,16,1,23,China
-3,2,16,1,73,New Zealand
-3,2,16,1,117,United Kingdom
-3,2,17,5,1,N/A
-3,2,17,3,113,USA
-3,2,17,2,36,Germany
-3,2,17,1,9,Barbados
-3,2,17,1,23,China
-3,2,17,1,44,India
-3,2,17,1,51,Japan
-3,2,17,1,53,Kenya
-3,2,17,1,61,Maldives
-3,2,17,1,62,Malta
-3,2,17,1,63,Mauritius
-3,2,17,1,87,Samoa
-3,2,17,1,90,Seychelles
-3,2,17,1,92,Singapore
-3,2,18,4,117,United Kingdom
-3,2,18,3,20,Canada
-3,2,18,2,1,N/A
-3,2,18,2,113,USA
-3,2,18,1,4,Antigua and Barbuda
-3,2,18,1,8,Bangladesh
-3,2,18,1,35,France
-3,2,18,1,36,Germany
-3,2,18,1,44,India
-3,2,18,1,52,Kazakhstan
-3,2,19,7,113,USA
-3,2,19,6,1,N/A
-3,2,19,4,117,United Kingdom
-3,2,19,2,107,Netherlands
-3,2,19,1,6,Australia
-3,2,19,1,20,Canada
-3,2,19,1,23,China
-3,2,19,1,44,India
-3,2,19,1,48,Israel
-3,2,19,1,53,Kenya
-3,2,2,7,113,USA
-3,2,2,4,1,N/A
-3,2,2,2,36,Germany
-3,2,2,2,73,New Zealand
-3,2,2,2,117,United Kingdom
-3,2,2,1,8,Bangladesh
-3,2,2,1,20,Canada
-3,2,2,1,44,India
-3,2,2,1,51,Japan
-3,2,3,7,1,N/A
-3,2,3,4,117,United Kingdom
-3,2,3,1,6,Australia
-3,2,3,1,7,Austria
-3,2,3,1,16,Brazil
-3,2,3,1,34,Finland
-3,2,3,1,44,India
-3,2,3,1,107,Netherlands
-3,2,3,1,86,Russian Federation
-3,2,3,1,113,USA
-3,2,4,2,23,China
-3,2,4,2,86,Russian Federation
-3,2,4,2,113,USA
-3,2,4,1,5,Argentina
-3,2,4,1,36,Germany
-3,2,4,1,51,Japan
-3,2,4,1,53,Kenya
-3,2,4,1,1,N/A
-3,2,4,1,83,Portugal
-3,2,4,1,117,United Kingdom
-3,2,5,14,1,N/A
-3,2,5,9,113,USA
-3,2,5,6,6,Australia
-3,2,5,5,20,Canada
-3,2,5,2,5,Argentina
-3,2,5,2,23,China
-3,2,5,2,36,Germany
-3,2,5,2,102,Switzerland
-3,2,5,2,117,United Kingdom
-3,2,5,1,34,Finland
-3,2,5,1,35,France
-3,2,5,1,86,Russian Federation
-3,2,5,1,106,The Gambia
-3,2,6,2,20,Canada
-3,2,6,1,5,Argentina
-3,2,6,1,6,Australia
-3,2,6,1,36,Germany
-3,2,6,1,51,Japan
-3,2,6,1,1,N/A
-3,2,6,1,107,Netherlands
-3,2,6,1,86,Russian Federation
-3,2,6,1,113,USA
-3,2,7,2,1,N/A
-3,2,7,2,117,United Kingdom
-3,2,7,1,20,Canada
-3,2,7,1,44,India
-3,2,7,1,51,Japan
-3,2,7,1,64,Mexico
-3,2,7,1,74,Nigeria
-3,2,7,1,98,Sri Lanka
-3,2,7,1,113,USA
-3,2,8,4,1,N/A
-3,2,8,3,117,United Kingdom
-3,2,8,3,113,USA
-3,2,8,2,20,Canada
-3,2,8,2,36,Germany
-3,2,8,2,107,Netherlands
-3,2,8,1,5,Argentina
-3,2,8,1,8,Bangladesh
-3,2,9,6,1,N/A
-3,2,9,3,113,USA
-3,2,9,2,117,United Kingdom
-3,2,9,1,5,Argentina
-3,2,9,1,16,Brazil
-3,2,9,1,44,India
-3,2,9,1,51,Japan
-3,2,9,1,53,Kenya
-3,2,9,1,107,Netherlands
-3,2,9,1,73,New Zealand
-3,2,SPM,16,113,USA
-3,2,SPM,6,20,Canada
-3,2,SPM,6,117,United Kingdom
-3,2,SPM,4,73,New Zealand
-3,2,SPM,3,6,Australia
-3,2,SPM,2,36,Germany
-3,2,SPM,2,44,India
-3,2,SPM,2,1,N/A
-3,2,SPM,2,107,Netherlands
-3,2,SPM,2,86,Russian Federation
-3,2,SPM,1,5,Argentina
-3,2,SPM,1,8,Bangladesh
-3,2,SPM,1,9,Barbados
-3,2,SPM,1,10,Belgium
-3,2,SPM,1,16,Brazil
-3,2,SPM,1,23,China
-3,2,SPM,1,25,Costa Rica
-3,2,SPM,1,34,Finland
-3,2,SPM,1,45,Indonesia
-3,2,SPM,1,51,Japan
-3,2,SPM,1,52,Kazakhstan
-3,2,SPM,1,53,Kenya
-3,2,SPM,1,64,Mexico
-3,2,SPM,1,75,Norway
-3,2,SPM,1,87,Samoa
-3,2,SPM,1,95,South Africa
-3,2,SPM,1,106,The Gambia
-3,2,SPM,1,120,Venezuela
-3,2,SPM,1,123,Zimbabwe
-3,2,TS,12,113,USA
-3,2,TS,4,20,Canada
-3,2,TS,4,117,United Kingdom
-3,2,TS,3,6,Australia
-3,2,TS,3,73,New Zealand
-3,2,TS,2,16,Brazil
-3,2,TS,2,36,Germany
-3,2,TS,2,44,India
-3,2,TS,2,1,N/A
-3,2,TS,2,86,Russian Federation
-3,2,TS,1,8,Bangladesh
-3,2,TS,1,9,Barbados
-3,2,TS,1,23,China
-3,2,TS,1,25,Costa Rica
-3,2,TS,1,34,Finland
-3,2,TS,1,45,Indonesia
-3,2,TS,1,51,Japan
-3,2,TS,1,52,Kazakhstan
-3,2,TS,1,53,Kenya
-3,2,TS,1,64,Mexico
-3,2,TS,1,107,Netherlands
-3,2,TS,1,87,Samoa
-3,2,TS,1,106,The Gambia
-3,2,TS,1,120,Venezuela
-3,2,TS,1,123,Zimbabwe
-3,3,1,9,113,USA
-3,3,1,3,44,India
-3,3,1,2,117,United Kingdom
-3,3,1,1,16,Brazil
-3,3,1,1,26,Cuba
-3,3,1,1,36,Germany
-3,3,1,1,53,Kenya
-3,3,1,1,1,N/A
-3,3,1,1,107,Netherlands
-3,3,10,5,113,USA
-3,3,10,3,36,Germany
-3,3,10,3,1,N/A
-3,3,10,2,28,Denmark
-3,3,10,1,8,Bangladesh
-3,3,10,1,35,France
-3,3,10,1,48,Israel
-3,3,10,1,49,Italy
-3,3,10,1,51,Japan
-3,3,10,1,64,Mexico
-3,3,10,1,75,Norway
-3,3,10,1,86,Russian Federation
-3,3,10,1,96,South Korea
-3,3,10,1,104,Tanzania
-3,3,2,5,51,Japan
-3,3,2,4,113,USA
-3,3,2,3,7,Austria
-3,3,2,2,23,China
-3,3,2,2,107,Netherlands
-3,3,2,2,117,United Kingdom
-3,3,2,1,16,Brazil
-3,3,2,1,20,Canada
-3,3,2,1,36,Germany
-3,3,2,1,44,India
-3,3,2,1,74,Nigeria
-3,3,2,1,75,Norway
-3,3,2,1,86,Russian Federation
-3,3,3,14,113,USA
-3,3,3,4,107,Netherlands
-3,3,3,4,117,United Kingdom
-3,3,3,3,51,Japan
-3,3,3,2,16,Brazil
-3,3,3,2,23,China
-3,3,3,2,44,India
-3,3,3,2,1,N/A
-3,3,3,1,7,Austria
-3,3,3,1,26,Cuba
-3,3,3,1,36,Germany
-3,3,3,1,42,Hungary
-3,3,3,1,73,New Zealand
-3,3,4,6,113,USA
-3,3,4,2,20,Canada
-3,3,4,2,34,Finland
-3,3,4,1,16,Brazil
-3,3,4,1,44,India
-3,3,4,1,51,Japan
-3,3,4,1,60,Malaysia
-3,3,4,1,64,Mexico
-3,3,4,1,107,Netherlands
-3,3,4,1,75,Norway
-3,3,4,1,80,Peru
-3,3,5,3,113,USA
-3,3,5,2,20,Canada
-3,3,5,2,117,United Kingdom
-3,3,5,1,5,Argentina
-3,3,5,1,10,Belgium
-3,3,5,1,16,Brazil
-3,3,5,1,35,France
-3,3,5,1,44,India
-3,3,5,1,45,Indonesia
-3,3,5,1,51,Japan
-3,3,5,1,1,N/A
-3,3,5,1,80,Peru
-3,3,5,1,122,Zambia
-3,3,6,6,113,USA
-3,3,6,3,117,United Kingdom
-3,3,6,2,44,India
-3,3,6,2,51,Japan
-3,3,6,2,1,N/A
-3,3,6,1,20,Canada
-3,3,6,1,22,Chile
-3,3,6,1,23,China
-3,3,6,1,28,Denmark
-3,3,6,1,36,Germany
-3,3,6,1,107,Netherlands
-3,3,6,1,80,Peru
-3,3,6,1,86,Russian Federation
-3,3,6,1,101,Sweden
-3,3,6,1,102,Switzerland
-3,3,7,2,23,China
-3,3,7,2,113,USA
-3,3,7,1,16,Brazil
-3,3,7,1,35,France
-3,3,7,1,36,Germany
-3,3,7,1,51,Japan
-3,3,7,1,1,N/A
-3,3,8,4,113,USA
-3,3,8,3,75,Norway
-3,3,8,2,35,France
-3,3,8,2,36,Germany
-3,3,8,2,1,N/A
-3,3,8,1,5,Argentina
-3,3,8,1,6,Australia
-3,3,8,1,20,Canada
-3,3,8,1,22,Chile
-3,3,8,1,23,China
-3,3,8,1,26,Cuba
-3,3,8,1,44,India
-3,3,8,1,48,Israel
-3,3,8,1,51,Japan
-3,3,8,1,80,Peru
-3,3,8,1,86,Russian Federation
-3,3,9,4,113,USA
-3,3,9,3,95,South Africa
-3,3,9,2,51,Japan
-3,3,9,2,1,N/A
-3,3,9,2,117,United Kingdom
-3,3,9,1,23,China
-3,3,9,1,26,Cuba
-3,3,9,1,35,France
-3,3,9,1,44,India
-3,3,9,1,53,Kenya
-3,3,9,1,88,Saudi Arabia
-3,3,SPM,7,1,N/A
-3,3,SPM,5,113,USA
-3,3,SPM,4,107,Netherlands
-3,3,SPM,4,117,United Kingdom
-3,3,SPM,2,7,Austria
-3,3,SPM,2,44,India
-3,3,SPM,1,5,Argentina
-3,3,SPM,1,28,Denmark
-3,3,SPM,1,34,Finland
-3,3,SPM,1,35,France
-3,3,SPM,1,36,Germany
-3,3,SPM,1,51,Japan
-3,3,SPM,1,86,Russian Federation
-3,3,SPM,1,95,South Africa
-3,3,SPM,1,102,Switzerland
-3,3,TS,9,113,USA
-3,3,TS,5,107,Netherlands
-3,3,TS,4,51,Japan
-3,3,TS,3,117,United Kingdom
-3,3,TS,2,28,Denmark
-3,3,TS,2,36,Germany
-3,3,TS,1,16,Brazil
-3,3,TS,1,23,China
-3,3,TS,1,34,Finland
-3,3,TS,1,44,India
-3,3,TS,1,75,Norway
-3,3,TS,1,86,Russian Federation
-3,3,TS,1,95,South Africa
-4,1,1,13,113,USA
-4,1,1,7,36,Germany
-4,1,1,5,117,United Kingdom
-4,1,1,3,102,Switzerland
-4,1,1,2,75,Norway
-4,1,1,1,7,Austria
-4,1,1,1,23,China
-4,1,1,1,35,France
-4,1,1,1,69,Morocco
-4,1,1,1,107,Netherlands
-4,1,1,1,97,Spain
-4,1,10,30,113,USA
-4,1,10,17,117,United Kingdom
-4,1,10,7,36,Germany
-4,1,10,7,51,Japan
-4,1,10,6,35,France
-4,1,10,5,20,Canada
-4,1,10,5,102,Switzerland
-4,1,10,3,6,Australia
-4,1,10,3,10,Belgium
-4,1,10,3,23,China
-4,1,10,2,107,Netherlands
-4,1,10,2,86,Russian Federation
-4,1,10,1,34,Finland
-4,1,10,1,44,India
-4,1,10,1,66,Monaco
-4,1,10,1,89,Senegal
-4,1,11,13,113,USA
-4,1,11,6,117,United Kingdom
-4,1,11,5,20,Canada
-4,1,11,4,6,Australia
-4,1,11,4,36,Germany
-4,1,11,3,95,South Africa
-4,1,11,2,23,China
-4,1,11,2,51,Japan
-4,1,11,2,75,Norway
-4,1,11,2,102,Switzerland
-4,1,11,1,5,Argentina
-4,1,11,1,28,Denmark
-4,1,11,1,34,Finland
-4,1,11,1,35,France
-4,1,11,1,44,India
-4,1,11,1,46,Iran
-4,1,11,1,49,Italy
-4,1,11,1,50,Jamaica
-4,1,11,1,64,Mexico
-4,1,11,1,73,New Zealand
-4,1,11,1,85,Romania
-4,1,11,1,86,Russian Federation
-4,1,11,1,89,Senegal
-4,1,11,1,96,South Korea
-4,1,11,1,97,Spain
-4,1,11,1,101,Sweden
-4,1,2,24,113,USA
-4,1,2,7,117,United Kingdom
-4,1,2,4,36,Germany
-4,1,2,4,73,New Zealand
-4,1,2,3,102,Switzerland
-4,1,2,2,6,Australia
-4,1,2,2,35,France
-4,1,2,2,51,Japan
-4,1,2,2,75,Norway
-4,1,2,1,16,Brazil
-4,1,2,1,53,Kenya
-4,1,2,1,64,Mexico
-4,1,2,1,107,Netherlands
-4,1,3,39,113,USA
-4,1,3,15,117,United Kingdom
-4,1,3,3,6,Australia
-4,1,3,3,23,China
-4,1,3,3,51,Japan
-4,1,3,2,5,Argentina
-4,1,3,2,36,Germany
-4,1,3,2,107,Netherlands
-4,1,3,2,102,Switzerland
-4,1,3,1,20,Canada
-4,1,3,1,35,France
-4,1,3,1,44,India
-4,1,3,1,46,Iran
-4,1,3,1,53,Kenya
-4,1,3,1,73,New Zealand
-4,1,3,1,85,Romania
-4,1,3,1,86,Russian Federation
-4,1,3,1,101,Sweden
-4,1,3,1,106,The Gambia
-4,1,4,22,113,USA
-4,1,4,6,20,Canada
-4,1,4,6,117,United Kingdom
-4,1,4,3,23,China
-4,1,4,3,36,Germany
-4,1,4,3,51,Japan
-4,1,4,3,102,Switzerland
-4,1,4,2,6,Australia
-4,1,4,2,75,Norway
-4,1,4,2,101,Sweden
-4,1,4,1,7,Austria
-4,1,4,1,10,Belgium
-4,1,4,1,22,Chile
-4,1,4,1,73,New Zealand
-4,1,4,1,86,Russian Federation
-4,1,5,30,113,USA
-4,1,5,7,117,United Kingdom
-4,1,5,6,36,Germany
-4,1,5,5,35,France
-4,1,5,5,51,Japan
-4,1,5,4,6,Australia
-4,1,5,2,20,Canada
-4,1,5,1,10,Belgium
-4,1,5,1,13,Bermuda
-4,1,5,1,44,India
-4,1,5,1,49,Italy
-4,1,5,1,73,New Zealand
-4,1,5,1,75,Norway
-4,1,5,1,86,Russian Federation
-4,1,5,1,96,South Korea
-4,1,5,1,97,Spain
-4,1,6,16,113,USA
-4,1,6,12,35,France
-4,1,6,5,102,Switzerland
-4,1,6,4,75,Norway
-4,1,6,3,36,Germany
-4,1,6,3,117,United Kingdom
-4,1,6,2,23,China
-4,1,6,1,5,Argentina
-4,1,6,1,10,Belgium
-4,1,6,1,20,Canada
-4,1,6,1,44,India
-4,1,6,1,53,Kenya
-4,1,6,1,86,Russian Federation
-4,1,7,28,113,USA
-4,1,7,10,36,Germany
-4,1,7,8,117,United Kingdom
-4,1,7,7,35,France
-4,1,7,6,20,Canada
-4,1,7,4,6,Australia
-4,1,7,2,49,Italy
-4,1,7,2,51,Japan
-4,1,7,2,102,Switzerland
-4,1,7,2,105,Thailand
-4,1,7,1,16,Brazil
-4,1,7,1,23,China
-4,1,7,1,44,India
-4,1,7,1,107,Netherlands
-4,1,7,1,73,New Zealand
-4,1,7,1,75,Norway
-4,1,7,1,101,Sweden
-4,1,8,31,113,USA
-4,1,8,15,117,United Kingdom
-4,1,8,7,36,Germany
-4,1,8,6,6,Australia
-4,1,8,6,51,Japan
-4,1,8,5,102,Switzerland
-4,1,8,4,10,Belgium
-4,1,8,4,20,Canada
-4,1,8,4,35,France
-4,1,8,2,107,Netherlands
-4,1,8,2,86,Russian Federation
-4,1,8,1,44,India
-4,1,8,1,49,Italy
-4,1,8,1,75,Norway
-4,1,9,20,113,USA
-4,1,9,16,117,United Kingdom
-4,1,9,5,20,Canada
-4,1,9,4,6,Australia
-4,1,9,3,35,France
-4,1,9,1,10,Belgium
-4,1,9,1,16,Brazil
-4,1,9,1,23,China
-4,1,9,1,36,Germany
-4,1,9,1,51,Japan
-4,1,9,1,53,Kenya
-4,1,9,1,107,Netherlands
-4,1,9,1,102,Switzerland
-4,1,SPM,17,113,USA
-4,1,SPM,7,117,United Kingdom
-4,1,SPM,3,6,Australia
-4,1,SPM,3,23,China
-4,1,SPM,3,35,France
-4,1,SPM,3,36,Germany
-4,1,SPM,3,102,Switzerland
-4,1,SPM,2,20,Canada
-4,1,SPM,2,75,Norway
-4,1,SPM,1,5,Argentina
-4,1,SPM,1,28,Denmark
-4,1,SPM,1,51,Japan
-4,1,SPM,1,64,Mexico
-4,1,SPM,1,73,New Zealand
-4,1,SPM,1,86,Russian Federation
-4,1,SPM,1,95,South Africa
-4,1,SPM,1,105,Thailand
-4,1,TS,16,113,USA
-4,1,TS,7,117,United Kingdom
-4,1,TS,3,6,Australia
-4,1,TS,3,23,China
-4,1,TS,3,36,Germany
-4,1,TS,3,102,Switzerland
-4,1,TS,2,20,Canada
-4,1,TS,2,35,France
-4,1,TS,2,75,Norway
-4,1,TS,2,105,Thailand
-4,1,TS,1,5,Argentina
-4,1,TS,1,28,Denmark
-4,1,TS,1,49,Italy
-4,1,TS,1,51,Japan
-4,1,TS,1,64,Mexico
-4,1,TS,1,73,New Zealand
-4,1,TS,1,86,Russian Federation
-4,1,TS,1,95,South Africa
-4,1,TS,1,106,The Gambia
-4,2,1,13,113,USA
-4,2,1,8,117,United Kingdom
-4,2,1,3,23,China
-4,2,1,2,6,Australia
-4,2,1,2,20,Canada
-4,2,1,2,35,France
-4,2,1,2,36,Germany
-4,2,1,2,102,Switzerland
-4,2,1,1,5,Argentina
-4,2,1,1,7,Austria
-4,2,1,1,16,Brazil
-4,2,1,1,22,Chile
-4,2,1,1,27,Czech Republic
-4,2,1,1,53,Kenya
-4,2,1,1,107,Netherlands
-4,2,1,1,73,New Zealand
-4,2,1,1,82,Poland
-4,2,1,1,94,Slovenia
-4,2,1,1,97,Spain
-4,2,1,1,109,Trinidad and Tobago
-4,2,10,6,23,China
-4,2,10,6,51,Japan
-4,2,10,4,44,India
-4,2,10,2,121,Vietnam
-4,2,10,1,6,Australia
-4,2,10,1,45,Indonesia
-4,2,10,1,46,Iran
-4,2,10,1,60,Malaysia
-4,2,10,1,68,Mongolia
-4,2,10,1,81,Philippines
-4,2,10,1,86,Russian Federation
-4,2,11,12,6,Australia
-4,2,11,10,73,New Zealand
-4,2,12,4,117,United Kingdom
-4,2,12,2,28,Denmark
-4,2,12,2,47,Ireland
-4,2,12,2,107,Netherlands
-4,2,12,1,7,Austria
-4,2,12,1,10,Belgium
-4,2,12,1,34,Finland
-4,2,12,1,35,France
-4,2,12,1,36,Germany
-4,2,12,1,38,Greece
-4,2,12,1,42,Hungary
-4,2,12,1,49,Italy
-4,2,12,1,65,Moldova
-4,2,12,1,83,Portugal
-4,2,12,1,97,Spain
-4,2,12,1,101,Sweden
-4,2,12,1,102,Switzerland
-4,2,12,1,116,Ukraine
-4,2,13,4,64,Mexico
-4,2,13,3,5,Argentina
-4,2,13,3,16,Brazil
-4,2,13,2,120,Venezuela
-4,2,13,1,14,Bolivia
-4,2,13,1,22,Chile
-4,2,13,1,25,Costa Rica
-4,2,13,1,118,Uruguay
-4,2,14,13,113,USA
-4,2,14,9,20,Canada
-4,2,14,1,117,United Kingdom
-4,2,15,9,20,Canada
-4,2,15,3,113,USA
-4,2,15,2,101,Sweden
-4,2,15,1,6,Australia
-4,2,15,1,43,Iceland
-4,2,15,1,107,Netherlands
-4,2,15,1,86,Russian Federation
-4,2,15,1,117,United Kingdom
-4,2,16,2,51,Japan
-4,2,16,2,87,Samoa
-4,2,16,2,90,Seychelles
-4,2,16,2,113,USA
-4,2,16,1,6,Australia
-4,2,16,1,9,Barbados
-4,2,16,1,11,Belize
-4,2,16,1,20,Canada
-4,2,16,1,33,Fiji
-4,2,16,1,62,Malta
-4,2,16,1,73,New Zealand
-4,2,16,1,84,Puerto Rico
-4,2,16,1,109,Trinidad and Tobago
-4,2,17,7,20,Canada
-4,2,17,5,117,United Kingdom
-4,2,17,5,113,USA
-4,2,17,1,16,Brazil
-4,2,17,1,35,France
-4,2,17,1,36,Germany
-4,2,17,1,44,India
-4,2,17,1,51,Japan
-4,2,17,1,64,Mexico
-4,2,17,1,69,Morocco
-4,2,17,1,72,Nepal
-4,2,17,1,75,Norway
-4,2,17,1,81,Philippines
-4,2,17,1,101,Sweden
-4,2,18,6,117,United Kingdom
-4,2,18,3,101,Sweden
-4,2,18,2,20,Canada
-4,2,18,2,113,USA
-4,2,18,1,48,Israel
-4,2,18,1,69,Morocco
-4,2,18,1,89,Senegal
-4,2,18,1,111,Turkey
-4,2,19,8,113,USA
-4,2,19,2,6,Australia
-4,2,19,2,44,India
-4,2,19,1,8,Bangladesh
-4,2,19,1,10,Belgium
-4,2,19,1,20,Canada
-4,2,19,1,26,Cuba
-4,2,19,1,35,France
-4,2,19,1,36,Germany
-4,2,19,1,86,Russian Federation
-4,2,19,1,117,United Kingdom
-4,2,19,1,123,Zimbabwe
-4,2,2,4,113,USA
-4,2,2,3,117,United Kingdom
-4,2,2,2,6,Australia
-4,2,2,2,7,Austria
-4,2,2,2,10,Belgium
-4,2,2,2,34,Finland
-4,2,2,2,36,Germany
-4,2,2,1,23,China
-4,2,2,1,35,France
-4,2,2,1,44,India
-4,2,2,1,49,Italy
-4,2,2,1,64,Mexico
-4,2,2,1,107,Netherlands
-4,2,20,8,113,USA
-4,2,20,2,20,Canada
-4,2,20,2,81,Philippines
-4,2,20,2,117,United Kingdom
-4,2,20,1,8,Bangladesh
-4,2,20,1,36,Germany
-4,2,20,1,74,Nigeria
-4,2,20,1,99,Sudan
-4,2,20,1,111,Turkey
-4,2,3,5,113,USA
-4,2,3,4,117,United Kingdom
-4,2,3,3,36,Germany
-4,2,3,3,107,Netherlands
-4,2,3,2,20,Canada
-4,2,3,2,51,Japan
-4,2,3,1,44,India
-4,2,3,1,64,Mexico
-4,2,3,1,82,Poland
-4,2,3,1,86,Russian Federation
-4,2,3,1,95,South Africa
-4,2,3,1,111,Turkey
-4,2,4,6,102,Switzerland
-4,2,4,3,95,South Africa
-4,2,4,2,6,Australia
-4,2,4,2,10,Belgium
-4,2,4,2,15,Botswana
-4,2,4,2,35,France
-4,2,4,2,36,Germany
-4,2,4,2,117,United Kingdom
-4,2,4,2,113,USA
-4,2,4,1,5,Argentina
-4,2,4,1,20,Canada
-4,2,4,1,28,Denmark
-4,2,4,1,44,India
-4,2,4,1,107,Netherlands
-4,2,4,1,80,Peru
-4,2,4,1,86,Russian Federation
-4,2,4,1,101,Sweden
-4,2,5,12,113,USA
-4,2,5,2,49,Italy
-4,2,5,2,117,United Kingdom
-4,2,5,1,6,Australia
-4,2,5,1,23,China
-4,2,5,1,28,Denmark
-4,2,5,1,35,France
-4,2,5,1,44,India
-4,2,5,1,47,Ireland
-4,2,5,1,56,Laos
-4,2,5,1,68,Mongolia
-4,2,5,1,75,Norway
-4,2,5,1,94,Slovenia
-4,2,6,6,117,United Kingdom
-4,2,6,5,6,Australia
-4,2,6,3,113,USA
-4,2,6,1,5,Argentina
-4,2,6,1,20,Canada
-4,2,6,1,47,Ireland
-4,2,6,1,51,Japan
-4,2,6,1,60,Malaysia
-4,2,6,1,63,Mauritius
-4,2,6,1,107,Netherlands
-4,2,6,1,73,New Zealand
-4,2,6,1,92,Singapore
-4,2,7,5,113,USA
-4,2,7,4,117,United Kingdom
-4,2,7,2,101,Sweden
-4,2,7,1,22,Chile
-4,2,7,1,23,China
-4,2,7,1,35,France
-4,2,7,1,44,India
-4,2,7,1,107,Netherlands
-4,2,7,1,75,Norway
-4,2,7,1,95,South Africa
-4,2,7,1,98,Sri Lanka
-4,2,7,1,102,Switzerland
-4,2,8,4,113,USA
-4,2,8,3,73,New Zealand
-4,2,8,3,117,United Kingdom
-4,2,8,2,6,Australia
-4,2,8,2,8,Bangladesh
-4,2,8,2,36,Germany
-4,2,8,2,102,Switzerland
-4,2,8,1,5,Argentina
-4,2,8,1,16,Brazil
-4,2,8,1,20,Canada
-4,2,8,1,44,India
-4,2,8,1,49,Italy
-4,2,8,1,70,Mozambique
-4,2,8,1,86,Russian Federation
-4,2,8,1,97,Spain
-4,2,9,5,117,United Kingdom
-4,2,9,3,74,Nigeria
-4,2,9,3,95,South Africa
-4,2,9,2,21,Chad
-4,2,9,2,30,Egypt
-4,2,9,2,35,France
-4,2,9,2,53,Kenya
-4,2,9,2,113,USA
-4,2,9,1,3,Algeria
-4,2,9,1,12,Benin
-4,2,9,1,69,Morocco
-4,2,9,1,89,Senegal
-4,2,9,1,99,Sudan
-4,2,9,1,104,Tanzania
-4,2,SPM,9,113,USA
-4,2,SPM,8,117,United Kingdom
-4,2,SPM,5,6,Australia
-4,2,SPM,3,20,Canada
-4,2,SPM,3,36,Germany
-4,2,SPM,3,44,India
-4,2,SPM,2,5,Argentina
-4,2,SPM,2,23,China
-4,2,SPM,2,35,France
-4,2,SPM,2,51,Japan
-4,2,SPM,2,64,Mexico
-4,2,SPM,2,81,Philippines
-4,2,SPM,2,86,Russian Federation
-4,2,SPM,2,95,South Africa
-4,2,SPM,1,9,Barbados
-4,2,SPM,1,10,Belgium
-4,2,SPM,1,16,Brazil
-4,2,SPM,1,22,Chile
-4,2,SPM,1,34,Finland
-4,2,SPM,1,42,Hungary
-4,2,SPM,1,69,Morocco
-4,2,SPM,1,73,New Zealand
-4,2,SPM,1,74,Nigeria
-4,2,SPM,1,82,Poland
-4,2,SPM,1,89,Senegal
-4,2,SPM,1,92,Singapore
-4,2,SPM,1,94,Slovenia
-4,2,SPM,1,97,Spain
-4,2,SPM,1,101,Sweden
-4,2,SPM,1,102,Switzerland
-4,2,TS,9,117,United Kingdom
-4,2,TS,9,113,USA
-4,2,TS,4,6,Australia
-4,2,TS,4,36,Germany
-4,2,TS,3,20,Canada
-4,2,TS,3,44,India
-4,2,TS,2,5,Argentina
-4,2,TS,2,23,China
-4,2,TS,2,35,France
-4,2,TS,2,51,Japan
-4,2,TS,2,64,Mexico
-4,2,TS,2,81,Philippines
-4,2,TS,2,86,Russian Federation
-4,2,TS,2,95,South Africa
-4,2,TS,1,9,Barbados
-4,2,TS,1,10,Belgium
-4,2,TS,1,16,Brazil
-4,2,TS,1,22,Chile
-4,2,TS,1,34,Finland
-4,2,TS,1,42,Hungary
-4,2,TS,1,45,Indonesia
-4,2,TS,1,69,Morocco
-4,2,TS,1,73,New Zealand
-4,2,TS,1,74,Nigeria
-4,2,TS,1,82,Poland
-4,2,TS,1,89,Senegal
-4,2,TS,1,92,Singapore
-4,2,TS,1,94,Slovenia
-4,2,TS,1,97,Spain
-4,2,TS,1,101,Sweden
-4,2,TS,1,102,Switzerland
-4,3,1,2,23,China
-4,3,1,2,36,Germany
-4,3,1,2,107,Netherlands
-4,3,1,1,7,Austria
-4,3,1,1,20,Canada
-4,3,1,1,35,France
-4,3,1,1,51,Japan
-4,3,1,1,53,Kenya
-4,3,1,1,96,South Korea
-4,3,1,1,113,USA
-4,3,10,2,23,China
-4,3,10,2,34,Finland
-4,3,10,2,113,USA
-4,3,10,1,7,Austria
-4,3,10,1,26,Cuba
-4,3,10,1,28,Denmark
-4,3,10,1,45,Indonesia
-4,3,10,1,51,Japan
-4,3,10,1,107,Netherlands
-4,3,10,1,99,Sudan
-4,3,10,1,117,United Kingdom
-4,3,11,7,113,USA
-4,3,11,3,107,Netherlands
-4,3,11,3,117,United Kingdom
-4,3,11,2,7,Austria
-4,3,11,2,51,Japan
-4,3,11,2,75,Norway
-4,3,11,1,10,Belgium
-4,3,11,1,20,Canada
-4,3,11,1,22,Chile
-4,3,11,1,23,China
-4,3,11,1,36,Germany
-4,3,11,1,73,New Zealand
-4,3,11,1,74,Nigeria
-4,3,11,1,86,Russian Federation
-4,3,11,1,88,Saudi Arabia
-4,3,11,1,102,Switzerland
-4,3,11,1,111,Turkey
-4,3,12,3,20,Canada
-4,3,12,3,107,Netherlands
-4,3,12,3,113,USA
-4,3,12,2,6,Australia
-4,3,12,2,35,France
-4,3,12,1,16,Brazil
-4,3,12,1,23,China
-4,3,12,1,26,Cuba
-4,3,12,1,36,Germany
-4,3,12,1,95,South Africa
-4,3,12,1,98,Sri Lanka
-4,3,12,1,110,Tunisia
-4,3,12,1,117,United Kingdom
-4,3,13,5,113,USA
-4,3,13,2,51,Japan
-4,3,13,2,107,Netherlands
-4,3,13,1,20,Canada
-4,3,13,1,23,China
-4,3,13,1,26,Cuba
-4,3,13,1,36,Germany
-4,3,13,1,44,India
-4,3,13,1,45,Indonesia
-4,3,13,1,64,Mexico
-4,3,13,1,76,Oman
-4,3,13,1,102,Switzerland
-4,3,2,4,113,USA
-4,3,2,3,44,India
-4,3,2,2,35,France
-4,3,2,1,6,Australia
-4,3,2,1,7,Austria
-4,3,2,1,23,China
-4,3,2,1,28,Denmark
-4,3,2,1,29,Ecuador
-4,3,2,1,49,Italy
-4,3,2,1,51,Japan
-4,3,2,1,53,Kenya
-4,3,2,1,86,Russian Federation
-4,3,2,1,99,Sudan
-4,3,2,1,117,United Kingdom
-4,3,3,7,113,USA
-4,3,3,4,35,France
-4,3,3,3,7,Austria
-4,3,3,3,51,Japan
-4,3,3,2,6,Australia
-4,3,3,2,44,India
-4,3,3,2,107,Netherlands
-4,3,3,1,5,Argentina
-4,3,3,1,16,Brazil
-4,3,3,1,23,China
-4,3,3,1,75,Norway
-4,3,3,1,88,Saudi Arabia
-4,3,3,1,111,Turkey
-4,3,3,1,117,United Kingdom
-4,3,4,4,113,USA
-4,3,4,2,7,Austria
-4,3,4,2,23,China
-4,3,4,2,28,Denmark
-4,3,4,1,16,Brazil
-4,3,4,1,26,Cuba
-4,3,4,1,34,Finland
-4,3,4,1,51,Japan
-4,3,4,1,53,Kenya
-4,3,4,1,57,Lithuania
-4,3,4,1,73,New Zealand
-4,3,4,1,74,Nigeria
-4,3,4,1,95,South Africa
-4,3,4,1,99,Sudan
-4,3,5,4,113,USA
-4,3,5,3,51,Japan
-4,3,5,2,117,United Kingdom
-4,3,5,1,10,Belgium
-4,3,5,1,15,Botswana
-4,3,5,1,16,Brazil
-4,3,5,1,44,India
-4,3,5,1,64,Mexico
-4,3,5,1,107,Netherlands
-4,3,5,1,73,New Zealand
-4,3,5,1,75,Norway
-4,3,6,5,113,USA
-4,3,6,2,23,China
-4,3,6,2,42,Hungary
-4,3,6,2,107,Netherlands
-4,3,6,2,117,United Kingdom
-4,3,6,1,20,Canada
-4,3,6,1,35,France
-4,3,6,1,36,Germany
-4,3,6,1,38,Greece
-4,3,6,1,49,Italy
-4,3,6,1,51,Japan
-4,3,6,1,80,Peru
-4,3,6,1,95,South Africa
-4,3,7,6,113,USA
-4,3,7,3,51,Japan
-4,3,7,2,35,France
-4,3,7,2,36,Germany
-4,3,7,2,44,India
-4,3,7,2,107,Netherlands
-4,3,7,1,6,Australia
-4,3,7,1,23,China
-4,3,7,1,64,Mexico
-4,3,7,1,122,Zambia
-4,3,8,4,113,USA
-4,3,8,3,117,United Kingdom
-4,3,8,2,20,Canada
-4,3,8,2,23,China
-4,3,8,2,86,Russian Federation
-4,3,8,1,6,Australia
-4,3,8,1,36,Germany
-4,3,8,1,47,Ireland
-4,3,8,1,53,Kenya
-4,3,8,1,74,Nigeria
-4,3,8,1,75,Norway
-4,3,8,1,95,South Africa
-4,3,8,1,105,Thailand
-4,3,8,1,118,Uruguay
-4,3,9,6,20,Canada
-4,3,9,6,113,USA
-4,3,9,5,107,Netherlands
-4,3,9,2,16,Brazil
-4,3,9,2,64,Mexico
-4,3,9,1,5,Argentina
-4,3,9,1,7,Austria
-4,3,9,1,34,Finland
-4,3,9,1,35,France
-4,3,9,1,36,Germany
-4,3,9,1,44,India
-4,3,9,1,45,Indonesia
-4,3,9,1,49,Italy
-4,3,9,1,51,Japan
-4,3,9,1,73,New Zealand
-4,3,9,1,80,Peru
-4,3,9,1,97,Spain
-4,3,9,1,99,Sudan
-4,3,9,1,118,Uruguay
-4,3,SPM,7,107,Netherlands
-4,3,SPM,7,113,USA
-4,3,SPM,3,44,India
-4,3,SPM,3,117,United Kingdom
-4,3,SPM,2,7,Austria
-4,3,SPM,1,6,Australia
-4,3,SPM,1,16,Brazil
-4,3,SPM,1,23,China
-4,3,SPM,1,28,Denmark
-4,3,SPM,1,42,Hungary
-4,3,SPM,1,51,Japan
-4,3,SPM,1,64,Mexico
-4,3,SPM,1,73,New Zealand
-4,3,SPM,1,86,Russian Federation
-4,3,SPM,1,91,Sierra Leone
-4,3,SPM,1,118,Uruguay
-4,3,TS,6,107,Netherlands
-4,3,TS,6,113,USA
-4,3,TS,3,44,India
-4,3,TS,2,7,Austria
-4,3,TS,1,5,Argentina
-4,3,TS,1,6,Australia
-4,3,TS,1,16,Brazil
-4,3,TS,1,23,China
-4,3,TS,1,28,Denmark
-4,3,TS,1,34,Finland
-4,3,TS,1,35,France
-4,3,TS,1,42,Hungary
-4,3,TS,1,51,Japan
-4,3,TS,1,53,Kenya
-4,3,TS,1,64,Mexico
-4,3,TS,1,86,Russian Federation
-4,3,TS,1,91,Sierra Leone
-4,3,TS,1,117,United Kingdom
-4,3,TS,1,118,Uruguay
-5,1,1,9,36,Germany
-5,1,1,7,113,USA
-5,1,1,2,117,United Kingdom
-5,1,1,1,23,China
-5,1,1,1,35,France
-5,1,1,1,49,Italy
-5,1,1,1,73,New Zealand
-5,1,1,1,75,Norway
-5,1,1,1,101,Sweden
-5,1,1,1,102,Switzerland
-5,1,1,1,111,Turkey
-5,1,10,20,113,USA
-5,1,10,19,117,United Kingdom
-5,1,10,6,102,Switzerland
-5,1,10,5,35,France
-5,1,10,4,86,Russian Federation
-5,1,10,3,6,Australia
-5,1,10,3,20,Canada
-5,1,10,2,36,Germany
-5,1,10,2,122,Zambia
-5,1,10,1,7,Austria
-5,1,10,1,10,Belgium
-5,1,10,1,23,China
-5,1,10,1,34,Finland
-5,1,10,1,42,Hungary
-5,1,10,1,44,India
-5,1,10,1,51,Japan
-5,1,10,1,64,Mexico
-5,1,10,1,69,Morocco
-5,1,10,1,75,Norway
-5,1,10,1,96,South Korea
-5,1,10,1,97,Spain
-5,1,11,23,113,USA
-5,1,11,12,117,United Kingdom
-5,1,11,4,97,Spain
-5,1,11,3,107,Netherlands
-5,1,11,2,6,Australia
-5,1,11,2,20,Canada
-5,1,11,2,35,France
-5,1,11,2,51,Japan
-5,1,11,2,102,Switzerland
-5,1,11,1,5,Argentina
-5,1,11,1,7,Austria
-5,1,11,1,10,Belgium
-5,1,11,1,15,Botswana
-5,1,11,1,23,China
-5,1,11,1,49,Italy
-5,1,11,1,85,Romania
-5,1,11,1,89,Senegal
-5,1,12,22,117,United Kingdom
-5,1,12,21,113,USA
-5,1,12,7,20,Canada
-5,1,12,6,35,France
-5,1,12,6,36,Germany
-5,1,12,6,102,Switzerland
-5,1,12,5,10,Belgium
-5,1,12,2,6,Australia
-5,1,12,1,23,China
-5,1,12,1,69,Morocco
-5,1,12,1,100,Swaziland
-5,1,13,18,113,USA
-5,1,13,12,117,United Kingdom
-5,1,13,11,107,Netherlands
-5,1,13,7,6,Australia
-5,1,13,5,20,Canada
-5,1,13,4,36,Germany
-5,1,13,3,35,France
-5,1,13,2,7,Austria
-5,1,13,2,10,Belgium
-5,1,13,2,28,Denmark
-5,1,13,2,51,Japan
-5,1,13,2,75,Norway
-5,1,13,2,101,Sweden
-5,1,13,1,23,China
-5,1,13,1,44,India
-5,1,14,36,113,USA
-5,1,14,7,117,United Kingdom
-5,1,14,6,23,China
-5,1,14,6,44,India
-5,1,14,5,6,Australia
-5,1,14,4,28,Denmark
-5,1,14,4,51,Japan
-5,1,14,4,96,South Korea
-5,1,14,4,97,Spain
-5,1,14,3,20,Canada
-5,1,14,2,5,Argentina
-5,1,14,2,16,Brazil
-5,1,14,2,107,Netherlands
-5,1,14,2,73,New Zealand
-5,1,14,2,95,South Africa
-5,1,14,1,35,France
-5,1,14,1,45,Indonesia
-5,1,14,1,49,Italy
-5,1,14,1,64,Mexico
-5,1,14,1,77,Qatar
-5,1,14,1,101,Sweden
-5,1,14,1,102,Switzerland
-5,1,14,1,122,Zambia
-5,1,2,25,113,USA
-5,1,2,11,117,United Kingdom
-5,1,2,3,102,Switzerland
-5,1,2,2,6,Australia
-5,1,2,2,20,Canada
-5,1,2,2,36,Germany
-5,1,2,2,107,Netherlands
-5,1,2,1,5,Argentina
-5,1,2,1,7,Austria
-5,1,2,1,16,Brazil
-5,1,2,1,23,China
-5,1,2,1,49,Italy
-5,1,2,1,60,Malaysia
-5,1,2,1,75,Norway
-5,1,2,1,76,Oman
-5,1,2,1,83,Portugal
-5,1,3,31,113,USA
-5,1,3,7,117,United Kingdom
-5,1,3,6,36,Germany
-5,1,3,6,51,Japan
-5,1,3,5,6,Australia
-5,1,3,4,35,France
-5,1,3,3,20,Canada
-5,1,3,3,86,Russian Federation
-5,1,3,2,96,South Korea
-5,1,3,2,97,Spain
-5,1,3,1,7,Austria
-5,1,3,1,13,Bermuda
-5,1,3,1,16,Brazil
-5,1,3,1,23,China
-5,1,3,1,43,Iceland
-5,1,3,1,75,Norway
-5,1,3,1,102,Switzerland
-5,1,4,17,113,USA
-5,1,4,8,20,Canada
-5,1,4,5,117,United Kingdom
-5,1,4,3,6,Australia
-5,1,4,3,102,Switzerland
-5,1,4,2,7,Austria
-5,1,4,2,23,China
-5,1,4,2,36,Germany
-5,1,4,2,75,Norway
-5,1,4,1,10,Belgium
-5,1,4,1,22,Chile
-5,1,4,1,107,Netherlands
-5,1,4,1,86,Russian Federation
-5,1,5,18,113,USA
-5,1,5,9,36,Germany
-5,1,5,8,117,United Kingdom
-5,1,5,6,35,France
-5,1,5,4,6,Australia
-5,1,5,4,51,Japan
-5,1,5,4,102,Switzerland
-5,1,5,3,73,New Zealand
-5,1,5,3,75,Norway
-5,1,5,2,44,India
-5,1,5,2,97,Spain
-5,1,5,1,20,Canada
-5,1,5,1,22,Chile
-5,1,5,1,23,China
-5,1,5,1,28,Denmark
-5,1,5,1,46,Iran
-5,1,5,1,49,Italy
-5,1,5,1,86,Russian Federation
-5,1,5,1,101,Sweden
-5,1,6,33,113,USA
-5,1,6,13,117,United Kingdom
-5,1,6,12,35,France
-5,1,6,9,107,Netherlands
-5,1,6,7,36,Germany
-5,1,6,5,102,Switzerland
-5,1,6,4,51,Japan
-5,1,6,3,6,Australia
-5,1,6,3,20,Canada
-5,1,6,3,75,Norway
-5,1,6,2,10,Belgium
-5,1,6,2,23,China
-5,1,6,1,7,Austria
-5,1,6,1,34,Finland
-5,1,6,1,44,India
-5,1,6,1,49,Italy
-5,1,6,1,73,New Zealand
-5,1,6,1,96,South Korea
-5,1,6,1,101,Sweden
-5,1,7,18,113,USA
-5,1,7,5,117,United Kingdom
-5,1,7,4,35,France
-5,1,7,4,36,Germany
-5,1,7,2,6,Australia
-5,1,7,2,23,China
-5,1,7,2,44,India
-5,1,7,2,49,Italy
-5,1,7,2,51,Japan
-5,1,7,2,75,Norway
-5,1,7,1,16,Brazil
-5,1,7,1,34,Finland
-5,1,7,1,47,Ireland
-5,1,7,1,97,Spain
-5,1,7,1,102,Switzerland
-5,1,8,13,113,USA
-5,1,8,9,117,United Kingdom
-5,1,8,7,75,Norway
-5,1,8,3,35,France
-5,1,8,2,23,China
-5,1,8,2,51,Japan
-5,1,8,2,102,Switzerland
-5,1,8,1,6,Australia
-5,1,8,1,36,Germany
-5,1,8,1,44,India
-5,1,8,1,64,Mexico
-5,1,9,31,113,USA
-5,1,9,19,117,United Kingdom
-5,1,9,8,20,Canada
-5,1,9,7,36,Germany
-5,1,9,5,6,Australia
-5,1,9,5,35,France
-5,1,9,2,51,Japan
-5,1,9,2,86,Russian Federation
-5,1,9,2,95,South Africa
-5,1,9,2,97,Spain
-5,1,9,1,10,Belgium
-5,1,9,1,16,Brazil
-5,1,9,1,23,China
-5,1,9,1,34,Finland
-5,1,9,1,44,India
-5,1,9,1,69,Morocco
-5,1,9,1,107,Netherlands
-5,1,9,1,73,New Zealand
-5,1,9,1,74,Nigeria
-5,1,9,1,75,Norway
-5,1,9,1,101,Sweden
-5,1,9,1,102,Switzerland
-5,1,SPM,17,113,USA
-5,1,SPM,11,117,United Kingdom
-5,1,SPM,6,6,Australia
-5,1,SPM,6,102,Switzerland
-5,1,SPM,5,36,Germany
-5,1,SPM,4,35,France
-5,1,SPM,3,23,China
-5,1,SPM,3,75,Norway
-5,1,SPM,2,20,Canada
-5,1,SPM,2,86,Russian Federation
-5,1,SPM,1,5,Argentina
-5,1,SPM,1,7,Austria
-5,1,SPM,1,22,Chile
-5,1,SPM,1,28,Denmark
-5,1,SPM,1,44,India
-5,1,SPM,1,51,Japan
-5,1,SPM,1,107,Netherlands
-5,2,1,6,113,USA
-5,2,1,3,36,Germany
-5,2,1,2,75,Norway
-5,2,1,1,6,Australia
-5,2,1,1,26,Cuba
-5,2,1,1,35,France
-5,2,1,1,44,India
-5,2,1,1,49,Italy
-5,2,1,1,64,Mexico
-5,2,1,1,101,Sweden
-5,2,10,6,113,USA
-5,2,10,2,23,China
-5,2,10,1,35,France
-5,2,10,1,36,Germany
-5,2,10,1,42,Hungary
-5,2,10,1,44,India
-5,2,10,1,49,Italy
-5,2,10,1,61,Maldives
-5,2,10,1,107,Netherlands
-5,2,10,1,104,Tanzania
-5,2,10,1,117,United Kingdom
-5,2,11,6,113,USA
-5,2,11,4,117,United Kingdom
-5,2,11,3,6,Australia
-5,2,11,3,73,New Zealand
-5,2,11,1,16,Brazil
-5,2,11,1,23,China
-5,2,11,1,36,Germany
-5,2,11,1,51,Japan
-5,2,11,1,86,Russian Federation
-5,2,11,1,91,Sierra Leone
-5,2,11,1,95,South Africa
-5,2,11,1,101,Sweden
-5,2,11,1,109,Trinidad and Tobago
-5,2,12,3,117,United Kingdom
-5,2,12,3,113,USA
-5,2,12,2,6,Australia
-5,2,12,1,22,Chile
-5,2,12,1,24,Colombia
-5,2,12,1,53,Kenya
-5,2,12,1,64,Mexico
-5,2,12,1,75,Norway
-5,2,12,1,81,Philippines
-5,2,12,1,95,South Africa
-5,2,13,4,113,USA
-5,2,13,3,75,Norway
-5,2,13,2,117,United Kingdom
-5,2,13,1,9,Barbados
-5,2,13,1,23,China
-5,2,13,1,53,Kenya
-5,2,13,1,85,Romania
-5,2,13,1,99,Sudan
-5,2,13,1,101,Sweden
-5,2,13,1,102,Switzerland
-5,2,14,4,113,USA
-5,2,14,1,6,Australia
-5,2,14,1,7,Austria
-5,2,14,1,8,Bangladesh
-5,2,14,1,36,Germany
-5,2,14,1,51,Japan
-5,2,14,1,107,Netherlands
-5,2,14,1,74,Nigeria
-5,2,14,1,81,Philippines
-5,2,14,1,86,Russian Federation
-5,2,14,1,99,Sudan
-5,2,14,1,117,United Kingdom
-5,2,14,1,120,Venezuela
-5,2,15,3,113,USA
-5,2,15,1,19,Cameroon
-5,2,15,1,23,China
-5,2,15,1,24,Colombia
-5,2,15,1,30,Egypt
-5,2,15,1,51,Japan
-5,2,15,1,64,Mexico
-5,2,15,1,121,Vietnam
-5,2,16,4,113,USA
-5,2,16,3,6,Australia
-5,2,16,3,95,South Africa
-5,2,16,3,117,United Kingdom
-5,2,16,2,107,Netherlands
-5,2,16,2,101,Sweden
-5,2,16,1,8,Bangladesh
-5,2,16,1,23,China
-5,2,16,1,34,Finland
-5,2,16,1,36,Germany
-5,2,16,1,75,Norway
-5,2,17,6,113,USA
-5,2,17,4,117,United Kingdom
-5,2,17,2,35,France
-5,2,17,2,97,Spain
-5,2,17,1,7,Austria
-5,2,17,1,16,Brazil
-5,2,17,1,20,Canada
-5,2,17,1,75,Norway
-5,2,17,1,80,Peru
-5,2,17,1,123,Zimbabwe
-5,2,18,8,113,USA
-5,2,18,4,36,Germany
-5,2,18,2,6,Australia
-5,2,18,2,35,France
-5,2,18,2,107,Netherlands
-5,2,18,1,16,Brazil
-5,2,18,1,81,Philippines
-5,2,18,1,95,South Africa
-5,2,18,1,101,Sweden
-5,2,18,1,102,Switzerland
-5,2,18,1,117,United Kingdom
-5,2,19,12,113,USA
-5,2,19,4,117,United Kingdom
-5,2,19,2,36,Germany
-5,2,19,2,107,Netherlands
-5,2,19,1,15,Botswana
-5,2,19,1,20,Canada
-5,2,19,1,25,Costa Rica
-5,2,19,1,51,Japan
-5,2,19,1,86,Russian Federation
-5,2,19,1,95,South Africa
-5,2,2,2,20,Canada
-5,2,2,2,36,Germany
-5,2,2,2,117,United Kingdom
-5,2,2,2,113,USA
-5,2,2,1,35,France
-5,2,2,1,44,India
-5,2,2,1,95,South Africa
-5,2,20,2,20,Canada
-5,2,20,2,36,Germany
-5,2,20,2,113,USA
-5,2,20,1,10,Belgium
-5,2,20,1,23,China
-5,2,20,1,44,India
-5,2,20,1,51,Japan
-5,2,20,1,75,Norway
-5,2,20,1,98,Sri Lanka
-5,2,20,1,106,The Gambia
-5,2,21,5,113,USA
-5,2,21,2,117,United Kingdom
-5,2,21,1,6,Australia
-5,2,21,1,34,Finland
-5,2,21,1,44,India
-5,2,21,1,49,Italy
-5,2,21,1,107,Netherlands
-5,2,21,1,95,South Africa
-5,2,21,1,96,South Korea
-5,2,21,1,101,Sweden
-5,2,22,11,95,South Africa
-5,2,22,7,113,USA
-5,2,22,6,117,United Kingdom
-5,2,22,5,74,Nigeria
-5,2,22,4,89,Senegal
-5,2,22,3,36,Germany
-5,2,22,3,106,The Gambia
-5,2,22,2,19,Cameroon
-5,2,22,1,3,Algeria
-5,2,22,1,15,Botswana
-5,2,22,1,17,Bulgaria
-5,2,22,1,30,Egypt
-5,2,22,1,32,Ethiopia
-5,2,22,1,35,France
-5,2,22,1,37,Ghana
-5,2,22,1,44,India
-5,2,22,1,47,Ireland
-5,2,22,1,58,Madagascar
-5,2,22,1,64,Mexico
-5,2,22,1,71,Namibia
-5,2,22,1,107,Netherlands
-5,2,22,1,100,Swaziland
-5,2,22,1,110,Tunisia
-5,2,22,1,123,Zimbabwe
-5,2,23,7,49,Italy
-5,2,23,7,117,United Kingdom
-5,2,23,4,36,Germany
-5,2,23,4,107,Netherlands
-5,2,23,3,35,France
-5,2,23,2,7,Austria
-5,2,23,2,34,Finland
-5,2,23,2,38,Greece
-5,2,23,1,65,Moldova
-5,2,23,1,82,Poland
-5,2,23,1,86,Russian Federation
-5,2,23,1,94,Slovenia
-5,2,23,1,97,Spain
-5,2,23,1,102,Switzerland
-5,2,24,6,51,Japan
-5,2,24,5,23,China
-5,2,24,4,44,India
-5,2,24,3,81,Philippines
-5,2,24,3,113,USA
-5,2,24,2,86,Russian Federation
-5,2,24,1,8,Bangladesh
-5,2,24,1,60,Malaysia
-5,2,24,1,92,Singapore
-5,2,24,1,101,Sweden
-5,2,24,1,121,Vietnam
-5,2,25,31,6,Australia
-5,2,25,14,73,New Zealand
-5,2,25,1,34,Finland
-5,2,25,1,113,USA
-5,2,26,20,113,USA
-5,2,26,7,20,Canada
-5,2,26,6,64,Mexico
-5,2,26,1,6,Australia
-5,2,26,1,44,India
-5,2,26,1,97,Spain
-5,2,27,9,16,Brazil
-5,2,27,4,5,Argentina
-5,2,27,4,35,France
-5,2,27,2,22,Chile
-5,2,27,2,64,Mexico
-5,2,27,2,97,Spain
-5,2,27,1,24,Colombia
-5,2,27,1,25,Costa Rica
-5,2,27,1,36,Germany
-5,2,27,1,39,Guatemala
-5,2,27,1,117,United Kingdom
-5,2,27,1,113,USA
-5,2,27,1,120,Venezuela
-5,2,28,5,20,Canada
-5,2,28,5,75,Norway
-5,2,28,5,117,United Kingdom
-5,2,28,5,113,USA
-5,2,28,3,6,Australia
-5,2,28,2,86,Russian Federation
-5,2,28,1,34,Finland
-5,2,28,1,43,Iceland
-5,2,29,3,109,Trinidad and Tobago
-5,2,29,2,117,United Kingdom
-5,2,29,1,6,Australia
-5,2,29,1,9,Barbados
-5,2,29,1,20,Canada
-5,2,29,1,33,Fiji
-5,2,29,1,35,France
-5,2,29,1,51,Japan
-5,2,29,1,62,Malta
-5,2,29,1,73,New Zealand
-5,2,29,1,87,Samoa
-5,2,29,1,90,Seychelles
-5,2,3,4,36,Germany
-5,2,3,2,20,Canada
-5,2,3,2,23,China
-5,2,3,2,51,Japan
-5,2,3,1,7,Austria
-5,2,3,1,64,Mexico
-5,2,3,1,107,Netherlands
-5,2,3,1,82,Poland
-5,2,3,1,92,Singapore
-5,2,3,1,97,Spain
-5,2,3,1,104,Tanzania
-5,2,3,1,117,United Kingdom
-5,2,3,1,113,USA
-5,2,3,1,120,Venezuela
-5,2,30,10,113,USA
-5,2,30,5,6,Australia
-5,2,30,4,20,Canada
-5,2,30,3,23,China
-5,2,30,3,75,Norway
-5,2,30,2,117,United Kingdom
-5,2,30,1,33,Fiji
-5,2,30,1,69,Morocco
-5,2,30,1,89,Senegal
-5,2,30,1,95,South Africa
-5,2,30,1,96,South Korea
-5,2,4,11,113,USA
-5,2,4,5,36,Germany
-5,2,4,5,117,United Kingdom
-5,2,4,3,35,France
-5,2,4,2,6,Australia
-5,2,4,2,95,South Africa
-5,2,4,2,102,Switzerland
-5,2,4,1,5,Argentina
-5,2,4,1,16,Brazil
-5,2,4,1,64,Mexico
-5,2,4,1,97,Spain
-5,2,5,5,117,United Kingdom
-5,2,5,4,113,USA
-5,2,5,2,51,Japan
-5,2,5,2,107,Netherlands
-5,2,5,2,97,Spain
-5,2,5,1,6,Australia
-5,2,5,1,35,France
-5,2,5,1,36,Germany
-5,2,5,1,38,Greece
-5,2,5,1,69,Morocco
-5,2,5,1,83,Portugal
-5,2,5,1,92,Singapore
-5,2,5,1,96,South Korea
-5,2,5,1,101,Sweden
-5,2,6,10,113,USA
-5,2,6,5,36,Germany
-5,2,6,3,6,Australia
-5,2,6,3,35,France
-5,2,6,3,86,Russian Federation
-5,2,6,3,117,United Kingdom
-5,2,6,2,20,Canada
-5,2,6,2,64,Mexico
-5,2,6,2,75,Norway
-5,2,6,1,51,Japan
-5,2,6,1,73,New Zealand
-5,2,6,1,95,South Africa
-5,2,6,1,97,Spain
-5,2,6,1,116,Ukraine
-5,2,7,5,117,United Kingdom
-5,2,7,5,113,USA
-5,2,7,1,5,Argentina
-5,2,7,1,6,Australia
-5,2,7,1,23,China
-5,2,7,1,28,Denmark
-5,2,7,1,34,Finland
-5,2,7,1,44,India
-5,2,7,1,49,Italy
-5,2,7,1,72,Nepal
-5,2,7,1,78,Pakistan
-5,2,7,1,95,South Africa
-5,2,8,4,117,United Kingdom
-5,2,8,2,44,India
-5,2,8,2,113,USA
-5,2,8,1,24,Colombia
-5,2,8,1,35,France
-5,2,8,1,50,Jamaica
-5,2,8,1,64,Mexico
-5,2,8,1,95,South Africa
-5,2,8,1,104,Tanzania
-5,2,9,3,44,India
-5,2,9,3,117,United Kingdom
-5,2,9,3,113,USA
-5,2,9,2,95,South Africa
-5,2,9,2,97,Spain
-5,2,9,1,7,Austria
-5,2,9,1,16,Brazil
-5,2,9,1,22,Chile
-5,2,9,1,50,Jamaica
-5,2,9,1,51,Japan
-5,2,9,1,72,Nepal
-5,2,9,1,89,Senegal
-5,2,9,1,102,Switzerland
-5,2,9,1,110,Tunisia
-5,2,SPM,17,113,USA
-5,2,SPM,8,117,United Kingdom
-5,2,SPM,7,6,Australia
-5,2,SPM,4,36,Germany
-5,2,SPM,3,44,India
-5,2,SPM,3,51,Japan
-5,2,SPM,2,5,Argentina
-5,2,SPM,2,20,Canada
-5,2,SPM,2,23,China
-5,2,SPM,2,73,New Zealand
-5,2,SPM,2,86,Russian Federation
-5,2,SPM,2,97,Spain
-5,2,SPM,1,9,Barbados
-5,2,SPM,1,16,Brazil
-5,2,SPM,1,26,Cuba
-5,2,SPM,1,28,Denmark
-5,2,SPM,1,30,Egypt
-5,2,SPM,1,43,Iceland
-5,2,SPM,1,49,Italy
-5,2,SPM,1,60,Malaysia
-5,2,SPM,1,64,Mexico
-5,2,SPM,1,71,Namibia
-5,2,SPM,1,75,Norway
-5,2,SPM,1,89,Senegal
-5,2,SPM,1,92,Singapore
-5,2,SPM,1,95,South Africa
-5,2,SPM,1,101,Sweden
-5,2,SPM,1,106,The Gambia
-5,2,SPM,1,120,Venezuela
-5,3,1,2,7,Austria
-5,3,1,1,23,China
-5,3,1,1,30,Egypt
-5,3,1,1,44,India
-5,3,1,1,51,Japan
-5,3,1,1,107,Netherlands
-5,3,1,1,88,Saudi Arabia
-5,3,1,1,113,USA
-5,3,1,1,122,Zambia
-5,3,10,3,117,United Kingdom
-5,3,10,2,5,Argentina
-5,3,10,2,113,USA
-5,3,10,1,17,Bulgaria
-5,3,10,1,23,China
-5,3,10,1,30,Egypt
-5,3,10,1,35,France
-5,3,10,1,36,Germany
-5,3,10,1,44,India
-5,3,10,1,49,Italy
-5,3,10,1,51,Japan
-5,3,10,1,64,Mexico
-5,3,11,2,6,Australia
-5,3,11,2,16,Brazil
-5,3,11,1,7,Austria
-5,3,11,1,23,China
-5,3,11,1,44,India
-5,3,11,1,46,Iran
-5,3,11,1,49,Italy
-5,3,11,1,64,Mexico
-5,3,11,1,107,Netherlands
-5,3,11,1,73,New Zealand
-5,3,11,1,75,Norway
-5,3,11,1,86,Russian Federation
-5,3,11,1,89,Senegal
-5,3,11,1,99,Sudan
-5,3,11,1,102,Switzerland
-5,3,11,1,104,Tanzania
-5,3,11,1,117,United Kingdom
-5,3,11,1,113,USA
-5,3,12,5,113,USA
-5,3,12,2,44,India
-5,3,12,1,23,China
-5,3,12,1,26,Cuba
-5,3,12,1,41,Hong Kong
-5,3,12,1,51,Japan
-5,3,12,1,64,Mexico
-5,3,12,1,75,Norway
-5,3,12,1,95,South Africa
-5,3,12,1,104,Tanzania
-5,3,12,1,105,Thailand
-5,3,12,1,115,Uganda
-5,3,13,5,113,USA
-5,3,13,2,23,China
-5,3,13,2,107,Netherlands
-5,3,13,1,5,Argentina
-5,3,13,1,20,Canada
-5,3,13,1,36,Germany
-5,3,13,1,64,Mexico
-5,3,13,1,95,South Africa
-5,3,13,1,96,South Korea
-5,3,13,1,102,Switzerland
-5,3,13,1,117,United Kingdom
-5,3,14,2,7,Austria
-5,3,14,2,36,Germany
-5,3,14,2,117,United Kingdom
-5,3,14,2,113,USA
-5,3,14,1,6,Australia
-5,3,14,1,25,Costa Rica
-5,3,14,1,26,Cuba
-5,3,14,1,28,Denmark
-5,3,14,1,35,France
-5,3,14,1,64,Mexico
-5,3,14,1,69,Morocco
-5,3,14,1,96,South Korea
-5,3,14,1,102,Switzerland
-5,3,14,1,116,Ukraine
-5,3,15,2,44,India
-5,3,15,2,51,Japan
-5,3,15,1,16,Brazil
-5,3,15,1,22,Chile
-5,3,15,1,23,China
-5,3,15,1,33,Fiji
-5,3,15,1,36,Germany
-5,3,15,1,37,Ghana
-5,3,15,1,73,New Zealand
-5,3,15,1,82,Poland
-5,3,15,1,97,Spain
-5,3,15,1,99,Sudan
-5,3,15,1,101,Sweden
-5,3,15,1,117,United Kingdom
-5,3,15,1,113,USA
-5,3,15,1,123,Zimbabwe
-5,3,16,3,113,USA
-5,3,16,2,49,Italy
-5,3,16,1,8,Bangladesh
-5,3,16,1,16,Brazil
-5,3,16,1,20,Canada
-5,3,16,1,24,Colombia
-5,3,16,1,26,Cuba
-5,3,16,1,34,Finland
-5,3,16,1,36,Germany
-5,3,16,1,44,India
-5,3,16,1,69,Morocco
-5,3,16,1,97,Spain
-5,3,16,1,122,Zambia
-5,3,2,3,113,USA
-5,3,2,2,7,Austria
-5,3,2,2,44,India
-5,3,2,1,26,Cuba
-5,3,2,1,35,France
-5,3,2,1,36,Germany
-5,3,2,1,49,Italy
-5,3,2,1,107,Netherlands
-5,3,2,1,99,Sudan
-5,3,3,3,113,USA
-5,3,3,2,75,Norway
-5,3,3,1,5,Argentina
-5,3,3,1,6,Australia
-5,3,3,1,7,Austria
-5,3,3,1,8,Bangladesh
-5,3,3,1,35,France
-5,3,3,1,53,Kenya
-5,3,3,1,64,Mexico
-5,3,3,1,95,South Africa
-5,3,3,1,101,Sweden
-5,3,3,1,109,Trinidad and Tobago
-5,3,3,1,117,United Kingdom
-5,3,4,5,113,USA
-5,3,4,2,16,Brazil
-5,3,4,1,7,Austria
-5,3,4,1,23,China
-5,3,4,1,28,Denmark
-5,3,4,1,35,France
-5,3,4,1,44,India
-5,3,4,1,60,Malaysia
-5,3,4,1,97,Spain
-5,3,4,1,117,United Kingdom
-5,3,5,2,44,India
-5,3,5,2,107,Netherlands
-5,3,5,2,113,USA
-5,3,5,1,5,Argentina
-5,3,5,1,6,Australia
-5,3,5,1,10,Belgium
-5,3,5,1,15,Botswana
-5,3,5,1,16,Brazil
-5,3,5,1,20,Canada
-5,3,5,1,23,China
-5,3,5,1,26,Cuba
-5,3,5,1,37,Ghana
-5,3,5,1,42,Hungary
-5,3,5,1,67,Montenegro
-5,3,5,1,117,United Kingdom
-5,3,6,6,113,USA
-5,3,6,3,36,Germany
-5,3,6,2,23,China
-5,3,6,2,107,Netherlands
-5,3,6,1,35,France
-5,3,6,1,44,India
-5,3,6,1,49,Italy
-5,3,6,1,51,Japan
-5,3,6,1,88,Saudi Arabia
-5,3,7,5,117,United Kingdom
-5,3,7,3,113,USA
-5,3,7,2,44,India
-5,3,7,1,6,Australia
-5,3,7,1,7,Austria
-5,3,7,1,23,China
-5,3,7,1,36,Germany
-5,3,7,1,51,Japan
-5,3,7,1,64,Mexico
-5,3,7,1,107,Netherlands
-5,3,7,1,75,Norway
-5,3,7,1,86,Russian Federation
-5,3,7,1,96,South Korea
-5,3,7,1,99,Sudan
-5,3,7,1,105,Thailand
-5,3,8,4,113,USA
-5,3,8,3,16,Brazil
-5,3,8,2,36,Germany
-5,3,8,1,6,Australia
-5,3,8,1,23,China
-5,3,8,1,28,Denmark
-5,3,8,1,44,India
-5,3,8,1,51,Japan
-5,3,8,1,64,Mexico
-5,3,8,1,73,New Zealand
-5,3,8,1,117,United Kingdom
-5,3,9,3,113,USA
-5,3,9,2,20,Canada
-5,3,9,2,42,Hungary
-5,3,9,1,5,Argentina
-5,3,9,1,16,Brazil
-5,3,9,1,23,China
-5,3,9,1,38,Greece
-5,3,9,1,44,India
-5,3,9,1,49,Italy
-5,3,9,1,51,Japan
-5,3,9,1,60,Malaysia
-5,3,9,1,95,South Africa
-5,3,9,1,97,Spain
-5,3,9,1,117,United Kingdom
+AR,WG,Chapter,Total Country Participations,% Country Participations,Total Chapter Participations,Country Id,Country
+1,1,1,14,36.8421,38,113,USA
+1,1,1,6,15.7895,38,36,Germany
+1,1,1,4,10.5263,38,117,United Kingdom
+1,1,1,2,5.2632,38,6,Australia
+1,1,1,2,5.2632,38,35,France
+1,1,1,2,5.2632,38,101,Sweden
+1,1,1,2,5.2632,38,102,Switzerland
+1,1,1,1,2.6316,38,10,Belgium
+1,1,1,1,2.6316,38,16,Brazil
+1,1,1,1,2.6316,38,23,China
+1,1,1,1,2.6316,38,44,India
+1,1,1,1,2.6316,38,51,Japan
+1,1,1,1,2.6316,38,1,N/A
+1,1,2,6,30.0000,20,117,United Kingdom
+1,1,2,5,25.0000,20,113,USA
+1,1,2,2,10.0000,20,20,Canada
+1,1,2,1,5.0000,20,10,Belgium
+1,1,2,1,5.0000,20,23,China
+1,1,2,1,5.0000,20,35,France
+1,1,2,1,5.0000,20,36,Germany
+1,1,2,1,5.0000,20,51,Japan
+1,1,2,1,5.0000,20,101,Sweden
+1,1,2,1,5.0000,20,114,USSR
+1,1,3,5,45.4545,11,117,United Kingdom
+1,1,3,3,27.2727,11,113,USA
+1,1,3,2,18.1818,11,36,Germany
+1,1,3,1,9.0909,11,51,Japan
+1,1,4,11,37.9310,29,113,USA
+1,1,4,4,13.7931,29,117,United Kingdom
+1,1,4,2,6.8966,29,6,Australia
+1,1,4,2,6.8966,29,20,Canada
+1,1,4,2,6.8966,29,35,France
+1,1,4,2,6.8966,29,36,Germany
+1,1,4,1,3.4483,29,10,Belgium
+1,1,4,1,3.4483,29,23,China
+1,1,4,1,3.4483,29,28,Denmark
+1,1,4,1,3.4483,29,34,Finland
+1,1,4,1,3.4483,29,107,Netherlands
+1,1,4,1,3.4483,29,102,Switzerland
+1,1,5,14,35.8974,39,113,USA
+1,1,5,7,17.9487,39,117,United Kingdom
+1,1,5,3,7.6923,39,114,USSR
+1,1,5,2,5.1282,39,6,Australia
+1,1,5,2,5.1282,39,20,Canada
+1,1,5,2,5.1282,39,1,N/A
+1,1,5,2,5.1282,39,107,Netherlands
+1,1,5,1,2.5641,39,10,Belgium
+1,1,5,1,2.5641,39,23,China
+1,1,5,1,2.5641,39,28,Denmark
+1,1,5,1,2.5641,39,35,France
+1,1,5,1,2.5641,39,44,India
+1,1,5,1,2.5641,39,51,Japan
+1,1,5,1,2.5641,39,74,Nigeria
+1,1,6,11,78.5714,14,113,USA
+1,1,6,3,21.4286,14,117,United Kingdom
+1,1,7,18,42.8571,42,113,USA
+1,1,7,4,9.5238,42,6,Australia
+1,1,7,4,9.5238,42,117,United Kingdom
+1,1,7,2,4.7619,42,20,Canada
+1,1,7,2,4.7619,42,23,China
+1,1,7,2,4.7619,42,36,Germany
+1,1,7,2,4.7619,42,114,USSR
+1,1,7,1,2.3810,42,35,France
+1,1,7,1,2.3810,42,44,India
+1,1,7,1,2.3810,42,51,Japan
+1,1,7,1,2.3810,42,1,N/A
+1,1,7,1,2.3810,42,74,Nigeria
+1,1,7,1,2.3810,42,101,Sweden
+1,1,7,1,2.3810,42,102,Switzerland
+1,1,7,1,2.3810,42,104,Tanzania
+1,1,8,14,37.8378,37,113,USA
+1,1,8,6,16.2162,37,117,United Kingdom
+1,1,8,3,8.1081,37,36,Germany
+1,1,8,2,5.4054,37,6,Australia
+1,1,8,2,5.4054,37,16,Brazil
+1,1,8,2,5.4054,37,114,USSR
+1,1,8,1,2.7027,37,20,Canada
+1,1,8,1,2.7027,37,23,China
+1,1,8,1,2.7027,37,32,Ethiopia
+1,1,8,1,2.7027,37,44,India
+1,1,8,1,2.7027,37,51,Japan
+1,1,8,1,2.7027,37,53,Kenya
+1,1,8,1,2.7027,37,107,Netherlands
+1,1,8,1,2.7027,37,74,Nigeria
+1,1,9,6,40.0000,15,117,United Kingdom
+1,1,9,2,13.3333,15,113,USA
+1,1,9,1,6.6667,15,5,Argentina
+1,1,9,1,6.6667,15,28,Denmark
+1,1,9,1,6.6667,15,35,France
+1,1,9,1,6.6667,15,51,Japan
+1,1,9,1,6.6667,15,107,Netherlands
+1,1,9,1,6.6667,15,75,Norway
+1,1,9,1,6.6667,15,102,Switzerland
+1,1,10,17,44.7368,38,113,USA
+1,1,10,11,28.9474,38,117,United Kingdom
+1,1,10,1,2.6316,38,6,Australia
+1,1,10,1,2.6316,38,16,Brazil
+1,1,10,1,2.6316,38,20,Canada
+1,1,10,1,2.6316,38,28,Denmark
+1,1,10,1,2.6316,38,35,France
+1,1,10,1,2.6316,38,44,India
+1,1,10,1,2.6316,38,107,Netherlands
+1,1,10,1,2.6316,38,82,Poland
+1,1,10,1,2.6316,38,99,Sudan
+1,1,10,1,2.6316,38,101,Sweden
+1,1,11,2,40.0000,5,113,USA
+1,1,11,1,20.0000,5,20,Canada
+1,1,11,1,20.0000,5,102,Switzerland
+1,1,11,1,20.0000,5,117,United Kingdom
+1,1,12,9,28.1250,32,113,USA
+1,1,12,8,25.0000,32,117,United Kingdom
+1,1,12,4,12.5000,32,36,Germany
+1,1,12,3,9.3750,32,114,USSR
+1,1,12,2,6.2500,32,6,Australia
+1,1,12,2,6.2500,32,75,Norway
+1,1,12,1,3.1250,32,20,Canada
+1,1,12,1,3.1250,32,107,Netherlands
+1,1,12,1,3.1250,32,81,Philippines
+1,1,12,1,3.1250,32,102,Switzerland
+1,2,2,5,12.5000,40,6,Australia
+1,2,2,5,12.5000,40,113,USA
+1,2,2,2,5.0000,40,20,Canada
+1,2,2,2,5.0000,40,44,India
+1,2,2,2,5.0000,40,51,Japan
+1,2,2,2,5.0000,40,73,New Zealand
+1,2,2,2,5.0000,40,82,Poland
+1,2,2,2,5.0000,40,117,United Kingdom
+1,2,2,2,5.0000,40,114,USSR
+1,2,2,1,2.5000,40,12,Benin
+1,2,2,1,2.5000,40,16,Brazil
+1,2,2,1,2.5000,40,23,China
+1,2,2,1,2.5000,40,25,Costa Rica
+1,2,2,1,2.5000,40,27,Czech Republic
+1,2,2,1,2.5000,40,32,Ethiopia
+1,2,2,1,2.5000,40,34,Finland
+1,2,2,1,2.5000,40,36,Germany
+1,2,2,1,2.5000,40,42,Hungary
+1,2,2,1,2.5000,40,47,Ireland
+1,2,2,1,2.5000,40,48,Israel
+1,2,2,1,2.5000,40,53,Kenya
+1,2,2,1,2.5000,40,74,Nigeria
+1,2,2,1,2.5000,40,81,Philippines
+1,2,2,1,2.5000,40,105,Thailand
+1,2,2,1,2.5000,40,121,Vietnam
+1,2,3,8,32.0000,25,20,Canada
+1,2,3,5,20.0000,25,113,USA
+1,2,3,2,8.0000,25,6,Australia
+1,2,3,2,8.0000,25,74,Nigeria
+1,2,3,2,8.0000,25,117,United Kingdom
+1,2,3,1,4.0000,25,36,Germany
+1,2,3,1,4.0000,25,64,Mexico
+1,2,3,1,4.0000,25,1,N/A
+1,2,3,1,4.0000,25,107,Netherlands
+1,2,3,1,4.0000,25,73,New Zealand
+1,2,3,1,4.0000,25,75,Norway
+1,2,4,9,47.3684,19,1,N/A
+1,2,4,2,10.5263,19,113,USA
+1,2,4,1,5.2632,19,6,Australia
+1,2,4,1,5.2632,19,10,Belgium
+1,2,4,1,5.2632,19,20,Canada
+1,2,4,1,5.2632,19,23,China
+1,2,4,1,5.2632,19,73,New Zealand
+1,2,4,1,5.2632,19,83,Portugal
+1,2,4,1,5.2632,19,117,United Kingdom
+1,2,4,1,5.2632,19,114,USSR
+1,2,5,29,72.5000,40,1,N/A
+1,2,5,3,7.5000,40,51,Japan
+1,2,5,3,7.5000,40,113,USA
+1,2,5,1,2.5000,40,20,Canada
+1,2,5,1,2.5000,40,23,China
+1,2,5,1,2.5000,40,36,Germany
+1,2,5,1,2.5000,40,45,Indonesia
+1,2,5,1,2.5000,40,53,Kenya
+1,2,6,21,77.7778,27,1,N/A
+1,2,6,2,7.4074,27,113,USA
+1,2,6,2,7.4074,27,114,USSR
+1,2,6,1,3.7037,27,6,Australia
+1,2,6,1,3.7037,27,20,Canada
+1,2,7,10,33.3333,30,20,Canada
+1,2,7,7,23.3333,30,113,USA
+1,2,7,4,13.3333,30,114,USSR
+1,2,7,2,6.6667,30,73,New Zealand
+1,2,7,1,3.3333,30,6,Australia
+1,2,7,1,3.3333,30,23,China
+1,2,7,1,3.3333,30,64,Mexico
+1,2,7,1,3.3333,30,1,N/A
+1,2,7,1,3.3333,30,107,Netherlands
+1,2,7,1,3.3333,30,75,Norway
+1,2,7,1,3.3333,30,117,United Kingdom
+1,3,1,1,100.0000,1,113,USA
+1,3,2,1,50.0000,2,107,Netherlands
+1,3,2,1,50.0000,2,113,USA
+1,3,3,1,50.0000,2,23,China
+1,3,3,1,50.0000,2,51,Japan
+1,3,4,1,100.0000,1,113,USA
+1,3,5,6,35.2941,17,113,USA
+1,3,5,4,23.5294,17,107,Netherlands
+1,3,5,4,23.5294,17,73,New Zealand
+1,3,5,3,17.6471,17,6,Australia
+1,3,6,9,20.9302,43,113,USA
+1,3,6,4,9.3023,43,35,France
+1,3,6,4,9.3023,43,117,United Kingdom
+1,3,6,3,6.9767,43,6,Australia
+1,3,6,3,6.9767,43,51,Japan
+1,3,6,2,4.6512,43,16,Brazil
+1,3,6,2,4.6512,43,20,Canada
+1,3,6,2,4.6512,43,23,China
+1,3,6,2,4.6512,43,44,India
+1,3,6,2,4.6512,43,102,Switzerland
+1,3,6,1,2.3256,43,10,Belgium
+1,3,6,1,2.3256,43,49,Italy
+1,3,6,1,2.3256,43,53,Kenya
+1,3,6,1,2.3256,43,62,Malta
+1,3,6,1,2.3256,43,72,Nepal
+1,3,6,1,2.3256,43,107,Netherlands
+1,3,6,1,2.3256,43,88,Saudi Arabia
+1,3,6,1,2.3256,43,104,Tanzania
+1,3,6,1,2.3256,43,114,USSR
+1,3,6,1,2.3256,43,123,Zimbabwe
+1,3,7,2,100.0000,2,113,USA
+1,3,8,1,50.0000,2,16,Brazil
+1,3,8,1,50.0000,2,51,Japan
+1,3,9,1,50.0000,2,6,Australia
+1,3,9,1,50.0000,2,73,New Zealand
+1,3,10,1,50.0000,2,35,France
+1,3,10,1,50.0000,2,107,Netherlands
+1,3,11,1,33.3333,3,20,Canada
+1,3,11,1,33.3333,3,62,Malta
+1,3,11,1,33.3333,3,117,United Kingdom
+2,1,1,1,33.3333,3,16,Brazil
+2,1,1,1,33.3333,3,117,United Kingdom
+2,1,1,1,33.3333,3,113,USA
+2,1,2,36,48.0000,75,113,USA
+2,1,2,9,12.0000,75,36,Germany
+2,1,2,9,12.0000,75,117,United Kingdom
+2,1,2,5,6.6667,75,35,France
+2,1,2,3,4.0000,75,44,India
+2,1,2,2,2.6667,75,6,Australia
+2,1,2,2,2.6667,75,75,Norway
+2,1,2,1,1.3333,75,16,Brazil
+2,1,2,1,1.3333,75,20,Canada
+2,1,2,1,1.3333,75,23,China
+2,1,2,1,1.3333,75,51,Japan
+2,1,2,1,1.3333,75,107,Netherlands
+2,1,2,1,1.3333,75,86,Russian Federation
+2,1,2,1,1.3333,75,101,Sweden
+2,1,2,1,1.3333,75,102,Switzerland
+2,1,2,1,1.3333,75,120,Venezuela
+2,1,3,36,36.3636,99,113,USA
+2,1,3,18,18.1818,99,86,Russian Federation
+2,1,3,11,11.1111,99,6,Australia
+2,1,3,7,7.0707,99,20,Canada
+2,1,3,6,6.0606,99,117,United Kingdom
+2,1,3,3,3.0303,99,23,China
+2,1,3,3,3.0303,99,36,Germany
+2,1,3,2,2.0202,99,35,France
+2,1,3,2,2.0202,99,44,India
+2,1,3,2,2.0202,99,51,Japan
+2,1,3,2,2.0202,99,102,Switzerland
+2,1,3,1,1.0101,99,5,Argentina
+2,1,3,1,1.0101,99,16,Brazil
+2,1,3,1,1.0101,99,28,Denmark
+2,1,3,1,1.0101,99,49,Italy
+2,1,3,1,1.0101,99,53,Kenya
+2,1,3,1,1.0101,99,107,Netherlands
+2,1,3,1,1.0101,99,103,Taiwan
+2,1,4,23,62.1622,37,113,USA
+2,1,4,5,13.5135,37,117,United Kingdom
+2,1,4,2,5.4054,37,36,Germany
+2,1,4,1,2.7027,37,16,Brazil
+2,1,4,1,2.7027,37,20,Canada
+2,1,4,1,2.7027,37,35,France
+2,1,4,1,2.7027,37,73,New Zealand
+2,1,4,1,2.7027,37,86,Russian Federation
+2,1,4,1,2.7027,37,101,Sweden
+2,1,4,1,2.7027,37,102,Switzerland
+2,1,5,38,50.6667,75,113,USA
+2,1,5,9,12.0000,75,6,Australia
+2,1,5,7,9.3333,75,117,United Kingdom
+2,1,5,6,8.0000,75,20,Canada
+2,1,5,6,8.0000,75,51,Japan
+2,1,5,4,5.3333,75,36,Germany
+2,1,5,2,2.6667,75,23,China
+2,1,5,1,1.3333,75,35,France
+2,1,5,1,1.3333,75,49,Italy
+2,1,5,1,1.3333,75,86,Russian Federation
+2,1,6,26,32.5000,80,113,USA
+2,1,6,12,15.0000,80,6,Australia
+2,1,6,12,15.0000,80,117,United Kingdom
+2,1,6,7,8.7500,80,36,Germany
+2,1,6,6,7.5000,80,20,Canada
+2,1,6,5,6.2500,80,51,Japan
+2,1,6,3,3.7500,80,107,Netherlands
+2,1,6,2,2.5000,80,35,France
+2,1,6,2,2.5000,80,102,Switzerland
+2,1,6,1,1.2500,80,23,China
+2,1,6,1,1.2500,80,28,Denmark
+2,1,6,1,1.2500,80,34,Finland
+2,1,6,1,1.2500,80,1,N/A
+2,1,6,1,1.2500,80,75,Norway
+2,1,7,7,30.4348,23,113,USA
+2,1,7,6,26.0870,23,117,United Kingdom
+2,1,7,2,8.6957,23,35,France
+2,1,7,2,8.6957,23,36,Germany
+2,1,7,2,8.6957,23,107,Netherlands
+2,1,7,1,4.3478,23,43,Iceland
+2,1,7,1,4.3478,23,73,New Zealand
+2,1,7,1,4.3478,23,86,Russian Federation
+2,1,7,1,4.3478,23,102,Switzerland
+2,1,8,21,61.7647,34,113,USA
+2,1,8,7,20.5882,34,117,United Kingdom
+2,1,8,3,8.8235,34,6,Australia
+2,1,8,2,5.8824,34,36,Germany
+2,1,8,1,2.9412,34,20,Canada
+2,1,9,19,55.8824,34,113,USA
+2,1,9,3,8.8235,34,6,Australia
+2,1,9,2,5.8824,34,36,Germany
+2,1,9,2,5.8824,34,101,Sweden
+2,1,9,2,5.8824,34,117,United Kingdom
+2,1,9,1,2.9412,34,5,Argentina
+2,1,9,1,2.9412,34,20,Canada
+2,1,9,1,2.9412,34,49,Italy
+2,1,9,1,2.9412,34,107,Netherlands
+2,1,9,1,2.9412,34,73,New Zealand
+2,1,9,1,2.9412,34,102,Switzerland
+2,1,10,6,30.0000,20,113,USA
+2,1,10,5,25.0000,20,20,Canada
+2,1,10,4,20.0000,20,117,United Kingdom
+2,1,10,2,10.0000,20,36,Germany
+2,1,10,1,5.0000,20,6,Australia
+2,1,10,1,5.0000,20,13,Bermuda
+2,1,10,1,5.0000,20,48,Israel
+2,1,11,1,33.3333,3,20,Canada
+2,1,11,1,33.3333,3,117,United Kingdom
+2,1,11,1,33.3333,3,113,USA
+2,1,TS,10,37.0370,27,113,USA
+2,1,TS,6,22.2222,27,117,United Kingdom
+2,1,TS,2,7.4074,27,6,Australia
+2,1,TS,2,7.4074,27,20,Canada
+2,1,TS,2,7.4074,27,53,Kenya
+2,1,TS,1,3.7037,27,16,Brazil
+2,1,TS,1,3.7037,27,107,Netherlands
+2,1,TS,1,3.7037,27,73,New Zealand
+2,1,TS,1,3.7037,27,101,Sweden
+2,1,TS,1,3.7037,27,102,Switzerland
+2,2,A,8,25.0000,32,6,Australia
+2,2,A,7,21.8750,32,117,United Kingdom
+2,2,A,7,21.8750,32,113,USA
+2,2,A,5,15.6250,32,36,Germany
+2,2,A,1,3.1250,32,35,France
+2,2,A,1,3.1250,32,49,Italy
+2,2,A,1,3.1250,32,107,Netherlands
+2,2,A,1,3.1250,32,75,Norway
+2,2,A,1,3.1250,32,101,Sweden
+2,2,B,2,28.5714,7,7,Austria
+2,2,B,1,14.2857,7,16,Brazil
+2,2,B,1,14.2857,7,20,Canada
+2,2,B,1,14.2857,7,51,Japan
+2,2,B,1,14.2857,7,101,Sweden
+2,2,B,1,14.2857,7,113,USA
+2,2,1,8,20.5128,39,6,Australia
+2,2,1,8,20.5128,39,113,USA
+2,2,1,4,10.2564,39,36,Germany
+2,2,1,4,10.2564,39,102,Switzerland
+2,2,1,2,5.1282,39,101,Sweden
+2,2,1,2,5.1282,39,117,United Kingdom
+2,2,1,1,2.5641,39,7,Austria
+2,2,1,1,2.5641,39,20,Canada
+2,2,1,1,2.5641,39,23,China
+2,2,1,1,2.5641,39,26,Cuba
+2,2,1,1,2.5641,39,49,Italy
+2,2,1,1,2.5641,39,53,Kenya
+2,2,1,1,2.5641,39,59,Malawi
+2,2,1,1,2.5641,39,107,Netherlands
+2,2,1,1,2.5641,39,81,Philippines
+2,2,1,1,2.5641,39,82,Poland
+2,2,1,1,2.5641,39,86,Russian Federation
+2,2,2,16,51.6129,31,113,USA
+2,2,2,4,12.9032,31,5,Argentina
+2,2,2,2,6.4516,31,6,Australia
+2,2,2,2,6.4516,31,53,Kenya
+2,2,2,2,6.4516,31,123,Zimbabwe
+2,2,2,1,3.2258,31,20,Canada
+2,2,2,1,3.2258,31,26,Cuba
+2,2,2,1,3.2258,31,51,Japan
+2,2,2,1,3.2258,31,97,Spain
+2,2,2,1,3.2258,31,117,United Kingdom
+2,2,3,4,66.6667,6,6,Australia
+2,2,3,1,16.6667,6,88,Saudi Arabia
+2,2,3,1,16.6667,6,95,South Africa
+2,2,4,4,14.8148,27,95,South Africa
+2,2,4,4,14.8148,27,117,United Kingdom
+2,2,4,2,7.4074,27,5,Argentina
+2,2,4,2,7.4074,27,23,China
+2,2,4,2,7.4074,27,35,France
+2,2,4,2,7.4074,27,36,Germany
+2,2,4,2,7.4074,27,44,India
+2,2,4,2,7.4074,27,49,Italy
+2,2,4,1,3.7037,27,3,Algeria
+2,2,4,1,3.7037,27,42,Hungary
+2,2,4,1,3.7037,27,51,Japan
+2,2,4,1,3.7037,27,53,Kenya
+2,2,4,1,3.7037,27,97,Spain
+2,2,4,1,3.7037,27,112,Turkmenistan
+2,2,4,1,3.7037,27,113,USA
+2,2,5,9,25.7143,35,113,USA
+2,2,5,7,20.0000,35,102,Switzerland
+2,2,5,4,11.4286,35,75,Norway
+2,2,5,3,8.5714,35,35,France
+2,2,5,2,5.7143,35,23,China
+2,2,5,2,5.7143,35,34,Finland
+2,2,5,1,2.8571,35,28,Denmark
+2,2,5,1,2.8571,35,36,Germany
+2,2,5,1,2.8571,35,53,Kenya
+2,2,5,1,2.8571,35,72,Nepal
+2,2,5,1,2.8571,35,86,Russian Federation
+2,2,5,1,2.8571,35,101,Sweden
+2,2,5,1,2.8571,35,117,United Kingdom
+2,2,5,1,2.8571,35,120,Venezuela
+2,2,6,6,30.0000,20,113,USA
+2,2,6,3,15.0000,20,34,Finland
+2,2,6,2,10.0000,20,20,Canada
+2,2,6,2,10.0000,20,107,Netherlands
+2,2,6,2,10.0000,20,101,Sweden
+2,2,6,2,10.0000,20,117,United Kingdom
+2,2,6,1,5.0000,20,5,Argentina
+2,2,6,1,5.0000,20,12,Benin
+2,2,6,1,5.0000,20,23,China
+2,2,7,7,25.0000,28,113,USA
+2,2,7,4,14.2857,28,5,Argentina
+2,2,7,4,14.2857,28,20,Canada
+2,2,7,2,7.1429,28,73,New Zealand
+2,2,7,2,7.1429,28,86,Russian Federation
+2,2,7,2,7.1429,28,102,Switzerland
+2,2,7,2,7.1429,28,117,United Kingdom
+2,2,7,1,3.5714,28,6,Australia
+2,2,7,1,3.5714,28,23,China
+2,2,7,1,3.5714,28,28,Denmark
+2,2,7,1,3.5714,28,49,Italy
+2,2,7,1,3.5714,28,51,Japan
+2,2,8,8,25.0000,32,113,USA
+2,2,8,6,18.7500,32,80,Peru
+2,2,8,5,15.6250,32,86,Russian Federation
+2,2,8,4,12.5000,32,36,Germany
+2,2,8,3,9.3750,32,6,Australia
+2,2,8,2,6.2500,32,44,India
+2,2,8,1,3.1250,32,23,China
+2,2,8,1,3.1250,32,33,Fiji
+2,2,8,1,3.1250,32,35,France
+2,2,8,1,3.1250,32,117,United Kingdom
+2,2,9,7,22.5806,31,117,United Kingdom
+2,2,9,5,16.1290,31,113,USA
+2,2,9,3,9.6774,31,6,Australia
+2,2,9,3,9.6774,31,107,Netherlands
+2,2,9,2,6.4516,31,23,China
+2,2,9,2,6.4516,31,51,Japan
+2,2,9,2,6.4516,31,73,New Zealand
+2,2,9,1,3.2258,31,9,Barbados
+2,2,9,1,3.2258,31,20,Canada
+2,2,9,1,3.2258,31,36,Germany
+2,2,9,1,3.2258,31,44,India
+2,2,9,1,3.2258,31,1,N/A
+2,2,9,1,3.2258,31,102,Switzerland
+2,2,9,1,3.2258,31,120,Venezuela
+2,2,10,11,42.3077,26,113,USA
+2,2,10,2,7.6923,26,20,Canada
+2,2,10,2,7.6923,26,42,Hungary
+2,2,10,2,7.6923,26,102,Switzerland
+2,2,10,1,3.8462,26,6,Australia
+2,2,10,1,3.8462,26,23,China
+2,2,10,1,3.8462,26,36,Germany
+2,2,10,1,3.8462,26,44,India
+2,2,10,1,3.8462,26,48,Israel
+2,2,10,1,3.8462,26,51,Japan
+2,2,10,1,3.8462,26,72,Nepal
+2,2,10,1,3.8462,26,80,Peru
+2,2,10,1,3.8462,26,117,United Kingdom
+2,2,11,5,45.4545,11,113,USA
+2,2,11,1,9.0909,11,26,Cuba
+2,2,11,1,9.0909,11,35,France
+2,2,11,1,9.0909,11,51,Japan
+2,2,11,1,9.0909,11,53,Kenya
+2,2,11,1,9.0909,11,117,United Kingdom
+2,2,11,1,9.0909,11,121,Vietnam
+2,2,12,5,31.2500,16,113,USA
+2,2,12,3,18.7500,16,117,United Kingdom
+2,2,12,2,12.5000,16,51,Japan
+2,2,12,1,6.2500,16,44,India
+2,2,12,1,6.2500,16,53,Kenya
+2,2,12,1,6.2500,16,64,Mexico
+2,2,12,1,6.2500,16,107,Netherlands
+2,2,12,1,6.2500,16,98,Sri Lanka
+2,2,12,1,6.2500,16,123,Zimbabwe
+2,2,13,7,30.4348,23,113,USA
+2,2,13,2,8.6957,23,20,Canada
+2,2,13,2,8.6957,23,36,Germany
+2,2,13,2,8.6957,23,107,Netherlands
+2,2,13,1,4.3478,23,6,Australia
+2,2,13,1,4.3478,23,23,China
+2,2,13,1,4.3478,23,35,France
+2,2,13,1,4.3478,23,49,Italy
+2,2,13,1,4.3478,23,53,Kenya
+2,2,13,1,4.3478,23,73,New Zealand
+2,2,13,1,4.3478,23,81,Philippines
+2,2,13,1,4.3478,23,86,Russian Federation
+2,2,13,1,4.3478,23,97,Spain
+2,2,13,1,4.3478,23,117,United Kingdom
+2,2,14,6,30.0000,20,113,USA
+2,2,14,2,10.0000,20,42,Hungary
+2,2,14,2,10.0000,20,82,Poland
+2,2,14,2,10.0000,20,102,Switzerland
+2,2,14,1,5.0000,20,6,Australia
+2,2,14,1,5.0000,20,10,Belgium
+2,2,14,1,5.0000,20,36,Germany
+2,2,14,1,5.0000,20,51,Japan
+2,2,14,1,5.0000,20,53,Kenya
+2,2,14,1,5.0000,20,1,N/A
+2,2,14,1,5.0000,20,107,Netherlands
+2,2,14,1,5.0000,20,104,Tanzania
+2,2,15,6,33.3333,18,20,Canada
+2,2,15,3,16.6667,18,113,USA
+2,2,15,2,11.1111,18,44,India
+2,2,15,1,5.5556,18,23,China
+2,2,15,1,5.5556,18,36,Germany
+2,2,15,1,5.5556,18,51,Japan
+2,2,15,1,5.5556,18,60,Malaysia
+2,2,15,1,5.5556,18,86,Russian Federation
+2,2,15,1,5.5556,18,101,Sweden
+2,2,15,1,5.5556,18,104,Tanzania
+2,2,16,18,56.2500,32,113,USA
+2,2,16,3,9.3750,32,6,Australia
+2,2,16,3,9.3750,32,73,New Zealand
+2,2,16,2,6.2500,32,20,Canada
+2,2,16,2,6.2500,32,35,France
+2,2,16,1,3.1250,32,53,Kenya
+2,2,16,1,3.1250,32,64,Mexico
+2,2,16,1,3.1250,32,86,Russian Federation
+2,2,16,1,3.1250,32,117,United Kingdom
+2,2,17,2,33.3333,6,117,United Kingdom
+2,2,17,2,33.3333,6,113,USA
+2,2,17,1,16.6667,6,50,Jamaica
+2,2,17,1,16.6667,6,104,Tanzania
+2,2,18,7,33.3333,21,113,USA
+2,2,18,3,14.2857,21,117,United Kingdom
+2,2,18,2,9.5238,21,5,Argentina
+2,2,18,1,4.7619,21,20,Canada
+2,2,18,1,4.7619,21,36,Germany
+2,2,18,1,4.7619,21,51,Japan
+2,2,18,1,4.7619,21,53,Kenya
+2,2,18,1,4.7619,21,64,Mexico
+2,2,18,1,4.7619,21,107,Netherlands
+2,2,18,1,4.7619,21,73,New Zealand
+2,2,18,1,4.7619,21,102,Switzerland
+2,2,18,1,4.7619,21,120,Venezuela
+2,2,19,4,13.7931,29,113,USA
+2,2,19,3,10.3448,29,35,France
+2,2,19,3,10.3448,29,51,Japan
+2,2,19,3,10.3448,29,117,United Kingdom
+2,2,19,2,6.8966,29,7,Austria
+2,2,19,2,6.8966,29,23,China
+2,2,19,2,6.8966,29,28,Denmark
+2,2,19,1,3.4483,29,16,Brazil
+2,2,19,1,3.4483,29,20,Canada
+2,2,19,1,3.4483,29,34,Finland
+2,2,19,1,3.4483,29,36,Germany
+2,2,19,1,3.4483,29,43,Iceland
+2,2,19,1,3.4483,29,44,India
+2,2,19,1,3.4483,29,107,Netherlands
+2,2,19,1,3.4483,29,88,Saudi Arabia
+2,2,19,1,3.4483,29,101,Sweden
+2,2,19,1,3.4483,29,120,Venezuela
+2,2,20,1,20.0000,5,35,France
+2,2,20,1,20.0000,5,44,India
+2,2,20,1,20.0000,5,51,Japan
+2,2,20,1,20.0000,5,107,Netherlands
+2,2,20,1,20.0000,5,113,USA
+2,2,21,7,31.8182,22,113,USA
+2,2,21,4,18.1818,22,7,Austria
+2,2,21,2,9.0909,22,35,France
+2,2,21,2,9.0909,22,117,United Kingdom
+2,2,21,1,4.5455,22,16,Brazil
+2,2,21,1,4.5455,22,41,Hong Kong
+2,2,21,1,4.5455,22,49,Italy
+2,2,21,1,4.5455,22,51,Japan
+2,2,21,1,4.5455,22,107,Netherlands
+2,2,21,1,4.5455,22,74,Nigeria
+2,2,21,1,4.5455,22,91,Sierra Leone
+2,2,22,7,63.6364,11,113,USA
+2,2,22,1,9.0909,11,5,Argentina
+2,2,22,1,9.0909,11,23,China
+2,2,22,1,9.0909,11,51,Japan
+2,2,22,1,9.0909,11,117,United Kingdom
+2,2,23,16,42.1053,38,113,USA
+2,2,23,6,15.7895,38,20,Canada
+2,2,23,2,5.2632,38,35,France
+2,2,23,2,5.2632,38,36,Germany
+2,2,23,2,5.2632,38,44,India
+2,2,23,2,5.2632,38,117,United Kingdom
+2,2,23,1,2.6316,38,6,Australia
+2,2,23,1,2.6316,38,16,Brazil
+2,2,23,1,2.6316,38,23,China
+2,2,23,1,2.6316,38,45,Indonesia
+2,2,23,1,2.6316,38,49,Italy
+2,2,23,1,2.6316,38,51,Japan
+2,2,23,1,2.6316,38,73,New Zealand
+2,2,23,1,2.6316,38,86,Russian Federation
+2,2,24,5,29.4118,17,113,USA
+2,2,24,3,17.6471,17,36,Germany
+2,2,24,2,11.7647,17,7,Austria
+2,2,24,2,11.7647,17,117,United Kingdom
+2,2,24,1,5.8824,17,16,Brazil
+2,2,24,1,5.8824,17,34,Finland
+2,2,24,1,5.8824,17,44,India
+2,2,24,1,5.8824,17,107,Netherlands
+2,2,24,1,5.8824,17,101,Sweden
+2,2,25,3,50.0000,6,113,USA
+2,2,25,2,33.3333,6,44,India
+2,2,25,1,16.6667,6,107,Netherlands
+2,2,26,3,33.3333,9,113,USA
+2,2,26,2,22.2222,9,51,Japan
+2,2,26,1,11.1111,9,34,Finland
+2,2,26,1,11.1111,9,53,Kenya
+2,2,26,1,11.1111,9,72,Nepal
+2,2,26,1,11.1111,9,117,United Kingdom
+2,2,27,5,55.5556,9,113,USA
+2,2,27,1,11.1111,9,16,Brazil
+2,2,27,1,11.1111,9,28,Denmark
+2,2,27,1,11.1111,9,91,Sierra Leone
+2,2,27,1,11.1111,9,105,Thailand
+2,2,28,4,80.0000,5,113,USA
+2,2,28,1,20.0000,5,105,Thailand
+2,2,TS,35,28.2258,124,113,USA
+2,2,TS,7,5.6452,124,51,Japan
+2,2,TS,7,5.6452,124,117,United Kingdom
+2,2,TS,6,4.8387,124,23,China
+2,2,TS,6,4.8387,124,44,India
+2,2,TS,6,4.8387,124,53,Kenya
+2,2,TS,5,4.0323,124,35,France
+2,2,TS,4,3.2258,124,6,Australia
+2,2,TS,4,3.2258,124,107,Netherlands
+2,2,TS,4,3.2258,124,101,Sweden
+2,2,TS,4,3.2258,124,102,Switzerland
+2,2,TS,3,2.4194,124,36,Germany
+2,2,TS,3,2.4194,124,120,Venezuela
+2,2,TS,2,1.6129,124,5,Argentina
+2,2,TS,2,1.6129,124,7,Austria
+2,2,TS,2,1.6129,124,16,Brazil
+2,2,TS,2,1.6129,124,20,Canada
+2,2,TS,2,1.6129,124,26,Cuba
+2,2,TS,2,1.6129,124,64,Mexico
+2,2,TS,2,1.6129,124,82,Poland
+2,2,TS,1,0.8065,124,9,Barbados
+2,2,TS,1,0.8065,124,12,Benin
+2,2,TS,1,0.8065,124,42,Hungary
+2,2,TS,1,0.8065,124,1,N/A
+2,2,TS,1,0.8065,124,72,Nepal
+2,2,TS,1,0.8065,124,73,New Zealand
+2,2,TS,1,0.8065,124,75,Norway
+2,2,TS,1,0.8065,124,81,Philippines
+2,2,TS,1,0.8065,124,86,Russian Federation
+2,2,TS,1,0.8065,124,88,Saudi Arabia
+2,2,TS,1,0.8065,124,91,Sierra Leone
+2,2,TS,1,0.8065,124,92,Singapore
+2,2,TS,1,0.8065,124,95,South Africa
+2,2,TS,1,0.8065,124,110,Tunisia
+2,2,TS,1,0.8065,124,121,Vietnam
+2,2,TS,1,0.8065,124,123,Zimbabwe
+2,3,1,4,44.4444,9,113,USA
+2,3,1,2,22.2222,9,1,N/A
+2,3,1,1,11.1111,9,16,Brazil
+2,3,1,1,11.1111,9,23,China
+2,3,1,1,11.1111,9,51,Japan
+2,3,2,4,23.5294,17,44,India
+2,3,2,3,17.6471,17,35,France
+2,3,2,3,17.6471,17,102,Switzerland
+2,3,2,3,17.6471,17,113,USA
+2,3,2,2,11.7647,17,117,United Kingdom
+2,3,2,1,5.8824,17,5,Argentina
+2,3,2,1,5.8824,17,20,Canada
+2,3,3,2,33.3333,6,117,United Kingdom
+2,3,3,1,16.6667,6,1,N/A
+2,3,3,1,16.6667,6,78,Pakistan
+2,3,3,1,16.6667,6,86,Russian Federation
+2,3,3,1,16.6667,6,113,USA
+2,3,4,3,50.0000,6,113,USA
+2,3,4,2,33.3333,6,1,N/A
+2,3,4,1,16.6667,6,98,Sri Lanka
+2,3,5,2,33.3333,6,75,Norway
+2,3,5,2,33.3333,6,113,USA
+2,3,5,1,16.6667,6,96,South Korea
+2,3,5,1,16.6667,6,98,Sri Lanka
+2,3,6,3,37.5000,8,113,USA
+2,3,6,2,25.0000,8,44,India
+2,3,6,2,25.0000,8,107,Netherlands
+2,3,6,1,12.5000,8,117,United Kingdom
+2,3,7,5,35.7143,14,113,USA
+2,3,7,2,14.2857,14,107,Netherlands
+2,3,7,1,7.1429,14,8,Bangladesh
+2,3,7,1,7.1429,14,36,Germany
+2,3,7,1,7.1429,14,88,Saudi Arabia
+2,3,7,1,7.1429,14,97,Spain
+2,3,7,1,7.1429,14,101,Sweden
+2,3,7,1,7.1429,14,117,United Kingdom
+2,3,7,1,7.1429,14,123,Zimbabwe
+2,3,8,8,33.3333,24,113,USA
+2,3,8,3,12.5000,24,35,France
+2,3,8,2,8.3333,24,16,Brazil
+2,3,8,2,8.3333,24,20,Canada
+2,3,8,2,8.3333,24,49,Italy
+2,3,8,1,4.1667,24,7,Austria
+2,3,8,1,4.1667,24,28,Denmark
+2,3,8,1,4.1667,24,44,India
+2,3,8,1,4.1667,24,86,Russian Federation
+2,3,8,1,4.1667,24,89,Senegal
+2,3,8,1,4.1667,24,91,Sierra Leone
+2,3,8,1,4.1667,24,117,United Kingdom
+2,3,9,9,37.5000,24,113,USA
+2,3,9,3,12.5000,24,35,France
+2,3,9,2,8.3333,24,16,Brazil
+2,3,9,2,8.3333,24,20,Canada
+2,3,9,2,8.3333,24,86,Russian Federation
+2,3,9,1,4.1667,24,7,Austria
+2,3,9,1,4.1667,24,28,Denmark
+2,3,9,1,4.1667,24,44,India
+2,3,9,1,4.1667,24,49,Italy
+2,3,9,1,4.1667,24,89,Senegal
+2,3,9,1,4.1667,24,91,Sierra Leone
+2,3,10,7,58.3333,12,113,USA
+2,3,10,2,16.6667,12,107,Netherlands
+2,3,10,1,8.3333,12,44,India
+2,3,10,1,8.3333,12,91,Sierra Leone
+2,3,10,1,8.3333,12,117,United Kingdom
+2,3,11,3,30.0000,10,6,Australia
+2,3,11,2,20.0000,10,113,USA
+2,3,11,1,10.0000,10,20,Canada
+2,3,11,1,10.0000,10,51,Japan
+2,3,11,1,10.0000,10,101,Sweden
+2,3,11,1,10.0000,10,115,Uganda
+2,3,11,1,10.0000,10,117,United Kingdom
+3,1,1,1,16.6667,6,12,Benin
+3,1,1,1,16.6667,6,23,China
+3,1,1,1,16.6667,6,36,Germany
+3,1,1,1,16.6667,6,107,Netherlands
+3,1,1,1,16.6667,6,101,Sweden
+3,1,1,1,16.6667,6,109,Trinidad and Tobago
+3,1,2,71,47.0199,151,113,USA
+3,1,2,12,7.9470,151,117,United Kingdom
+3,1,2,10,6.6225,151,6,Australia
+3,1,2,9,5.9603,151,20,Canada
+3,1,2,8,5.2980,151,86,Russian Federation
+3,1,2,6,3.9735,151,36,Germany
+3,1,2,4,2.6490,151,23,China
+3,1,2,4,2.6490,151,35,France
+3,1,2,4,2.6490,151,1,N/A
+3,1,2,3,1.9868,151,73,New Zealand
+3,1,2,3,1.9868,151,102,Switzerland
+3,1,2,2,1.3245,151,34,Finland
+3,1,2,2,1.3245,151,44,India
+3,1,2,2,1.3245,151,53,Kenya
+3,1,2,2,1.3245,151,107,Netherlands
+3,1,2,2,1.3245,151,75,Norway
+3,1,2,2,1.3245,151,101,Sweden
+3,1,2,1,0.6623,151,16,Brazil
+3,1,2,1,0.6623,151,27,Czech Republic
+3,1,2,1,0.6623,151,28,Denmark
+3,1,2,1,0.6623,151,97,Spain
+3,1,2,1,0.6623,151,123,Zimbabwe
+3,1,3,23,36.5079,63,113,USA
+3,1,3,13,20.6349,63,36,Germany
+3,1,3,6,9.5238,63,35,France
+3,1,3,6,9.5238,63,117,United Kingdom
+3,1,3,4,6.3492,63,6,Australia
+3,1,3,3,4.7619,63,102,Switzerland
+3,1,3,2,3.1746,63,51,Japan
+3,1,3,1,1.5873,63,10,Belgium
+3,1,3,1,1.5873,63,49,Italy
+3,1,3,1,1.5873,63,64,Mexico
+3,1,3,1,1.5873,63,73,New Zealand
+3,1,3,1,1.5873,63,95,South Africa
+3,1,3,1,1.5873,63,120,Venezuela
+3,1,4,33,45.8333,72,113,USA
+3,1,4,7,9.7222,72,36,Germany
+3,1,4,7,9.7222,72,75,Norway
+3,1,4,5,6.9444,72,117,United Kingdom
+3,1,4,3,4.1667,72,6,Australia
+3,1,4,3,4.1667,72,107,Netherlands
+3,1,4,3,4.1667,72,102,Switzerland
+3,1,4,2,2.7778,72,49,Italy
+3,1,4,1,1.3889,72,7,Austria
+3,1,4,1,1.3889,72,10,Belgium
+3,1,4,1,1.3889,72,16,Brazil
+3,1,4,1,1.3889,72,20,Canada
+3,1,4,1,1.3889,72,23,China
+3,1,4,1,1.3889,72,35,France
+3,1,4,1,1.3889,72,38,Greece
+3,1,4,1,1.3889,72,1,N/A
+3,1,4,1,1.3889,72,104,Tanzania
+3,1,5,30,51.7241,58,113,USA
+3,1,5,6,10.3448,58,36,Germany
+3,1,5,5,8.6207,58,20,Canada
+3,1,5,3,5.1724,58,49,Italy
+3,1,5,3,5.1724,58,117,United Kingdom
+3,1,5,2,3.4483,58,35,France
+3,1,5,2,3.4483,58,51,Japan
+3,1,5,2,3.4483,58,107,Netherlands
+3,1,5,1,1.7241,58,6,Australia
+3,1,5,1,1.7241,58,44,India
+3,1,5,1,1.7241,58,53,Kenya
+3,1,5,1,1.7241,58,95,South Africa
+3,1,5,1,1.7241,58,123,Zimbabwe
+3,1,6,16,36.3636,44,113,USA
+3,1,6,7,15.9091,44,117,United Kingdom
+3,1,6,4,9.0909,44,36,Germany
+3,1,6,3,6.8182,44,107,Netherlands
+3,1,6,3,6.8182,44,75,Norway
+3,1,6,2,4.5455,44,6,Australia
+3,1,6,2,4.5455,44,35,France
+3,1,6,2,4.5455,44,101,Sweden
+3,1,6,1,2.2727,44,20,Canada
+3,1,6,1,2.2727,44,23,China
+3,1,6,1,2.2727,44,44,India
+3,1,6,1,2.2727,44,51,Japan
+3,1,6,1,2.2727,44,102,Switzerland
+3,1,7,37,53.6232,69,113,USA
+3,1,7,6,8.6957,69,117,United Kingdom
+3,1,7,5,7.2464,69,36,Germany
+3,1,7,4,5.7971,69,35,France
+3,1,7,3,4.3478,69,6,Australia
+3,1,7,3,4.3478,69,20,Canada
+3,1,7,3,4.3478,69,86,Russian Federation
+3,1,7,3,4.3478,69,102,Switzerland
+3,1,7,2,2.8986,69,51,Japan
+3,1,7,2,2.8986,69,107,Netherlands
+3,1,7,1,1.4493,69,122,Zambia
+3,1,8,25,33.7838,74,113,USA
+3,1,8,8,10.8108,74,6,Australia
+3,1,8,8,10.8108,74,35,France
+3,1,8,8,10.8108,74,117,United Kingdom
+3,1,8,7,9.4595,74,20,Canada
+3,1,8,6,8.1081,74,51,Japan
+3,1,8,5,6.7568,74,36,Germany
+3,1,8,2,2.7027,74,23,China
+3,1,8,2,2.7027,74,86,Russian Federation
+3,1,8,1,1.3514,74,10,Belgium
+3,1,8,1,1.3514,74,53,Kenya
+3,1,8,1,1.3514,74,1,N/A
+3,1,9,12,30.0000,40,113,USA
+3,1,9,9,22.5000,40,36,Germany
+3,1,9,6,15.0000,40,20,Canada
+3,1,9,4,10.0000,40,117,United Kingdom
+3,1,9,3,7.5000,40,51,Japan
+3,1,9,2,5.0000,40,6,Australia
+3,1,9,1,2.5000,40,60,Malaysia
+3,1,9,1,2.5000,40,96,South Korea
+3,1,9,1,2.5000,40,101,Sweden
+3,1,9,1,2.5000,40,102,Switzerland
+3,1,10,12,20.6897,58,36,Germany
+3,1,10,12,20.6897,58,113,USA
+3,1,10,7,12.0690,58,117,United Kingdom
+3,1,10,3,5.1724,58,6,Australia
+3,1,10,3,5.1724,58,20,Canada
+3,1,10,3,5.1724,58,51,Japan
+3,1,10,2,3.4483,58,28,Denmark
+3,1,10,2,3.4483,58,1,N/A
+3,1,10,2,3.4483,58,75,Norway
+3,1,10,2,3.4483,58,95,South Africa
+3,1,10,2,3.4483,58,97,Spain
+3,1,10,1,1.7241,58,7,Austria
+3,1,10,1,1.7241,58,23,China
+3,1,10,1,1.7241,58,49,Italy
+3,1,10,1,1.7241,58,107,Netherlands
+3,1,10,1,1.7241,58,81,Philippines
+3,1,10,1,1.7241,58,82,Poland
+3,1,10,1,1.7241,58,101,Sweden
+3,1,10,1,1.7241,58,102,Switzerland
+3,1,11,11,28.2051,39,113,USA
+3,1,11,4,10.2564,39,117,United Kingdom
+3,1,11,3,7.6923,39,6,Australia
+3,1,11,3,7.6923,39,20,Canada
+3,1,11,3,7.6923,39,36,Germany
+3,1,11,2,5.1282,39,7,Austria
+3,1,11,2,5.1282,39,35,France
+3,1,11,2,5.1282,39,51,Japan
+3,1,11,2,5.1282,39,102,Switzerland
+3,1,11,1,2.5641,39,10,Belgium
+3,1,11,1,2.5641,39,23,China
+3,1,11,1,2.5641,39,1,N/A
+3,1,11,1,2.5641,39,73,New Zealand
+3,1,11,1,2.5641,39,86,Russian Federation
+3,1,11,1,2.5641,39,120,Venezuela
+3,1,11,1,2.5641,39,121,Vietnam
+3,1,12,16,44.4444,36,113,USA
+3,1,12,9,25.0000,36,117,United Kingdom
+3,1,12,3,8.3333,36,20,Canada
+3,1,12,3,8.3333,36,36,Germany
+3,1,12,2,5.5556,36,6,Australia
+3,1,12,1,2.7778,36,5,Argentina
+3,1,12,1,2.7778,36,16,Brazil
+3,1,12,1,2.7778,36,1,N/A
+3,1,13,6,40.0000,15,113,USA
+3,1,13,3,20.0000,15,117,United Kingdom
+3,1,13,1,6.6667,15,6,Australia
+3,1,13,1,6.6667,15,34,Finland
+3,1,13,1,6.6667,15,107,Netherlands
+3,1,13,1,6.6667,15,73,New Zealand
+3,1,13,1,6.6667,15,102,Switzerland
+3,1,13,1,6.6667,15,120,Venezuela
+3,1,14,3,42.8571,7,113,USA
+3,1,14,2,28.5714,7,120,Venezuela
+3,1,14,1,14.2857,7,75,Norway
+3,1,14,1,14.2857,7,101,Sweden
+3,1,TS,17,30.9091,55,113,USA
+3,1,TS,8,14.5455,55,117,United Kingdom
+3,1,TS,5,9.0909,55,36,Germany
+3,1,TS,4,7.2727,55,6,Australia
+3,1,TS,2,3.6364,55,23,China
+3,1,TS,2,3.6364,55,95,South Africa
+3,1,TS,2,3.6364,55,102,Switzerland
+3,1,TS,2,3.6364,55,120,Venezuela
+3,1,TS,1,1.8182,55,16,Brazil
+3,1,TS,1,1.8182,55,20,Canada
+3,1,TS,1,1.8182,55,35,France
+3,1,TS,1,1.8182,55,44,India
+3,1,TS,1,1.8182,55,49,Italy
+3,1,TS,1,1.8182,55,60,Malaysia
+3,1,TS,1,1.8182,55,64,Mexico
+3,1,TS,1,1.8182,55,107,Netherlands
+3,1,TS,1,1.8182,55,73,New Zealand
+3,1,TS,1,1.8182,55,75,Norway
+3,1,TS,1,1.8182,55,86,Russian Federation
+3,1,TS,1,1.8182,55,109,Trinidad and Tobago
+3,1,TS,1,1.8182,55,123,Zimbabwe
+3,2,1,5,35.7143,14,113,USA
+3,2,1,2,14.2857,14,117,United Kingdom
+3,2,1,1,7.1429,14,6,Australia
+3,2,1,1,7.1429,14,10,Belgium
+3,2,1,1,7.1429,14,20,Canada
+3,2,1,1,7.1429,14,36,Germany
+3,2,1,1,7.1429,14,64,Mexico
+3,2,1,1,7.1429,14,74,Nigeria
+3,2,1,1,7.1429,14,101,Sweden
+3,2,2,7,33.3333,21,113,USA
+3,2,2,4,19.0476,21,1,N/A
+3,2,2,2,9.5238,21,36,Germany
+3,2,2,2,9.5238,21,73,New Zealand
+3,2,2,2,9.5238,21,117,United Kingdom
+3,2,2,1,4.7619,21,8,Bangladesh
+3,2,2,1,4.7619,21,20,Canada
+3,2,2,1,4.7619,21,44,India
+3,2,2,1,4.7619,21,51,Japan
+3,2,3,7,36.8421,19,1,N/A
+3,2,3,4,21.0526,19,117,United Kingdom
+3,2,3,1,5.2632,19,6,Australia
+3,2,3,1,5.2632,19,7,Austria
+3,2,3,1,5.2632,19,16,Brazil
+3,2,3,1,5.2632,19,34,Finland
+3,2,3,1,5.2632,19,44,India
+3,2,3,1,5.2632,19,107,Netherlands
+3,2,3,1,5.2632,19,86,Russian Federation
+3,2,3,1,5.2632,19,113,USA
+3,2,4,2,15.3846,13,23,China
+3,2,4,2,15.3846,13,86,Russian Federation
+3,2,4,2,15.3846,13,113,USA
+3,2,4,1,7.6923,13,5,Argentina
+3,2,4,1,7.6923,13,36,Germany
+3,2,4,1,7.6923,13,51,Japan
+3,2,4,1,7.6923,13,53,Kenya
+3,2,4,1,7.6923,13,1,N/A
+3,2,4,1,7.6923,13,83,Portugal
+3,2,4,1,7.6923,13,117,United Kingdom
+3,2,5,14,29.1667,48,1,N/A
+3,2,5,9,18.7500,48,113,USA
+3,2,5,6,12.5000,48,6,Australia
+3,2,5,5,10.4167,48,20,Canada
+3,2,5,2,4.1667,48,5,Argentina
+3,2,5,2,4.1667,48,23,China
+3,2,5,2,4.1667,48,36,Germany
+3,2,5,2,4.1667,48,102,Switzerland
+3,2,5,2,4.1667,48,117,United Kingdom
+3,2,5,1,2.0833,48,34,Finland
+3,2,5,1,2.0833,48,35,France
+3,2,5,1,2.0833,48,86,Russian Federation
+3,2,5,1,2.0833,48,106,The Gambia
+3,2,6,2,20.0000,10,20,Canada
+3,2,6,1,10.0000,10,5,Argentina
+3,2,6,1,10.0000,10,6,Australia
+3,2,6,1,10.0000,10,36,Germany
+3,2,6,1,10.0000,10,51,Japan
+3,2,6,1,10.0000,10,1,N/A
+3,2,6,1,10.0000,10,107,Netherlands
+3,2,6,1,10.0000,10,86,Russian Federation
+3,2,6,1,10.0000,10,113,USA
+3,2,7,2,18.1818,11,1,N/A
+3,2,7,2,18.1818,11,117,United Kingdom
+3,2,7,1,9.0909,11,20,Canada
+3,2,7,1,9.0909,11,44,India
+3,2,7,1,9.0909,11,51,Japan
+3,2,7,1,9.0909,11,64,Mexico
+3,2,7,1,9.0909,11,74,Nigeria
+3,2,7,1,9.0909,11,98,Sri Lanka
+3,2,7,1,9.0909,11,113,USA
+3,2,8,4,22.2222,18,1,N/A
+3,2,8,3,16.6667,18,117,United Kingdom
+3,2,8,3,16.6667,18,113,USA
+3,2,8,2,11.1111,18,20,Canada
+3,2,8,2,11.1111,18,36,Germany
+3,2,8,2,11.1111,18,107,Netherlands
+3,2,8,1,5.5556,18,5,Argentina
+3,2,8,1,5.5556,18,8,Bangladesh
+3,2,9,6,33.3333,18,1,N/A
+3,2,9,3,16.6667,18,113,USA
+3,2,9,2,11.1111,18,117,United Kingdom
+3,2,9,1,5.5556,18,5,Argentina
+3,2,9,1,5.5556,18,16,Brazil
+3,2,9,1,5.5556,18,44,India
+3,2,9,1,5.5556,18,51,Japan
+3,2,9,1,5.5556,18,53,Kenya
+3,2,9,1,5.5556,18,107,Netherlands
+3,2,9,1,5.5556,18,73,New Zealand
+3,2,10,14,45.1613,31,1,N/A
+3,2,10,3,9.6774,31,74,Nigeria
+3,2,10,2,6.4516,31,53,Kenya
+3,2,10,2,6.4516,31,117,United Kingdom
+3,2,10,2,6.4516,31,113,USA
+3,2,10,1,3.2258,31,15,Botswana
+3,2,10,1,3.2258,31,35,France
+3,2,10,1,3.2258,31,69,Morocco
+3,2,10,1,3.2258,31,89,Senegal
+3,2,10,1,3.2258,31,95,South Africa
+3,2,10,1,3.2258,31,106,The Gambia
+3,2,10,1,3.2258,31,115,Uganda
+3,2,10,1,3.2258,31,123,Zimbabwe
+3,2,11,19,38.0000,50,1,N/A
+3,2,11,5,10.0000,50,44,India
+3,2,11,5,10.0000,50,51,Japan
+3,2,11,3,6.0000,50,86,Russian Federation
+3,2,11,3,6.0000,50,113,USA
+3,2,11,2,4.0000,50,23,China
+3,2,11,2,4.0000,50,45,Indonesia
+3,2,11,2,4.0000,50,81,Philippines
+3,2,11,2,4.0000,50,117,United Kingdom
+3,2,11,1,2.0000,50,15,Botswana
+3,2,11,1,2.0000,50,20,Canada
+3,2,11,1,2.0000,50,48,Israel
+3,2,11,1,2.0000,50,60,Malaysia
+3,2,11,1,2.0000,50,72,Nepal
+3,2,11,1,2.0000,50,101,Sweden
+3,2,11,1,2.0000,50,119,Uzbekistan
+3,2,12,27,65.8537,41,1,N/A
+3,2,12,6,14.6341,41,6,Australia
+3,2,12,4,9.7561,41,73,New Zealand
+3,2,12,3,7.3171,41,113,USA
+3,2,12,1,2.4390,41,117,United Kingdom
+3,2,13,27,56.2500,48,1,N/A
+3,2,13,9,18.7500,48,117,United Kingdom
+3,2,13,2,4.1667,48,34,Finland
+3,2,13,2,4.1667,48,36,Germany
+3,2,13,2,4.1667,48,101,Sweden
+3,2,13,1,2.0833,48,10,Belgium
+3,2,13,1,2.0833,48,107,Netherlands
+3,2,13,1,2.0833,48,75,Norway
+3,2,13,1,2.0833,48,82,Poland
+3,2,13,1,2.0833,48,83,Portugal
+3,2,13,1,2.0833,48,93,Slovakia
+3,2,14,12,42.8571,28,1,N/A
+3,2,14,5,17.8571,28,5,Argentina
+3,2,14,4,14.2857,28,16,Brazil
+3,2,14,2,7.1429,28,64,Mexico
+3,2,14,2,7.1429,28,120,Venezuela
+3,2,14,1,3.5714,28,22,Chile
+3,2,14,1,3.5714,28,25,Costa Rica
+3,2,14,1,3.5714,28,26,Cuba
+3,2,15,7,35.0000,20,113,USA
+3,2,15,6,30.0000,20,20,Canada
+3,2,15,4,20.0000,20,1,N/A
+3,2,15,1,5.0000,20,36,Germany
+3,2,15,1,5.0000,20,64,Mexico
+3,2,15,1,5.0000,20,117,United Kingdom
+3,2,16,4,21.0526,19,20,Canada
+3,2,16,4,21.0526,19,1,N/A
+3,2,16,3,15.7895,19,86,Russian Federation
+3,2,16,2,10.5263,19,75,Norway
+3,2,16,2,10.5263,19,113,USA
+3,2,16,1,5.2632,19,6,Australia
+3,2,16,1,5.2632,19,23,China
+3,2,16,1,5.2632,19,73,New Zealand
+3,2,16,1,5.2632,19,117,United Kingdom
+3,2,17,5,23.8095,21,1,N/A
+3,2,17,3,14.2857,21,113,USA
+3,2,17,2,9.5238,21,36,Germany
+3,2,17,1,4.7619,21,9,Barbados
+3,2,17,1,4.7619,21,23,China
+3,2,17,1,4.7619,21,44,India
+3,2,17,1,4.7619,21,51,Japan
+3,2,17,1,4.7619,21,53,Kenya
+3,2,17,1,4.7619,21,61,Maldives
+3,2,17,1,4.7619,21,62,Malta
+3,2,17,1,4.7619,21,63,Mauritius
+3,2,17,1,4.7619,21,87,Samoa
+3,2,17,1,4.7619,21,90,Seychelles
+3,2,17,1,4.7619,21,92,Singapore
+3,2,18,4,23.5294,17,117,United Kingdom
+3,2,18,3,17.6471,17,20,Canada
+3,2,18,2,11.7647,17,1,N/A
+3,2,18,2,11.7647,17,113,USA
+3,2,18,1,5.8824,17,4,Antigua and Barbuda
+3,2,18,1,5.8824,17,8,Bangladesh
+3,2,18,1,5.8824,17,35,France
+3,2,18,1,5.8824,17,36,Germany
+3,2,18,1,5.8824,17,44,India
+3,2,18,1,5.8824,17,52,Kazakhstan
+3,2,19,7,28.0000,25,113,USA
+3,2,19,6,24.0000,25,1,N/A
+3,2,19,4,16.0000,25,117,United Kingdom
+3,2,19,2,8.0000,25,107,Netherlands
+3,2,19,1,4.0000,25,6,Australia
+3,2,19,1,4.0000,25,20,Canada
+3,2,19,1,4.0000,25,23,China
+3,2,19,1,4.0000,25,44,India
+3,2,19,1,4.0000,25,48,Israel
+3,2,19,1,4.0000,25,53,Kenya
+3,2,TS,12,23.5294,51,113,USA
+3,2,TS,4,7.8431,51,20,Canada
+3,2,TS,4,7.8431,51,117,United Kingdom
+3,2,TS,3,5.8824,51,6,Australia
+3,2,TS,3,5.8824,51,73,New Zealand
+3,2,TS,2,3.9216,51,16,Brazil
+3,2,TS,2,3.9216,51,36,Germany
+3,2,TS,2,3.9216,51,44,India
+3,2,TS,2,3.9216,51,1,N/A
+3,2,TS,2,3.9216,51,86,Russian Federation
+3,2,TS,1,1.9608,51,8,Bangladesh
+3,2,TS,1,1.9608,51,9,Barbados
+3,2,TS,1,1.9608,51,23,China
+3,2,TS,1,1.9608,51,25,Costa Rica
+3,2,TS,1,1.9608,51,34,Finland
+3,2,TS,1,1.9608,51,45,Indonesia
+3,2,TS,1,1.9608,51,51,Japan
+3,2,TS,1,1.9608,51,52,Kazakhstan
+3,2,TS,1,1.9608,51,53,Kenya
+3,2,TS,1,1.9608,51,64,Mexico
+3,2,TS,1,1.9608,51,107,Netherlands
+3,2,TS,1,1.9608,51,87,Samoa
+3,2,TS,1,1.9608,51,106,The Gambia
+3,2,TS,1,1.9608,51,120,Venezuela
+3,2,TS,1,1.9608,51,123,Zimbabwe
+3,2,SPM,16,25.0000,64,113,USA
+3,2,SPM,6,9.3750,64,20,Canada
+3,2,SPM,6,9.3750,64,117,United Kingdom
+3,2,SPM,4,6.2500,64,73,New Zealand
+3,2,SPM,3,4.6875,64,6,Australia
+3,2,SPM,2,3.1250,64,36,Germany
+3,2,SPM,2,3.1250,64,44,India
+3,2,SPM,2,3.1250,64,1,N/A
+3,2,SPM,2,3.1250,64,107,Netherlands
+3,2,SPM,2,3.1250,64,86,Russian Federation
+3,2,SPM,1,1.5625,64,5,Argentina
+3,2,SPM,1,1.5625,64,8,Bangladesh
+3,2,SPM,1,1.5625,64,9,Barbados
+3,2,SPM,1,1.5625,64,10,Belgium
+3,2,SPM,1,1.5625,64,16,Brazil
+3,2,SPM,1,1.5625,64,23,China
+3,2,SPM,1,1.5625,64,25,Costa Rica
+3,2,SPM,1,1.5625,64,34,Finland
+3,2,SPM,1,1.5625,64,45,Indonesia
+3,2,SPM,1,1.5625,64,51,Japan
+3,2,SPM,1,1.5625,64,52,Kazakhstan
+3,2,SPM,1,1.5625,64,53,Kenya
+3,2,SPM,1,1.5625,64,64,Mexico
+3,2,SPM,1,1.5625,64,75,Norway
+3,2,SPM,1,1.5625,64,87,Samoa
+3,2,SPM,1,1.5625,64,95,South Africa
+3,2,SPM,1,1.5625,64,106,The Gambia
+3,2,SPM,1,1.5625,64,120,Venezuela
+3,2,SPM,1,1.5625,64,123,Zimbabwe
+3,3,1,9,45.0000,20,113,USA
+3,3,1,3,15.0000,20,44,India
+3,3,1,2,10.0000,20,117,United Kingdom
+3,3,1,1,5.0000,20,16,Brazil
+3,3,1,1,5.0000,20,26,Cuba
+3,3,1,1,5.0000,20,36,Germany
+3,3,1,1,5.0000,20,53,Kenya
+3,3,1,1,5.0000,20,1,N/A
+3,3,1,1,5.0000,20,107,Netherlands
+3,3,2,5,20.0000,25,51,Japan
+3,3,2,4,16.0000,25,113,USA
+3,3,2,3,12.0000,25,7,Austria
+3,3,2,2,8.0000,25,23,China
+3,3,2,2,8.0000,25,107,Netherlands
+3,3,2,2,8.0000,25,117,United Kingdom
+3,3,2,1,4.0000,25,16,Brazil
+3,3,2,1,4.0000,25,20,Canada
+3,3,2,1,4.0000,25,36,Germany
+3,3,2,1,4.0000,25,44,India
+3,3,2,1,4.0000,25,74,Nigeria
+3,3,2,1,4.0000,25,75,Norway
+3,3,2,1,4.0000,25,86,Russian Federation
+3,3,3,14,36.8421,38,113,USA
+3,3,3,4,10.5263,38,107,Netherlands
+3,3,3,4,10.5263,38,117,United Kingdom
+3,3,3,3,7.8947,38,51,Japan
+3,3,3,2,5.2632,38,16,Brazil
+3,3,3,2,5.2632,38,23,China
+3,3,3,2,5.2632,38,44,India
+3,3,3,2,5.2632,38,1,N/A
+3,3,3,1,2.6316,38,7,Austria
+3,3,3,1,2.6316,38,26,Cuba
+3,3,3,1,2.6316,38,36,Germany
+3,3,3,1,2.6316,38,42,Hungary
+3,3,3,1,2.6316,38,73,New Zealand
+3,3,4,6,33.3333,18,113,USA
+3,3,4,2,11.1111,18,20,Canada
+3,3,4,2,11.1111,18,34,Finland
+3,3,4,1,5.5556,18,16,Brazil
+3,3,4,1,5.5556,18,44,India
+3,3,4,1,5.5556,18,51,Japan
+3,3,4,1,5.5556,18,60,Malaysia
+3,3,4,1,5.5556,18,64,Mexico
+3,3,4,1,5.5556,18,107,Netherlands
+3,3,4,1,5.5556,18,75,Norway
+3,3,4,1,5.5556,18,80,Peru
+3,3,5,3,17.6471,17,113,USA
+3,3,5,2,11.7647,17,20,Canada
+3,3,5,2,11.7647,17,117,United Kingdom
+3,3,5,1,5.8824,17,5,Argentina
+3,3,5,1,5.8824,17,10,Belgium
+3,3,5,1,5.8824,17,16,Brazil
+3,3,5,1,5.8824,17,35,France
+3,3,5,1,5.8824,17,44,India
+3,3,5,1,5.8824,17,45,Indonesia
+3,3,5,1,5.8824,17,51,Japan
+3,3,5,1,5.8824,17,1,N/A
+3,3,5,1,5.8824,17,80,Peru
+3,3,5,1,5.8824,17,122,Zambia
+3,3,6,6,24.0000,25,113,USA
+3,3,6,3,12.0000,25,117,United Kingdom
+3,3,6,2,8.0000,25,44,India
+3,3,6,2,8.0000,25,51,Japan
+3,3,6,2,8.0000,25,1,N/A
+3,3,6,1,4.0000,25,20,Canada
+3,3,6,1,4.0000,25,22,Chile
+3,3,6,1,4.0000,25,23,China
+3,3,6,1,4.0000,25,28,Denmark
+3,3,6,1,4.0000,25,36,Germany
+3,3,6,1,4.0000,25,107,Netherlands
+3,3,6,1,4.0000,25,80,Peru
+3,3,6,1,4.0000,25,86,Russian Federation
+3,3,6,1,4.0000,25,101,Sweden
+3,3,6,1,4.0000,25,102,Switzerland
+3,3,7,2,22.2222,9,23,China
+3,3,7,2,22.2222,9,113,USA
+3,3,7,1,11.1111,9,16,Brazil
+3,3,7,1,11.1111,9,35,France
+3,3,7,1,11.1111,9,36,Germany
+3,3,7,1,11.1111,9,51,Japan
+3,3,7,1,11.1111,9,1,N/A
+3,3,8,4,16.6667,24,113,USA
+3,3,8,3,12.5000,24,75,Norway
+3,3,8,2,8.3333,24,35,France
+3,3,8,2,8.3333,24,36,Germany
+3,3,8,2,8.3333,24,1,N/A
+3,3,8,1,4.1667,24,5,Argentina
+3,3,8,1,4.1667,24,6,Australia
+3,3,8,1,4.1667,24,20,Canada
+3,3,8,1,4.1667,24,22,Chile
+3,3,8,1,4.1667,24,23,China
+3,3,8,1,4.1667,24,26,Cuba
+3,3,8,1,4.1667,24,44,India
+3,3,8,1,4.1667,24,48,Israel
+3,3,8,1,4.1667,24,51,Japan
+3,3,8,1,4.1667,24,80,Peru
+3,3,8,1,4.1667,24,86,Russian Federation
+3,3,9,4,21.0526,19,113,USA
+3,3,9,3,15.7895,19,95,South Africa
+3,3,9,2,10.5263,19,51,Japan
+3,3,9,2,10.5263,19,1,N/A
+3,3,9,2,10.5263,19,117,United Kingdom
+3,3,9,1,5.2632,19,23,China
+3,3,9,1,5.2632,19,26,Cuba
+3,3,9,1,5.2632,19,35,France
+3,3,9,1,5.2632,19,44,India
+3,3,9,1,5.2632,19,53,Kenya
+3,3,9,1,5.2632,19,88,Saudi Arabia
+3,3,10,5,21.7391,23,113,USA
+3,3,10,3,13.0435,23,36,Germany
+3,3,10,3,13.0435,23,1,N/A
+3,3,10,2,8.6957,23,28,Denmark
+3,3,10,1,4.3478,23,8,Bangladesh
+3,3,10,1,4.3478,23,35,France
+3,3,10,1,4.3478,23,48,Israel
+3,3,10,1,4.3478,23,49,Italy
+3,3,10,1,4.3478,23,51,Japan
+3,3,10,1,4.3478,23,64,Mexico
+3,3,10,1,4.3478,23,75,Norway
+3,3,10,1,4.3478,23,86,Russian Federation
+3,3,10,1,4.3478,23,96,South Korea
+3,3,10,1,4.3478,23,104,Tanzania
+3,3,TS,9,28.1250,32,113,USA
+3,3,TS,5,15.6250,32,107,Netherlands
+3,3,TS,4,12.5000,32,51,Japan
+3,3,TS,3,9.3750,32,117,United Kingdom
+3,3,TS,2,6.2500,32,28,Denmark
+3,3,TS,2,6.2500,32,36,Germany
+3,3,TS,1,3.1250,32,16,Brazil
+3,3,TS,1,3.1250,32,23,China
+3,3,TS,1,3.1250,32,34,Finland
+3,3,TS,1,3.1250,32,44,India
+3,3,TS,1,3.1250,32,75,Norway
+3,3,TS,1,3.1250,32,86,Russian Federation
+3,3,TS,1,3.1250,32,95,South Africa
+3,3,SPM,7,21.2121,33,1,N/A
+3,3,SPM,5,15.1515,33,113,USA
+3,3,SPM,4,12.1212,33,107,Netherlands
+3,3,SPM,4,12.1212,33,117,United Kingdom
+3,3,SPM,2,6.0606,33,7,Austria
+3,3,SPM,2,6.0606,33,44,India
+3,3,SPM,1,3.0303,33,5,Argentina
+3,3,SPM,1,3.0303,33,28,Denmark
+3,3,SPM,1,3.0303,33,34,Finland
+3,3,SPM,1,3.0303,33,35,France
+3,3,SPM,1,3.0303,33,36,Germany
+3,3,SPM,1,3.0303,33,51,Japan
+3,3,SPM,1,3.0303,33,86,Russian Federation
+3,3,SPM,1,3.0303,33,95,South Africa
+3,3,SPM,1,3.0303,33,102,Switzerland
+4,1,1,13,36.1111,36,113,USA
+4,1,1,7,19.4444,36,36,Germany
+4,1,1,5,13.8889,36,117,United Kingdom
+4,1,1,3,8.3333,36,102,Switzerland
+4,1,1,2,5.5556,36,75,Norway
+4,1,1,1,2.7778,36,7,Austria
+4,1,1,1,2.7778,36,23,China
+4,1,1,1,2.7778,36,35,France
+4,1,1,1,2.7778,36,69,Morocco
+4,1,1,1,2.7778,36,107,Netherlands
+4,1,1,1,2.7778,36,97,Spain
+4,1,2,24,44.4444,54,113,USA
+4,1,2,7,12.9630,54,117,United Kingdom
+4,1,2,4,7.4074,54,36,Germany
+4,1,2,4,7.4074,54,73,New Zealand
+4,1,2,3,5.5556,54,102,Switzerland
+4,1,2,2,3.7037,54,6,Australia
+4,1,2,2,3.7037,54,35,France
+4,1,2,2,3.7037,54,51,Japan
+4,1,2,2,3.7037,54,75,Norway
+4,1,2,1,1.8519,54,16,Brazil
+4,1,2,1,1.8519,54,53,Kenya
+4,1,2,1,1.8519,54,64,Mexico
+4,1,2,1,1.8519,54,107,Netherlands
+4,1,3,39,48.1481,81,113,USA
+4,1,3,15,18.5185,81,117,United Kingdom
+4,1,3,3,3.7037,81,6,Australia
+4,1,3,3,3.7037,81,23,China
+4,1,3,3,3.7037,81,51,Japan
+4,1,3,2,2.4691,81,5,Argentina
+4,1,3,2,2.4691,81,36,Germany
+4,1,3,2,2.4691,81,107,Netherlands
+4,1,3,2,2.4691,81,102,Switzerland
+4,1,3,1,1.2346,81,20,Canada
+4,1,3,1,1.2346,81,35,France
+4,1,3,1,1.2346,81,44,India
+4,1,3,1,1.2346,81,46,Iran
+4,1,3,1,1.2346,81,53,Kenya
+4,1,3,1,1.2346,81,73,New Zealand
+4,1,3,1,1.2346,81,85,Romania
+4,1,3,1,1.2346,81,86,Russian Federation
+4,1,3,1,1.2346,81,101,Sweden
+4,1,3,1,1.2346,81,106,The Gambia
+4,1,4,22,38.5965,57,113,USA
+4,1,4,6,10.5263,57,20,Canada
+4,1,4,6,10.5263,57,117,United Kingdom
+4,1,4,3,5.2632,57,23,China
+4,1,4,3,5.2632,57,36,Germany
+4,1,4,3,5.2632,57,51,Japan
+4,1,4,3,5.2632,57,102,Switzerland
+4,1,4,2,3.5088,57,6,Australia
+4,1,4,2,3.5088,57,75,Norway
+4,1,4,2,3.5088,57,101,Sweden
+4,1,4,1,1.7544,57,7,Austria
+4,1,4,1,1.7544,57,10,Belgium
+4,1,4,1,1.7544,57,22,Chile
+4,1,4,1,1.7544,57,73,New Zealand
+4,1,4,1,1.7544,57,86,Russian Federation
+4,1,5,30,44.1176,68,113,USA
+4,1,5,7,10.2941,68,117,United Kingdom
+4,1,5,6,8.8235,68,36,Germany
+4,1,5,5,7.3529,68,35,France
+4,1,5,5,7.3529,68,51,Japan
+4,1,5,4,5.8824,68,6,Australia
+4,1,5,2,2.9412,68,20,Canada
+4,1,5,1,1.4706,68,10,Belgium
+4,1,5,1,1.4706,68,13,Bermuda
+4,1,5,1,1.4706,68,44,India
+4,1,5,1,1.4706,68,49,Italy
+4,1,5,1,1.4706,68,73,New Zealand
+4,1,5,1,1.4706,68,75,Norway
+4,1,5,1,1.4706,68,86,Russian Federation
+4,1,5,1,1.4706,68,96,South Korea
+4,1,5,1,1.4706,68,97,Spain
+4,1,6,16,31.3725,51,113,USA
+4,1,6,12,23.5294,51,35,France
+4,1,6,5,9.8039,51,102,Switzerland
+4,1,6,4,7.8431,51,75,Norway
+4,1,6,3,5.8824,51,36,Germany
+4,1,6,3,5.8824,51,117,United Kingdom
+4,1,6,2,3.9216,51,23,China
+4,1,6,1,1.9608,51,5,Argentina
+4,1,6,1,1.9608,51,10,Belgium
+4,1,6,1,1.9608,51,20,Canada
+4,1,6,1,1.9608,51,44,India
+4,1,6,1,1.9608,51,53,Kenya
+4,1,6,1,1.9608,51,86,Russian Federation
+4,1,7,28,35.8974,78,113,USA
+4,1,7,10,12.8205,78,36,Germany
+4,1,7,8,10.2564,78,117,United Kingdom
+4,1,7,7,8.9744,78,35,France
+4,1,7,6,7.6923,78,20,Canada
+4,1,7,4,5.1282,78,6,Australia
+4,1,7,2,2.5641,78,49,Italy
+4,1,7,2,2.5641,78,51,Japan
+4,1,7,2,2.5641,78,102,Switzerland
+4,1,7,2,2.5641,78,105,Thailand
+4,1,7,1,1.2821,78,16,Brazil
+4,1,7,1,1.2821,78,23,China
+4,1,7,1,1.2821,78,44,India
+4,1,7,1,1.2821,78,107,Netherlands
+4,1,7,1,1.2821,78,73,New Zealand
+4,1,7,1,1.2821,78,75,Norway
+4,1,7,1,1.2821,78,101,Sweden
+4,1,8,31,34.8315,89,113,USA
+4,1,8,15,16.8539,89,117,United Kingdom
+4,1,8,7,7.8652,89,36,Germany
+4,1,8,6,6.7416,89,6,Australia
+4,1,8,6,6.7416,89,51,Japan
+4,1,8,5,5.6180,89,102,Switzerland
+4,1,8,4,4.4944,89,10,Belgium
+4,1,8,4,4.4944,89,20,Canada
+4,1,8,4,4.4944,89,35,France
+4,1,8,2,2.2472,89,107,Netherlands
+4,1,8,2,2.2472,89,86,Russian Federation
+4,1,8,1,1.1236,89,44,India
+4,1,8,1,1.1236,89,49,Italy
+4,1,8,1,1.1236,89,75,Norway
+4,1,9,20,35.7143,56,113,USA
+4,1,9,16,28.5714,56,117,United Kingdom
+4,1,9,5,8.9286,56,20,Canada
+4,1,9,4,7.1429,56,6,Australia
+4,1,9,3,5.3571,56,35,France
+4,1,9,1,1.7857,56,10,Belgium
+4,1,9,1,1.7857,56,16,Brazil
+4,1,9,1,1.7857,56,23,China
+4,1,9,1,1.7857,56,36,Germany
+4,1,9,1,1.7857,56,51,Japan
+4,1,9,1,1.7857,56,53,Kenya
+4,1,9,1,1.7857,56,107,Netherlands
+4,1,9,1,1.7857,56,102,Switzerland
+4,1,10,30,31.9149,94,113,USA
+4,1,10,17,18.0851,94,117,United Kingdom
+4,1,10,7,7.4468,94,36,Germany
+4,1,10,7,7.4468,94,51,Japan
+4,1,10,6,6.3830,94,35,France
+4,1,10,5,5.3191,94,20,Canada
+4,1,10,5,5.3191,94,102,Switzerland
+4,1,10,3,3.1915,94,6,Australia
+4,1,10,3,3.1915,94,10,Belgium
+4,1,10,3,3.1915,94,23,China
+4,1,10,2,2.1277,94,107,Netherlands
+4,1,10,2,2.1277,94,86,Russian Federation
+4,1,10,1,1.0638,94,34,Finland
+4,1,10,1,1.0638,94,44,India
+4,1,10,1,1.0638,94,66,Monaco
+4,1,10,1,1.0638,94,89,Senegal
+4,1,11,13,22.0339,59,113,USA
+4,1,11,6,10.1695,59,117,United Kingdom
+4,1,11,5,8.4746,59,20,Canada
+4,1,11,4,6.7797,59,6,Australia
+4,1,11,4,6.7797,59,36,Germany
+4,1,11,3,5.0847,59,95,South Africa
+4,1,11,2,3.3898,59,23,China
+4,1,11,2,3.3898,59,51,Japan
+4,1,11,2,3.3898,59,75,Norway
+4,1,11,2,3.3898,59,102,Switzerland
+4,1,11,1,1.6949,59,5,Argentina
+4,1,11,1,1.6949,59,28,Denmark
+4,1,11,1,1.6949,59,34,Finland
+4,1,11,1,1.6949,59,35,France
+4,1,11,1,1.6949,59,44,India
+4,1,11,1,1.6949,59,46,Iran
+4,1,11,1,1.6949,59,49,Italy
+4,1,11,1,1.6949,59,50,Jamaica
+4,1,11,1,1.6949,59,64,Mexico
+4,1,11,1,1.6949,59,73,New Zealand
+4,1,11,1,1.6949,59,85,Romania
+4,1,11,1,1.6949,59,86,Russian Federation
+4,1,11,1,1.6949,59,89,Senegal
+4,1,11,1,1.6949,59,96,South Korea
+4,1,11,1,1.6949,59,97,Spain
+4,1,11,1,1.6949,59,101,Sweden
+4,1,TS,16,30.7692,52,113,USA
+4,1,TS,7,13.4615,52,117,United Kingdom
+4,1,TS,3,5.7692,52,6,Australia
+4,1,TS,3,5.7692,52,23,China
+4,1,TS,3,5.7692,52,36,Germany
+4,1,TS,3,5.7692,52,102,Switzerland
+4,1,TS,2,3.8462,52,20,Canada
+4,1,TS,2,3.8462,52,35,France
+4,1,TS,2,3.8462,52,75,Norway
+4,1,TS,2,3.8462,52,105,Thailand
+4,1,TS,1,1.9231,52,5,Argentina
+4,1,TS,1,1.9231,52,28,Denmark
+4,1,TS,1,1.9231,52,49,Italy
+4,1,TS,1,1.9231,52,51,Japan
+4,1,TS,1,1.9231,52,64,Mexico
+4,1,TS,1,1.9231,52,73,New Zealand
+4,1,TS,1,1.9231,52,86,Russian Federation
+4,1,TS,1,1.9231,52,95,South Africa
+4,1,TS,1,1.9231,52,106,The Gambia
+4,1,SPM,17,33.3333,51,113,USA
+4,1,SPM,7,13.7255,51,117,United Kingdom
+4,1,SPM,3,5.8824,51,6,Australia
+4,1,SPM,3,5.8824,51,23,China
+4,1,SPM,3,5.8824,51,35,France
+4,1,SPM,3,5.8824,51,36,Germany
+4,1,SPM,3,5.8824,51,102,Switzerland
+4,1,SPM,2,3.9216,51,20,Canada
+4,1,SPM,2,3.9216,51,75,Norway
+4,1,SPM,1,1.9608,51,5,Argentina
+4,1,SPM,1,1.9608,51,28,Denmark
+4,1,SPM,1,1.9608,51,51,Japan
+4,1,SPM,1,1.9608,51,64,Mexico
+4,1,SPM,1,1.9608,51,73,New Zealand
+4,1,SPM,1,1.9608,51,86,Russian Federation
+4,1,SPM,1,1.9608,51,95,South Africa
+4,1,SPM,1,1.9608,51,105,Thailand
+4,2,1,13,28.2609,46,113,USA
+4,2,1,8,17.3913,46,117,United Kingdom
+4,2,1,3,6.5217,46,23,China
+4,2,1,2,4.3478,46,6,Australia
+4,2,1,2,4.3478,46,20,Canada
+4,2,1,2,4.3478,46,35,France
+4,2,1,2,4.3478,46,36,Germany
+4,2,1,2,4.3478,46,102,Switzerland
+4,2,1,1,2.1739,46,5,Argentina
+4,2,1,1,2.1739,46,7,Austria
+4,2,1,1,2.1739,46,16,Brazil
+4,2,1,1,2.1739,46,22,Chile
+4,2,1,1,2.1739,46,27,Czech Republic
+4,2,1,1,2.1739,46,53,Kenya
+4,2,1,1,2.1739,46,107,Netherlands
+4,2,1,1,2.1739,46,73,New Zealand
+4,2,1,1,2.1739,46,82,Poland
+4,2,1,1,2.1739,46,94,Slovenia
+4,2,1,1,2.1739,46,97,Spain
+4,2,1,1,2.1739,46,109,Trinidad and Tobago
+4,2,2,4,17.3913,23,113,USA
+4,2,2,3,13.0435,23,117,United Kingdom
+4,2,2,2,8.6957,23,6,Australia
+4,2,2,2,8.6957,23,7,Austria
+4,2,2,2,8.6957,23,10,Belgium
+4,2,2,2,8.6957,23,34,Finland
+4,2,2,2,8.6957,23,36,Germany
+4,2,2,1,4.3478,23,23,China
+4,2,2,1,4.3478,23,35,France
+4,2,2,1,4.3478,23,44,India
+4,2,2,1,4.3478,23,49,Italy
+4,2,2,1,4.3478,23,64,Mexico
+4,2,2,1,4.3478,23,107,Netherlands
+4,2,3,5,20.0000,25,113,USA
+4,2,3,4,16.0000,25,117,United Kingdom
+4,2,3,3,12.0000,25,36,Germany
+4,2,3,3,12.0000,25,107,Netherlands
+4,2,3,2,8.0000,25,20,Canada
+4,2,3,2,8.0000,25,51,Japan
+4,2,3,1,4.0000,25,44,India
+4,2,3,1,4.0000,25,64,Mexico
+4,2,3,1,4.0000,25,82,Poland
+4,2,3,1,4.0000,25,86,Russian Federation
+4,2,3,1,4.0000,25,95,South Africa
+4,2,3,1,4.0000,25,111,Turkey
+4,2,4,6,19.3548,31,102,Switzerland
+4,2,4,3,9.6774,31,95,South Africa
+4,2,4,2,6.4516,31,6,Australia
+4,2,4,2,6.4516,31,10,Belgium
+4,2,4,2,6.4516,31,15,Botswana
+4,2,4,2,6.4516,31,35,France
+4,2,4,2,6.4516,31,36,Germany
+4,2,4,2,6.4516,31,117,United Kingdom
+4,2,4,2,6.4516,31,113,USA
+4,2,4,1,3.2258,31,5,Argentina
+4,2,4,1,3.2258,31,20,Canada
+4,2,4,1,3.2258,31,28,Denmark
+4,2,4,1,3.2258,31,44,India
+4,2,4,1,3.2258,31,107,Netherlands
+4,2,4,1,3.2258,31,80,Peru
+4,2,4,1,3.2258,31,86,Russian Federation
+4,2,4,1,3.2258,31,101,Sweden
+4,2,5,12,46.1538,26,113,USA
+4,2,5,2,7.6923,26,49,Italy
+4,2,5,2,7.6923,26,117,United Kingdom
+4,2,5,1,3.8462,26,6,Australia
+4,2,5,1,3.8462,26,23,China
+4,2,5,1,3.8462,26,28,Denmark
+4,2,5,1,3.8462,26,35,France
+4,2,5,1,3.8462,26,44,India
+4,2,5,1,3.8462,26,47,Ireland
+4,2,5,1,3.8462,26,56,Laos
+4,2,5,1,3.8462,26,68,Mongolia
+4,2,5,1,3.8462,26,75,Norway
+4,2,5,1,3.8462,26,94,Slovenia
+4,2,6,6,26.0870,23,117,United Kingdom
+4,2,6,5,21.7391,23,6,Australia
+4,2,6,3,13.0435,23,113,USA
+4,2,6,1,4.3478,23,5,Argentina
+4,2,6,1,4.3478,23,20,Canada
+4,2,6,1,4.3478,23,47,Ireland
+4,2,6,1,4.3478,23,51,Japan
+4,2,6,1,4.3478,23,60,Malaysia
+4,2,6,1,4.3478,23,63,Mauritius
+4,2,6,1,4.3478,23,107,Netherlands
+4,2,6,1,4.3478,23,73,New Zealand
+4,2,6,1,4.3478,23,92,Singapore
+4,2,7,5,25.0000,20,113,USA
+4,2,7,4,20.0000,20,117,United Kingdom
+4,2,7,2,10.0000,20,101,Sweden
+4,2,7,1,5.0000,20,22,Chile
+4,2,7,1,5.0000,20,23,China
+4,2,7,1,5.0000,20,35,France
+4,2,7,1,5.0000,20,44,India
+4,2,7,1,5.0000,20,107,Netherlands
+4,2,7,1,5.0000,20,75,Norway
+4,2,7,1,5.0000,20,95,South Africa
+4,2,7,1,5.0000,20,98,Sri Lanka
+4,2,7,1,5.0000,20,102,Switzerland
+4,2,8,4,15.3846,26,113,USA
+4,2,8,3,11.5385,26,73,New Zealand
+4,2,8,3,11.5385,26,117,United Kingdom
+4,2,8,2,7.6923,26,6,Australia
+4,2,8,2,7.6923,26,8,Bangladesh
+4,2,8,2,7.6923,26,36,Germany
+4,2,8,2,7.6923,26,102,Switzerland
+4,2,8,1,3.8462,26,5,Argentina
+4,2,8,1,3.8462,26,16,Brazil
+4,2,8,1,3.8462,26,20,Canada
+4,2,8,1,3.8462,26,44,India
+4,2,8,1,3.8462,26,49,Italy
+4,2,8,1,3.8462,26,70,Mozambique
+4,2,8,1,3.8462,26,86,Russian Federation
+4,2,8,1,3.8462,26,97,Spain
+4,2,9,5,18.5185,27,117,United Kingdom
+4,2,9,3,11.1111,27,74,Nigeria
+4,2,9,3,11.1111,27,95,South Africa
+4,2,9,2,7.4074,27,21,Chad
+4,2,9,2,7.4074,27,30,Egypt
+4,2,9,2,7.4074,27,35,France
+4,2,9,2,7.4074,27,53,Kenya
+4,2,9,2,7.4074,27,113,USA
+4,2,9,1,3.7037,27,3,Algeria
+4,2,9,1,3.7037,27,12,Benin
+4,2,9,1,3.7037,27,69,Morocco
+4,2,9,1,3.7037,27,89,Senegal
+4,2,9,1,3.7037,27,99,Sudan
+4,2,9,1,3.7037,27,104,Tanzania
+4,2,10,6,24.0000,25,23,China
+4,2,10,6,24.0000,25,51,Japan
+4,2,10,4,16.0000,25,44,India
+4,2,10,2,8.0000,25,121,Vietnam
+4,2,10,1,4.0000,25,6,Australia
+4,2,10,1,4.0000,25,45,Indonesia
+4,2,10,1,4.0000,25,46,Iran
+4,2,10,1,4.0000,25,60,Malaysia
+4,2,10,1,4.0000,25,68,Mongolia
+4,2,10,1,4.0000,25,81,Philippines
+4,2,10,1,4.0000,25,86,Russian Federation
+4,2,11,12,54.5455,22,6,Australia
+4,2,11,10,45.4545,22,73,New Zealand
+4,2,12,4,16.6667,24,117,United Kingdom
+4,2,12,2,8.3333,24,28,Denmark
+4,2,12,2,8.3333,24,47,Ireland
+4,2,12,2,8.3333,24,107,Netherlands
+4,2,12,1,4.1667,24,7,Austria
+4,2,12,1,4.1667,24,10,Belgium
+4,2,12,1,4.1667,24,34,Finland
+4,2,12,1,4.1667,24,35,France
+4,2,12,1,4.1667,24,36,Germany
+4,2,12,1,4.1667,24,38,Greece
+4,2,12,1,4.1667,24,42,Hungary
+4,2,12,1,4.1667,24,49,Italy
+4,2,12,1,4.1667,24,65,Moldova
+4,2,12,1,4.1667,24,83,Portugal
+4,2,12,1,4.1667,24,97,Spain
+4,2,12,1,4.1667,24,101,Sweden
+4,2,12,1,4.1667,24,102,Switzerland
+4,2,12,1,4.1667,24,116,Ukraine
+4,2,13,4,25.0000,16,64,Mexico
+4,2,13,3,18.7500,16,5,Argentina
+4,2,13,3,18.7500,16,16,Brazil
+4,2,13,2,12.5000,16,120,Venezuela
+4,2,13,1,6.2500,16,14,Bolivia
+4,2,13,1,6.2500,16,22,Chile
+4,2,13,1,6.2500,16,25,Costa Rica
+4,2,13,1,6.2500,16,118,Uruguay
+4,2,14,13,56.5217,23,113,USA
+4,2,14,9,39.1304,23,20,Canada
+4,2,14,1,4.3478,23,117,United Kingdom
+4,2,15,9,47.3684,19,20,Canada
+4,2,15,3,15.7895,19,113,USA
+4,2,15,2,10.5263,19,101,Sweden
+4,2,15,1,5.2632,19,6,Australia
+4,2,15,1,5.2632,19,43,Iceland
+4,2,15,1,5.2632,19,107,Netherlands
+4,2,15,1,5.2632,19,86,Russian Federation
+4,2,15,1,5.2632,19,117,United Kingdom
+4,2,16,2,11.7647,17,51,Japan
+4,2,16,2,11.7647,17,87,Samoa
+4,2,16,2,11.7647,17,90,Seychelles
+4,2,16,2,11.7647,17,113,USA
+4,2,16,1,5.8824,17,6,Australia
+4,2,16,1,5.8824,17,9,Barbados
+4,2,16,1,5.8824,17,11,Belize
+4,2,16,1,5.8824,17,20,Canada
+4,2,16,1,5.8824,17,33,Fiji
+4,2,16,1,5.8824,17,62,Malta
+4,2,16,1,5.8824,17,73,New Zealand
+4,2,16,1,5.8824,17,84,Puerto Rico
+4,2,16,1,5.8824,17,109,Trinidad and Tobago
+4,2,17,7,25.0000,28,20,Canada
+4,2,17,5,17.8571,28,117,United Kingdom
+4,2,17,5,17.8571,28,113,USA
+4,2,17,1,3.5714,28,16,Brazil
+4,2,17,1,3.5714,28,35,France
+4,2,17,1,3.5714,28,36,Germany
+4,2,17,1,3.5714,28,44,India
+4,2,17,1,3.5714,28,51,Japan
+4,2,17,1,3.5714,28,64,Mexico
+4,2,17,1,3.5714,28,69,Morocco
+4,2,17,1,3.5714,28,72,Nepal
+4,2,17,1,3.5714,28,75,Norway
+4,2,17,1,3.5714,28,81,Philippines
+4,2,17,1,3.5714,28,101,Sweden
+4,2,18,6,35.2941,17,117,United Kingdom
+4,2,18,3,17.6471,17,101,Sweden
+4,2,18,2,11.7647,17,20,Canada
+4,2,18,2,11.7647,17,113,USA
+4,2,18,1,5.8824,17,48,Israel
+4,2,18,1,5.8824,17,69,Morocco
+4,2,18,1,5.8824,17,89,Senegal
+4,2,18,1,5.8824,17,111,Turkey
+4,2,19,8,38.0952,21,113,USA
+4,2,19,2,9.5238,21,6,Australia
+4,2,19,2,9.5238,21,44,India
+4,2,19,1,4.7619,21,8,Bangladesh
+4,2,19,1,4.7619,21,10,Belgium
+4,2,19,1,4.7619,21,20,Canada
+4,2,19,1,4.7619,21,26,Cuba
+4,2,19,1,4.7619,21,35,France
+4,2,19,1,4.7619,21,36,Germany
+4,2,19,1,4.7619,21,86,Russian Federation
+4,2,19,1,4.7619,21,117,United Kingdom
+4,2,19,1,4.7619,21,123,Zimbabwe
+4,2,20,8,42.1053,19,113,USA
+4,2,20,2,10.5263,19,20,Canada
+4,2,20,2,10.5263,19,81,Philippines
+4,2,20,2,10.5263,19,117,United Kingdom
+4,2,20,1,5.2632,19,8,Bangladesh
+4,2,20,1,5.2632,19,36,Germany
+4,2,20,1,5.2632,19,74,Nigeria
+4,2,20,1,5.2632,19,99,Sudan
+4,2,20,1,5.2632,19,111,Turkey
+4,2,TS,9,13.8462,65,117,United Kingdom
+4,2,TS,9,13.8462,65,113,USA
+4,2,TS,4,6.1538,65,6,Australia
+4,2,TS,4,6.1538,65,36,Germany
+4,2,TS,3,4.6154,65,20,Canada
+4,2,TS,3,4.6154,65,44,India
+4,2,TS,2,3.0769,65,5,Argentina
+4,2,TS,2,3.0769,65,23,China
+4,2,TS,2,3.0769,65,35,France
+4,2,TS,2,3.0769,65,51,Japan
+4,2,TS,2,3.0769,65,64,Mexico
+4,2,TS,2,3.0769,65,81,Philippines
+4,2,TS,2,3.0769,65,86,Russian Federation
+4,2,TS,2,3.0769,65,95,South Africa
+4,2,TS,1,1.5385,65,9,Barbados
+4,2,TS,1,1.5385,65,10,Belgium
+4,2,TS,1,1.5385,65,16,Brazil
+4,2,TS,1,1.5385,65,22,Chile
+4,2,TS,1,1.5385,65,34,Finland
+4,2,TS,1,1.5385,65,42,Hungary
+4,2,TS,1,1.5385,65,45,Indonesia
+4,2,TS,1,1.5385,65,69,Morocco
+4,2,TS,1,1.5385,65,73,New Zealand
+4,2,TS,1,1.5385,65,74,Nigeria
+4,2,TS,1,1.5385,65,82,Poland
+4,2,TS,1,1.5385,65,89,Senegal
+4,2,TS,1,1.5385,65,92,Singapore
+4,2,TS,1,1.5385,65,94,Slovenia
+4,2,TS,1,1.5385,65,97,Spain
+4,2,TS,1,1.5385,65,101,Sweden
+4,2,TS,1,1.5385,65,102,Switzerland
+4,2,SPM,9,14.2857,63,113,USA
+4,2,SPM,8,12.6984,63,117,United Kingdom
+4,2,SPM,5,7.9365,63,6,Australia
+4,2,SPM,3,4.7619,63,20,Canada
+4,2,SPM,3,4.7619,63,36,Germany
+4,2,SPM,3,4.7619,63,44,India
+4,2,SPM,2,3.1746,63,5,Argentina
+4,2,SPM,2,3.1746,63,23,China
+4,2,SPM,2,3.1746,63,35,France
+4,2,SPM,2,3.1746,63,51,Japan
+4,2,SPM,2,3.1746,63,64,Mexico
+4,2,SPM,2,3.1746,63,81,Philippines
+4,2,SPM,2,3.1746,63,86,Russian Federation
+4,2,SPM,2,3.1746,63,95,South Africa
+4,2,SPM,1,1.5873,63,9,Barbados
+4,2,SPM,1,1.5873,63,10,Belgium
+4,2,SPM,1,1.5873,63,16,Brazil
+4,2,SPM,1,1.5873,63,22,Chile
+4,2,SPM,1,1.5873,63,34,Finland
+4,2,SPM,1,1.5873,63,42,Hungary
+4,2,SPM,1,1.5873,63,69,Morocco
+4,2,SPM,1,1.5873,63,73,New Zealand
+4,2,SPM,1,1.5873,63,74,Nigeria
+4,2,SPM,1,1.5873,63,82,Poland
+4,2,SPM,1,1.5873,63,89,Senegal
+4,2,SPM,1,1.5873,63,92,Singapore
+4,2,SPM,1,1.5873,63,94,Slovenia
+4,2,SPM,1,1.5873,63,97,Spain
+4,2,SPM,1,1.5873,63,101,Sweden
+4,2,SPM,1,1.5873,63,102,Switzerland
+4,3,1,2,15.3846,13,23,China
+4,3,1,2,15.3846,13,36,Germany
+4,3,1,2,15.3846,13,107,Netherlands
+4,3,1,1,7.6923,13,7,Austria
+4,3,1,1,7.6923,13,20,Canada
+4,3,1,1,7.6923,13,35,France
+4,3,1,1,7.6923,13,51,Japan
+4,3,1,1,7.6923,13,53,Kenya
+4,3,1,1,7.6923,13,96,South Korea
+4,3,1,1,7.6923,13,113,USA
+4,3,2,4,20.0000,20,113,USA
+4,3,2,3,15.0000,20,44,India
+4,3,2,2,10.0000,20,35,France
+4,3,2,1,5.0000,20,6,Australia
+4,3,2,1,5.0000,20,7,Austria
+4,3,2,1,5.0000,20,23,China
+4,3,2,1,5.0000,20,28,Denmark
+4,3,2,1,5.0000,20,29,Ecuador
+4,3,2,1,5.0000,20,49,Italy
+4,3,2,1,5.0000,20,51,Japan
+4,3,2,1,5.0000,20,53,Kenya
+4,3,2,1,5.0000,20,86,Russian Federation
+4,3,2,1,5.0000,20,99,Sudan
+4,3,2,1,5.0000,20,117,United Kingdom
+4,3,3,7,23.3333,30,113,USA
+4,3,3,4,13.3333,30,35,France
+4,3,3,3,10.0000,30,7,Austria
+4,3,3,3,10.0000,30,51,Japan
+4,3,3,2,6.6667,30,6,Australia
+4,3,3,2,6.6667,30,44,India
+4,3,3,2,6.6667,30,107,Netherlands
+4,3,3,1,3.3333,30,5,Argentina
+4,3,3,1,3.3333,30,16,Brazil
+4,3,3,1,3.3333,30,23,China
+4,3,3,1,3.3333,30,75,Norway
+4,3,3,1,3.3333,30,88,Saudi Arabia
+4,3,3,1,3.3333,30,111,Turkey
+4,3,3,1,3.3333,30,117,United Kingdom
+4,3,4,4,20.0000,20,113,USA
+4,3,4,2,10.0000,20,7,Austria
+4,3,4,2,10.0000,20,23,China
+4,3,4,2,10.0000,20,28,Denmark
+4,3,4,1,5.0000,20,16,Brazil
+4,3,4,1,5.0000,20,26,Cuba
+4,3,4,1,5.0000,20,34,Finland
+4,3,4,1,5.0000,20,51,Japan
+4,3,4,1,5.0000,20,53,Kenya
+4,3,4,1,5.0000,20,57,Lithuania
+4,3,4,1,5.0000,20,73,New Zealand
+4,3,4,1,5.0000,20,74,Nigeria
+4,3,4,1,5.0000,20,95,South Africa
+4,3,4,1,5.0000,20,99,Sudan
+4,3,5,4,23.5294,17,113,USA
+4,3,5,3,17.6471,17,51,Japan
+4,3,5,2,11.7647,17,117,United Kingdom
+4,3,5,1,5.8824,17,10,Belgium
+4,3,5,1,5.8824,17,15,Botswana
+4,3,5,1,5.8824,17,16,Brazil
+4,3,5,1,5.8824,17,44,India
+4,3,5,1,5.8824,17,64,Mexico
+4,3,5,1,5.8824,17,107,Netherlands
+4,3,5,1,5.8824,17,73,New Zealand
+4,3,5,1,5.8824,17,75,Norway
+4,3,6,5,23.8095,21,113,USA
+4,3,6,2,9.5238,21,23,China
+4,3,6,2,9.5238,21,42,Hungary
+4,3,6,2,9.5238,21,107,Netherlands
+4,3,6,2,9.5238,21,117,United Kingdom
+4,3,6,1,4.7619,21,20,Canada
+4,3,6,1,4.7619,21,35,France
+4,3,6,1,4.7619,21,36,Germany
+4,3,6,1,4.7619,21,38,Greece
+4,3,6,1,4.7619,21,49,Italy
+4,3,6,1,4.7619,21,51,Japan
+4,3,6,1,4.7619,21,80,Peru
+4,3,6,1,4.7619,21,95,South Africa
+4,3,7,6,28.5714,21,113,USA
+4,3,7,3,14.2857,21,51,Japan
+4,3,7,2,9.5238,21,35,France
+4,3,7,2,9.5238,21,36,Germany
+4,3,7,2,9.5238,21,44,India
+4,3,7,2,9.5238,21,107,Netherlands
+4,3,7,1,4.7619,21,6,Australia
+4,3,7,1,4.7619,21,23,China
+4,3,7,1,4.7619,21,64,Mexico
+4,3,7,1,4.7619,21,122,Zambia
+4,3,8,4,18.1818,22,113,USA
+4,3,8,3,13.6364,22,117,United Kingdom
+4,3,8,2,9.0909,22,20,Canada
+4,3,8,2,9.0909,22,23,China
+4,3,8,2,9.0909,22,86,Russian Federation
+4,3,8,1,4.5455,22,6,Australia
+4,3,8,1,4.5455,22,36,Germany
+4,3,8,1,4.5455,22,47,Ireland
+4,3,8,1,4.5455,22,53,Kenya
+4,3,8,1,4.5455,22,74,Nigeria
+4,3,8,1,4.5455,22,75,Norway
+4,3,8,1,4.5455,22,95,South Africa
+4,3,8,1,4.5455,22,105,Thailand
+4,3,8,1,4.5455,22,118,Uruguay
+4,3,9,6,17.1429,35,20,Canada
+4,3,9,6,17.1429,35,113,USA
+4,3,9,5,14.2857,35,107,Netherlands
+4,3,9,2,5.7143,35,16,Brazil
+4,3,9,2,5.7143,35,64,Mexico
+4,3,9,1,2.8571,35,5,Argentina
+4,3,9,1,2.8571,35,7,Austria
+4,3,9,1,2.8571,35,34,Finland
+4,3,9,1,2.8571,35,35,France
+4,3,9,1,2.8571,35,36,Germany
+4,3,9,1,2.8571,35,44,India
+4,3,9,1,2.8571,35,45,Indonesia
+4,3,9,1,2.8571,35,49,Italy
+4,3,9,1,2.8571,35,51,Japan
+4,3,9,1,2.8571,35,73,New Zealand
+4,3,9,1,2.8571,35,80,Peru
+4,3,9,1,2.8571,35,97,Spain
+4,3,9,1,2.8571,35,99,Sudan
+4,3,9,1,2.8571,35,118,Uruguay
+4,3,10,2,14.2857,14,23,China
+4,3,10,2,14.2857,14,34,Finland
+4,3,10,2,14.2857,14,113,USA
+4,3,10,1,7.1429,14,7,Austria
+4,3,10,1,7.1429,14,26,Cuba
+4,3,10,1,7.1429,14,28,Denmark
+4,3,10,1,7.1429,14,45,Indonesia
+4,3,10,1,7.1429,14,51,Japan
+4,3,10,1,7.1429,14,107,Netherlands
+4,3,10,1,7.1429,14,99,Sudan
+4,3,10,1,7.1429,14,117,United Kingdom
+4,3,11,7,23.3333,30,113,USA
+4,3,11,3,10.0000,30,107,Netherlands
+4,3,11,3,10.0000,30,117,United Kingdom
+4,3,11,2,6.6667,30,7,Austria
+4,3,11,2,6.6667,30,51,Japan
+4,3,11,2,6.6667,30,75,Norway
+4,3,11,1,3.3333,30,10,Belgium
+4,3,11,1,3.3333,30,20,Canada
+4,3,11,1,3.3333,30,22,Chile
+4,3,11,1,3.3333,30,23,China
+4,3,11,1,3.3333,30,36,Germany
+4,3,11,1,3.3333,30,73,New Zealand
+4,3,11,1,3.3333,30,74,Nigeria
+4,3,11,1,3.3333,30,86,Russian Federation
+4,3,11,1,3.3333,30,88,Saudi Arabia
+4,3,11,1,3.3333,30,102,Switzerland
+4,3,11,1,3.3333,30,111,Turkey
+4,3,12,3,14.2857,21,20,Canada
+4,3,12,3,14.2857,21,107,Netherlands
+4,3,12,3,14.2857,21,113,USA
+4,3,12,2,9.5238,21,6,Australia
+4,3,12,2,9.5238,21,35,France
+4,3,12,1,4.7619,21,16,Brazil
+4,3,12,1,4.7619,21,23,China
+4,3,12,1,4.7619,21,26,Cuba
+4,3,12,1,4.7619,21,36,Germany
+4,3,12,1,4.7619,21,95,South Africa
+4,3,12,1,4.7619,21,98,Sri Lanka
+4,3,12,1,4.7619,21,110,Tunisia
+4,3,12,1,4.7619,21,117,United Kingdom
+4,3,13,5,27.7778,18,113,USA
+4,3,13,2,11.1111,18,51,Japan
+4,3,13,2,11.1111,18,107,Netherlands
+4,3,13,1,5.5556,18,20,Canada
+4,3,13,1,5.5556,18,23,China
+4,3,13,1,5.5556,18,26,Cuba
+4,3,13,1,5.5556,18,36,Germany
+4,3,13,1,5.5556,18,44,India
+4,3,13,1,5.5556,18,45,Indonesia
+4,3,13,1,5.5556,18,64,Mexico
+4,3,13,1,5.5556,18,76,Oman
+4,3,13,1,5.5556,18,102,Switzerland
+4,3,TS,6,18.7500,32,107,Netherlands
+4,3,TS,6,18.7500,32,113,USA
+4,3,TS,3,9.3750,32,44,India
+4,3,TS,2,6.2500,32,7,Austria
+4,3,TS,1,3.1250,32,5,Argentina
+4,3,TS,1,3.1250,32,6,Australia
+4,3,TS,1,3.1250,32,16,Brazil
+4,3,TS,1,3.1250,32,23,China
+4,3,TS,1,3.1250,32,28,Denmark
+4,3,TS,1,3.1250,32,34,Finland
+4,3,TS,1,3.1250,32,35,France
+4,3,TS,1,3.1250,32,42,Hungary
+4,3,TS,1,3.1250,32,51,Japan
+4,3,TS,1,3.1250,32,53,Kenya
+4,3,TS,1,3.1250,32,64,Mexico
+4,3,TS,1,3.1250,32,86,Russian Federation
+4,3,TS,1,3.1250,32,91,Sierra Leone
+4,3,TS,1,3.1250,32,117,United Kingdom
+4,3,TS,1,3.1250,32,118,Uruguay
+4,3,SPM,7,21.2121,33,107,Netherlands
+4,3,SPM,7,21.2121,33,113,USA
+4,3,SPM,3,9.0909,33,44,India
+4,3,SPM,3,9.0909,33,117,United Kingdom
+4,3,SPM,2,6.0606,33,7,Austria
+4,3,SPM,1,3.0303,33,6,Australia
+4,3,SPM,1,3.0303,33,16,Brazil
+4,3,SPM,1,3.0303,33,23,China
+4,3,SPM,1,3.0303,33,28,Denmark
+4,3,SPM,1,3.0303,33,42,Hungary
+4,3,SPM,1,3.0303,33,51,Japan
+4,3,SPM,1,3.0303,33,64,Mexico
+4,3,SPM,1,3.0303,33,73,New Zealand
+4,3,SPM,1,3.0303,33,86,Russian Federation
+4,3,SPM,1,3.0303,33,91,Sierra Leone
+4,3,SPM,1,3.0303,33,118,Uruguay
+5,1,1,9,34.6154,26,36,Germany
+5,1,1,7,26.9231,26,113,USA
+5,1,1,2,7.6923,26,117,United Kingdom
+5,1,1,1,3.8462,26,23,China
+5,1,1,1,3.8462,26,35,France
+5,1,1,1,3.8462,26,49,Italy
+5,1,1,1,3.8462,26,73,New Zealand
+5,1,1,1,3.8462,26,75,Norway
+5,1,1,1,3.8462,26,101,Sweden
+5,1,1,1,3.8462,26,102,Switzerland
+5,1,1,1,3.8462,26,111,Turkey
+5,1,2,25,44.6429,56,113,USA
+5,1,2,11,19.6429,56,117,United Kingdom
+5,1,2,3,5.3571,56,102,Switzerland
+5,1,2,2,3.5714,56,6,Australia
+5,1,2,2,3.5714,56,20,Canada
+5,1,2,2,3.5714,56,36,Germany
+5,1,2,2,3.5714,56,107,Netherlands
+5,1,2,1,1.7857,56,5,Argentina
+5,1,2,1,1.7857,56,7,Austria
+5,1,2,1,1.7857,56,16,Brazil
+5,1,2,1,1.7857,56,23,China
+5,1,2,1,1.7857,56,49,Italy
+5,1,2,1,1.7857,56,60,Malaysia
+5,1,2,1,1.7857,56,75,Norway
+5,1,2,1,1.7857,56,76,Oman
+5,1,2,1,1.7857,56,83,Portugal
+5,1,3,31,40.7895,76,113,USA
+5,1,3,7,9.2105,76,117,United Kingdom
+5,1,3,6,7.8947,76,36,Germany
+5,1,3,6,7.8947,76,51,Japan
+5,1,3,5,6.5789,76,6,Australia
+5,1,3,4,5.2632,76,35,France
+5,1,3,3,3.9474,76,20,Canada
+5,1,3,3,3.9474,76,86,Russian Federation
+5,1,3,2,2.6316,76,96,South Korea
+5,1,3,2,2.6316,76,97,Spain
+5,1,3,1,1.3158,76,7,Austria
+5,1,3,1,1.3158,76,13,Bermuda
+5,1,3,1,1.3158,76,16,Brazil
+5,1,3,1,1.3158,76,23,China
+5,1,3,1,1.3158,76,43,Iceland
+5,1,3,1,1.3158,76,75,Norway
+5,1,3,1,1.3158,76,102,Switzerland
+5,1,4,17,35.4167,48,113,USA
+5,1,4,8,16.6667,48,20,Canada
+5,1,4,5,10.4167,48,117,United Kingdom
+5,1,4,3,6.2500,48,6,Australia
+5,1,4,3,6.2500,48,102,Switzerland
+5,1,4,2,4.1667,48,7,Austria
+5,1,4,2,4.1667,48,23,China
+5,1,4,2,4.1667,48,36,Germany
+5,1,4,2,4.1667,48,75,Norway
+5,1,4,1,2.0833,48,10,Belgium
+5,1,4,1,2.0833,48,22,Chile
+5,1,4,1,2.0833,48,107,Netherlands
+5,1,4,1,2.0833,48,86,Russian Federation
+5,1,5,18,25.3521,71,113,USA
+5,1,5,9,12.6761,71,36,Germany
+5,1,5,8,11.2676,71,117,United Kingdom
+5,1,5,6,8.4507,71,35,France
+5,1,5,4,5.6338,71,6,Australia
+5,1,5,4,5.6338,71,51,Japan
+5,1,5,4,5.6338,71,102,Switzerland
+5,1,5,3,4.2254,71,73,New Zealand
+5,1,5,3,4.2254,71,75,Norway
+5,1,5,2,2.8169,71,44,India
+5,1,5,2,2.8169,71,97,Spain
+5,1,5,1,1.4085,71,20,Canada
+5,1,5,1,1.4085,71,22,Chile
+5,1,5,1,1.4085,71,23,China
+5,1,5,1,1.4085,71,28,Denmark
+5,1,5,1,1.4085,71,46,Iran
+5,1,5,1,1.4085,71,49,Italy
+5,1,5,1,1.4085,71,86,Russian Federation
+5,1,5,1,1.4085,71,101,Sweden
+5,1,6,33,32.0388,103,113,USA
+5,1,6,13,12.6214,103,117,United Kingdom
+5,1,6,12,11.6505,103,35,France
+5,1,6,9,8.7379,103,107,Netherlands
+5,1,6,7,6.7961,103,36,Germany
+5,1,6,5,4.8544,103,102,Switzerland
+5,1,6,4,3.8835,103,51,Japan
+5,1,6,3,2.9126,103,6,Australia
+5,1,6,3,2.9126,103,20,Canada
+5,1,6,3,2.9126,103,75,Norway
+5,1,6,2,1.9417,103,10,Belgium
+5,1,6,2,1.9417,103,23,China
+5,1,6,1,0.9709,103,7,Austria
+5,1,6,1,0.9709,103,34,Finland
+5,1,6,1,0.9709,103,44,India
+5,1,6,1,0.9709,103,49,Italy
+5,1,6,1,0.9709,103,73,New Zealand
+5,1,6,1,0.9709,103,96,South Korea
+5,1,6,1,0.9709,103,101,Sweden
+5,1,7,18,37.5000,48,113,USA
+5,1,7,5,10.4167,48,117,United Kingdom
+5,1,7,4,8.3333,48,35,France
+5,1,7,4,8.3333,48,36,Germany
+5,1,7,2,4.1667,48,6,Australia
+5,1,7,2,4.1667,48,23,China
+5,1,7,2,4.1667,48,44,India
+5,1,7,2,4.1667,48,49,Italy
+5,1,7,2,4.1667,48,51,Japan
+5,1,7,2,4.1667,48,75,Norway
+5,1,7,1,2.0833,48,16,Brazil
+5,1,7,1,2.0833,48,34,Finland
+5,1,7,1,2.0833,48,47,Ireland
+5,1,7,1,2.0833,48,97,Spain
+5,1,7,1,2.0833,48,102,Switzerland
+5,1,8,13,30.9524,42,113,USA
+5,1,8,9,21.4286,42,117,United Kingdom
+5,1,8,7,16.6667,42,75,Norway
+5,1,8,3,7.1429,42,35,France
+5,1,8,2,4.7619,42,23,China
+5,1,8,2,4.7619,42,51,Japan
+5,1,8,2,4.7619,42,102,Switzerland
+5,1,8,1,2.3810,42,6,Australia
+5,1,8,1,2.3810,42,36,Germany
+5,1,8,1,2.3810,42,44,India
+5,1,8,1,2.3810,42,64,Mexico
+5,1,9,31,32.6316,95,113,USA
+5,1,9,19,20.0000,95,117,United Kingdom
+5,1,9,8,8.4211,95,20,Canada
+5,1,9,7,7.3684,95,36,Germany
+5,1,9,5,5.2632,95,6,Australia
+5,1,9,5,5.2632,95,35,France
+5,1,9,2,2.1053,95,51,Japan
+5,1,9,2,2.1053,95,86,Russian Federation
+5,1,9,2,2.1053,95,95,South Africa
+5,1,9,2,2.1053,95,97,Spain
+5,1,9,1,1.0526,95,10,Belgium
+5,1,9,1,1.0526,95,16,Brazil
+5,1,9,1,1.0526,95,23,China
+5,1,9,1,1.0526,95,34,Finland
+5,1,9,1,1.0526,95,44,India
+5,1,9,1,1.0526,95,69,Morocco
+5,1,9,1,1.0526,95,107,Netherlands
+5,1,9,1,1.0526,95,73,New Zealand
+5,1,9,1,1.0526,95,74,Nigeria
+5,1,9,1,1.0526,95,75,Norway
+5,1,9,1,1.0526,95,101,Sweden
+5,1,9,1,1.0526,95,102,Switzerland
+5,1,10,20,26.3158,76,113,USA
+5,1,10,19,25.0000,76,117,United Kingdom
+5,1,10,6,7.8947,76,102,Switzerland
+5,1,10,5,6.5789,76,35,France
+5,1,10,4,5.2632,76,86,Russian Federation
+5,1,10,3,3.9474,76,6,Australia
+5,1,10,3,3.9474,76,20,Canada
+5,1,10,2,2.6316,76,36,Germany
+5,1,10,2,2.6316,76,122,Zambia
+5,1,10,1,1.3158,76,7,Austria
+5,1,10,1,1.3158,76,10,Belgium
+5,1,10,1,1.3158,76,23,China
+5,1,10,1,1.3158,76,34,Finland
+5,1,10,1,1.3158,76,42,Hungary
+5,1,10,1,1.3158,76,44,India
+5,1,10,1,1.3158,76,51,Japan
+5,1,10,1,1.3158,76,64,Mexico
+5,1,10,1,1.3158,76,69,Morocco
+5,1,10,1,1.3158,76,75,Norway
+5,1,10,1,1.3158,76,96,South Korea
+5,1,10,1,1.3158,76,97,Spain
+5,1,11,23,38.3333,60,113,USA
+5,1,11,12,20.0000,60,117,United Kingdom
+5,1,11,4,6.6667,60,97,Spain
+5,1,11,3,5.0000,60,107,Netherlands
+5,1,11,2,3.3333,60,6,Australia
+5,1,11,2,3.3333,60,20,Canada
+5,1,11,2,3.3333,60,35,France
+5,1,11,2,3.3333,60,51,Japan
+5,1,11,2,3.3333,60,102,Switzerland
+5,1,11,1,1.6667,60,5,Argentina
+5,1,11,1,1.6667,60,7,Austria
+5,1,11,1,1.6667,60,10,Belgium
+5,1,11,1,1.6667,60,15,Botswana
+5,1,11,1,1.6667,60,23,China
+5,1,11,1,1.6667,60,49,Italy
+5,1,11,1,1.6667,60,85,Romania
+5,1,11,1,1.6667,60,89,Senegal
+5,1,12,22,28.2051,78,117,United Kingdom
+5,1,12,21,26.9231,78,113,USA
+5,1,12,7,8.9744,78,20,Canada
+5,1,12,6,7.6923,78,35,France
+5,1,12,6,7.6923,78,36,Germany
+5,1,12,6,7.6923,78,102,Switzerland
+5,1,12,5,6.4103,78,10,Belgium
+5,1,12,2,2.5641,78,6,Australia
+5,1,12,1,1.2821,78,23,China
+5,1,12,1,1.2821,78,69,Morocco
+5,1,12,1,1.2821,78,100,Swaziland
+5,1,13,18,24.3243,74,113,USA
+5,1,13,12,16.2162,74,117,United Kingdom
+5,1,13,11,14.8649,74,107,Netherlands
+5,1,13,7,9.4595,74,6,Australia
+5,1,13,5,6.7568,74,20,Canada
+5,1,13,4,5.4054,74,36,Germany
+5,1,13,3,4.0541,74,35,France
+5,1,13,2,2.7027,74,7,Austria
+5,1,13,2,2.7027,74,10,Belgium
+5,1,13,2,2.7027,74,28,Denmark
+5,1,13,2,2.7027,74,51,Japan
+5,1,13,2,2.7027,74,75,Norway
+5,1,13,2,2.7027,74,101,Sweden
+5,1,13,1,1.3514,74,23,China
+5,1,13,1,1.3514,74,44,India
+5,1,14,36,37.1134,97,113,USA
+5,1,14,7,7.2165,97,117,United Kingdom
+5,1,14,6,6.1856,97,23,China
+5,1,14,6,6.1856,97,44,India
+5,1,14,5,5.1546,97,6,Australia
+5,1,14,4,4.1237,97,28,Denmark
+5,1,14,4,4.1237,97,51,Japan
+5,1,14,4,4.1237,97,96,South Korea
+5,1,14,4,4.1237,97,97,Spain
+5,1,14,3,3.0928,97,20,Canada
+5,1,14,2,2.0619,97,5,Argentina
+5,1,14,2,2.0619,97,16,Brazil
+5,1,14,2,2.0619,97,107,Netherlands
+5,1,14,2,2.0619,97,73,New Zealand
+5,1,14,2,2.0619,97,95,South Africa
+5,1,14,1,1.0309,97,35,France
+5,1,14,1,1.0309,97,45,Indonesia
+5,1,14,1,1.0309,97,49,Italy
+5,1,14,1,1.0309,97,64,Mexico
+5,1,14,1,1.0309,97,77,Qatar
+5,1,14,1,1.0309,97,101,Sweden
+5,1,14,1,1.0309,97,102,Switzerland
+5,1,14,1,1.0309,97,122,Zambia
+5,1,SPM,17,25.7576,66,113,USA
+5,1,SPM,11,16.6667,66,117,United Kingdom
+5,1,SPM,6,9.0909,66,6,Australia
+5,1,SPM,6,9.0909,66,102,Switzerland
+5,1,SPM,5,7.5758,66,36,Germany
+5,1,SPM,4,6.0606,66,35,France
+5,1,SPM,3,4.5455,66,23,China
+5,1,SPM,3,4.5455,66,75,Norway
+5,1,SPM,2,3.0303,66,20,Canada
+5,1,SPM,2,3.0303,66,86,Russian Federation
+5,1,SPM,1,1.5152,66,5,Argentina
+5,1,SPM,1,1.5152,66,7,Austria
+5,1,SPM,1,1.5152,66,22,Chile
+5,1,SPM,1,1.5152,66,28,Denmark
+5,1,SPM,1,1.5152,66,44,India
+5,1,SPM,1,1.5152,66,51,Japan
+5,1,SPM,1,1.5152,66,107,Netherlands
+5,2,1,6,33.3333,18,113,USA
+5,2,1,3,16.6667,18,36,Germany
+5,2,1,2,11.1111,18,75,Norway
+5,2,1,1,5.5556,18,6,Australia
+5,2,1,1,5.5556,18,26,Cuba
+5,2,1,1,5.5556,18,35,France
+5,2,1,1,5.5556,18,44,India
+5,2,1,1,5.5556,18,49,Italy
+5,2,1,1,5.5556,18,64,Mexico
+5,2,1,1,5.5556,18,101,Sweden
+5,2,2,2,18.1818,11,20,Canada
+5,2,2,2,18.1818,11,36,Germany
+5,2,2,2,18.1818,11,117,United Kingdom
+5,2,2,2,18.1818,11,113,USA
+5,2,2,1,9.0909,11,35,France
+5,2,2,1,9.0909,11,44,India
+5,2,2,1,9.0909,11,95,South Africa
+5,2,3,4,20.0000,20,36,Germany
+5,2,3,2,10.0000,20,20,Canada
+5,2,3,2,10.0000,20,23,China
+5,2,3,2,10.0000,20,51,Japan
+5,2,3,1,5.0000,20,7,Austria
+5,2,3,1,5.0000,20,64,Mexico
+5,2,3,1,5.0000,20,107,Netherlands
+5,2,3,1,5.0000,20,82,Poland
+5,2,3,1,5.0000,20,92,Singapore
+5,2,3,1,5.0000,20,97,Spain
+5,2,3,1,5.0000,20,104,Tanzania
+5,2,3,1,5.0000,20,117,United Kingdom
+5,2,3,1,5.0000,20,113,USA
+5,2,3,1,5.0000,20,120,Venezuela
+5,2,4,11,32.3529,34,113,USA
+5,2,4,5,14.7059,34,36,Germany
+5,2,4,5,14.7059,34,117,United Kingdom
+5,2,4,3,8.8235,34,35,France
+5,2,4,2,5.8824,34,6,Australia
+5,2,4,2,5.8824,34,95,South Africa
+5,2,4,2,5.8824,34,102,Switzerland
+5,2,4,1,2.9412,34,5,Argentina
+5,2,4,1,2.9412,34,16,Brazil
+5,2,4,1,2.9412,34,64,Mexico
+5,2,4,1,2.9412,34,97,Spain
+5,2,5,5,20.8333,24,117,United Kingdom
+5,2,5,4,16.6667,24,113,USA
+5,2,5,2,8.3333,24,51,Japan
+5,2,5,2,8.3333,24,107,Netherlands
+5,2,5,2,8.3333,24,97,Spain
+5,2,5,1,4.1667,24,6,Australia
+5,2,5,1,4.1667,24,35,France
+5,2,5,1,4.1667,24,36,Germany
+5,2,5,1,4.1667,24,38,Greece
+5,2,5,1,4.1667,24,69,Morocco
+5,2,5,1,4.1667,24,83,Portugal
+5,2,5,1,4.1667,24,92,Singapore
+5,2,5,1,4.1667,24,96,South Korea
+5,2,5,1,4.1667,24,101,Sweden
+5,2,6,10,26.3158,38,113,USA
+5,2,6,5,13.1579,38,36,Germany
+5,2,6,3,7.8947,38,6,Australia
+5,2,6,3,7.8947,38,35,France
+5,2,6,3,7.8947,38,86,Russian Federation
+5,2,6,3,7.8947,38,117,United Kingdom
+5,2,6,2,5.2632,38,20,Canada
+5,2,6,2,5.2632,38,64,Mexico
+5,2,6,2,5.2632,38,75,Norway
+5,2,6,1,2.6316,38,51,Japan
+5,2,6,1,2.6316,38,73,New Zealand
+5,2,6,1,2.6316,38,95,South Africa
+5,2,6,1,2.6316,38,97,Spain
+5,2,6,1,2.6316,38,116,Ukraine
+5,2,7,5,25.0000,20,117,United Kingdom
+5,2,7,5,25.0000,20,113,USA
+5,2,7,1,5.0000,20,5,Argentina
+5,2,7,1,5.0000,20,6,Australia
+5,2,7,1,5.0000,20,23,China
+5,2,7,1,5.0000,20,28,Denmark
+5,2,7,1,5.0000,20,34,Finland
+5,2,7,1,5.0000,20,44,India
+5,2,7,1,5.0000,20,49,Italy
+5,2,7,1,5.0000,20,72,Nepal
+5,2,7,1,5.0000,20,78,Pakistan
+5,2,7,1,5.0000,20,95,South Africa
+5,2,8,4,28.5714,14,117,United Kingdom
+5,2,8,2,14.2857,14,44,India
+5,2,8,2,14.2857,14,113,USA
+5,2,8,1,7.1429,14,24,Colombia
+5,2,8,1,7.1429,14,35,France
+5,2,8,1,7.1429,14,50,Jamaica
+5,2,8,1,7.1429,14,64,Mexico
+5,2,8,1,7.1429,14,95,South Africa
+5,2,8,1,7.1429,14,104,Tanzania
+5,2,9,3,13.6364,22,44,India
+5,2,9,3,13.6364,22,117,United Kingdom
+5,2,9,3,13.6364,22,113,USA
+5,2,9,2,9.0909,22,95,South Africa
+5,2,9,2,9.0909,22,97,Spain
+5,2,9,1,4.5455,22,7,Austria
+5,2,9,1,4.5455,22,16,Brazil
+5,2,9,1,4.5455,22,22,Chile
+5,2,9,1,4.5455,22,50,Jamaica
+5,2,9,1,4.5455,22,51,Japan
+5,2,9,1,4.5455,22,72,Nepal
+5,2,9,1,4.5455,22,89,Senegal
+5,2,9,1,4.5455,22,102,Switzerland
+5,2,9,1,4.5455,22,110,Tunisia
+5,2,10,6,35.2941,17,113,USA
+5,2,10,2,11.7647,17,23,China
+5,2,10,1,5.8824,17,35,France
+5,2,10,1,5.8824,17,36,Germany
+5,2,10,1,5.8824,17,42,Hungary
+5,2,10,1,5.8824,17,44,India
+5,2,10,1,5.8824,17,49,Italy
+5,2,10,1,5.8824,17,61,Maldives
+5,2,10,1,5.8824,17,107,Netherlands
+5,2,10,1,5.8824,17,104,Tanzania
+5,2,10,1,5.8824,17,117,United Kingdom
+5,2,11,6,24.0000,25,113,USA
+5,2,11,4,16.0000,25,117,United Kingdom
+5,2,11,3,12.0000,25,6,Australia
+5,2,11,3,12.0000,25,73,New Zealand
+5,2,11,1,4.0000,25,16,Brazil
+5,2,11,1,4.0000,25,23,China
+5,2,11,1,4.0000,25,36,Germany
+5,2,11,1,4.0000,25,51,Japan
+5,2,11,1,4.0000,25,86,Russian Federation
+5,2,11,1,4.0000,25,91,Sierra Leone
+5,2,11,1,4.0000,25,95,South Africa
+5,2,11,1,4.0000,25,101,Sweden
+5,2,11,1,4.0000,25,109,Trinidad and Tobago
+5,2,12,3,20.0000,15,117,United Kingdom
+5,2,12,3,20.0000,15,113,USA
+5,2,12,2,13.3333,15,6,Australia
+5,2,12,1,6.6667,15,22,Chile
+5,2,12,1,6.6667,15,24,Colombia
+5,2,12,1,6.6667,15,53,Kenya
+5,2,12,1,6.6667,15,64,Mexico
+5,2,12,1,6.6667,15,75,Norway
+5,2,12,1,6.6667,15,81,Philippines
+5,2,12,1,6.6667,15,95,South Africa
+5,2,13,4,25.0000,16,113,USA
+5,2,13,3,18.7500,16,75,Norway
+5,2,13,2,12.5000,16,117,United Kingdom
+5,2,13,1,6.2500,16,9,Barbados
+5,2,13,1,6.2500,16,23,China
+5,2,13,1,6.2500,16,53,Kenya
+5,2,13,1,6.2500,16,85,Romania
+5,2,13,1,6.2500,16,99,Sudan
+5,2,13,1,6.2500,16,101,Sweden
+5,2,13,1,6.2500,16,102,Switzerland
+5,2,14,4,25.0000,16,113,USA
+5,2,14,1,6.2500,16,6,Australia
+5,2,14,1,6.2500,16,7,Austria
+5,2,14,1,6.2500,16,8,Bangladesh
+5,2,14,1,6.2500,16,36,Germany
+5,2,14,1,6.2500,16,51,Japan
+5,2,14,1,6.2500,16,107,Netherlands
+5,2,14,1,6.2500,16,74,Nigeria
+5,2,14,1,6.2500,16,81,Philippines
+5,2,14,1,6.2500,16,86,Russian Federation
+5,2,14,1,6.2500,16,99,Sudan
+5,2,14,1,6.2500,16,117,United Kingdom
+5,2,14,1,6.2500,16,120,Venezuela
+5,2,15,3,30.0000,10,113,USA
+5,2,15,1,10.0000,10,19,Cameroon
+5,2,15,1,10.0000,10,23,China
+5,2,15,1,10.0000,10,24,Colombia
+5,2,15,1,10.0000,10,30,Egypt
+5,2,15,1,10.0000,10,51,Japan
+5,2,15,1,10.0000,10,64,Mexico
+5,2,15,1,10.0000,10,121,Vietnam
+5,2,16,4,18.1818,22,113,USA
+5,2,16,3,13.6364,22,6,Australia
+5,2,16,3,13.6364,22,95,South Africa
+5,2,16,3,13.6364,22,117,United Kingdom
+5,2,16,2,9.0909,22,107,Netherlands
+5,2,16,2,9.0909,22,101,Sweden
+5,2,16,1,4.5455,22,8,Bangladesh
+5,2,16,1,4.5455,22,23,China
+5,2,16,1,4.5455,22,34,Finland
+5,2,16,1,4.5455,22,36,Germany
+5,2,16,1,4.5455,22,75,Norway
+5,2,17,6,30.0000,20,113,USA
+5,2,17,4,20.0000,20,117,United Kingdom
+5,2,17,2,10.0000,20,35,France
+5,2,17,2,10.0000,20,97,Spain
+5,2,17,1,5.0000,20,7,Austria
+5,2,17,1,5.0000,20,16,Brazil
+5,2,17,1,5.0000,20,20,Canada
+5,2,17,1,5.0000,20,75,Norway
+5,2,17,1,5.0000,20,80,Peru
+5,2,17,1,5.0000,20,123,Zimbabwe
+5,2,18,8,33.3333,24,113,USA
+5,2,18,4,16.6667,24,36,Germany
+5,2,18,2,8.3333,24,6,Australia
+5,2,18,2,8.3333,24,35,France
+5,2,18,2,8.3333,24,107,Netherlands
+5,2,18,1,4.1667,24,16,Brazil
+5,2,18,1,4.1667,24,81,Philippines
+5,2,18,1,4.1667,24,95,South Africa
+5,2,18,1,4.1667,24,101,Sweden
+5,2,18,1,4.1667,24,102,Switzerland
+5,2,18,1,4.1667,24,117,United Kingdom
+5,2,19,12,46.1538,26,113,USA
+5,2,19,4,15.3846,26,117,United Kingdom
+5,2,19,2,7.6923,26,36,Germany
+5,2,19,2,7.6923,26,107,Netherlands
+5,2,19,1,3.8462,26,15,Botswana
+5,2,19,1,3.8462,26,20,Canada
+5,2,19,1,3.8462,26,25,Costa Rica
+5,2,19,1,3.8462,26,51,Japan
+5,2,19,1,3.8462,26,86,Russian Federation
+5,2,19,1,3.8462,26,95,South Africa
+5,2,20,2,15.3846,13,20,Canada
+5,2,20,2,15.3846,13,36,Germany
+5,2,20,2,15.3846,13,113,USA
+5,2,20,1,7.6923,13,10,Belgium
+5,2,20,1,7.6923,13,23,China
+5,2,20,1,7.6923,13,44,India
+5,2,20,1,7.6923,13,51,Japan
+5,2,20,1,7.6923,13,75,Norway
+5,2,20,1,7.6923,13,98,Sri Lanka
+5,2,20,1,7.6923,13,106,The Gambia
+5,2,21,5,33.3333,15,113,USA
+5,2,21,2,13.3333,15,117,United Kingdom
+5,2,21,1,6.6667,15,6,Australia
+5,2,21,1,6.6667,15,34,Finland
+5,2,21,1,6.6667,15,44,India
+5,2,21,1,6.6667,15,49,Italy
+5,2,21,1,6.6667,15,107,Netherlands
+5,2,21,1,6.6667,15,95,South Africa
+5,2,21,1,6.6667,15,96,South Korea
+5,2,21,1,6.6667,15,101,Sweden
+5,2,22,11,19.2982,57,95,South Africa
+5,2,22,7,12.2807,57,113,USA
+5,2,22,6,10.5263,57,117,United Kingdom
+5,2,22,5,8.7719,57,74,Nigeria
+5,2,22,4,7.0175,57,89,Senegal
+5,2,22,3,5.2632,57,36,Germany
+5,2,22,3,5.2632,57,106,The Gambia
+5,2,22,2,3.5088,57,19,Cameroon
+5,2,22,1,1.7544,57,3,Algeria
+5,2,22,1,1.7544,57,15,Botswana
+5,2,22,1,1.7544,57,17,Bulgaria
+5,2,22,1,1.7544,57,30,Egypt
+5,2,22,1,1.7544,57,32,Ethiopia
+5,2,22,1,1.7544,57,35,France
+5,2,22,1,1.7544,57,37,Ghana
+5,2,22,1,1.7544,57,44,India
+5,2,22,1,1.7544,57,47,Ireland
+5,2,22,1,1.7544,57,58,Madagascar
+5,2,22,1,1.7544,57,64,Mexico
+5,2,22,1,1.7544,57,71,Namibia
+5,2,22,1,1.7544,57,107,Netherlands
+5,2,22,1,1.7544,57,100,Swaziland
+5,2,22,1,1.7544,57,110,Tunisia
+5,2,22,1,1.7544,57,123,Zimbabwe
+5,2,23,7,18.9189,37,49,Italy
+5,2,23,7,18.9189,37,117,United Kingdom
+5,2,23,4,10.8108,37,36,Germany
+5,2,23,4,10.8108,37,107,Netherlands
+5,2,23,3,8.1081,37,35,France
+5,2,23,2,5.4054,37,7,Austria
+5,2,23,2,5.4054,37,34,Finland
+5,2,23,2,5.4054,37,38,Greece
+5,2,23,1,2.7027,37,65,Moldova
+5,2,23,1,2.7027,37,82,Poland
+5,2,23,1,2.7027,37,86,Russian Federation
+5,2,23,1,2.7027,37,94,Slovenia
+5,2,23,1,2.7027,37,97,Spain
+5,2,23,1,2.7027,37,102,Switzerland
+5,2,24,6,21.4286,28,51,Japan
+5,2,24,5,17.8571,28,23,China
+5,2,24,4,14.2857,28,44,India
+5,2,24,3,10.7143,28,81,Philippines
+5,2,24,3,10.7143,28,113,USA
+5,2,24,2,7.1429,28,86,Russian Federation
+5,2,24,1,3.5714,28,8,Bangladesh
+5,2,24,1,3.5714,28,60,Malaysia
+5,2,24,1,3.5714,28,92,Singapore
+5,2,24,1,3.5714,28,101,Sweden
+5,2,24,1,3.5714,28,121,Vietnam
+5,2,25,31,65.9574,47,6,Australia
+5,2,25,14,29.7872,47,73,New Zealand
+5,2,25,1,2.1277,47,34,Finland
+5,2,25,1,2.1277,47,113,USA
+5,2,26,20,55.5556,36,113,USA
+5,2,26,7,19.4444,36,20,Canada
+5,2,26,6,16.6667,36,64,Mexico
+5,2,26,1,2.7778,36,6,Australia
+5,2,26,1,2.7778,36,44,India
+5,2,26,1,2.7778,36,97,Spain
+5,2,27,9,30.0000,30,16,Brazil
+5,2,27,4,13.3333,30,5,Argentina
+5,2,27,4,13.3333,30,35,France
+5,2,27,2,6.6667,30,22,Chile
+5,2,27,2,6.6667,30,64,Mexico
+5,2,27,2,6.6667,30,97,Spain
+5,2,27,1,3.3333,30,24,Colombia
+5,2,27,1,3.3333,30,25,Costa Rica
+5,2,27,1,3.3333,30,36,Germany
+5,2,27,1,3.3333,30,39,Guatemala
+5,2,27,1,3.3333,30,117,United Kingdom
+5,2,27,1,3.3333,30,113,USA
+5,2,27,1,3.3333,30,120,Venezuela
+5,2,28,5,18.5185,27,20,Canada
+5,2,28,5,18.5185,27,75,Norway
+5,2,28,5,18.5185,27,117,United Kingdom
+5,2,28,5,18.5185,27,113,USA
+5,2,28,3,11.1111,27,6,Australia
+5,2,28,2,7.4074,27,86,Russian Federation
+5,2,28,1,3.7037,27,34,Finland
+5,2,28,1,3.7037,27,43,Iceland
+5,2,29,3,20.0000,15,109,Trinidad and Tobago
+5,2,29,2,13.3333,15,117,United Kingdom
+5,2,29,1,6.6667,15,6,Australia
+5,2,29,1,6.6667,15,9,Barbados
+5,2,29,1,6.6667,15,20,Canada
+5,2,29,1,6.6667,15,33,Fiji
+5,2,29,1,6.6667,15,35,France
+5,2,29,1,6.6667,15,51,Japan
+5,2,29,1,6.6667,15,62,Malta
+5,2,29,1,6.6667,15,73,New Zealand
+5,2,29,1,6.6667,15,87,Samoa
+5,2,29,1,6.6667,15,90,Seychelles
+5,2,30,10,31.2500,32,113,USA
+5,2,30,5,15.6250,32,6,Australia
+5,2,30,4,12.5000,32,20,Canada
+5,2,30,3,9.3750,32,23,China
+5,2,30,3,9.3750,32,75,Norway
+5,2,30,2,6.2500,32,117,United Kingdom
+5,2,30,1,3.1250,32,33,Fiji
+5,2,30,1,3.1250,32,69,Morocco
+5,2,30,1,3.1250,32,89,Senegal
+5,2,30,1,3.1250,32,95,South Africa
+5,2,30,1,3.1250,32,96,South Korea
+5,2,SPM,17,23.9437,71,113,USA
+5,2,SPM,8,11.2676,71,117,United Kingdom
+5,2,SPM,7,9.8592,71,6,Australia
+5,2,SPM,4,5.6338,71,36,Germany
+5,2,SPM,3,4.2254,71,44,India
+5,2,SPM,3,4.2254,71,51,Japan
+5,2,SPM,2,2.8169,71,5,Argentina
+5,2,SPM,2,2.8169,71,20,Canada
+5,2,SPM,2,2.8169,71,23,China
+5,2,SPM,2,2.8169,71,73,New Zealand
+5,2,SPM,2,2.8169,71,86,Russian Federation
+5,2,SPM,2,2.8169,71,97,Spain
+5,2,SPM,1,1.4085,71,9,Barbados
+5,2,SPM,1,1.4085,71,16,Brazil
+5,2,SPM,1,1.4085,71,26,Cuba
+5,2,SPM,1,1.4085,71,28,Denmark
+5,2,SPM,1,1.4085,71,30,Egypt
+5,2,SPM,1,1.4085,71,43,Iceland
+5,2,SPM,1,1.4085,71,49,Italy
+5,2,SPM,1,1.4085,71,60,Malaysia
+5,2,SPM,1,1.4085,71,64,Mexico
+5,2,SPM,1,1.4085,71,71,Namibia
+5,2,SPM,1,1.4085,71,75,Norway
+5,2,SPM,1,1.4085,71,89,Senegal
+5,2,SPM,1,1.4085,71,92,Singapore
+5,2,SPM,1,1.4085,71,95,South Africa
+5,2,SPM,1,1.4085,71,101,Sweden
+5,2,SPM,1,1.4085,71,106,The Gambia
+5,2,SPM,1,1.4085,71,120,Venezuela
+5,3,1,2,20.0000,10,7,Austria
+5,3,1,1,10.0000,10,23,China
+5,3,1,1,10.0000,10,30,Egypt
+5,3,1,1,10.0000,10,44,India
+5,3,1,1,10.0000,10,51,Japan
+5,3,1,1,10.0000,10,107,Netherlands
+5,3,1,1,10.0000,10,88,Saudi Arabia
+5,3,1,1,10.0000,10,113,USA
+5,3,1,1,10.0000,10,122,Zambia
+5,3,2,3,23.0769,13,113,USA
+5,3,2,2,15.3846,13,7,Austria
+5,3,2,2,15.3846,13,44,India
+5,3,2,1,7.6923,13,26,Cuba
+5,3,2,1,7.6923,13,35,France
+5,3,2,1,7.6923,13,36,Germany
+5,3,2,1,7.6923,13,49,Italy
+5,3,2,1,7.6923,13,107,Netherlands
+5,3,2,1,7.6923,13,99,Sudan
+5,3,3,3,18.7500,16,113,USA
+5,3,3,2,12.5000,16,75,Norway
+5,3,3,1,6.2500,16,5,Argentina
+5,3,3,1,6.2500,16,6,Australia
+5,3,3,1,6.2500,16,7,Austria
+5,3,3,1,6.2500,16,8,Bangladesh
+5,3,3,1,6.2500,16,35,France
+5,3,3,1,6.2500,16,53,Kenya
+5,3,3,1,6.2500,16,64,Mexico
+5,3,3,1,6.2500,16,95,South Africa
+5,3,3,1,6.2500,16,101,Sweden
+5,3,3,1,6.2500,16,109,Trinidad and Tobago
+5,3,3,1,6.2500,16,117,United Kingdom
+5,3,4,5,33.3333,15,113,USA
+5,3,4,2,13.3333,15,16,Brazil
+5,3,4,1,6.6667,15,7,Austria
+5,3,4,1,6.6667,15,23,China
+5,3,4,1,6.6667,15,28,Denmark
+5,3,4,1,6.6667,15,35,France
+5,3,4,1,6.6667,15,44,India
+5,3,4,1,6.6667,15,60,Malaysia
+5,3,4,1,6.6667,15,97,Spain
+5,3,4,1,6.6667,15,117,United Kingdom
+5,3,5,2,11.1111,18,44,India
+5,3,5,2,11.1111,18,107,Netherlands
+5,3,5,2,11.1111,18,113,USA
+5,3,5,1,5.5556,18,5,Argentina
+5,3,5,1,5.5556,18,6,Australia
+5,3,5,1,5.5556,18,10,Belgium
+5,3,5,1,5.5556,18,15,Botswana
+5,3,5,1,5.5556,18,16,Brazil
+5,3,5,1,5.5556,18,20,Canada
+5,3,5,1,5.5556,18,23,China
+5,3,5,1,5.5556,18,26,Cuba
+5,3,5,1,5.5556,18,37,Ghana
+5,3,5,1,5.5556,18,42,Hungary
+5,3,5,1,5.5556,18,67,Montenegro
+5,3,5,1,5.5556,18,117,United Kingdom
+5,3,6,6,33.3333,18,113,USA
+5,3,6,3,16.6667,18,36,Germany
+5,3,6,2,11.1111,18,23,China
+5,3,6,2,11.1111,18,107,Netherlands
+5,3,6,1,5.5556,18,35,France
+5,3,6,1,5.5556,18,44,India
+5,3,6,1,5.5556,18,49,Italy
+5,3,6,1,5.5556,18,51,Japan
+5,3,6,1,5.5556,18,88,Saudi Arabia
+5,3,7,5,22.7273,22,117,United Kingdom
+5,3,7,3,13.6364,22,113,USA
+5,3,7,2,9.0909,22,44,India
+5,3,7,1,4.5455,22,6,Australia
+5,3,7,1,4.5455,22,7,Austria
+5,3,7,1,4.5455,22,23,China
+5,3,7,1,4.5455,22,36,Germany
+5,3,7,1,4.5455,22,51,Japan
+5,3,7,1,4.5455,22,64,Mexico
+5,3,7,1,4.5455,22,107,Netherlands
+5,3,7,1,4.5455,22,75,Norway
+5,3,7,1,4.5455,22,86,Russian Federation
+5,3,7,1,4.5455,22,96,South Korea
+5,3,7,1,4.5455,22,99,Sudan
+5,3,7,1,4.5455,22,105,Thailand
+5,3,8,4,23.5294,17,113,USA
+5,3,8,3,17.6471,17,16,Brazil
+5,3,8,2,11.7647,17,36,Germany
+5,3,8,1,5.8824,17,6,Australia
+5,3,8,1,5.8824,17,23,China
+5,3,8,1,5.8824,17,28,Denmark
+5,3,8,1,5.8824,17,44,India
+5,3,8,1,5.8824,17,51,Japan
+5,3,8,1,5.8824,17,64,Mexico
+5,3,8,1,5.8824,17,73,New Zealand
+5,3,8,1,5.8824,17,117,United Kingdom
+5,3,9,3,16.6667,18,113,USA
+5,3,9,2,11.1111,18,20,Canada
+5,3,9,2,11.1111,18,42,Hungary
+5,3,9,1,5.5556,18,5,Argentina
+5,3,9,1,5.5556,18,16,Brazil
+5,3,9,1,5.5556,18,23,China
+5,3,9,1,5.5556,18,38,Greece
+5,3,9,1,5.5556,18,44,India
+5,3,9,1,5.5556,18,49,Italy
+5,3,9,1,5.5556,18,51,Japan
+5,3,9,1,5.5556,18,60,Malaysia
+5,3,9,1,5.5556,18,95,South Africa
+5,3,9,1,5.5556,18,97,Spain
+5,3,9,1,5.5556,18,117,United Kingdom
+5,3,10,3,18.7500,16,117,United Kingdom
+5,3,10,2,12.5000,16,5,Argentina
+5,3,10,2,12.5000,16,113,USA
+5,3,10,1,6.2500,16,17,Bulgaria
+5,3,10,1,6.2500,16,23,China
+5,3,10,1,6.2500,16,30,Egypt
+5,3,10,1,6.2500,16,35,France
+5,3,10,1,6.2500,16,36,Germany
+5,3,10,1,6.2500,16,44,India
+5,3,10,1,6.2500,16,49,Italy
+5,3,10,1,6.2500,16,51,Japan
+5,3,10,1,6.2500,16,64,Mexico
+5,3,11,2,10.0000,20,6,Australia
+5,3,11,2,10.0000,20,16,Brazil
+5,3,11,1,5.0000,20,7,Austria
+5,3,11,1,5.0000,20,23,China
+5,3,11,1,5.0000,20,44,India
+5,3,11,1,5.0000,20,46,Iran
+5,3,11,1,5.0000,20,49,Italy
+5,3,11,1,5.0000,20,64,Mexico
+5,3,11,1,5.0000,20,107,Netherlands
+5,3,11,1,5.0000,20,73,New Zealand
+5,3,11,1,5.0000,20,75,Norway
+5,3,11,1,5.0000,20,86,Russian Federation
+5,3,11,1,5.0000,20,89,Senegal
+5,3,11,1,5.0000,20,99,Sudan
+5,3,11,1,5.0000,20,102,Switzerland
+5,3,11,1,5.0000,20,104,Tanzania
+5,3,11,1,5.0000,20,117,United Kingdom
+5,3,11,1,5.0000,20,113,USA
+5,3,12,5,29.4118,17,113,USA
+5,3,12,2,11.7647,17,44,India
+5,3,12,1,5.8824,17,23,China
+5,3,12,1,5.8824,17,26,Cuba
+5,3,12,1,5.8824,17,41,Hong Kong
+5,3,12,1,5.8824,17,51,Japan
+5,3,12,1,5.8824,17,64,Mexico
+5,3,12,1,5.8824,17,75,Norway
+5,3,12,1,5.8824,17,95,South Africa
+5,3,12,1,5.8824,17,104,Tanzania
+5,3,12,1,5.8824,17,105,Thailand
+5,3,12,1,5.8824,17,115,Uganda
+5,3,13,5,29.4118,17,113,USA
+5,3,13,2,11.7647,17,23,China
+5,3,13,2,11.7647,17,107,Netherlands
+5,3,13,1,5.8824,17,5,Argentina
+5,3,13,1,5.8824,17,20,Canada
+5,3,13,1,5.8824,17,36,Germany
+5,3,13,1,5.8824,17,64,Mexico
+5,3,13,1,5.8824,17,95,South Africa
+5,3,13,1,5.8824,17,96,South Korea
+5,3,13,1,5.8824,17,102,Switzerland
+5,3,13,1,5.8824,17,117,United Kingdom
+5,3,14,2,11.1111,18,7,Austria
+5,3,14,2,11.1111,18,36,Germany
+5,3,14,2,11.1111,18,117,United Kingdom
+5,3,14,2,11.1111,18,113,USA
+5,3,14,1,5.5556,18,6,Australia
+5,3,14,1,5.5556,18,25,Costa Rica
+5,3,14,1,5.5556,18,26,Cuba
+5,3,14,1,5.5556,18,28,Denmark
+5,3,14,1,5.5556,18,35,France
+5,3,14,1,5.5556,18,64,Mexico
+5,3,14,1,5.5556,18,69,Morocco
+5,3,14,1,5.5556,18,96,South Korea
+5,3,14,1,5.5556,18,102,Switzerland
+5,3,14,1,5.5556,18,116,Ukraine
+5,3,15,2,11.1111,18,44,India
+5,3,15,2,11.1111,18,51,Japan
+5,3,15,1,5.5556,18,16,Brazil
+5,3,15,1,5.5556,18,22,Chile
+5,3,15,1,5.5556,18,23,China
+5,3,15,1,5.5556,18,33,Fiji
+5,3,15,1,5.5556,18,36,Germany
+5,3,15,1,5.5556,18,37,Ghana
+5,3,15,1,5.5556,18,73,New Zealand
+5,3,15,1,5.5556,18,82,Poland
+5,3,15,1,5.5556,18,97,Spain
+5,3,15,1,5.5556,18,99,Sudan
+5,3,15,1,5.5556,18,101,Sweden
+5,3,15,1,5.5556,18,117,United Kingdom
+5,3,15,1,5.5556,18,113,USA
+5,3,15,1,5.5556,18,123,Zimbabwe
+5,3,16,3,18.7500,16,113,USA
+5,3,16,2,12.5000,16,49,Italy
+5,3,16,1,6.2500,16,8,Bangladesh
+5,3,16,1,6.2500,16,16,Brazil
+5,3,16,1,6.2500,16,20,Canada
+5,3,16,1,6.2500,16,24,Colombia
+5,3,16,1,6.2500,16,26,Cuba
+5,3,16,1,6.2500,16,34,Finland
+5,3,16,1,6.2500,16,36,Germany
+5,3,16,1,6.2500,16,44,India
+5,3,16,1,6.2500,16,69,Morocco
+5,3,16,1,6.2500,16,97,Spain
+5,3,16,1,6.2500,16,122,Zambia
