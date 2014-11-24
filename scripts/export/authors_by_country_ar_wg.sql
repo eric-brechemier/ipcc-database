@@ -12,11 +12,23 @@ SELECT
 FROM
 (
   SELECT
-    countries.id AS country_id,
-    countries.name AS Country,
+    participating_countries.id AS country_id,
+    participating_countries.name AS Country,
     working_groups.assessment_report_id AS AR,
     working_groups.number AS WG
-  FROM countries, working_groups
+  FROM
+  (
+    SELECT *
+    FROM countries
+    WHERE EXISTS (
+      SELECT *
+      FROM participations
+      JOIN institution_countries
+      ON participations.institution_country_id = institution_countries.id
+      WHERE institution_countries.country_id = countries.id
+    )
+  ) participating_countries
+  JOIN working_groups
 ) groups
 LEFT JOIN
 (
