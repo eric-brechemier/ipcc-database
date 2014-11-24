@@ -1,4 +1,4 @@
--- Number of participations by AR and Cumulated WG
+-- Number of participations by AR and WG Cumulated in Same AR
 
 SELECT
   ar AS AR,
