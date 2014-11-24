@@ -4,15 +4,21 @@ alias,country_id,Country (INFO),institution_id,Institution (INFO)
 Ministry of External Relations,16,Brazil,1425,Brazilian Ministry of External Relations
 State Meteorological Agency,23,China,187,China Meteorological Administration
 Academy of Agricultural Sciences,23,China,820,Chinese Academy of Agricultural Science
+National Center for Climate Change Strategy and International Cooperation,23,China,655,National Center for Climate Strategy Study and International Cooperation (NRDC)
 Ministere de l'Environnement,35,France,1426,French Ministry of Environment
 Food and Agricultural Organization,49,Italy,644,Food and Agriculture Organization (FAO)
 Forestry & Forest Products Research Institute,51,Japan,957,Forestry and Forest Products Research Institute
 Ministry of Foreign Affairs,51,Japan,1427,Japanese Ministry of Foreign Affairs
+Ministry of International Trade and Industry,51,Japan,985,Ministry of Economy Trade and Industry
+"Ministry of Research, Technical Training, and Technology",53,Kenya,995,Ministry of Research Technical Training and Technology
 Ministry of Foreign Affairs,62,Malta,1428,Maltese Ministry of Foreign Affairs
 Department of Hydrology & Meteorology,72,Nepal,1429,Nepalese Department of Hydrology & Meteorology
 Ministry of Agriculture and Fisheries,107,Netherlands,1430,Dutch Ministry of Agriculture and Fisheries
+National Institute of Public Health and Environmental Protection,107,Netherlands,888,National Institute for Public Health and the Environment (RIVM)
 Institute of Resource Assessment,104,Tanzania,1433,Tanzanian Institute of Resource Assessment
+"General Accident, Fire and Life Assurance Corp.",117,United Kingdom,1290,Fire and Life Assurance Corp.
 Overseas Development Administration,117,United Kingdom,1089,Overseas Development Institute
 Department of the Environment,117,United Kingdom,1436,UK Department of the Environment
+National Center for Atmospheric Research,113,USA,166,National Center for Atmospheric Research (NCAR)
 "Department of the Army, Civil Works",113,USA,1357,U.S. Army Corps of Engineers
 Department of Meteorological Services,123,Zimbabwe,1363,Zimbabwe Meteorological Services
