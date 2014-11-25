@@ -1,9 +1,9 @@
--- Number of participations by AR and WG Cumulated in Same AR
+-- Number of authors by AR and WG Cumulated in Same AR
 
 SELECT
   ar AS AR,
   cumulated_wg AS `Cumulated WG`,
-  COUNT(*) AS `Total`
+  COUNT(*) AS `Total Authors`
 FROM
   (
     SELECT

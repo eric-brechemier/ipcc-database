@@ -1,8 +1,8 @@
--- Number of participations by WG Cumulated in Distinct AR
+-- Number of authors by WG Cumulated in Distinct AR
 
 SELECT
   cumulated_wg AS `Cumulated WG`,
-  total AS `Total`
+  total AS `Total Authors`
 FROM
 (
   -- bridge participations
