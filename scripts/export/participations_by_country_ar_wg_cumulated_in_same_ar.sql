@@ -4,11 +4,11 @@ SELECT
   countries.name AS `Country`,
   all_participations.ar AS `AR`,
   all_participations.cumulated_wg `Cumulated WG`,
-  country_participations.total AS `Total Country Participations`,
+  country_participations.total AS `Total Country Authors`,
   (
     country_participations.total / all_participations.total
-  ) * 100 AS `% Country Participations`,
-  all_participations.total AS `Total Participations`
+  ) * 100 AS `% Country Authors`,
+  all_participations.total AS `Total Authors`
 FROM
 (
   SELECT country_id, ar, cumulated_wg, COUNT(*) AS total
