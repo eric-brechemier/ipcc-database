@@ -1,128 +1,541 @@
 Country,AR,Cumulated WG,Total Country Authors,% Country Authors,Total Authors
+Albania,1,WG1,0,0.0000,233
+Albania,1,WG1+2,0,0.0000,11
+Albania,1,WG1+3,0,0.0000,4
+Albania,1,WG2,0,0.0000,153
+Albania,1,WG2+3,0,0.0000,5
+Albania,1,WG3,0,0.0000,60
+Albania,2,WG1,0,0.0000,384
+Albania,2,WG1+2,0,0.0000,25
+Albania,2,WG1+3,0,0.0000,2
+Albania,2,WG2,0,0.0000,508
+Albania,2,WG2+3,0,0.0000,10
+Albania,2,WG3,0,0.0000,81
+Albania,3,WG1,0,0.0000,564
+Albania,3,WG1+2,0,0.0000,29
+Albania,3,WG1+3,0,0.0000,6
+Albania,3,WG2,0,0.0000,361
+Albania,3,WG2+3,0,0.0000,11
+Albania,3,WG3,0,0.0000,202
+Albania,4,WG1,0,0.0000,583
+Albania,4,WG1+2,0,0.0000,31
+Albania,4,WG1+3,0,0.0000,1
+Albania,4,WG2,0,0.0000,375
+Albania,4,WG2+3,0,0.0000,17
+Albania,4,WG3,0,0.0000,255
+Albania,5,WG1,0,0.0000,752
+Albania,5,WG1+2,0,0.0000,25
+Albania,5,WG2,0,0.0000,634
+Albania,5,WG2+3,0,0.0000,5
+Albania,5,WG3,0,0.0000,263
+Algeria,1,WG1,0,0.0000,233
+Algeria,1,WG1+2,0,0.0000,11
+Algeria,1,WG1+3,0,0.0000,4
+Algeria,1,WG2,0,0.0000,153
+Algeria,1,WG2+3,0,0.0000,5
+Algeria,1,WG3,0,0.0000,60
+Algeria,2,WG1,0,0.0000,384
+Algeria,2,WG1+2,0,0.0000,25
+Algeria,2,WG1+3,0,0.0000,2
 Algeria,2,WG2,1,0.1969,508
+Algeria,2,WG2+3,0,0.0000,10
+Algeria,2,WG3,0,0.0000,81
+Algeria,3,WG1,0,0.0000,564
+Algeria,3,WG1+2,0,0.0000,29
+Algeria,3,WG1+3,0,0.0000,6
+Algeria,3,WG2,0,0.0000,361
+Algeria,3,WG2+3,0,0.0000,11
+Algeria,3,WG3,0,0.0000,202
+Algeria,4,WG1,0,0.0000,583
+Algeria,4,WG1+2,0,0.0000,31
+Algeria,4,WG1+3,0,0.0000,1
 Algeria,4,WG2,1,0.2667,375
+Algeria,4,WG2+3,0,0.0000,17
+Algeria,4,WG3,0,0.0000,255
+Algeria,5,WG1,0,0.0000,752
+Algeria,5,WG1+2,0,0.0000,25
 Algeria,5,WG2,1,0.1577,634
+Algeria,5,WG2+3,0,0.0000,5
+Algeria,5,WG3,0,0.0000,263
+Antigua and Barbuda,1,WG1,0,0.0000,233
+Antigua and Barbuda,1,WG1+2,0,0.0000,11
+Antigua and Barbuda,1,WG1+3,0,0.0000,4
+Antigua and Barbuda,1,WG2,0,0.0000,153
+Antigua and Barbuda,1,WG2+3,0,0.0000,5
+Antigua and Barbuda,1,WG3,0,0.0000,60
+Antigua and Barbuda,2,WG1,0,0.0000,384
+Antigua and Barbuda,2,WG1+2,0,0.0000,25
+Antigua and Barbuda,2,WG1+3,0,0.0000,2
+Antigua and Barbuda,2,WG2,0,0.0000,508
+Antigua and Barbuda,2,WG2+3,0,0.0000,10
+Antigua and Barbuda,2,WG3,0,0.0000,81
+Antigua and Barbuda,3,WG1,0,0.0000,564
+Antigua and Barbuda,3,WG1+2,0,0.0000,29
+Antigua and Barbuda,3,WG1+3,0,0.0000,6
 Antigua and Barbuda,3,WG2,1,0.2770,361
+Antigua and Barbuda,3,WG2+3,0,0.0000,11
+Antigua and Barbuda,3,WG3,0,0.0000,202
+Antigua and Barbuda,4,WG1,0,0.0000,583
+Antigua and Barbuda,4,WG1+2,0,0.0000,31
+Antigua and Barbuda,4,WG1+3,0,0.0000,1
+Antigua and Barbuda,4,WG2,0,0.0000,375
+Antigua and Barbuda,4,WG2+3,0,0.0000,17
+Antigua and Barbuda,4,WG3,0,0.0000,255
+Antigua and Barbuda,5,WG1,0,0.0000,752
+Antigua and Barbuda,5,WG1+2,0,0.0000,25
+Antigua and Barbuda,5,WG2,0,0.0000,634
+Antigua and Barbuda,5,WG2+3,0,0.0000,5
+Antigua and Barbuda,5,WG3,0,0.0000,263
 Argentina,1,WG1,1,0.4292,233
+Argentina,1,WG1+2,0,0.0000,11
+Argentina,1,WG1+3,0,0.0000,4
+Argentina,1,WG2,0,0.0000,153
+Argentina,1,WG2+3,0,0.0000,5
+Argentina,1,WG3,0,0.0000,60
 Argentina,2,WG1,1,0.2604,384
 Argentina,2,WG1+2,1,4.0000,25
+Argentina,2,WG1+3,0,0.0000,2
 Argentina,2,WG2,13,2.5591,508
+Argentina,2,WG2+3,0,0.0000,10
 Argentina,2,WG3,1,1.2346,81
 Argentina,3,WG1,1,0.1773,564
+Argentina,3,WG1+2,0,0.0000,29
+Argentina,3,WG1+3,0,0.0000,6
 Argentina,3,WG2,10,2.7701,361
+Argentina,3,WG2+3,0,0.0000,11
 Argentina,3,WG3,2,0.9901,202
 Argentina,4,WG1,4,0.6861,583
+Argentina,4,WG1+2,0,0.0000,31
+Argentina,4,WG1+3,0,0.0000,1
 Argentina,4,WG2,7,1.8667,375
 Argentina,4,WG2+3,1,5.8824,17
 Argentina,4,WG3,2,0.7843,255
 Argentina,5,WG1,4,0.5319,752
+Argentina,5,WG1+2,0,0.0000,25
 Argentina,5,WG2,8,1.2618,634
+Argentina,5,WG2+3,0,0.0000,5
 Argentina,5,WG3,6,2.2814,263
 Australia,1,WG1,10,4.2918,233
 Australia,1,WG1+2,2,18.1818,11
+Australia,1,WG1+3,0,0.0000,4
 Australia,1,WG2,5,3.2680,153
 Australia,1,WG2+3,1,20.0000,5
 Australia,1,WG3,6,10.0000,60
 Australia,2,WG1,34,8.8542,384
 Australia,2,WG1+2,1,4.0000,25
+Australia,2,WG1+3,0,0.0000,2
 Australia,2,WG2,26,5.1181,508
+Australia,2,WG2+3,0,0.0000,10
 Australia,2,WG3,3,3.7037,81
 Australia,3,WG1,34,6.0284,564
 Australia,3,WG1+2,1,3.4483,29
+Australia,3,WG1+3,0,0.0000,6
 Australia,3,WG2,11,3.0471,361
+Australia,3,WG2+3,0,0.0000,11
 Australia,3,WG3,1,0.4950,202
 Australia,4,WG1,25,4.2882,583
 Australia,4,WG1+2,3,9.6774,31
+Australia,4,WG1+3,0,0.0000,1
 Australia,4,WG2,23,6.1333,375
 Australia,4,WG2+3,1,5.8824,17
 Australia,4,WG3,5,1.9608,255
 Australia,5,WG1,38,5.0532,752
 Australia,5,WG1+2,1,4.0000,25
 Australia,5,WG2,53,8.3596,634
+Australia,5,WG2+3,0,0.0000,5
 Australia,5,WG3,7,2.6616,263
+Austria,1,WG1,0,0.0000,233
+Austria,1,WG1+2,0,0.0000,11
+Austria,1,WG1+3,0,0.0000,4
+Austria,1,WG2,0,0.0000,153
+Austria,1,WG2+3,0,0.0000,5
+Austria,1,WG3,0,0.0000,60
+Austria,2,WG1,0,0.0000,384
+Austria,2,WG1+2,0,0.0000,25
+Austria,2,WG1+3,0,0.0000,2
 Austria,2,WG2,7,1.3780,508
+Austria,2,WG2+3,0,0.0000,10
 Austria,2,WG3,1,1.2346,81
 Austria,3,WG1,4,0.7092,564
+Austria,3,WG1+2,0,0.0000,29
+Austria,3,WG1+3,0,0.0000,6
+Austria,3,WG2,0,0.0000,361
 Austria,3,WG2+3,1,9.0909,11
 Austria,3,WG3,3,1.4851,202
 Austria,4,WG1,1,0.1715,583
 Austria,4,WG1+2,1,3.2258,31
+Austria,4,WG1+3,0,0.0000,1
 Austria,4,WG2,2,0.5333,375
 Austria,4,WG2+3,1,5.8824,17
 Austria,4,WG3,9,3.5294,255
 Austria,5,WG1,5,0.6649,752
+Austria,5,WG1+2,0,0.0000,25
 Austria,5,WG2,4,0.6309,634
 Austria,5,WG2+3,1,20.0000,5
 Austria,5,WG3,8,3.0418,263
+Bangladesh,1,WG1,0,0.0000,233
+Bangladesh,1,WG1+2,0,0.0000,11
+Bangladesh,1,WG1+3,0,0.0000,4
+Bangladesh,1,WG2,0,0.0000,153
+Bangladesh,1,WG2+3,0,0.0000,5
+Bangladesh,1,WG3,0,0.0000,60
+Bangladesh,2,WG1,0,0.0000,384
+Bangladesh,2,WG1+2,0,0.0000,25
+Bangladesh,2,WG1+3,0,0.0000,2
+Bangladesh,2,WG2,0,0.0000,508
+Bangladesh,2,WG2+3,0,0.0000,10
 Bangladesh,2,WG3,1,1.2346,81
+Bangladesh,3,WG1,0,0.0000,564
+Bangladesh,3,WG1+2,0,0.0000,29
+Bangladesh,3,WG1+3,0,0.0000,6
 Bangladesh,3,WG2,2,0.5540,361
+Bangladesh,3,WG2+3,0,0.0000,11
 Bangladesh,3,WG3,1,0.4950,202
+Bangladesh,4,WG1,0,0.0000,583
+Bangladesh,4,WG1+2,0,0.0000,31
+Bangladesh,4,WG1+3,0,0.0000,1
 Bangladesh,4,WG2,4,1.0667,375
+Bangladesh,4,WG2+3,0,0.0000,17
+Bangladesh,4,WG3,0,0.0000,255
+Bangladesh,5,WG1,0,0.0000,752
+Bangladesh,5,WG1+2,0,0.0000,25
 Bangladesh,5,WG2,3,0.4732,634
+Bangladesh,5,WG2+3,0,0.0000,5
 Bangladesh,5,WG3,2,0.7605,263
+Barbados,1,WG1,0,0.0000,233
+Barbados,1,WG1+2,0,0.0000,11
+Barbados,1,WG1+3,0,0.0000,4
+Barbados,1,WG2,0,0.0000,153
+Barbados,1,WG2+3,0,0.0000,5
+Barbados,1,WG3,0,0.0000,60
+Barbados,2,WG1,0,0.0000,384
+Barbados,2,WG1+2,0,0.0000,25
+Barbados,2,WG1+3,0,0.0000,2
 Barbados,2,WG2,1,0.1969,508
+Barbados,2,WG2+3,0,0.0000,10
+Barbados,2,WG3,0,0.0000,81
+Barbados,3,WG1,0,0.0000,564
+Barbados,3,WG1+2,0,0.0000,29
+Barbados,3,WG1+3,0,0.0000,6
 Barbados,3,WG2,1,0.2770,361
+Barbados,3,WG2+3,0,0.0000,11
+Barbados,3,WG3,0,0.0000,202
+Barbados,4,WG1,0,0.0000,583
+Barbados,4,WG1+2,0,0.0000,31
+Barbados,4,WG1+3,0,0.0000,1
 Barbados,4,WG2,1,0.2667,375
+Barbados,4,WG2+3,0,0.0000,17
+Barbados,4,WG3,0,0.0000,255
+Barbados,5,WG1,0,0.0000,752
+Barbados,5,WG1+2,0,0.0000,25
 Barbados,5,WG2,2,0.3155,634
+Barbados,5,WG2+3,0,0.0000,5
+Barbados,5,WG3,0,0.0000,263
 Belgium,1,WG1,3,1.2876,233
+Belgium,1,WG1+2,0,0.0000,11
+Belgium,1,WG1+3,0,0.0000,4
 Belgium,1,WG2,1,0.6536,153
+Belgium,1,WG2+3,0,0.0000,5
 Belgium,1,WG3,1,1.6667,60
+Belgium,2,WG1,0,0.0000,384
+Belgium,2,WG1+2,0,0.0000,25
+Belgium,2,WG1+3,0,0.0000,2
 Belgium,2,WG2,1,0.1969,508
+Belgium,2,WG2+3,0,0.0000,10
+Belgium,2,WG3,0,0.0000,81
 Belgium,3,WG1,4,0.7092,564
+Belgium,3,WG1+2,0,0.0000,29
+Belgium,3,WG1+3,0,0.0000,6
 Belgium,3,WG2,2,0.5540,361
+Belgium,3,WG2+3,0,0.0000,11
 Belgium,3,WG3,1,0.4950,202
 Belgium,4,WG1,7,1.2007,583
+Belgium,4,WG1+2,0,0.0000,31
+Belgium,4,WG1+3,0,0.0000,1
 Belgium,4,WG2,4,1.0667,375
+Belgium,4,WG2+3,0,0.0000,17
 Belgium,4,WG3,2,0.7843,255
 Belgium,5,WG1,8,1.0638,752
+Belgium,5,WG1+2,0,0.0000,25
 Belgium,5,WG2,1,0.1577,634
+Belgium,5,WG2+3,0,0.0000,5
 Belgium,5,WG3,1,0.3802,263
+Belize,1,WG1,0,0.0000,233
+Belize,1,WG1+2,0,0.0000,11
+Belize,1,WG1+3,0,0.0000,4
+Belize,1,WG2,0,0.0000,153
+Belize,1,WG2+3,0,0.0000,5
+Belize,1,WG3,0,0.0000,60
+Belize,2,WG1,0,0.0000,384
+Belize,2,WG1+2,0,0.0000,25
+Belize,2,WG1+3,0,0.0000,2
+Belize,2,WG2,0,0.0000,508
+Belize,2,WG2+3,0,0.0000,10
+Belize,2,WG3,0,0.0000,81
+Belize,3,WG1,0,0.0000,564
+Belize,3,WG1+2,0,0.0000,29
+Belize,3,WG1+3,0,0.0000,6
+Belize,3,WG2,0,0.0000,361
+Belize,3,WG2+3,0,0.0000,11
+Belize,3,WG3,0,0.0000,202
+Belize,4,WG1,0,0.0000,583
+Belize,4,WG1+2,0,0.0000,31
+Belize,4,WG1+3,0,0.0000,1
 Belize,4,WG2,1,0.2667,375
+Belize,4,WG2+3,0,0.0000,17
+Belize,4,WG3,0,0.0000,255
+Belize,5,WG1,0,0.0000,752
+Belize,5,WG1+2,0,0.0000,25
+Belize,5,WG2,0,0.0000,634
+Belize,5,WG2+3,0,0.0000,5
+Belize,5,WG3,0,0.0000,263
+Benin,1,WG1,0,0.0000,233
+Benin,1,WG1+2,0,0.0000,11
+Benin,1,WG1+3,0,0.0000,4
 Benin,1,WG2,1,0.6536,153
+Benin,1,WG2+3,0,0.0000,5
+Benin,1,WG3,0,0.0000,60
+Benin,2,WG1,0,0.0000,384
+Benin,2,WG1+2,0,0.0000,25
+Benin,2,WG1+3,0,0.0000,2
 Benin,2,WG2,1,0.1969,508
+Benin,2,WG2+3,0,0.0000,10
+Benin,2,WG3,0,0.0000,81
 Benin,3,WG1,1,0.1773,564
+Benin,3,WG1+2,0,0.0000,29
+Benin,3,WG1+3,0,0.0000,6
+Benin,3,WG2,0,0.0000,361
+Benin,3,WG2+3,0,0.0000,11
+Benin,3,WG3,0,0.0000,202
+Benin,4,WG1,0,0.0000,583
+Benin,4,WG1+2,0,0.0000,31
+Benin,4,WG1+3,0,0.0000,1
 Benin,4,WG2,1,0.2667,375
+Benin,4,WG2+3,0,0.0000,17
+Benin,4,WG3,0,0.0000,255
+Benin,5,WG1,0,0.0000,752
+Benin,5,WG1+2,0,0.0000,25
+Benin,5,WG2,0,0.0000,634
+Benin,5,WG2+3,0,0.0000,5
+Benin,5,WG3,0,0.0000,263
+Bermuda,1,WG1,0,0.0000,233
+Bermuda,1,WG1+2,0,0.0000,11
+Bermuda,1,WG1+3,0,0.0000,4
+Bermuda,1,WG2,0,0.0000,153
+Bermuda,1,WG2+3,0,0.0000,5
+Bermuda,1,WG3,0,0.0000,60
 Bermuda,2,WG1,1,0.2604,384
+Bermuda,2,WG1+2,0,0.0000,25
+Bermuda,2,WG1+3,0,0.0000,2
+Bermuda,2,WG2,0,0.0000,508
+Bermuda,2,WG2+3,0,0.0000,10
+Bermuda,2,WG3,0,0.0000,81
+Bermuda,3,WG1,0,0.0000,564
+Bermuda,3,WG1+2,0,0.0000,29
+Bermuda,3,WG1+3,0,0.0000,6
+Bermuda,3,WG2,0,0.0000,361
+Bermuda,3,WG2+3,0,0.0000,11
+Bermuda,3,WG3,0,0.0000,202
 Bermuda,4,WG1,1,0.1715,583
+Bermuda,4,WG1+2,0,0.0000,31
+Bermuda,4,WG1+3,0,0.0000,1
+Bermuda,4,WG2,0,0.0000,375
+Bermuda,4,WG2+3,0,0.0000,17
+Bermuda,4,WG3,0,0.0000,255
 Bermuda,5,WG1,1,0.1330,752
+Bermuda,5,WG1+2,0,0.0000,25
+Bermuda,5,WG2,0,0.0000,634
+Bermuda,5,WG2+3,0,0.0000,5
+Bermuda,5,WG3,0,0.0000,263
+Bolivia,1,WG1,0,0.0000,233
+Bolivia,1,WG1+2,0,0.0000,11
+Bolivia,1,WG1+3,0,0.0000,4
+Bolivia,1,WG2,0,0.0000,153
+Bolivia,1,WG2+3,0,0.0000,5
+Bolivia,1,WG3,0,0.0000,60
+Bolivia,2,WG1,0,0.0000,384
+Bolivia,2,WG1+2,0,0.0000,25
+Bolivia,2,WG1+3,0,0.0000,2
+Bolivia,2,WG2,0,0.0000,508
+Bolivia,2,WG2+3,0,0.0000,10
+Bolivia,2,WG3,0,0.0000,81
+Bolivia,3,WG1,0,0.0000,564
+Bolivia,3,WG1+2,0,0.0000,29
+Bolivia,3,WG1+3,0,0.0000,6
+Bolivia,3,WG2,0,0.0000,361
+Bolivia,3,WG2+3,0,0.0000,11
+Bolivia,3,WG3,0,0.0000,202
+Bolivia,4,WG1,0,0.0000,583
+Bolivia,4,WG1+2,0,0.0000,31
+Bolivia,4,WG1+3,0,0.0000,1
 Bolivia,4,WG2,1,0.2667,375
+Bolivia,4,WG2+3,0,0.0000,17
+Bolivia,4,WG3,0,0.0000,255
+Bolivia,5,WG1,0,0.0000,752
+Bolivia,5,WG1+2,0,0.0000,25
+Bolivia,5,WG2,0,0.0000,634
+Bolivia,5,WG2+3,0,0.0000,5
+Bolivia,5,WG3,0,0.0000,263
+Botswana,1,WG1,0,0.0000,233
+Botswana,1,WG1+2,0,0.0000,11
+Botswana,1,WG1+3,0,0.0000,4
+Botswana,1,WG2,0,0.0000,153
+Botswana,1,WG2+3,0,0.0000,5
+Botswana,1,WG3,0,0.0000,60
+Botswana,2,WG1,0,0.0000,384
+Botswana,2,WG1+2,0,0.0000,25
+Botswana,2,WG1+3,0,0.0000,2
+Botswana,2,WG2,0,0.0000,508
+Botswana,2,WG2+3,0,0.0000,10
+Botswana,2,WG3,0,0.0000,81
+Botswana,3,WG1,0,0.0000,564
+Botswana,3,WG1+2,0,0.0000,29
+Botswana,3,WG1+3,0,0.0000,6
 Botswana,3,WG2,2,0.5540,361
+Botswana,3,WG2+3,0,0.0000,11
+Botswana,3,WG3,0,0.0000,202
+Botswana,4,WG1,0,0.0000,583
+Botswana,4,WG1+2,0,0.0000,31
+Botswana,4,WG1+3,0,0.0000,1
 Botswana,4,WG2,2,0.5333,375
+Botswana,4,WG2+3,0,0.0000,17
 Botswana,4,WG3,1,0.3922,255
 Botswana,5,WG1,1,0.1330,752
+Botswana,5,WG1+2,0,0.0000,25
 Botswana,5,WG2,1,0.1577,634
+Botswana,5,WG2+3,0,0.0000,5
 Botswana,5,WG3,1,0.3802,263
 Brazil,1,WG1,4,1.7167,233
+Brazil,1,WG1+2,0,0.0000,11
+Brazil,1,WG1+3,0,0.0000,4
+Brazil,1,WG2,0,0.0000,153
 Brazil,1,WG2+3,1,20.0000,5
 Brazil,1,WG3,2,3.3333,60
 Brazil,2,WG1,4,1.0417,384
+Brazil,2,WG1+2,0,0.0000,25
+Brazil,2,WG1+3,0,0.0000,2
 Brazil,2,WG2,4,0.7874,508
+Brazil,2,WG2+3,0,0.0000,10
 Brazil,2,WG3,3,3.7037,81
 Brazil,3,WG1,2,0.3546,564
 Brazil,3,WG1+2,1,3.4483,29
+Brazil,3,WG1+3,0,0.0000,6
 Brazil,3,WG2,3,0.8310,361
 Brazil,3,WG2+3,1,9.0909,11
 Brazil,3,WG3,6,2.9703,202
 Brazil,4,WG1,2,0.3431,583
 Brazil,4,WG1+2,1,3.2258,31
+Brazil,4,WG1+3,0,0.0000,1
 Brazil,4,WG2,5,1.3333,375
+Brazil,4,WG2+3,0,0.0000,17
 Brazil,4,WG3,6,2.3529,255
 Brazil,5,WG1,5,0.6649,752
 Brazil,5,WG1+2,1,4.0000,25
 Brazil,5,WG2,11,1.7350,634
+Brazil,5,WG2+3,0,0.0000,5
 Brazil,5,WG3,11,4.1825,263
+Bulgaria,1,WG1,0,0.0000,233
+Bulgaria,1,WG1+2,0,0.0000,11
+Bulgaria,1,WG1+3,0,0.0000,4
+Bulgaria,1,WG2,0,0.0000,153
+Bulgaria,1,WG2+3,0,0.0000,5
+Bulgaria,1,WG3,0,0.0000,60
+Bulgaria,2,WG1,0,0.0000,384
+Bulgaria,2,WG1+2,0,0.0000,25
+Bulgaria,2,WG1+3,0,0.0000,2
+Bulgaria,2,WG2,0,0.0000,508
+Bulgaria,2,WG2+3,0,0.0000,10
+Bulgaria,2,WG3,0,0.0000,81
+Bulgaria,3,WG1,0,0.0000,564
+Bulgaria,3,WG1+2,0,0.0000,29
+Bulgaria,3,WG1+3,0,0.0000,6
+Bulgaria,3,WG2,0,0.0000,361
+Bulgaria,3,WG2+3,0,0.0000,11
+Bulgaria,3,WG3,0,0.0000,202
+Bulgaria,4,WG1,0,0.0000,583
+Bulgaria,4,WG1+2,0,0.0000,31
+Bulgaria,4,WG1+3,0,0.0000,1
+Bulgaria,4,WG2,0,0.0000,375
+Bulgaria,4,WG2+3,0,0.0000,17
+Bulgaria,4,WG3,0,0.0000,255
+Bulgaria,5,WG1,0,0.0000,752
+Bulgaria,5,WG1+2,0,0.0000,25
 Bulgaria,5,WG2,1,0.1577,634
+Bulgaria,5,WG2+3,0,0.0000,5
 Bulgaria,5,WG3,1,0.3802,263
+Cambodia,1,WG1,0,0.0000,233
+Cambodia,1,WG1+2,0,0.0000,11
+Cambodia,1,WG1+3,0,0.0000,4
+Cambodia,1,WG2,0,0.0000,153
+Cambodia,1,WG2+3,0,0.0000,5
+Cambodia,1,WG3,0,0.0000,60
+Cambodia,2,WG1,0,0.0000,384
+Cambodia,2,WG1+2,0,0.0000,25
+Cambodia,2,WG1+3,0,0.0000,2
+Cambodia,2,WG2,0,0.0000,508
+Cambodia,2,WG2+3,0,0.0000,10
+Cambodia,2,WG3,0,0.0000,81
+Cambodia,3,WG1,0,0.0000,564
+Cambodia,3,WG1+2,0,0.0000,29
+Cambodia,3,WG1+3,0,0.0000,6
+Cambodia,3,WG2,0,0.0000,361
+Cambodia,3,WG2+3,0,0.0000,11
+Cambodia,3,WG3,0,0.0000,202
+Cambodia,4,WG1,0,0.0000,583
+Cambodia,4,WG1+2,0,0.0000,31
+Cambodia,4,WG1+3,0,0.0000,1
+Cambodia,4,WG2,0,0.0000,375
+Cambodia,4,WG2+3,0,0.0000,17
+Cambodia,4,WG3,0,0.0000,255
+Cambodia,5,WG1,0,0.0000,752
+Cambodia,5,WG1+2,0,0.0000,25
+Cambodia,5,WG2,0,0.0000,634
+Cambodia,5,WG2+3,0,0.0000,5
+Cambodia,5,WG3,0,0.0000,263
+Cameroon,1,WG1,0,0.0000,233
+Cameroon,1,WG1+2,0,0.0000,11
+Cameroon,1,WG1+3,0,0.0000,4
+Cameroon,1,WG2,0,0.0000,153
+Cameroon,1,WG2+3,0,0.0000,5
+Cameroon,1,WG3,0,0.0000,60
+Cameroon,2,WG1,0,0.0000,384
+Cameroon,2,WG1+2,0,0.0000,25
+Cameroon,2,WG1+3,0,0.0000,2
+Cameroon,2,WG2,0,0.0000,508
+Cameroon,2,WG2+3,0,0.0000,10
+Cameroon,2,WG3,0,0.0000,81
+Cameroon,3,WG1,0,0.0000,564
+Cameroon,3,WG1+2,0,0.0000,29
+Cameroon,3,WG1+3,0,0.0000,6
+Cameroon,3,WG2,0,0.0000,361
+Cameroon,3,WG2+3,0,0.0000,11
+Cameroon,3,WG3,0,0.0000,202
+Cameroon,4,WG1,0,0.0000,583
+Cameroon,4,WG1+2,0,0.0000,31
+Cameroon,4,WG1+3,0,0.0000,1
+Cameroon,4,WG2,0,0.0000,375
+Cameroon,4,WG2+3,0,0.0000,17
+Cameroon,4,WG3,0,0.0000,255
+Cameroon,5,WG1,0,0.0000,752
+Cameroon,5,WG1+2,0,0.0000,25
 Cameroon,5,WG2,2,0.3155,634
+Cameroon,5,WG2+3,0,0.0000,5
+Cameroon,5,WG3,0,0.0000,263
 Canada,1,WG1,9,3.8627,233
 Canada,1,WG1+2,1,9.0909,11
+Canada,1,WG1+3,0,0.0000,4
 Canada,1,WG2,20,13.0719,153
+Canada,1,WG2+3,0,0.0000,5
 Canada,1,WG3,2,3.3333,60
 Canada,2,WG1,22,5.7292,384
+Canada,2,WG1+2,0,0.0000,25
+Canada,2,WG1+3,0,0.0000,2
 Canada,2,WG2,27,5.3150,508
+Canada,2,WG2+3,0,0.0000,10
 Canada,2,WG3,3,3.7037,81
 Canada,3,WG1,27,4.7872,564
 Canada,3,WG1+2,1,3.4483,29
+Canada,3,WG1+3,0,0.0000,6
 Canada,3,WG2,18,4.9861,361
 Canada,3,WG2+3,1,9.0909,11
 Canada,3,WG3,5,2.4752,202
@@ -135,539 +548,2768 @@ Canada,4,WG3,12,4.7059,255
 Canada,5,WG1,30,3.9894,752
 Canada,5,WG1+2,3,12.0000,25
 Canada,5,WG2,22,3.4700,634
+Canada,5,WG2+3,0,0.0000,5
 Canada,5,WG3,5,1.9011,263
+Chad,1,WG1,0,0.0000,233
+Chad,1,WG1+2,0,0.0000,11
+Chad,1,WG1+3,0,0.0000,4
+Chad,1,WG2,0,0.0000,153
+Chad,1,WG2+3,0,0.0000,5
+Chad,1,WG3,0,0.0000,60
+Chad,2,WG1,0,0.0000,384
+Chad,2,WG1+2,0,0.0000,25
+Chad,2,WG1+3,0,0.0000,2
+Chad,2,WG2,0,0.0000,508
+Chad,2,WG2+3,0,0.0000,10
+Chad,2,WG3,0,0.0000,81
+Chad,3,WG1,0,0.0000,564
+Chad,3,WG1+2,0,0.0000,29
+Chad,3,WG1+3,0,0.0000,6
+Chad,3,WG2,0,0.0000,361
+Chad,3,WG2+3,0,0.0000,11
+Chad,3,WG3,0,0.0000,202
+Chad,4,WG1,0,0.0000,583
+Chad,4,WG1+2,0,0.0000,31
+Chad,4,WG1+3,0,0.0000,1
 Chad,4,WG2,2,0.5333,375
+Chad,4,WG2+3,0,0.0000,17
+Chad,4,WG3,0,0.0000,255
+Chad,5,WG1,0,0.0000,752
+Chad,5,WG1+2,0,0.0000,25
+Chad,5,WG2,0,0.0000,634
+Chad,5,WG2+3,0,0.0000,5
+Chad,5,WG3,0,0.0000,263
+Chile,1,WG1,0,0.0000,233
+Chile,1,WG1+2,0,0.0000,11
+Chile,1,WG1+3,0,0.0000,4
+Chile,1,WG2,0,0.0000,153
+Chile,1,WG2+3,0,0.0000,5
+Chile,1,WG3,0,0.0000,60
+Chile,2,WG1,0,0.0000,384
+Chile,2,WG1+2,0,0.0000,25
+Chile,2,WG1+3,0,0.0000,2
+Chile,2,WG2,0,0.0000,508
+Chile,2,WG2+3,0,0.0000,10
+Chile,2,WG3,0,0.0000,81
+Chile,3,WG1,0,0.0000,564
+Chile,3,WG1+2,0,0.0000,29
+Chile,3,WG1+3,0,0.0000,6
 Chile,3,WG2,1,0.2770,361
+Chile,3,WG2+3,0,0.0000,11
 Chile,3,WG3,2,0.9901,202
 Chile,4,WG1,1,0.1715,583
+Chile,4,WG1+2,0,0.0000,31
+Chile,4,WG1+3,0,0.0000,1
 Chile,4,WG2,2,0.5333,375
+Chile,4,WG2+3,0,0.0000,17
 Chile,4,WG3,1,0.3922,255
 Chile,5,WG1,2,0.2660,752
+Chile,5,WG1+2,0,0.0000,25
 Chile,5,WG2,4,0.6309,634
+Chile,5,WG2+3,0,0.0000,5
 Chile,5,WG3,1,0.3802,263
 China,1,WG1,7,3.0043,233
+China,1,WG1+2,0,0.0000,11
+China,1,WG1+3,0,0.0000,4
 China,1,WG2,4,2.6144,153
+China,1,WG2+3,0,0.0000,5
 China,1,WG3,3,5.0000,60
 China,2,WG1,7,1.8229,384
+China,2,WG1+2,0,0.0000,25
+China,2,WG1+3,0,0.0000,2
 China,2,WG2,14,2.7559,508
+China,2,WG2+3,0,0.0000,10
 China,2,WG3,1,1.2346,81
 China,3,WG1,10,1.7730,564
 China,3,WG1+2,1,3.4483,29
+China,3,WG1+3,0,0.0000,6
 China,3,WG2,6,1.6620,361
+China,3,WG2+3,0,0.0000,11
 China,3,WG3,9,4.4554,202
 China,4,WG1,17,2.9160,583
+China,4,WG1+2,0,0.0000,31
+China,4,WG1+3,0,0.0000,1
 China,4,WG2,12,3.2000,375
+China,4,WG2+3,0,0.0000,17
 China,4,WG3,15,5.8824,255
 China,5,WG1,24,3.1915,752
 China,5,WG1+2,1,4.0000,25
 China,5,WG2,17,2.6814,634
+China,5,WG2+3,0,0.0000,5
 China,5,WG3,14,5.3232,263
+Colombia,1,WG1,0,0.0000,233
+Colombia,1,WG1+2,0,0.0000,11
+Colombia,1,WG1+3,0,0.0000,4
+Colombia,1,WG2,0,0.0000,153
+Colombia,1,WG2+3,0,0.0000,5
+Colombia,1,WG3,0,0.0000,60
+Colombia,2,WG1,0,0.0000,384
+Colombia,2,WG1+2,0,0.0000,25
+Colombia,2,WG1+3,0,0.0000,2
+Colombia,2,WG2,0,0.0000,508
+Colombia,2,WG2+3,0,0.0000,10
+Colombia,2,WG3,0,0.0000,81
+Colombia,3,WG1,0,0.0000,564
+Colombia,3,WG1+2,0,0.0000,29
+Colombia,3,WG1+3,0,0.0000,6
+Colombia,3,WG2,0,0.0000,361
+Colombia,3,WG2+3,0,0.0000,11
+Colombia,3,WG3,0,0.0000,202
+Colombia,4,WG1,0,0.0000,583
+Colombia,4,WG1+2,0,0.0000,31
+Colombia,4,WG1+3,0,0.0000,1
+Colombia,4,WG2,0,0.0000,375
+Colombia,4,WG2+3,0,0.0000,17
+Colombia,4,WG3,0,0.0000,255
+Colombia,5,WG1,0,0.0000,752
+Colombia,5,WG1+2,0,0.0000,25
 Colombia,5,WG2,4,0.6309,634
+Colombia,5,WG2+3,0,0.0000,5
 Colombia,5,WG3,1,0.3802,263
+Costa Rica,1,WG1,0,0.0000,233
+Costa Rica,1,WG1+2,0,0.0000,11
+Costa Rica,1,WG1+3,0,0.0000,4
 Costa Rica,1,WG2,1,0.6536,153
+Costa Rica,1,WG2+3,0,0.0000,5
+Costa Rica,1,WG3,0,0.0000,60
+Costa Rica,2,WG1,0,0.0000,384
+Costa Rica,2,WG1+2,0,0.0000,25
+Costa Rica,2,WG1+3,0,0.0000,2
+Costa Rica,2,WG2,0,0.0000,508
+Costa Rica,2,WG2+3,0,0.0000,10
+Costa Rica,2,WG3,0,0.0000,81
+Costa Rica,3,WG1,0,0.0000,564
+Costa Rica,3,WG1+2,0,0.0000,29
+Costa Rica,3,WG1+3,0,0.0000,6
 Costa Rica,3,WG2,1,0.2770,361
+Costa Rica,3,WG2+3,0,0.0000,11
+Costa Rica,3,WG3,0,0.0000,202
+Costa Rica,4,WG1,0,0.0000,583
+Costa Rica,4,WG1+2,0,0.0000,31
+Costa Rica,4,WG1+3,0,0.0000,1
 Costa Rica,4,WG2,1,0.2667,375
+Costa Rica,4,WG2+3,0,0.0000,17
+Costa Rica,4,WG3,0,0.0000,255
+Costa Rica,5,WG1,0,0.0000,752
+Costa Rica,5,WG1+2,0,0.0000,25
 Costa Rica,5,WG2,2,0.3155,634
+Costa Rica,5,WG2+3,0,0.0000,5
 Costa Rica,5,WG3,1,0.3802,263
+Cuba,1,WG1,0,0.0000,233
+Cuba,1,WG1+2,0,0.0000,11
+Cuba,1,WG1+3,0,0.0000,4
+Cuba,1,WG2,0,0.0000,153
+Cuba,1,WG2+3,0,0.0000,5
+Cuba,1,WG3,0,0.0000,60
+Cuba,2,WG1,0,0.0000,384
+Cuba,2,WG1+2,0,0.0000,25
+Cuba,2,WG1+3,0,0.0000,2
 Cuba,2,WG2,3,0.5906,508
+Cuba,2,WG2+3,0,0.0000,10
+Cuba,2,WG3,0,0.0000,81
+Cuba,3,WG1,0,0.0000,564
+Cuba,3,WG1+2,0,0.0000,29
+Cuba,3,WG1+3,0,0.0000,6
 Cuba,3,WG2,1,0.2770,361
+Cuba,3,WG2+3,0,0.0000,11
 Cuba,3,WG3,2,0.9901,202
+Cuba,4,WG1,0,0.0000,583
+Cuba,4,WG1+2,0,0.0000,31
+Cuba,4,WG1+3,0,0.0000,1
 Cuba,4,WG2,1,0.2667,375
+Cuba,4,WG2+3,0,0.0000,17
 Cuba,4,WG3,4,1.5686,255
+Cuba,5,WG1,0,0.0000,752
+Cuba,5,WG1+2,0,0.0000,25
 Cuba,5,WG2,1,0.1577,634
+Cuba,5,WG2+3,0,0.0000,5
 Cuba,5,WG3,5,1.9011,263
+Czech Republic,1,WG1,0,0.0000,233
+Czech Republic,1,WG1+2,0,0.0000,11
+Czech Republic,1,WG1+3,0,0.0000,4
 Czech Republic,1,WG2,1,0.6536,153
+Czech Republic,1,WG2+3,0,0.0000,5
+Czech Republic,1,WG3,0,0.0000,60
+Czech Republic,2,WG1,0,0.0000,384
+Czech Republic,2,WG1+2,0,0.0000,25
+Czech Republic,2,WG1+3,0,0.0000,2
+Czech Republic,2,WG2,0,0.0000,508
+Czech Republic,2,WG2+3,0,0.0000,10
+Czech Republic,2,WG3,0,0.0000,81
 Czech Republic,3,WG1,1,0.1773,564
+Czech Republic,3,WG1+2,0,0.0000,29
+Czech Republic,3,WG1+3,0,0.0000,6
+Czech Republic,3,WG2,0,0.0000,361
+Czech Republic,3,WG2+3,0,0.0000,11
+Czech Republic,3,WG3,0,0.0000,202
+Czech Republic,4,WG1,0,0.0000,583
+Czech Republic,4,WG1+2,0,0.0000,31
+Czech Republic,4,WG1+3,0,0.0000,1
 Czech Republic,4,WG2,1,0.2667,375
+Czech Republic,4,WG2+3,0,0.0000,17
+Czech Republic,4,WG3,0,0.0000,255
+Czech Republic,5,WG1,0,0.0000,752
+Czech Republic,5,WG1+2,0,0.0000,25
+Czech Republic,5,WG2,0,0.0000,634
+Czech Republic,5,WG2+3,0,0.0000,5
+Czech Republic,5,WG3,0,0.0000,263
 Denmark,1,WG1,3,1.2876,233
+Denmark,1,WG1+2,0,0.0000,11
+Denmark,1,WG1+3,0,0.0000,4
+Denmark,1,WG2,0,0.0000,153
+Denmark,1,WG2+3,0,0.0000,5
+Denmark,1,WG3,0,0.0000,60
 Denmark,2,WG1,1,0.2604,384
 Denmark,2,WG1+2,1,4.0000,25
+Denmark,2,WG1+3,0,0.0000,2
 Denmark,2,WG2,4,0.7874,508
+Denmark,2,WG2+3,0,0.0000,10
 Denmark,2,WG3,1,1.2346,81
 Denmark,3,WG1,2,0.3546,564
+Denmark,3,WG1+2,0,0.0000,29
 Denmark,3,WG1+3,1,16.6667,6
+Denmark,3,WG2,0,0.0000,361
+Denmark,3,WG2+3,0,0.0000,11
 Denmark,3,WG3,2,0.9901,202
 Denmark,4,WG1,1,0.1715,583
+Denmark,4,WG1+2,0,0.0000,31
+Denmark,4,WG1+3,0,0.0000,1
 Denmark,4,WG2,3,0.8000,375
+Denmark,4,WG2+3,0,0.0000,17
 Denmark,4,WG3,4,1.5686,255
 Denmark,5,WG1,7,0.9309,752
+Denmark,5,WG1+2,0,0.0000,25
 Denmark,5,WG2,1,0.1577,634
+Denmark,5,WG2+3,0,0.0000,5
 Denmark,5,WG3,3,1.1407,263
+Ecuador,1,WG1,0,0.0000,233
+Ecuador,1,WG1+2,0,0.0000,11
+Ecuador,1,WG1+3,0,0.0000,4
+Ecuador,1,WG2,0,0.0000,153
+Ecuador,1,WG2+3,0,0.0000,5
+Ecuador,1,WG3,0,0.0000,60
+Ecuador,2,WG1,0,0.0000,384
+Ecuador,2,WG1+2,0,0.0000,25
+Ecuador,2,WG1+3,0,0.0000,2
+Ecuador,2,WG2,0,0.0000,508
+Ecuador,2,WG2+3,0,0.0000,10
+Ecuador,2,WG3,0,0.0000,81
+Ecuador,3,WG1,0,0.0000,564
+Ecuador,3,WG1+2,0,0.0000,29
+Ecuador,3,WG1+3,0,0.0000,6
+Ecuador,3,WG2,0,0.0000,361
+Ecuador,3,WG2+3,0,0.0000,11
+Ecuador,3,WG3,0,0.0000,202
+Ecuador,4,WG1,0,0.0000,583
+Ecuador,4,WG1+2,0,0.0000,31
+Ecuador,4,WG1+3,0,0.0000,1
+Ecuador,4,WG2,0,0.0000,375
+Ecuador,4,WG2+3,0,0.0000,17
 Ecuador,4,WG3,1,0.3922,255
+Ecuador,5,WG1,0,0.0000,752
+Ecuador,5,WG1+2,0,0.0000,25
+Ecuador,5,WG2,0,0.0000,634
+Ecuador,5,WG2+3,0,0.0000,5
+Ecuador,5,WG3,0,0.0000,263
+Egypt,1,WG1,0,0.0000,233
+Egypt,1,WG1+2,0,0.0000,11
+Egypt,1,WG1+3,0,0.0000,4
+Egypt,1,WG2,0,0.0000,153
+Egypt,1,WG2+3,0,0.0000,5
+Egypt,1,WG3,0,0.0000,60
+Egypt,2,WG1,0,0.0000,384
+Egypt,2,WG1+2,0,0.0000,25
+Egypt,2,WG1+3,0,0.0000,2
+Egypt,2,WG2,0,0.0000,508
+Egypt,2,WG2+3,0,0.0000,10
+Egypt,2,WG3,0,0.0000,81
+Egypt,3,WG1,0,0.0000,564
+Egypt,3,WG1+2,0,0.0000,29
+Egypt,3,WG1+3,0,0.0000,6
+Egypt,3,WG2,0,0.0000,361
+Egypt,3,WG2+3,0,0.0000,11
+Egypt,3,WG3,0,0.0000,202
+Egypt,4,WG1,0,0.0000,583
+Egypt,4,WG1+2,0,0.0000,31
+Egypt,4,WG1+3,0,0.0000,1
 Egypt,4,WG2,2,0.5333,375
+Egypt,4,WG2+3,0,0.0000,17
+Egypt,4,WG3,0,0.0000,255
+Egypt,5,WG1,0,0.0000,752
+Egypt,5,WG1+2,0,0.0000,25
 Egypt,5,WG2,2,0.3155,634
+Egypt,5,WG2+3,0,0.0000,5
 Egypt,5,WG3,2,0.7605,263
+El Salvador,1,WG1,0,0.0000,233
+El Salvador,1,WG1+2,0,0.0000,11
+El Salvador,1,WG1+3,0,0.0000,4
+El Salvador,1,WG2,0,0.0000,153
+El Salvador,1,WG2+3,0,0.0000,5
+El Salvador,1,WG3,0,0.0000,60
+El Salvador,2,WG1,0,0.0000,384
+El Salvador,2,WG1+2,0,0.0000,25
+El Salvador,2,WG1+3,0,0.0000,2
+El Salvador,2,WG2,0,0.0000,508
+El Salvador,2,WG2+3,0,0.0000,10
+El Salvador,2,WG3,0,0.0000,81
+El Salvador,3,WG1,0,0.0000,564
+El Salvador,3,WG1+2,0,0.0000,29
+El Salvador,3,WG1+3,0,0.0000,6
+El Salvador,3,WG2,0,0.0000,361
+El Salvador,3,WG2+3,0,0.0000,11
+El Salvador,3,WG3,0,0.0000,202
+El Salvador,4,WG1,0,0.0000,583
+El Salvador,4,WG1+2,0,0.0000,31
+El Salvador,4,WG1+3,0,0.0000,1
+El Salvador,4,WG2,0,0.0000,375
+El Salvador,4,WG2+3,0,0.0000,17
+El Salvador,4,WG3,0,0.0000,255
+El Salvador,5,WG1,0,0.0000,752
+El Salvador,5,WG1+2,0,0.0000,25
+El Salvador,5,WG2,0,0.0000,634
+El Salvador,5,WG2+3,0,0.0000,5
+El Salvador,5,WG3,0,0.0000,263
+Ethiopia,1,WG1,0,0.0000,233
 Ethiopia,1,WG1+2,1,9.0909,11
+Ethiopia,1,WG1+3,0,0.0000,4
+Ethiopia,1,WG2,0,0.0000,153
+Ethiopia,1,WG2+3,0,0.0000,5
+Ethiopia,1,WG3,0,0.0000,60
+Ethiopia,2,WG1,0,0.0000,384
+Ethiopia,2,WG1+2,0,0.0000,25
+Ethiopia,2,WG1+3,0,0.0000,2
+Ethiopia,2,WG2,0,0.0000,508
+Ethiopia,2,WG2+3,0,0.0000,10
+Ethiopia,2,WG3,0,0.0000,81
+Ethiopia,3,WG1,0,0.0000,564
+Ethiopia,3,WG1+2,0,0.0000,29
+Ethiopia,3,WG1+3,0,0.0000,6
+Ethiopia,3,WG2,0,0.0000,361
+Ethiopia,3,WG2+3,0,0.0000,11
+Ethiopia,3,WG3,0,0.0000,202
+Ethiopia,4,WG1,0,0.0000,583
+Ethiopia,4,WG1+2,0,0.0000,31
+Ethiopia,4,WG1+3,0,0.0000,1
+Ethiopia,4,WG2,0,0.0000,375
+Ethiopia,4,WG2+3,0,0.0000,17
+Ethiopia,4,WG3,0,0.0000,255
+Ethiopia,5,WG1,0,0.0000,752
+Ethiopia,5,WG1+2,0,0.0000,25
 Ethiopia,5,WG2,1,0.1577,634
+Ethiopia,5,WG2+3,0,0.0000,5
+Ethiopia,5,WG3,0,0.0000,263
+Fiji,1,WG1,0,0.0000,233
+Fiji,1,WG1+2,0,0.0000,11
+Fiji,1,WG1+3,0,0.0000,4
+Fiji,1,WG2,0,0.0000,153
+Fiji,1,WG2+3,0,0.0000,5
+Fiji,1,WG3,0,0.0000,60
+Fiji,2,WG1,0,0.0000,384
+Fiji,2,WG1+2,0,0.0000,25
+Fiji,2,WG1+3,0,0.0000,2
 Fiji,2,WG2,1,0.1969,508
+Fiji,2,WG2+3,0,0.0000,10
+Fiji,2,WG3,0,0.0000,81
+Fiji,3,WG1,0,0.0000,564
+Fiji,3,WG1+2,0,0.0000,29
+Fiji,3,WG1+3,0,0.0000,6
+Fiji,3,WG2,0,0.0000,361
+Fiji,3,WG2+3,0,0.0000,11
+Fiji,3,WG3,0,0.0000,202
+Fiji,4,WG1,0,0.0000,583
+Fiji,4,WG1+2,0,0.0000,31
+Fiji,4,WG1+3,0,0.0000,1
 Fiji,4,WG2,1,0.2667,375
+Fiji,4,WG2+3,0,0.0000,17
+Fiji,4,WG3,0,0.0000,255
+Fiji,5,WG1,0,0.0000,752
+Fiji,5,WG1+2,0,0.0000,25
 Fiji,5,WG2,2,0.3155,634
+Fiji,5,WG2+3,0,0.0000,5
 Fiji,5,WG3,1,0.3802,263
 Finland,1,WG1,1,0.4292,233
+Finland,1,WG1+2,0,0.0000,11
+Finland,1,WG1+3,0,0.0000,4
 Finland,1,WG2,1,0.6536,153
+Finland,1,WG2+3,0,0.0000,5
+Finland,1,WG3,0,0.0000,60
 Finland,2,WG1,1,0.2604,384
+Finland,2,WG1+2,0,0.0000,25
+Finland,2,WG1+3,0,0.0000,2
 Finland,2,WG2,8,1.5748,508
+Finland,2,WG2+3,0,0.0000,10
+Finland,2,WG3,0,0.0000,81
 Finland,3,WG1,2,0.3546,564
 Finland,3,WG1+2,1,3.4483,29
+Finland,3,WG1+3,0,0.0000,6
 Finland,3,WG2,2,0.5540,361
+Finland,3,WG2+3,0,0.0000,11
 Finland,3,WG3,2,0.9901,202
 Finland,4,WG1,1,0.1715,583
+Finland,4,WG1+2,0,0.0000,31
+Finland,4,WG1+3,0,0.0000,1
 Finland,4,WG2,3,0.8000,375
+Finland,4,WG2+3,0,0.0000,17
 Finland,4,WG3,4,1.5686,255
 Finland,5,WG1,3,0.3989,752
+Finland,5,WG1+2,0,0.0000,25
 Finland,5,WG2,6,0.9464,634
+Finland,5,WG2+3,0,0.0000,5
 Finland,5,WG3,1,0.3802,263
 France,1,WG1,8,3.4335,233
+France,1,WG1+2,0,0.0000,11
+France,1,WG1+3,0,0.0000,4
+France,1,WG2,0,0.0000,153
+France,1,WG2+3,0,0.0000,5
 France,1,WG3,4,6.6667,60
 France,2,WG1,12,3.1250,384
+France,2,WG1+2,0,0.0000,25
+France,2,WG1+3,0,0.0000,2
 France,2,WG2,16,3.1496,508
+France,2,WG2+3,0,0.0000,10
 France,2,WG3,5,6.1728,81
 France,3,WG1,26,4.6099,564
+France,3,WG1+2,0,0.0000,29
+France,3,WG1+3,0,0.0000,6
 France,3,WG2,2,0.5540,361
+France,3,WG2+3,0,0.0000,11
 France,3,WG3,6,2.9703,202
 France,4,WG1,36,6.1750,583
 France,4,WG1+2,1,3.2258,31
+France,4,WG1+3,0,0.0000,1
 France,4,WG2,9,2.4000,375
 France,4,WG2+3,2,11.7647,17
 France,4,WG3,10,3.9216,255
 France,5,WG1,42,5.5851,752
+France,5,WG1+2,0,0.0000,25
 France,5,WG2,21,3.3123,634
+France,5,WG2+3,0,0.0000,5
 France,5,WG3,6,2.2814,263
 Germany,1,WG1,16,6.8670,233
+Germany,1,WG1+2,0,0.0000,11
+Germany,1,WG1+3,0,0.0000,4
 Germany,1,WG2,3,1.9608,153
+Germany,1,WG2+3,0,0.0000,5
+Germany,1,WG3,0,0.0000,60
 Germany,2,WG1,30,7.8125,384
+Germany,2,WG1+2,0,0.0000,25
+Germany,2,WG1+3,0,0.0000,2
 Germany,2,WG2,22,4.3307,508
+Germany,2,WG2+3,0,0.0000,10
 Germany,2,WG3,1,1.2346,81
 Germany,3,WG1,60,10.6383,564
 Germany,3,WG1+2,2,6.8966,29
+Germany,3,WG1+3,0,0.0000,6
 Germany,3,WG2,8,2.2161,361
 Germany,3,WG2+3,1,9.0909,11
 Germany,3,WG3,9,4.4554,202
 Germany,4,WG1,45,7.7187,583
 Germany,4,WG1+2,1,3.2258,31
+Germany,4,WG1+3,0,0.0000,1
 Germany,4,WG2,12,3.2000,375
+Germany,4,WG2+3,0,0.0000,17
 Germany,4,WG3,9,3.5294,255
 Germany,5,WG1,48,6.3830,752
 Germany,5,WG1+2,1,4.0000,25
 Germany,5,WG2,37,5.8360,634
+Germany,5,WG2+3,0,0.0000,5
 Germany,5,WG3,13,4.9430,263
+Ghana,1,WG1,0,0.0000,233
+Ghana,1,WG1+2,0,0.0000,11
+Ghana,1,WG1+3,0,0.0000,4
+Ghana,1,WG2,0,0.0000,153
+Ghana,1,WG2+3,0,0.0000,5
+Ghana,1,WG3,0,0.0000,60
+Ghana,2,WG1,0,0.0000,384
+Ghana,2,WG1+2,0,0.0000,25
+Ghana,2,WG1+3,0,0.0000,2
+Ghana,2,WG2,0,0.0000,508
+Ghana,2,WG2+3,0,0.0000,10
+Ghana,2,WG3,0,0.0000,81
+Ghana,3,WG1,0,0.0000,564
+Ghana,3,WG1+2,0,0.0000,29
+Ghana,3,WG1+3,0,0.0000,6
+Ghana,3,WG2,0,0.0000,361
+Ghana,3,WG2+3,0,0.0000,11
+Ghana,3,WG3,0,0.0000,202
+Ghana,4,WG1,0,0.0000,583
+Ghana,4,WG1+2,0,0.0000,31
+Ghana,4,WG1+3,0,0.0000,1
+Ghana,4,WG2,0,0.0000,375
+Ghana,4,WG2+3,0,0.0000,17
+Ghana,4,WG3,0,0.0000,255
+Ghana,5,WG1,0,0.0000,752
+Ghana,5,WG1+2,0,0.0000,25
 Ghana,5,WG2,1,0.1577,634
+Ghana,5,WG2+3,0,0.0000,5
 Ghana,5,WG3,2,0.7605,263
+Greece,1,WG1,0,0.0000,233
+Greece,1,WG1+2,0,0.0000,11
+Greece,1,WG1+3,0,0.0000,4
+Greece,1,WG2,0,0.0000,153
+Greece,1,WG2+3,0,0.0000,5
+Greece,1,WG3,0,0.0000,60
+Greece,2,WG1,0,0.0000,384
+Greece,2,WG1+2,0,0.0000,25
+Greece,2,WG1+3,0,0.0000,2
+Greece,2,WG2,0,0.0000,508
+Greece,2,WG2+3,0,0.0000,10
+Greece,2,WG3,0,0.0000,81
 Greece,3,WG1,1,0.1773,564
+Greece,3,WG1+2,0,0.0000,29
+Greece,3,WG1+3,0,0.0000,6
+Greece,3,WG2,0,0.0000,361
+Greece,3,WG2+3,0,0.0000,11
+Greece,3,WG3,0,0.0000,202
+Greece,4,WG1,0,0.0000,583
+Greece,4,WG1+2,0,0.0000,31
+Greece,4,WG1+3,0,0.0000,1
 Greece,4,WG2,1,0.2667,375
+Greece,4,WG2+3,0,0.0000,17
 Greece,4,WG3,1,0.3922,255
+Greece,5,WG1,0,0.0000,752
+Greece,5,WG1+2,0,0.0000,25
 Greece,5,WG2,3,0.4732,634
+Greece,5,WG2+3,0,0.0000,5
 Greece,5,WG3,1,0.3802,263
+Guatemala,1,WG1,0,0.0000,233
+Guatemala,1,WG1+2,0,0.0000,11
+Guatemala,1,WG1+3,0,0.0000,4
+Guatemala,1,WG2,0,0.0000,153
+Guatemala,1,WG2+3,0,0.0000,5
+Guatemala,1,WG3,0,0.0000,60
+Guatemala,2,WG1,0,0.0000,384
+Guatemala,2,WG1+2,0,0.0000,25
+Guatemala,2,WG1+3,0,0.0000,2
+Guatemala,2,WG2,0,0.0000,508
+Guatemala,2,WG2+3,0,0.0000,10
+Guatemala,2,WG3,0,0.0000,81
+Guatemala,3,WG1,0,0.0000,564
+Guatemala,3,WG1+2,0,0.0000,29
+Guatemala,3,WG1+3,0,0.0000,6
+Guatemala,3,WG2,0,0.0000,361
+Guatemala,3,WG2+3,0,0.0000,11
+Guatemala,3,WG3,0,0.0000,202
+Guatemala,4,WG1,0,0.0000,583
+Guatemala,4,WG1+2,0,0.0000,31
+Guatemala,4,WG1+3,0,0.0000,1
+Guatemala,4,WG2,0,0.0000,375
+Guatemala,4,WG2+3,0,0.0000,17
+Guatemala,4,WG3,0,0.0000,255
+Guatemala,5,WG1,0,0.0000,752
+Guatemala,5,WG1+2,0,0.0000,25
 Guatemala,5,WG2,1,0.1577,634
+Guatemala,5,WG2+3,0,0.0000,5
+Guatemala,5,WG3,0,0.0000,263
+Guinea,1,WG1,0,0.0000,233
+Guinea,1,WG1+2,0,0.0000,11
+Guinea,1,WG1+3,0,0.0000,4
+Guinea,1,WG2,0,0.0000,153
+Guinea,1,WG2+3,0,0.0000,5
+Guinea,1,WG3,0,0.0000,60
+Guinea,2,WG1,0,0.0000,384
+Guinea,2,WG1+2,0,0.0000,25
+Guinea,2,WG1+3,0,0.0000,2
+Guinea,2,WG2,0,0.0000,508
+Guinea,2,WG2+3,0,0.0000,10
+Guinea,2,WG3,0,0.0000,81
+Guinea,3,WG1,0,0.0000,564
+Guinea,3,WG1+2,0,0.0000,29
+Guinea,3,WG1+3,0,0.0000,6
+Guinea,3,WG2,0,0.0000,361
+Guinea,3,WG2+3,0,0.0000,11
+Guinea,3,WG3,0,0.0000,202
+Guinea,4,WG1,0,0.0000,583
+Guinea,4,WG1+2,0,0.0000,31
+Guinea,4,WG1+3,0,0.0000,1
+Guinea,4,WG2,0,0.0000,375
+Guinea,4,WG2+3,0,0.0000,17
+Guinea,4,WG3,0,0.0000,255
+Guinea,5,WG1,0,0.0000,752
+Guinea,5,WG1+2,0,0.0000,25
+Guinea,5,WG2,0,0.0000,634
+Guinea,5,WG2+3,0,0.0000,5
+Guinea,5,WG3,0,0.0000,263
+Hong Kong,1,WG1,0,0.0000,233
+Hong Kong,1,WG1+2,0,0.0000,11
+Hong Kong,1,WG1+3,0,0.0000,4
+Hong Kong,1,WG2,0,0.0000,153
+Hong Kong,1,WG2+3,0,0.0000,5
+Hong Kong,1,WG3,0,0.0000,60
+Hong Kong,2,WG1,0,0.0000,384
+Hong Kong,2,WG1+2,0,0.0000,25
+Hong Kong,2,WG1+3,0,0.0000,2
 Hong Kong,2,WG2,1,0.1969,508
+Hong Kong,2,WG2+3,0,0.0000,10
+Hong Kong,2,WG3,0,0.0000,81
+Hong Kong,3,WG1,0,0.0000,564
+Hong Kong,3,WG1+2,0,0.0000,29
+Hong Kong,3,WG1+3,0,0.0000,6
+Hong Kong,3,WG2,0,0.0000,361
+Hong Kong,3,WG2+3,0,0.0000,11
+Hong Kong,3,WG3,0,0.0000,202
+Hong Kong,4,WG1,0,0.0000,583
+Hong Kong,4,WG1+2,0,0.0000,31
+Hong Kong,4,WG1+3,0,0.0000,1
+Hong Kong,4,WG2,0,0.0000,375
+Hong Kong,4,WG2+3,0,0.0000,17
+Hong Kong,4,WG3,0,0.0000,255
+Hong Kong,5,WG1,0,0.0000,752
+Hong Kong,5,WG1+2,0,0.0000,25
+Hong Kong,5,WG2,0,0.0000,634
+Hong Kong,5,WG2+3,0,0.0000,5
 Hong Kong,5,WG3,1,0.3802,263
+Hungary,1,WG1,0,0.0000,233
+Hungary,1,WG1+2,0,0.0000,11
+Hungary,1,WG1+3,0,0.0000,4
 Hungary,1,WG2,1,0.6536,153
+Hungary,1,WG2+3,0,0.0000,5
+Hungary,1,WG3,0,0.0000,60
+Hungary,2,WG1,0,0.0000,384
+Hungary,2,WG1+2,0,0.0000,25
+Hungary,2,WG1+3,0,0.0000,2
 Hungary,2,WG2,4,0.7874,508
+Hungary,2,WG2+3,0,0.0000,10
+Hungary,2,WG3,0,0.0000,81
+Hungary,3,WG1,0,0.0000,564
+Hungary,3,WG1+2,0,0.0000,29
+Hungary,3,WG1+3,0,0.0000,6
+Hungary,3,WG2,0,0.0000,361
+Hungary,3,WG2+3,0,0.0000,11
 Hungary,3,WG3,1,0.4950,202
+Hungary,4,WG1,0,0.0000,583
+Hungary,4,WG1+2,0,0.0000,31
+Hungary,4,WG1+3,0,0.0000,1
 Hungary,4,WG2,1,0.2667,375
+Hungary,4,WG2+3,0,0.0000,17
 Hungary,4,WG3,2,0.7843,255
 Hungary,5,WG1,1,0.1330,752
+Hungary,5,WG1+2,0,0.0000,25
+Hungary,5,WG2,0,0.0000,634
 Hungary,5,WG2+3,1,20.0000,5
 Hungary,5,WG3,2,0.7605,263
+Iceland,1,WG1,0,0.0000,233
+Iceland,1,WG1+2,0,0.0000,11
+Iceland,1,WG1+3,0,0.0000,4
+Iceland,1,WG2,0,0.0000,153
+Iceland,1,WG2+3,0,0.0000,5
+Iceland,1,WG3,0,0.0000,60
 Iceland,2,WG1,1,0.2604,384
+Iceland,2,WG1+2,0,0.0000,25
+Iceland,2,WG1+3,0,0.0000,2
 Iceland,2,WG2,1,0.1969,508
+Iceland,2,WG2+3,0,0.0000,10
+Iceland,2,WG3,0,0.0000,81
+Iceland,3,WG1,0,0.0000,564
+Iceland,3,WG1+2,0,0.0000,29
+Iceland,3,WG1+3,0,0.0000,6
+Iceland,3,WG2,0,0.0000,361
+Iceland,3,WG2+3,0,0.0000,11
+Iceland,3,WG3,0,0.0000,202
+Iceland,4,WG1,0,0.0000,583
+Iceland,4,WG1+2,0,0.0000,31
+Iceland,4,WG1+3,0,0.0000,1
 Iceland,4,WG2,1,0.2667,375
+Iceland,4,WG2+3,0,0.0000,17
+Iceland,4,WG3,0,0.0000,255
 Iceland,5,WG1,1,0.1330,752
+Iceland,5,WG1+2,0,0.0000,25
 Iceland,5,WG2,1,0.1577,634
+Iceland,5,WG2+3,0,0.0000,5
+Iceland,5,WG3,0,0.0000,263
 India,1,WG1,4,1.7167,233
 India,1,WG1+2,1,9.0909,11
+India,1,WG1+3,0,0.0000,4
 India,1,WG2,1,0.6536,153
+India,1,WG2+3,0,0.0000,5
 India,1,WG3,1,1.6667,60
 India,2,WG1,5,1.3021,384
+India,2,WG1+2,0,0.0000,25
+India,2,WG1+3,0,0.0000,2
 India,2,WG2,15,2.9528,508
 India,2,WG2+3,2,20.0000,10
 India,2,WG3,5,6.1728,81
 India,3,WG1,3,0.5319,564
 India,3,WG1+2,1,3.4483,29
+India,3,WG1+3,0,0.0000,6
 India,3,WG2,7,1.9391,361
 India,3,WG2+3,2,18.1818,11
 India,3,WG3,11,5.4455,202
 India,4,WG1,7,1.2007,583
+India,4,WG1+2,0,0.0000,31
+India,4,WG1+3,0,0.0000,1
 India,4,WG2,12,3.2000,375
 India,4,WG2+3,1,5.8824,17
 India,4,WG3,9,3.5294,255
 India,5,WG1,13,1.7287,752
+India,5,WG1+2,0,0.0000,25
 India,5,WG2,15,2.3659,634
+India,5,WG2+3,0,0.0000,5
 India,5,WG3,18,6.8441,263
+Indonesia,1,WG1,0,0.0000,233
+Indonesia,1,WG1+2,0,0.0000,11
+Indonesia,1,WG1+3,0,0.0000,4
 Indonesia,1,WG2,1,0.6536,153
+Indonesia,1,WG2+3,0,0.0000,5
+Indonesia,1,WG3,0,0.0000,60
+Indonesia,2,WG1,0,0.0000,384
+Indonesia,2,WG1+2,0,0.0000,25
+Indonesia,2,WG1+3,0,0.0000,2
 Indonesia,2,WG2,1,0.1969,508
+Indonesia,2,WG2+3,0,0.0000,10
+Indonesia,2,WG3,0,0.0000,81
+Indonesia,3,WG1,0,0.0000,564
+Indonesia,3,WG1+2,0,0.0000,29
+Indonesia,3,WG1+3,0,0.0000,6
 Indonesia,3,WG2,2,0.5540,361
+Indonesia,3,WG2+3,0,0.0000,11
 Indonesia,3,WG3,1,0.4950,202
+Indonesia,4,WG1,0,0.0000,583
+Indonesia,4,WG1+2,0,0.0000,31
+Indonesia,4,WG1+3,0,0.0000,1
 Indonesia,4,WG2,1,0.2667,375
+Indonesia,4,WG2+3,0,0.0000,17
 Indonesia,4,WG3,3,1.1765,255
 Indonesia,5,WG1,1,0.1330,752
+Indonesia,5,WG1+2,0,0.0000,25
+Indonesia,5,WG2,0,0.0000,634
+Indonesia,5,WG2+3,0,0.0000,5
+Indonesia,5,WG3,0,0.0000,263
+Iran,1,WG1,0,0.0000,233
+Iran,1,WG1+2,0,0.0000,11
+Iran,1,WG1+3,0,0.0000,4
+Iran,1,WG2,0,0.0000,153
+Iran,1,WG2+3,0,0.0000,5
+Iran,1,WG3,0,0.0000,60
+Iran,2,WG1,0,0.0000,384
+Iran,2,WG1+2,0,0.0000,25
+Iran,2,WG1+3,0,0.0000,2
+Iran,2,WG2,0,0.0000,508
+Iran,2,WG2+3,0,0.0000,10
+Iran,2,WG3,0,0.0000,81
+Iran,3,WG1,0,0.0000,564
+Iran,3,WG1+2,0,0.0000,29
+Iran,3,WG1+3,0,0.0000,6
+Iran,3,WG2,0,0.0000,361
+Iran,3,WG2+3,0,0.0000,11
+Iran,3,WG3,0,0.0000,202
 Iran,4,WG1,2,0.3431,583
+Iran,4,WG1+2,0,0.0000,31
+Iran,4,WG1+3,0,0.0000,1
 Iran,4,WG2,1,0.2667,375
+Iran,4,WG2+3,0,0.0000,17
+Iran,4,WG3,0,0.0000,255
 Iran,5,WG1,1,0.1330,752
+Iran,5,WG1+2,0,0.0000,25
+Iran,5,WG2,0,0.0000,634
+Iran,5,WG2+3,0,0.0000,5
 Iran,5,WG3,1,0.3802,263
+Ireland,1,WG1,0,0.0000,233
+Ireland,1,WG1+2,0,0.0000,11
+Ireland,1,WG1+3,0,0.0000,4
 Ireland,1,WG2,1,0.6536,153
+Ireland,1,WG2+3,0,0.0000,5
+Ireland,1,WG3,0,0.0000,60
+Ireland,2,WG1,0,0.0000,384
+Ireland,2,WG1+2,0,0.0000,25
+Ireland,2,WG1+3,0,0.0000,2
+Ireland,2,WG2,0,0.0000,508
+Ireland,2,WG2+3,0,0.0000,10
+Ireland,2,WG3,0,0.0000,81
+Ireland,3,WG1,0,0.0000,564
+Ireland,3,WG1+2,0,0.0000,29
+Ireland,3,WG1+3,0,0.0000,6
+Ireland,3,WG2,0,0.0000,361
+Ireland,3,WG2+3,0,0.0000,11
+Ireland,3,WG3,0,0.0000,202
+Ireland,4,WG1,0,0.0000,583
+Ireland,4,WG1+2,0,0.0000,31
+Ireland,4,WG1+3,0,0.0000,1
 Ireland,4,WG2,3,0.8000,375
+Ireland,4,WG2+3,0,0.0000,17
 Ireland,4,WG3,1,0.3922,255
 Ireland,5,WG1,1,0.1330,752
+Ireland,5,WG1+2,0,0.0000,25
 Ireland,5,WG2,1,0.1577,634
+Ireland,5,WG2+3,0,0.0000,5
+Ireland,5,WG3,0,0.0000,263
+Israel,1,WG1,0,0.0000,233
+Israel,1,WG1+2,0,0.0000,11
+Israel,1,WG1+3,0,0.0000,4
 Israel,1,WG2,1,0.6536,153
+Israel,1,WG2+3,0,0.0000,5
+Israel,1,WG3,0,0.0000,60
 Israel,2,WG1,1,0.2604,384
+Israel,2,WG1+2,0,0.0000,25
+Israel,2,WG1+3,0,0.0000,2
 Israel,2,WG2,1,0.1969,508
+Israel,2,WG2+3,0,0.0000,10
+Israel,2,WG3,0,0.0000,81
+Israel,3,WG1,0,0.0000,564
+Israel,3,WG1+2,0,0.0000,29
+Israel,3,WG1+3,0,0.0000,6
 Israel,3,WG2,1,0.2770,361
+Israel,3,WG2+3,0,0.0000,11
 Israel,3,WG3,1,0.4950,202
+Israel,4,WG1,0,0.0000,583
+Israel,4,WG1+2,0,0.0000,31
+Israel,4,WG1+3,0,0.0000,1
 Israel,4,WG2,1,0.2667,375
+Israel,4,WG2+3,0,0.0000,17
+Israel,4,WG3,0,0.0000,255
+Israel,5,WG1,0,0.0000,752
+Israel,5,WG1+2,0,0.0000,25
+Israel,5,WG2,0,0.0000,634
+Israel,5,WG2+3,0,0.0000,5
+Israel,5,WG3,0,0.0000,263
+Italy,1,WG1,0,0.0000,233
+Italy,1,WG1+2,0,0.0000,11
+Italy,1,WG1+3,0,0.0000,4
+Italy,1,WG2,0,0.0000,153
+Italy,1,WG2+3,0,0.0000,5
 Italy,1,WG3,1,1.6667,60
 Italy,2,WG1,3,0.7813,384
+Italy,2,WG1+2,0,0.0000,25
+Italy,2,WG1+3,0,0.0000,2
 Italy,2,WG2,5,0.9843,508
+Italy,2,WG2+3,0,0.0000,10
 Italy,2,WG3,2,2.4691,81
 Italy,3,WG1,5,0.8865,564
+Italy,3,WG1+2,0,0.0000,29
+Italy,3,WG1+3,0,0.0000,6
+Italy,3,WG2,0,0.0000,361
+Italy,3,WG2+3,0,0.0000,11
 Italy,3,WG3,1,0.4950,202
 Italy,4,WG1,5,0.8576,583
+Italy,4,WG1+2,0,0.0000,31
+Italy,4,WG1+3,0,0.0000,1
 Italy,4,WG2,4,1.0667,375
 Italy,4,WG2+3,1,5.8824,17
 Italy,4,WG3,2,0.7843,255
 Italy,5,WG1,6,0.7979,752
+Italy,5,WG1+2,0,0.0000,25
 Italy,5,WG2,11,1.7350,634
+Italy,5,WG2+3,0,0.0000,5
 Italy,5,WG3,7,2.6616,263
+Jamaica,1,WG1,0,0.0000,233
+Jamaica,1,WG1+2,0,0.0000,11
+Jamaica,1,WG1+3,0,0.0000,4
+Jamaica,1,WG2,0,0.0000,153
+Jamaica,1,WG2+3,0,0.0000,5
+Jamaica,1,WG3,0,0.0000,60
+Jamaica,2,WG1,0,0.0000,384
+Jamaica,2,WG1+2,0,0.0000,25
+Jamaica,2,WG1+3,0,0.0000,2
 Jamaica,2,WG2,1,0.1969,508
+Jamaica,2,WG2+3,0,0.0000,10
+Jamaica,2,WG3,0,0.0000,81
+Jamaica,3,WG1,0,0.0000,564
+Jamaica,3,WG1+2,0,0.0000,29
+Jamaica,3,WG1+3,0,0.0000,6
+Jamaica,3,WG2,0,0.0000,361
+Jamaica,3,WG2+3,0,0.0000,11
+Jamaica,3,WG3,0,0.0000,202
 Jamaica,4,WG1,1,0.1715,583
+Jamaica,4,WG1+2,0,0.0000,31
+Jamaica,4,WG1+3,0,0.0000,1
+Jamaica,4,WG2,0,0.0000,375
+Jamaica,4,WG2+3,0,0.0000,17
+Jamaica,4,WG3,0,0.0000,255
+Jamaica,5,WG1,0,0.0000,752
+Jamaica,5,WG1+2,0,0.0000,25
 Jamaica,5,WG2,1,0.1577,634
+Jamaica,5,WG2+3,0,0.0000,5
+Jamaica,5,WG3,0,0.0000,263
 Japan,1,WG1,5,2.1459,233
+Japan,1,WG1+2,0,0.0000,11
+Japan,1,WG1+3,0,0.0000,4
 Japan,1,WG2,5,3.2680,153
+Japan,1,WG2+3,0,0.0000,5
 Japan,1,WG3,5,8.3333,60
 Japan,2,WG1,12,3.1250,384
+Japan,2,WG1+2,0,0.0000,25
+Japan,2,WG1+3,0,0.0000,2
 Japan,2,WG2,21,4.1339,508
+Japan,2,WG2+3,0,0.0000,10
 Japan,2,WG3,2,2.4691,81
 Japan,3,WG1,14,2.4823,564
 Japan,3,WG1+2,2,6.8966,29
+Japan,3,WG1+3,0,0.0000,6
 Japan,3,WG2,7,1.9391,361
+Japan,3,WG2+3,0,0.0000,11
 Japan,3,WG3,15,7.4257,202
 Japan,4,WG1,25,4.2882,583
 Japan,4,WG1+2,2,6.4516,31
+Japan,4,WG1+3,0,0.0000,1
 Japan,4,WG2,7,1.8667,375
+Japan,4,WG2+3,0,0.0000,17
 Japan,4,WG3,19,7.4510,255
 Japan,5,WG1,26,3.4574,752
 Japan,5,WG1+2,1,4.0000,25
 Japan,5,WG2,17,2.6814,634
+Japan,5,WG2+3,0,0.0000,5
 Japan,5,WG3,9,3.4221,263
+Kazakhstan,1,WG1,0,0.0000,233
+Kazakhstan,1,WG1+2,0,0.0000,11
+Kazakhstan,1,WG1+3,0,0.0000,4
+Kazakhstan,1,WG2,0,0.0000,153
+Kazakhstan,1,WG2+3,0,0.0000,5
+Kazakhstan,1,WG3,0,0.0000,60
+Kazakhstan,2,WG1,0,0.0000,384
+Kazakhstan,2,WG1+2,0,0.0000,25
+Kazakhstan,2,WG1+3,0,0.0000,2
+Kazakhstan,2,WG2,0,0.0000,508
+Kazakhstan,2,WG2+3,0,0.0000,10
+Kazakhstan,2,WG3,0,0.0000,81
+Kazakhstan,3,WG1,0,0.0000,564
+Kazakhstan,3,WG1+2,0,0.0000,29
+Kazakhstan,3,WG1+3,0,0.0000,6
 Kazakhstan,3,WG2,1,0.2770,361
+Kazakhstan,3,WG2+3,0,0.0000,11
+Kazakhstan,3,WG3,0,0.0000,202
+Kazakhstan,4,WG1,0,0.0000,583
+Kazakhstan,4,WG1+2,0,0.0000,31
+Kazakhstan,4,WG1+3,0,0.0000,1
+Kazakhstan,4,WG2,0,0.0000,375
+Kazakhstan,4,WG2+3,0,0.0000,17
+Kazakhstan,4,WG3,0,0.0000,255
+Kazakhstan,5,WG1,0,0.0000,752
+Kazakhstan,5,WG1+2,0,0.0000,25
+Kazakhstan,5,WG2,0,0.0000,634
+Kazakhstan,5,WG2+3,0,0.0000,5
+Kazakhstan,5,WG3,0,0.0000,263
+Kenya,1,WG1,0,0.0000,233
 Kenya,1,WG1+2,1,9.0909,11
+Kenya,1,WG1+3,0,0.0000,4
 Kenya,1,WG2,1,0.6536,153
+Kenya,1,WG2+3,0,0.0000,5
 Kenya,1,WG3,1,1.6667,60
 Kenya,2,WG1,2,0.5208,384
+Kenya,2,WG1+2,0,0.0000,25
+Kenya,2,WG1+3,0,0.0000,2
 Kenya,2,WG2,12,2.3622,508
+Kenya,2,WG2+3,0,0.0000,10
+Kenya,2,WG3,0,0.0000,81
 Kenya,3,WG1,3,0.5319,564
 Kenya,3,WG1+2,1,3.4483,29
+Kenya,3,WG1+3,0,0.0000,6
 Kenya,3,WG2,2,0.5540,361
+Kenya,3,WG2+3,0,0.0000,11
 Kenya,3,WG3,2,0.9901,202
 Kenya,4,WG1,4,0.6861,583
+Kenya,4,WG1+2,0,0.0000,31
+Kenya,4,WG1+3,0,0.0000,1
 Kenya,4,WG2,1,0.2667,375
 Kenya,4,WG2+3,1,5.8824,17
 Kenya,4,WG3,3,1.1765,255
+Kenya,5,WG1,0,0.0000,752
+Kenya,5,WG1+2,0,0.0000,25
 Kenya,5,WG2,2,0.3155,634
+Kenya,5,WG2+3,0,0.0000,5
 Kenya,5,WG3,1,0.3802,263
+Kiribati,1,WG1,0,0.0000,233
+Kiribati,1,WG1+2,0,0.0000,11
+Kiribati,1,WG1+3,0,0.0000,4
+Kiribati,1,WG2,0,0.0000,153
+Kiribati,1,WG2+3,0,0.0000,5
+Kiribati,1,WG3,0,0.0000,60
+Kiribati,2,WG1,0,0.0000,384
+Kiribati,2,WG1+2,0,0.0000,25
+Kiribati,2,WG1+3,0,0.0000,2
+Kiribati,2,WG2,0,0.0000,508
+Kiribati,2,WG2+3,0,0.0000,10
+Kiribati,2,WG3,0,0.0000,81
+Kiribati,3,WG1,0,0.0000,564
+Kiribati,3,WG1+2,0,0.0000,29
+Kiribati,3,WG1+3,0,0.0000,6
+Kiribati,3,WG2,0,0.0000,361
+Kiribati,3,WG2+3,0,0.0000,11
+Kiribati,3,WG3,0,0.0000,202
+Kiribati,4,WG1,0,0.0000,583
+Kiribati,4,WG1+2,0,0.0000,31
+Kiribati,4,WG1+3,0,0.0000,1
+Kiribati,4,WG2,0,0.0000,375
+Kiribati,4,WG2+3,0,0.0000,17
+Kiribati,4,WG3,0,0.0000,255
+Kiribati,5,WG1,0,0.0000,752
+Kiribati,5,WG1+2,0,0.0000,25
+Kiribati,5,WG2,0,0.0000,634
+Kiribati,5,WG2+3,0,0.0000,5
+Kiribati,5,WG3,0,0.0000,263
+Kuwait,1,WG1,0,0.0000,233
+Kuwait,1,WG1+2,0,0.0000,11
+Kuwait,1,WG1+3,0,0.0000,4
+Kuwait,1,WG2,0,0.0000,153
+Kuwait,1,WG2+3,0,0.0000,5
+Kuwait,1,WG3,0,0.0000,60
+Kuwait,2,WG1,0,0.0000,384
+Kuwait,2,WG1+2,0,0.0000,25
+Kuwait,2,WG1+3,0,0.0000,2
+Kuwait,2,WG2,0,0.0000,508
+Kuwait,2,WG2+3,0,0.0000,10
+Kuwait,2,WG3,0,0.0000,81
+Kuwait,3,WG1,0,0.0000,564
+Kuwait,3,WG1+2,0,0.0000,29
+Kuwait,3,WG1+3,0,0.0000,6
+Kuwait,3,WG2,0,0.0000,361
+Kuwait,3,WG2+3,0,0.0000,11
+Kuwait,3,WG3,0,0.0000,202
+Kuwait,4,WG1,0,0.0000,583
+Kuwait,4,WG1+2,0,0.0000,31
+Kuwait,4,WG1+3,0,0.0000,1
+Kuwait,4,WG2,0,0.0000,375
+Kuwait,4,WG2+3,0,0.0000,17
+Kuwait,4,WG3,0,0.0000,255
+Kuwait,5,WG1,0,0.0000,752
+Kuwait,5,WG1+2,0,0.0000,25
+Kuwait,5,WG2,0,0.0000,634
+Kuwait,5,WG2+3,0,0.0000,5
+Kuwait,5,WG3,0,0.0000,263
+Laos,1,WG1,0,0.0000,233
+Laos,1,WG1+2,0,0.0000,11
+Laos,1,WG1+3,0,0.0000,4
+Laos,1,WG2,0,0.0000,153
+Laos,1,WG2+3,0,0.0000,5
+Laos,1,WG3,0,0.0000,60
+Laos,2,WG1,0,0.0000,384
+Laos,2,WG1+2,0,0.0000,25
+Laos,2,WG1+3,0,0.0000,2
+Laos,2,WG2,0,0.0000,508
+Laos,2,WG2+3,0,0.0000,10
+Laos,2,WG3,0,0.0000,81
+Laos,3,WG1,0,0.0000,564
+Laos,3,WG1+2,0,0.0000,29
+Laos,3,WG1+3,0,0.0000,6
+Laos,3,WG2,0,0.0000,361
+Laos,3,WG2+3,0,0.0000,11
+Laos,3,WG3,0,0.0000,202
+Laos,4,WG1,0,0.0000,583
+Laos,4,WG1+2,0,0.0000,31
+Laos,4,WG1+3,0,0.0000,1
 Laos,4,WG2,1,0.2667,375
+Laos,4,WG2+3,0,0.0000,17
+Laos,4,WG3,0,0.0000,255
+Laos,5,WG1,0,0.0000,752
+Laos,5,WG1+2,0,0.0000,25
+Laos,5,WG2,0,0.0000,634
+Laos,5,WG2+3,0,0.0000,5
+Laos,5,WG3,0,0.0000,263
+Lithuania,1,WG1,0,0.0000,233
+Lithuania,1,WG1+2,0,0.0000,11
+Lithuania,1,WG1+3,0,0.0000,4
+Lithuania,1,WG2,0,0.0000,153
+Lithuania,1,WG2+3,0,0.0000,5
+Lithuania,1,WG3,0,0.0000,60
+Lithuania,2,WG1,0,0.0000,384
+Lithuania,2,WG1+2,0,0.0000,25
+Lithuania,2,WG1+3,0,0.0000,2
+Lithuania,2,WG2,0,0.0000,508
+Lithuania,2,WG2+3,0,0.0000,10
+Lithuania,2,WG3,0,0.0000,81
+Lithuania,3,WG1,0,0.0000,564
+Lithuania,3,WG1+2,0,0.0000,29
+Lithuania,3,WG1+3,0,0.0000,6
+Lithuania,3,WG2,0,0.0000,361
+Lithuania,3,WG2+3,0,0.0000,11
+Lithuania,3,WG3,0,0.0000,202
+Lithuania,4,WG1,0,0.0000,583
+Lithuania,4,WG1+2,0,0.0000,31
+Lithuania,4,WG1+3,0,0.0000,1
+Lithuania,4,WG2,0,0.0000,375
+Lithuania,4,WG2+3,0,0.0000,17
 Lithuania,4,WG3,1,0.3922,255
+Lithuania,5,WG1,0,0.0000,752
+Lithuania,5,WG1+2,0,0.0000,25
+Lithuania,5,WG2,0,0.0000,634
+Lithuania,5,WG2+3,0,0.0000,5
+Lithuania,5,WG3,0,0.0000,263
+Madagascar,1,WG1,0,0.0000,233
+Madagascar,1,WG1+2,0,0.0000,11
+Madagascar,1,WG1+3,0,0.0000,4
+Madagascar,1,WG2,0,0.0000,153
+Madagascar,1,WG2+3,0,0.0000,5
+Madagascar,1,WG3,0,0.0000,60
+Madagascar,2,WG1,0,0.0000,384
+Madagascar,2,WG1+2,0,0.0000,25
+Madagascar,2,WG1+3,0,0.0000,2
+Madagascar,2,WG2,0,0.0000,508
+Madagascar,2,WG2+3,0,0.0000,10
+Madagascar,2,WG3,0,0.0000,81
+Madagascar,3,WG1,0,0.0000,564
+Madagascar,3,WG1+2,0,0.0000,29
+Madagascar,3,WG1+3,0,0.0000,6
+Madagascar,3,WG2,0,0.0000,361
+Madagascar,3,WG2+3,0,0.0000,11
+Madagascar,3,WG3,0,0.0000,202
+Madagascar,4,WG1,0,0.0000,583
+Madagascar,4,WG1+2,0,0.0000,31
+Madagascar,4,WG1+3,0,0.0000,1
+Madagascar,4,WG2,0,0.0000,375
+Madagascar,4,WG2+3,0,0.0000,17
+Madagascar,4,WG3,0,0.0000,255
+Madagascar,5,WG1,0,0.0000,752
+Madagascar,5,WG1+2,0,0.0000,25
 Madagascar,5,WG2,1,0.1577,634
+Madagascar,5,WG2+3,0,0.0000,5
+Madagascar,5,WG3,0,0.0000,263
+Malawi,1,WG1,0,0.0000,233
+Malawi,1,WG1+2,0,0.0000,11
+Malawi,1,WG1+3,0,0.0000,4
+Malawi,1,WG2,0,0.0000,153
+Malawi,1,WG2+3,0,0.0000,5
+Malawi,1,WG3,0,0.0000,60
+Malawi,2,WG1,0,0.0000,384
+Malawi,2,WG1+2,0,0.0000,25
+Malawi,2,WG1+3,0,0.0000,2
 Malawi,2,WG2,1,0.1969,508
+Malawi,2,WG2+3,0,0.0000,10
+Malawi,2,WG3,0,0.0000,81
+Malawi,3,WG1,0,0.0000,564
+Malawi,3,WG1+2,0,0.0000,29
+Malawi,3,WG1+3,0,0.0000,6
+Malawi,3,WG2,0,0.0000,361
+Malawi,3,WG2+3,0,0.0000,11
+Malawi,3,WG3,0,0.0000,202
+Malawi,4,WG1,0,0.0000,583
+Malawi,4,WG1+2,0,0.0000,31
+Malawi,4,WG1+3,0,0.0000,1
+Malawi,4,WG2,0,0.0000,375
+Malawi,4,WG2+3,0,0.0000,17
+Malawi,4,WG3,0,0.0000,255
+Malawi,5,WG1,0,0.0000,752
+Malawi,5,WG1+2,0,0.0000,25
+Malawi,5,WG2,0,0.0000,634
+Malawi,5,WG2+3,0,0.0000,5
+Malawi,5,WG3,0,0.0000,263
+Malaysia,1,WG1,0,0.0000,233
+Malaysia,1,WG1+2,0,0.0000,11
+Malaysia,1,WG1+3,0,0.0000,4
+Malaysia,1,WG2,0,0.0000,153
+Malaysia,1,WG2+3,0,0.0000,5
+Malaysia,1,WG3,0,0.0000,60
+Malaysia,2,WG1,0,0.0000,384
+Malaysia,2,WG1+2,0,0.0000,25
+Malaysia,2,WG1+3,0,0.0000,2
 Malaysia,2,WG2,1,0.1969,508
+Malaysia,2,WG2+3,0,0.0000,10
+Malaysia,2,WG3,0,0.0000,81
 Malaysia,3,WG1,1,0.1773,564
+Malaysia,3,WG1+2,0,0.0000,29
+Malaysia,3,WG1+3,0,0.0000,6
 Malaysia,3,WG2,1,0.2770,361
+Malaysia,3,WG2+3,0,0.0000,11
 Malaysia,3,WG3,1,0.4950,202
+Malaysia,4,WG1,0,0.0000,583
+Malaysia,4,WG1+2,0,0.0000,31
+Malaysia,4,WG1+3,0,0.0000,1
 Malaysia,4,WG2,2,0.5333,375
+Malaysia,4,WG2+3,0,0.0000,17
+Malaysia,4,WG3,0,0.0000,255
 Malaysia,5,WG1,1,0.1330,752
+Malaysia,5,WG1+2,0,0.0000,25
 Malaysia,5,WG2,2,0.3155,634
+Malaysia,5,WG2+3,0,0.0000,5
 Malaysia,5,WG3,2,0.7605,263
+Maldives,1,WG1,0,0.0000,233
+Maldives,1,WG1+2,0,0.0000,11
+Maldives,1,WG1+3,0,0.0000,4
+Maldives,1,WG2,0,0.0000,153
+Maldives,1,WG2+3,0,0.0000,5
+Maldives,1,WG3,0,0.0000,60
+Maldives,2,WG1,0,0.0000,384
+Maldives,2,WG1+2,0,0.0000,25
+Maldives,2,WG1+3,0,0.0000,2
+Maldives,2,WG2,0,0.0000,508
+Maldives,2,WG2+3,0,0.0000,10
+Maldives,2,WG3,0,0.0000,81
+Maldives,3,WG1,0,0.0000,564
+Maldives,3,WG1+2,0,0.0000,29
+Maldives,3,WG1+3,0,0.0000,6
 Maldives,3,WG2,1,0.2770,361
+Maldives,3,WG2+3,0,0.0000,11
+Maldives,3,WG3,0,0.0000,202
+Maldives,4,WG1,0,0.0000,583
+Maldives,4,WG1+2,0,0.0000,31
+Maldives,4,WG1+3,0,0.0000,1
+Maldives,4,WG2,0,0.0000,375
+Maldives,4,WG2+3,0,0.0000,17
+Maldives,4,WG3,0,0.0000,255
+Maldives,5,WG1,0,0.0000,752
+Maldives,5,WG1+2,0,0.0000,25
 Maldives,5,WG2,1,0.1577,634
+Maldives,5,WG2+3,0,0.0000,5
+Maldives,5,WG3,0,0.0000,263
+Malta,1,WG1,0,0.0000,233
+Malta,1,WG1+2,0,0.0000,11
+Malta,1,WG1+3,0,0.0000,4
+Malta,1,WG2,0,0.0000,153
+Malta,1,WG2+3,0,0.0000,5
 Malta,1,WG3,2,3.3333,60
+Malta,2,WG1,0,0.0000,384
+Malta,2,WG1+2,0,0.0000,25
+Malta,2,WG1+3,0,0.0000,2
+Malta,2,WG2,0,0.0000,508
+Malta,2,WG2+3,0,0.0000,10
+Malta,2,WG3,0,0.0000,81
+Malta,3,WG1,0,0.0000,564
+Malta,3,WG1+2,0,0.0000,29
+Malta,3,WG1+3,0,0.0000,6
 Malta,3,WG2,1,0.2770,361
+Malta,3,WG2+3,0,0.0000,11
+Malta,3,WG3,0,0.0000,202
+Malta,4,WG1,0,0.0000,583
+Malta,4,WG1+2,0,0.0000,31
+Malta,4,WG1+3,0,0.0000,1
 Malta,4,WG2,1,0.2667,375
+Malta,4,WG2+3,0,0.0000,17
+Malta,4,WG3,0,0.0000,255
+Malta,5,WG1,0,0.0000,752
+Malta,5,WG1+2,0,0.0000,25
 Malta,5,WG2,1,0.1577,634
+Malta,5,WG2+3,0,0.0000,5
+Malta,5,WG3,0,0.0000,263
+Mauritius,1,WG1,0,0.0000,233
+Mauritius,1,WG1+2,0,0.0000,11
+Mauritius,1,WG1+3,0,0.0000,4
+Mauritius,1,WG2,0,0.0000,153
+Mauritius,1,WG2+3,0,0.0000,5
+Mauritius,1,WG3,0,0.0000,60
+Mauritius,2,WG1,0,0.0000,384
+Mauritius,2,WG1+2,0,0.0000,25
+Mauritius,2,WG1+3,0,0.0000,2
+Mauritius,2,WG2,0,0.0000,508
+Mauritius,2,WG2+3,0,0.0000,10
+Mauritius,2,WG3,0,0.0000,81
+Mauritius,3,WG1,0,0.0000,564
+Mauritius,3,WG1+2,0,0.0000,29
+Mauritius,3,WG1+3,0,0.0000,6
 Mauritius,3,WG2,1,0.2770,361
+Mauritius,3,WG2+3,0,0.0000,11
+Mauritius,3,WG3,0,0.0000,202
+Mauritius,4,WG1,0,0.0000,583
+Mauritius,4,WG1+2,0,0.0000,31
+Mauritius,4,WG1+3,0,0.0000,1
 Mauritius,4,WG2,1,0.2667,375
+Mauritius,4,WG2+3,0,0.0000,17
+Mauritius,4,WG3,0,0.0000,255
+Mauritius,5,WG1,0,0.0000,752
+Mauritius,5,WG1+2,0,0.0000,25
+Mauritius,5,WG2,0,0.0000,634
+Mauritius,5,WG2+3,0,0.0000,5
+Mauritius,5,WG3,0,0.0000,263
+Mexico,1,WG1,0,0.0000,233
+Mexico,1,WG1+2,0,0.0000,11
+Mexico,1,WG1+3,0,0.0000,4
 Mexico,1,WG2,1,0.6536,153
+Mexico,1,WG2+3,0,0.0000,5
+Mexico,1,WG3,0,0.0000,60
+Mexico,2,WG1,0,0.0000,384
+Mexico,2,WG1+2,0,0.0000,25
+Mexico,2,WG1+3,0,0.0000,2
 Mexico,2,WG2,3,0.5906,508
+Mexico,2,WG2+3,0,0.0000,10
+Mexico,2,WG3,0,0.0000,81
 Mexico,3,WG1,1,0.1773,564
+Mexico,3,WG1+2,0,0.0000,29
+Mexico,3,WG1+3,0,0.0000,6
 Mexico,3,WG2,4,1.1080,361
+Mexico,3,WG2+3,0,0.0000,11
 Mexico,3,WG3,2,0.9901,202
 Mexico,4,WG1,2,0.3431,583
+Mexico,4,WG1+2,0,0.0000,31
+Mexico,4,WG1+3,0,0.0000,1
 Mexico,4,WG2,6,1.6000,375
+Mexico,4,WG2+3,0,0.0000,17
 Mexico,4,WG3,5,1.9608,255
 Mexico,5,WG1,2,0.2660,752
+Mexico,5,WG1+2,0,0.0000,25
 Mexico,5,WG2,16,2.5237,634
+Mexico,5,WG2+3,0,0.0000,5
 Mexico,5,WG3,8,3.0418,263
+Moldova,1,WG1,0,0.0000,233
+Moldova,1,WG1+2,0,0.0000,11
+Moldova,1,WG1+3,0,0.0000,4
+Moldova,1,WG2,0,0.0000,153
+Moldova,1,WG2+3,0,0.0000,5
+Moldova,1,WG3,0,0.0000,60
+Moldova,2,WG1,0,0.0000,384
+Moldova,2,WG1+2,0,0.0000,25
+Moldova,2,WG1+3,0,0.0000,2
+Moldova,2,WG2,0,0.0000,508
+Moldova,2,WG2+3,0,0.0000,10
+Moldova,2,WG3,0,0.0000,81
+Moldova,3,WG1,0,0.0000,564
+Moldova,3,WG1+2,0,0.0000,29
+Moldova,3,WG1+3,0,0.0000,6
+Moldova,3,WG2,0,0.0000,361
+Moldova,3,WG2+3,0,0.0000,11
+Moldova,3,WG3,0,0.0000,202
+Moldova,4,WG1,0,0.0000,583
+Moldova,4,WG1+2,0,0.0000,31
+Moldova,4,WG1+3,0,0.0000,1
 Moldova,4,WG2,1,0.2667,375
+Moldova,4,WG2+3,0,0.0000,17
+Moldova,4,WG3,0,0.0000,255
+Moldova,5,WG1,0,0.0000,752
+Moldova,5,WG1+2,0,0.0000,25
 Moldova,5,WG2,1,0.1577,634
+Moldova,5,WG2+3,0,0.0000,5
+Moldova,5,WG3,0,0.0000,263
+Monaco,1,WG1,0,0.0000,233
+Monaco,1,WG1+2,0,0.0000,11
+Monaco,1,WG1+3,0,0.0000,4
+Monaco,1,WG2,0,0.0000,153
+Monaco,1,WG2+3,0,0.0000,5
+Monaco,1,WG3,0,0.0000,60
+Monaco,2,WG1,0,0.0000,384
+Monaco,2,WG1+2,0,0.0000,25
+Monaco,2,WG1+3,0,0.0000,2
+Monaco,2,WG2,0,0.0000,508
+Monaco,2,WG2+3,0,0.0000,10
+Monaco,2,WG3,0,0.0000,81
+Monaco,3,WG1,0,0.0000,564
+Monaco,3,WG1+2,0,0.0000,29
+Monaco,3,WG1+3,0,0.0000,6
+Monaco,3,WG2,0,0.0000,361
+Monaco,3,WG2+3,0,0.0000,11
+Monaco,3,WG3,0,0.0000,202
 Monaco,4,WG1,1,0.1715,583
+Monaco,4,WG1+2,0,0.0000,31
+Monaco,4,WG1+3,0,0.0000,1
+Monaco,4,WG2,0,0.0000,375
+Monaco,4,WG2+3,0,0.0000,17
+Monaco,4,WG3,0,0.0000,255
+Monaco,5,WG1,0,0.0000,752
+Monaco,5,WG1+2,0,0.0000,25
+Monaco,5,WG2,0,0.0000,634
+Monaco,5,WG2+3,0,0.0000,5
+Monaco,5,WG3,0,0.0000,263
+Mongolia,1,WG1,0,0.0000,233
+Mongolia,1,WG1+2,0,0.0000,11
+Mongolia,1,WG1+3,0,0.0000,4
+Mongolia,1,WG2,0,0.0000,153
+Mongolia,1,WG2+3,0,0.0000,5
+Mongolia,1,WG3,0,0.0000,60
+Mongolia,2,WG1,0,0.0000,384
+Mongolia,2,WG1+2,0,0.0000,25
+Mongolia,2,WG1+3,0,0.0000,2
+Mongolia,2,WG2,0,0.0000,508
+Mongolia,2,WG2+3,0,0.0000,10
+Mongolia,2,WG3,0,0.0000,81
+Mongolia,3,WG1,0,0.0000,564
+Mongolia,3,WG1+2,0,0.0000,29
+Mongolia,3,WG1+3,0,0.0000,6
+Mongolia,3,WG2,0,0.0000,361
+Mongolia,3,WG2+3,0,0.0000,11
+Mongolia,3,WG3,0,0.0000,202
+Mongolia,4,WG1,0,0.0000,583
+Mongolia,4,WG1+2,0,0.0000,31
+Mongolia,4,WG1+3,0,0.0000,1
 Mongolia,4,WG2,1,0.2667,375
+Mongolia,4,WG2+3,0,0.0000,17
+Mongolia,4,WG3,0,0.0000,255
+Mongolia,5,WG1,0,0.0000,752
+Mongolia,5,WG1+2,0,0.0000,25
+Mongolia,5,WG2,0,0.0000,634
+Mongolia,5,WG2+3,0,0.0000,5
+Mongolia,5,WG3,0,0.0000,263
+Montenegro,1,WG1,0,0.0000,233
+Montenegro,1,WG1+2,0,0.0000,11
+Montenegro,1,WG1+3,0,0.0000,4
+Montenegro,1,WG2,0,0.0000,153
+Montenegro,1,WG2+3,0,0.0000,5
+Montenegro,1,WG3,0,0.0000,60
+Montenegro,2,WG1,0,0.0000,384
+Montenegro,2,WG1+2,0,0.0000,25
+Montenegro,2,WG1+3,0,0.0000,2
+Montenegro,2,WG2,0,0.0000,508
+Montenegro,2,WG2+3,0,0.0000,10
+Montenegro,2,WG3,0,0.0000,81
+Montenegro,3,WG1,0,0.0000,564
+Montenegro,3,WG1+2,0,0.0000,29
+Montenegro,3,WG1+3,0,0.0000,6
+Montenegro,3,WG2,0,0.0000,361
+Montenegro,3,WG2+3,0,0.0000,11
+Montenegro,3,WG3,0,0.0000,202
+Montenegro,4,WG1,0,0.0000,583
+Montenegro,4,WG1+2,0,0.0000,31
+Montenegro,4,WG1+3,0,0.0000,1
+Montenegro,4,WG2,0,0.0000,375
+Montenegro,4,WG2+3,0,0.0000,17
+Montenegro,4,WG3,0,0.0000,255
+Montenegro,5,WG1,0,0.0000,752
+Montenegro,5,WG1+2,0,0.0000,25
+Montenegro,5,WG2,0,0.0000,634
+Montenegro,5,WG2+3,0,0.0000,5
 Montenegro,5,WG3,1,0.3802,263
+Morocco,1,WG1,0,0.0000,233
+Morocco,1,WG1+2,0,0.0000,11
+Morocco,1,WG1+3,0,0.0000,4
+Morocco,1,WG2,0,0.0000,153
+Morocco,1,WG2+3,0,0.0000,5
+Morocco,1,WG3,0,0.0000,60
+Morocco,2,WG1,0,0.0000,384
+Morocco,2,WG1+2,0,0.0000,25
+Morocco,2,WG1+3,0,0.0000,2
+Morocco,2,WG2,0,0.0000,508
+Morocco,2,WG2+3,0,0.0000,10
+Morocco,2,WG3,0,0.0000,81
+Morocco,3,WG1,0,0.0000,564
+Morocco,3,WG1+2,0,0.0000,29
+Morocco,3,WG1+3,0,0.0000,6
 Morocco,3,WG2,1,0.2770,361
+Morocco,3,WG2+3,0,0.0000,11
+Morocco,3,WG3,0,0.0000,202
 Morocco,4,WG1,1,0.1715,583
+Morocco,4,WG1+2,0,0.0000,31
+Morocco,4,WG1+3,0,0.0000,1
 Morocco,4,WG2,2,0.5333,375
+Morocco,4,WG2+3,0,0.0000,17
+Morocco,4,WG3,0,0.0000,255
 Morocco,5,WG1,3,0.3989,752
+Morocco,5,WG1+2,0,0.0000,25
 Morocco,5,WG2,2,0.3155,634
+Morocco,5,WG2+3,0,0.0000,5
 Morocco,5,WG3,2,0.7605,263
+Mozambique,1,WG1,0,0.0000,233
+Mozambique,1,WG1+2,0,0.0000,11
+Mozambique,1,WG1+3,0,0.0000,4
+Mozambique,1,WG2,0,0.0000,153
+Mozambique,1,WG2+3,0,0.0000,5
+Mozambique,1,WG3,0,0.0000,60
+Mozambique,2,WG1,0,0.0000,384
+Mozambique,2,WG1+2,0,0.0000,25
+Mozambique,2,WG1+3,0,0.0000,2
+Mozambique,2,WG2,0,0.0000,508
+Mozambique,2,WG2+3,0,0.0000,10
+Mozambique,2,WG3,0,0.0000,81
+Mozambique,3,WG1,0,0.0000,564
+Mozambique,3,WG1+2,0,0.0000,29
+Mozambique,3,WG1+3,0,0.0000,6
+Mozambique,3,WG2,0,0.0000,361
+Mozambique,3,WG2+3,0,0.0000,11
+Mozambique,3,WG3,0,0.0000,202
+Mozambique,4,WG1,0,0.0000,583
+Mozambique,4,WG1+2,0,0.0000,31
+Mozambique,4,WG1+3,0,0.0000,1
 Mozambique,4,WG2,1,0.2667,375
+Mozambique,4,WG2+3,0,0.0000,17
+Mozambique,4,WG3,0,0.0000,255
+Mozambique,5,WG1,0,0.0000,752
+Mozambique,5,WG1+2,0,0.0000,25
+Mozambique,5,WG2,0,0.0000,634
+Mozambique,5,WG2+3,0,0.0000,5
+Mozambique,5,WG3,0,0.0000,263
 N/A,1,WG1,3,1.2876,233
 N/A,1,WG1+2,1,9.0909,11
+N/A,1,WG1+3,0,0.0000,4
 N/A,1,WG2,58,37.9085,153
+N/A,1,WG2+3,0,0.0000,5
+N/A,1,WG3,0,0.0000,60
 N/A,2,WG1,1,0.2604,384
+N/A,2,WG1+2,0,0.0000,25
+N/A,2,WG1+3,0,0.0000,2
 N/A,2,WG2,2,0.3937,508
+N/A,2,WG2+3,0,0.0000,10
 N/A,2,WG3,3,3.7037,81
 N/A,3,WG1,10,1.7730,564
+N/A,3,WG1+2,0,0.0000,29
+N/A,3,WG1+3,0,0.0000,6
 N/A,3,WG2,155,42.9363,361
+N/A,3,WG2+3,0,0.0000,11
 N/A,3,WG3,19,9.4059,202
+N/A,4,WG1,0,0.0000,583
+N/A,4,WG1+2,0,0.0000,31
+N/A,4,WG1+3,0,0.0000,1
+N/A,4,WG2,0,0.0000,375
+N/A,4,WG2+3,0,0.0000,17
+N/A,4,WG3,0,0.0000,255
+N/A,5,WG1,0,0.0000,752
+N/A,5,WG1+2,0,0.0000,25
+N/A,5,WG2,0,0.0000,634
+N/A,5,WG2+3,0,0.0000,5
+N/A,5,WG3,0,0.0000,263
+Namibia,1,WG1,0,0.0000,233
+Namibia,1,WG1+2,0,0.0000,11
+Namibia,1,WG1+3,0,0.0000,4
+Namibia,1,WG2,0,0.0000,153
+Namibia,1,WG2+3,0,0.0000,5
+Namibia,1,WG3,0,0.0000,60
+Namibia,2,WG1,0,0.0000,384
+Namibia,2,WG1+2,0,0.0000,25
+Namibia,2,WG1+3,0,0.0000,2
+Namibia,2,WG2,0,0.0000,508
+Namibia,2,WG2+3,0,0.0000,10
+Namibia,2,WG3,0,0.0000,81
+Namibia,3,WG1,0,0.0000,564
+Namibia,3,WG1+2,0,0.0000,29
+Namibia,3,WG1+3,0,0.0000,6
+Namibia,3,WG2,0,0.0000,361
+Namibia,3,WG2+3,0,0.0000,11
+Namibia,3,WG3,0,0.0000,202
+Namibia,4,WG1,0,0.0000,583
+Namibia,4,WG1+2,0,0.0000,31
+Namibia,4,WG1+3,0,0.0000,1
+Namibia,4,WG2,0,0.0000,375
+Namibia,4,WG2+3,0,0.0000,17
+Namibia,4,WG3,0,0.0000,255
+Namibia,5,WG1,0,0.0000,752
+Namibia,5,WG1+2,0,0.0000,25
 Namibia,5,WG2,1,0.1577,634
+Namibia,5,WG2+3,0,0.0000,5
+Namibia,5,WG3,0,0.0000,263
+Nepal,1,WG1,0,0.0000,233
+Nepal,1,WG1+2,0,0.0000,11
+Nepal,1,WG1+3,0,0.0000,4
+Nepal,1,WG2,0,0.0000,153
+Nepal,1,WG2+3,0,0.0000,5
 Nepal,1,WG3,1,1.6667,60
+Nepal,2,WG1,0,0.0000,384
+Nepal,2,WG1+2,0,0.0000,25
+Nepal,2,WG1+3,0,0.0000,2
 Nepal,2,WG2,3,0.5906,508
+Nepal,2,WG2+3,0,0.0000,10
+Nepal,2,WG3,0,0.0000,81
+Nepal,3,WG1,0,0.0000,564
+Nepal,3,WG1+2,0,0.0000,29
+Nepal,3,WG1+3,0,0.0000,6
 Nepal,3,WG2,1,0.2770,361
+Nepal,3,WG2+3,0,0.0000,11
+Nepal,3,WG3,0,0.0000,202
+Nepal,4,WG1,0,0.0000,583
+Nepal,4,WG1+2,0,0.0000,31
+Nepal,4,WG1+3,0,0.0000,1
 Nepal,4,WG2,1,0.2667,375
+Nepal,4,WG2+3,0,0.0000,17
+Nepal,4,WG3,0,0.0000,255
+Nepal,5,WG1,0,0.0000,752
+Nepal,5,WG1+2,0,0.0000,25
 Nepal,5,WG2,1,0.1577,634
+Nepal,5,WG2+3,0,0.0000,5
+Nepal,5,WG3,0,0.0000,263
 Netherlands,1,WG1,5,2.1459,233
+Netherlands,1,WG1+2,0,0.0000,11
+Netherlands,1,WG1+3,0,0.0000,4
 Netherlands,1,WG2,2,1.3072,153
+Netherlands,1,WG2+3,0,0.0000,5
 Netherlands,1,WG3,5,8.3333,60
 Netherlands,2,WG1,6,1.5625,384
 Netherlands,2,WG1+2,1,4.0000,25
+Netherlands,2,WG1+3,0,0.0000,2
 Netherlands,2,WG2,13,2.5591,508
 Netherlands,2,WG2+3,1,10.0000,10
 Netherlands,2,WG3,4,4.9383,81
 Netherlands,3,WG1,10,1.7730,564
 Netherlands,3,WG1+2,1,3.4483,29
+Netherlands,3,WG1+3,0,0.0000,6
 Netherlands,3,WG2,5,1.3850,361
+Netherlands,3,WG2+3,0,0.0000,11
 Netherlands,3,WG3,12,5.9406,202
 Netherlands,4,WG1,9,1.5437,583
+Netherlands,4,WG1+2,0,0.0000,31
+Netherlands,4,WG1+3,0,0.0000,1
 Netherlands,4,WG2,10,2.6667,375
 Netherlands,4,WG2+3,1,5.8824,17
 Netherlands,4,WG3,23,9.0196,255
 Netherlands,5,WG1,25,3.3245,752
 Netherlands,5,WG1+2,2,8.0000,25
 Netherlands,5,WG2,12,1.8927,634
+Netherlands,5,WG2+3,0,0.0000,5
 Netherlands,5,WG3,10,3.8023,263
+New Zealand,1,WG1,0,0.0000,233
+New Zealand,1,WG1+2,0,0.0000,11
+New Zealand,1,WG1+3,0,0.0000,4
 New Zealand,1,WG2,4,2.6144,153
+New Zealand,1,WG2+3,0,0.0000,5
 New Zealand,1,WG3,3,5.0000,60
 New Zealand,2,WG1,3,0.7813,384
+New Zealand,2,WG1+2,0,0.0000,25
+New Zealand,2,WG1+3,0,0.0000,2
 New Zealand,2,WG2,10,1.9685,508
+New Zealand,2,WG2+3,0,0.0000,10
+New Zealand,2,WG3,0,0.0000,81
 New Zealand,3,WG1,4,0.7092,564
 New Zealand,3,WG1+2,2,6.8966,29
+New Zealand,3,WG1+3,0,0.0000,6
 New Zealand,3,WG2,4,1.1080,361
+New Zealand,3,WG2+3,0,0.0000,11
 New Zealand,3,WG3,1,0.4950,202
 New Zealand,4,WG1,7,1.2007,583
 New Zealand,4,WG1+2,1,3.2258,31
+New Zealand,4,WG1+3,0,0.0000,1
 New Zealand,4,WG2,13,3.4667,375
+New Zealand,4,WG2+3,0,0.0000,17
 New Zealand,4,WG3,3,1.1765,255
 New Zealand,5,WG1,7,0.9309,752
+New Zealand,5,WG1+2,0,0.0000,25
 New Zealand,5,WG2,19,2.9968,634
+New Zealand,5,WG2+3,0,0.0000,5
 New Zealand,5,WG3,3,1.1407,263
 Nigeria,1,WG1,1,0.4292,233
 Nigeria,1,WG1+2,1,9.0909,11
+Nigeria,1,WG1+3,0,0.0000,4
 Nigeria,1,WG2,2,1.3072,153
+Nigeria,1,WG2+3,0,0.0000,5
+Nigeria,1,WG3,0,0.0000,60
+Nigeria,2,WG1,0,0.0000,384
+Nigeria,2,WG1+2,0,0.0000,25
+Nigeria,2,WG1+3,0,0.0000,2
 Nigeria,2,WG2,1,0.1969,508
+Nigeria,2,WG2+3,0,0.0000,10
+Nigeria,2,WG3,0,0.0000,81
+Nigeria,3,WG1,0,0.0000,564
+Nigeria,3,WG1+2,0,0.0000,29
+Nigeria,3,WG1+3,0,0.0000,6
 Nigeria,3,WG2,4,1.1080,361
+Nigeria,3,WG2+3,0,0.0000,11
 Nigeria,3,WG3,1,0.4950,202
+Nigeria,4,WG1,0,0.0000,583
+Nigeria,4,WG1+2,0,0.0000,31
+Nigeria,4,WG1+3,0,0.0000,1
 Nigeria,4,WG2,3,0.8000,375
+Nigeria,4,WG2+3,0,0.0000,17
 Nigeria,4,WG3,3,1.1765,255
+Nigeria,5,WG1,0,0.0000,752
 Nigeria,5,WG1+2,1,4.0000,25
 Nigeria,5,WG2,5,0.7886,634
+Nigeria,5,WG2+3,0,0.0000,5
+Nigeria,5,WG3,0,0.0000,263
 Norway,1,WG1,3,1.2876,233
+Norway,1,WG1+2,0,0.0000,11
+Norway,1,WG1+3,0,0.0000,4
 Norway,1,WG2,2,1.3072,153
+Norway,1,WG2+3,0,0.0000,5
+Norway,1,WG3,0,0.0000,60
 Norway,2,WG1,3,0.7813,384
+Norway,2,WG1+2,0,0.0000,25
+Norway,2,WG1+3,0,0.0000,2
 Norway,2,WG2,4,0.7874,508
+Norway,2,WG2+3,0,0.0000,10
 Norway,2,WG3,2,2.4691,81
 Norway,3,WG1,13,2.3050,564
+Norway,3,WG1+2,0,0.0000,29
 Norway,3,WG1+3,1,16.6667,6
 Norway,3,WG2,3,0.8310,361
+Norway,3,WG2+3,0,0.0000,11
 Norway,3,WG3,5,2.4752,202
 Norway,4,WG1,13,2.2298,583
+Norway,4,WG1+2,0,0.0000,31
+Norway,4,WG1+3,0,0.0000,1
 Norway,4,WG2,1,0.2667,375
+Norway,4,WG2+3,0,0.0000,17
 Norway,4,WG3,5,1.9608,255
 Norway,5,WG1,21,2.7926,752
+Norway,5,WG1+2,0,0.0000,25
 Norway,5,WG2,18,2.8391,634
+Norway,5,WG2+3,0,0.0000,5
 Norway,5,WG3,5,1.9011,263
+Oman,1,WG1,0,0.0000,233
+Oman,1,WG1+2,0,0.0000,11
+Oman,1,WG1+3,0,0.0000,4
+Oman,1,WG2,0,0.0000,153
+Oman,1,WG2+3,0,0.0000,5
+Oman,1,WG3,0,0.0000,60
+Oman,2,WG1,0,0.0000,384
+Oman,2,WG1+2,0,0.0000,25
+Oman,2,WG1+3,0,0.0000,2
+Oman,2,WG2,0,0.0000,508
+Oman,2,WG2+3,0,0.0000,10
+Oman,2,WG3,0,0.0000,81
+Oman,3,WG1,0,0.0000,564
+Oman,3,WG1+2,0,0.0000,29
+Oman,3,WG1+3,0,0.0000,6
+Oman,3,WG2,0,0.0000,361
+Oman,3,WG2+3,0,0.0000,11
+Oman,3,WG3,0,0.0000,202
+Oman,4,WG1,0,0.0000,583
+Oman,4,WG1+2,0,0.0000,31
+Oman,4,WG1+3,0,0.0000,1
+Oman,4,WG2,0,0.0000,375
+Oman,4,WG2+3,0,0.0000,17
 Oman,4,WG3,1,0.3922,255
 Oman,5,WG1,1,0.1330,752
+Oman,5,WG1+2,0,0.0000,25
+Oman,5,WG2,0,0.0000,634
+Oman,5,WG2+3,0,0.0000,5
+Oman,5,WG3,0,0.0000,263
+Pakistan,1,WG1,0,0.0000,233
+Pakistan,1,WG1+2,0,0.0000,11
+Pakistan,1,WG1+3,0,0.0000,4
+Pakistan,1,WG2,0,0.0000,153
+Pakistan,1,WG2+3,0,0.0000,5
+Pakistan,1,WG3,0,0.0000,60
+Pakistan,2,WG1,0,0.0000,384
+Pakistan,2,WG1+2,0,0.0000,25
+Pakistan,2,WG1+3,0,0.0000,2
+Pakistan,2,WG2,0,0.0000,508
+Pakistan,2,WG2+3,0,0.0000,10
 Pakistan,2,WG3,1,1.2346,81
+Pakistan,3,WG1,0,0.0000,564
+Pakistan,3,WG1+2,0,0.0000,29
+Pakistan,3,WG1+3,0,0.0000,6
+Pakistan,3,WG2,0,0.0000,361
+Pakistan,3,WG2+3,0,0.0000,11
+Pakistan,3,WG3,0,0.0000,202
+Pakistan,4,WG1,0,0.0000,583
+Pakistan,4,WG1+2,0,0.0000,31
+Pakistan,4,WG1+3,0,0.0000,1
+Pakistan,4,WG2,0,0.0000,375
+Pakistan,4,WG2+3,0,0.0000,17
+Pakistan,4,WG3,0,0.0000,255
+Pakistan,5,WG1,0,0.0000,752
+Pakistan,5,WG1+2,0,0.0000,25
 Pakistan,5,WG2,1,0.1577,634
+Pakistan,5,WG2+3,0,0.0000,5
+Pakistan,5,WG3,0,0.0000,263
+Papua New Guinea,1,WG1,0,0.0000,233
+Papua New Guinea,1,WG1+2,0,0.0000,11
+Papua New Guinea,1,WG1+3,0,0.0000,4
+Papua New Guinea,1,WG2,0,0.0000,153
+Papua New Guinea,1,WG2+3,0,0.0000,5
+Papua New Guinea,1,WG3,0,0.0000,60
+Papua New Guinea,2,WG1,0,0.0000,384
+Papua New Guinea,2,WG1+2,0,0.0000,25
+Papua New Guinea,2,WG1+3,0,0.0000,2
+Papua New Guinea,2,WG2,0,0.0000,508
+Papua New Guinea,2,WG2+3,0,0.0000,10
+Papua New Guinea,2,WG3,0,0.0000,81
+Papua New Guinea,3,WG1,0,0.0000,564
+Papua New Guinea,3,WG1+2,0,0.0000,29
+Papua New Guinea,3,WG1+3,0,0.0000,6
+Papua New Guinea,3,WG2,0,0.0000,361
+Papua New Guinea,3,WG2+3,0,0.0000,11
+Papua New Guinea,3,WG3,0,0.0000,202
+Papua New Guinea,4,WG1,0,0.0000,583
+Papua New Guinea,4,WG1+2,0,0.0000,31
+Papua New Guinea,4,WG1+3,0,0.0000,1
+Papua New Guinea,4,WG2,0,0.0000,375
+Papua New Guinea,4,WG2+3,0,0.0000,17
+Papua New Guinea,4,WG3,0,0.0000,255
+Papua New Guinea,5,WG1,0,0.0000,752
+Papua New Guinea,5,WG1+2,0,0.0000,25
+Papua New Guinea,5,WG2,0,0.0000,634
+Papua New Guinea,5,WG2+3,0,0.0000,5
+Papua New Guinea,5,WG3,0,0.0000,263
+Peru,1,WG1,0,0.0000,233
+Peru,1,WG1+2,0,0.0000,11
+Peru,1,WG1+3,0,0.0000,4
+Peru,1,WG2,0,0.0000,153
+Peru,1,WG2+3,0,0.0000,5
+Peru,1,WG3,0,0.0000,60
+Peru,2,WG1,0,0.0000,384
+Peru,2,WG1+2,0,0.0000,25
+Peru,2,WG1+3,0,0.0000,2
 Peru,2,WG2,6,1.1811,508
+Peru,2,WG2+3,0,0.0000,10
+Peru,2,WG3,0,0.0000,81
+Peru,3,WG1,0,0.0000,564
+Peru,3,WG1+2,0,0.0000,29
+Peru,3,WG1+3,0,0.0000,6
+Peru,3,WG2,0,0.0000,361
+Peru,3,WG2+3,0,0.0000,11
 Peru,3,WG3,3,1.4851,202
+Peru,4,WG1,0,0.0000,583
+Peru,4,WG1+2,0,0.0000,31
+Peru,4,WG1+3,0,0.0000,1
 Peru,4,WG2,1,0.2667,375
+Peru,4,WG2+3,0,0.0000,17
 Peru,4,WG3,2,0.7843,255
+Peru,5,WG1,0,0.0000,752
+Peru,5,WG1+2,0,0.0000,25
 Peru,5,WG2,1,0.1577,634
+Peru,5,WG2+3,0,0.0000,5
+Peru,5,WG3,0,0.0000,263
+Philippines,1,WG1,0,0.0000,233
 Philippines,1,WG1+2,1,9.0909,11
+Philippines,1,WG1+3,0,0.0000,4
+Philippines,1,WG2,0,0.0000,153
+Philippines,1,WG2+3,0,0.0000,5
+Philippines,1,WG3,0,0.0000,60
+Philippines,2,WG1,0,0.0000,384
+Philippines,2,WG1+2,0,0.0000,25
+Philippines,2,WG1+3,0,0.0000,2
 Philippines,2,WG2,2,0.3937,508
+Philippines,2,WG2+3,0,0.0000,10
+Philippines,2,WG3,0,0.0000,81
 Philippines,3,WG1,1,0.1773,564
+Philippines,3,WG1+2,0,0.0000,29
+Philippines,3,WG1+3,0,0.0000,6
 Philippines,3,WG2,2,0.5540,361
+Philippines,3,WG2+3,0,0.0000,11
+Philippines,3,WG3,0,0.0000,202
+Philippines,4,WG1,0,0.0000,583
+Philippines,4,WG1+2,0,0.0000,31
+Philippines,4,WG1+3,0,0.0000,1
 Philippines,4,WG2,4,1.0667,375
+Philippines,4,WG2+3,0,0.0000,17
+Philippines,4,WG3,0,0.0000,255
+Philippines,5,WG1,0,0.0000,752
+Philippines,5,WG1+2,0,0.0000,25
 Philippines,5,WG2,6,0.9464,634
+Philippines,5,WG2+3,0,0.0000,5
+Philippines,5,WG3,0,0.0000,263
 Poland,1,WG1,1,0.4292,233
+Poland,1,WG1+2,0,0.0000,11
+Poland,1,WG1+3,0,0.0000,4
 Poland,1,WG2,1,0.6536,153
+Poland,1,WG2+3,0,0.0000,5
+Poland,1,WG3,0,0.0000,60
+Poland,2,WG1,0,0.0000,384
+Poland,2,WG1+2,0,0.0000,25
+Poland,2,WG1+3,0,0.0000,2
 Poland,2,WG2,3,0.5906,508
+Poland,2,WG2+3,0,0.0000,10
+Poland,2,WG3,0,0.0000,81
 Poland,3,WG1,1,0.1773,564
+Poland,3,WG1+2,0,0.0000,29
+Poland,3,WG1+3,0,0.0000,6
 Poland,3,WG2,1,0.2770,361
+Poland,3,WG2+3,0,0.0000,11
+Poland,3,WG3,0,0.0000,202
+Poland,4,WG1,0,0.0000,583
+Poland,4,WG1+2,0,0.0000,31
+Poland,4,WG1+3,0,0.0000,1
 Poland,4,WG2,2,0.5333,375
+Poland,4,WG2+3,0,0.0000,17
+Poland,4,WG3,0,0.0000,255
+Poland,5,WG1,0,0.0000,752
+Poland,5,WG1+2,0,0.0000,25
 Poland,5,WG2,1,0.1577,634
 Poland,5,WG2+3,1,20.0000,5
+Poland,5,WG3,0,0.0000,263
+Portugal,1,WG1,0,0.0000,233
+Portugal,1,WG1+2,0,0.0000,11
+Portugal,1,WG1+3,0,0.0000,4
 Portugal,1,WG2,1,0.6536,153
+Portugal,1,WG2+3,0,0.0000,5
+Portugal,1,WG3,0,0.0000,60
+Portugal,2,WG1,0,0.0000,384
+Portugal,2,WG1+2,0,0.0000,25
+Portugal,2,WG1+3,0,0.0000,2
+Portugal,2,WG2,0,0.0000,508
+Portugal,2,WG2+3,0,0.0000,10
+Portugal,2,WG3,0,0.0000,81
+Portugal,3,WG1,0,0.0000,564
+Portugal,3,WG1+2,0,0.0000,29
+Portugal,3,WG1+3,0,0.0000,6
 Portugal,3,WG2,2,0.5540,361
+Portugal,3,WG2+3,0,0.0000,11
+Portugal,3,WG3,0,0.0000,202
+Portugal,4,WG1,0,0.0000,583
+Portugal,4,WG1+2,0,0.0000,31
+Portugal,4,WG1+3,0,0.0000,1
 Portugal,4,WG2,1,0.2667,375
+Portugal,4,WG2+3,0,0.0000,17
+Portugal,4,WG3,0,0.0000,255
 Portugal,5,WG1,1,0.1330,752
+Portugal,5,WG1+2,0,0.0000,25
 Portugal,5,WG2,1,0.1577,634
+Portugal,5,WG2+3,0,0.0000,5
+Portugal,5,WG3,0,0.0000,263
+Puerto Rico,1,WG1,0,0.0000,233
+Puerto Rico,1,WG1+2,0,0.0000,11
+Puerto Rico,1,WG1+3,0,0.0000,4
+Puerto Rico,1,WG2,0,0.0000,153
+Puerto Rico,1,WG2+3,0,0.0000,5
+Puerto Rico,1,WG3,0,0.0000,60
+Puerto Rico,2,WG1,0,0.0000,384
+Puerto Rico,2,WG1+2,0,0.0000,25
+Puerto Rico,2,WG1+3,0,0.0000,2
+Puerto Rico,2,WG2,0,0.0000,508
+Puerto Rico,2,WG2+3,0,0.0000,10
+Puerto Rico,2,WG3,0,0.0000,81
+Puerto Rico,3,WG1,0,0.0000,564
+Puerto Rico,3,WG1+2,0,0.0000,29
+Puerto Rico,3,WG1+3,0,0.0000,6
+Puerto Rico,3,WG2,0,0.0000,361
+Puerto Rico,3,WG2+3,0,0.0000,11
+Puerto Rico,3,WG3,0,0.0000,202
+Puerto Rico,4,WG1,0,0.0000,583
+Puerto Rico,4,WG1+2,0,0.0000,31
+Puerto Rico,4,WG1+3,0,0.0000,1
 Puerto Rico,4,WG2,1,0.2667,375
+Puerto Rico,4,WG2+3,0,0.0000,17
+Puerto Rico,4,WG3,0,0.0000,255
+Puerto Rico,5,WG1,0,0.0000,752
+Puerto Rico,5,WG1+2,0,0.0000,25
+Puerto Rico,5,WG2,0,0.0000,634
+Puerto Rico,5,WG2+3,0,0.0000,5
+Puerto Rico,5,WG3,0,0.0000,263
+Qatar,1,WG1,0,0.0000,233
+Qatar,1,WG1+2,0,0.0000,11
+Qatar,1,WG1+3,0,0.0000,4
+Qatar,1,WG2,0,0.0000,153
+Qatar,1,WG2+3,0,0.0000,5
+Qatar,1,WG3,0,0.0000,60
+Qatar,2,WG1,0,0.0000,384
+Qatar,2,WG1+2,0,0.0000,25
+Qatar,2,WG1+3,0,0.0000,2
+Qatar,2,WG2,0,0.0000,508
+Qatar,2,WG2+3,0,0.0000,10
+Qatar,2,WG3,0,0.0000,81
+Qatar,3,WG1,0,0.0000,564
+Qatar,3,WG1+2,0,0.0000,29
+Qatar,3,WG1+3,0,0.0000,6
+Qatar,3,WG2,0,0.0000,361
+Qatar,3,WG2+3,0,0.0000,11
+Qatar,3,WG3,0,0.0000,202
+Qatar,4,WG1,0,0.0000,583
+Qatar,4,WG1+2,0,0.0000,31
+Qatar,4,WG1+3,0,0.0000,1
+Qatar,4,WG2,0,0.0000,375
+Qatar,4,WG2+3,0,0.0000,17
+Qatar,4,WG3,0,0.0000,255
 Qatar,5,WG1,1,0.1330,752
+Qatar,5,WG1+2,0,0.0000,25
+Qatar,5,WG2,0,0.0000,634
+Qatar,5,WG2+3,0,0.0000,5
+Qatar,5,WG3,0,0.0000,263
+Romania,1,WG1,0,0.0000,233
+Romania,1,WG1+2,0,0.0000,11
+Romania,1,WG1+3,0,0.0000,4
+Romania,1,WG2,0,0.0000,153
+Romania,1,WG2+3,0,0.0000,5
+Romania,1,WG3,0,0.0000,60
+Romania,2,WG1,0,0.0000,384
+Romania,2,WG1+2,0,0.0000,25
+Romania,2,WG1+3,0,0.0000,2
+Romania,2,WG2,0,0.0000,508
+Romania,2,WG2+3,0,0.0000,10
+Romania,2,WG3,0,0.0000,81
+Romania,3,WG1,0,0.0000,564
+Romania,3,WG1+2,0,0.0000,29
+Romania,3,WG1+3,0,0.0000,6
+Romania,3,WG2,0,0.0000,361
+Romania,3,WG2+3,0,0.0000,11
+Romania,3,WG3,0,0.0000,202
 Romania,4,WG1,2,0.3431,583
+Romania,4,WG1+2,0,0.0000,31
+Romania,4,WG1+3,0,0.0000,1
+Romania,4,WG2,0,0.0000,375
+Romania,4,WG2+3,0,0.0000,17
+Romania,4,WG3,0,0.0000,255
 Romania,5,WG1,1,0.1330,752
+Romania,5,WG1+2,0,0.0000,25
 Romania,5,WG2,1,0.1577,634
+Romania,5,WG2+3,0,0.0000,5
+Romania,5,WG3,0,0.0000,263
+Russian Federation,1,WG1,0,0.0000,233
+Russian Federation,1,WG1+2,0,0.0000,11
+Russian Federation,1,WG1+3,0,0.0000,4
+Russian Federation,1,WG2,0,0.0000,153
+Russian Federation,1,WG2+3,0,0.0000,5
+Russian Federation,1,WG3,0,0.0000,60
 Russian Federation,2,WG1,22,5.7292,384
+Russian Federation,2,WG1+2,0,0.0000,25
+Russian Federation,2,WG1+3,0,0.0000,2
 Russian Federation,2,WG2,13,2.5591,508
+Russian Federation,2,WG2+3,0,0.0000,10
 Russian Federation,2,WG3,3,3.7037,81
 Russian Federation,3,WG1,9,1.5957,564
 Russian Federation,3,WG1+2,2,6.8966,29
+Russian Federation,3,WG1+3,0,0.0000,6
 Russian Federation,3,WG2,7,1.9391,361
+Russian Federation,3,WG2+3,0,0.0000,11
 Russian Federation,3,WG3,4,1.9802,202
 Russian Federation,4,WG1,7,1.2007,583
+Russian Federation,4,WG1+2,0,0.0000,31
+Russian Federation,4,WG1+3,0,0.0000,1
 Russian Federation,4,WG2,6,1.6000,375
+Russian Federation,4,WG2+3,0,0.0000,17
 Russian Federation,4,WG3,4,1.5686,255
 Russian Federation,5,WG1,10,1.3298,752
+Russian Federation,5,WG1+2,0,0.0000,25
 Russian Federation,5,WG2,10,1.5773,634
+Russian Federation,5,WG2+3,0,0.0000,5
 Russian Federation,5,WG3,2,0.7605,263
+Samoa,1,WG1,0,0.0000,233
+Samoa,1,WG1+2,0,0.0000,11
+Samoa,1,WG1+3,0,0.0000,4
+Samoa,1,WG2,0,0.0000,153
+Samoa,1,WG2+3,0,0.0000,5
+Samoa,1,WG3,0,0.0000,60
+Samoa,2,WG1,0,0.0000,384
+Samoa,2,WG1+2,0,0.0000,25
+Samoa,2,WG1+3,0,0.0000,2
+Samoa,2,WG2,0,0.0000,508
+Samoa,2,WG2+3,0,0.0000,10
+Samoa,2,WG3,0,0.0000,81
+Samoa,3,WG1,0,0.0000,564
+Samoa,3,WG1+2,0,0.0000,29
+Samoa,3,WG1+3,0,0.0000,6
 Samoa,3,WG2,1,0.2770,361
+Samoa,3,WG2+3,0,0.0000,11
+Samoa,3,WG3,0,0.0000,202
+Samoa,4,WG1,0,0.0000,583
+Samoa,4,WG1+2,0,0.0000,31
+Samoa,4,WG1+3,0,0.0000,1
 Samoa,4,WG2,2,0.5333,375
+Samoa,4,WG2+3,0,0.0000,17
+Samoa,4,WG3,0,0.0000,255
+Samoa,5,WG1,0,0.0000,752
+Samoa,5,WG1+2,0,0.0000,25
 Samoa,5,WG2,1,0.1577,634
+Samoa,5,WG2+3,0,0.0000,5
+Samoa,5,WG3,0,0.0000,263
+Saudi Arabia,1,WG1,0,0.0000,233
+Saudi Arabia,1,WG1+2,0,0.0000,11
+Saudi Arabia,1,WG1+3,0,0.0000,4
+Saudi Arabia,1,WG2,0,0.0000,153
+Saudi Arabia,1,WG2+3,0,0.0000,5
 Saudi Arabia,1,WG3,1,1.6667,60
+Saudi Arabia,2,WG1,0,0.0000,384
+Saudi Arabia,2,WG1+2,0,0.0000,25
+Saudi Arabia,2,WG1+3,0,0.0000,2
 Saudi Arabia,2,WG2,2,0.3937,508
+Saudi Arabia,2,WG2+3,0,0.0000,10
 Saudi Arabia,2,WG3,1,1.2346,81
+Saudi Arabia,3,WG1,0,0.0000,564
+Saudi Arabia,3,WG1+2,0,0.0000,29
+Saudi Arabia,3,WG1+3,0,0.0000,6
+Saudi Arabia,3,WG2,0,0.0000,361
+Saudi Arabia,3,WG2+3,0,0.0000,11
 Saudi Arabia,3,WG3,1,0.4950,202
+Saudi Arabia,4,WG1,0,0.0000,583
+Saudi Arabia,4,WG1+2,0,0.0000,31
+Saudi Arabia,4,WG1+3,0,0.0000,1
+Saudi Arabia,4,WG2,0,0.0000,375
+Saudi Arabia,4,WG2+3,0,0.0000,17
 Saudi Arabia,4,WG3,2,0.7843,255
+Saudi Arabia,5,WG1,0,0.0000,752
+Saudi Arabia,5,WG1+2,0,0.0000,25
+Saudi Arabia,5,WG2,0,0.0000,634
+Saudi Arabia,5,WG2+3,0,0.0000,5
 Saudi Arabia,5,WG3,2,0.7605,263
+Senegal,1,WG1,0,0.0000,233
+Senegal,1,WG1+2,0,0.0000,11
+Senegal,1,WG1+3,0,0.0000,4
+Senegal,1,WG2,0,0.0000,153
+Senegal,1,WG2+3,0,0.0000,5
+Senegal,1,WG3,0,0.0000,60
+Senegal,2,WG1,0,0.0000,384
+Senegal,2,WG1+2,0,0.0000,25
+Senegal,2,WG1+3,0,0.0000,2
+Senegal,2,WG2,0,0.0000,508
+Senegal,2,WG2+3,0,0.0000,10
 Senegal,2,WG3,1,1.2346,81
+Senegal,3,WG1,0,0.0000,564
+Senegal,3,WG1+2,0,0.0000,29
+Senegal,3,WG1+3,0,0.0000,6
 Senegal,3,WG2,1,0.2770,361
+Senegal,3,WG2+3,0,0.0000,11
+Senegal,3,WG3,0,0.0000,202
 Senegal,4,WG1,2,0.3431,583
+Senegal,4,WG1+2,0,0.0000,31
+Senegal,4,WG1+3,0,0.0000,1
 Senegal,4,WG2,2,0.5333,375
+Senegal,4,WG2+3,0,0.0000,17
+Senegal,4,WG3,0,0.0000,255
 Senegal,5,WG1,1,0.1330,752
+Senegal,5,WG1+2,0,0.0000,25
 Senegal,5,WG2,5,0.7886,634
+Senegal,5,WG2+3,0,0.0000,5
 Senegal,5,WG3,1,0.3802,263
+Seychelles,1,WG1,0,0.0000,233
+Seychelles,1,WG1+2,0,0.0000,11
+Seychelles,1,WG1+3,0,0.0000,4
+Seychelles,1,WG2,0,0.0000,153
+Seychelles,1,WG2+3,0,0.0000,5
+Seychelles,1,WG3,0,0.0000,60
+Seychelles,2,WG1,0,0.0000,384
+Seychelles,2,WG1+2,0,0.0000,25
+Seychelles,2,WG1+3,0,0.0000,2
+Seychelles,2,WG2,0,0.0000,508
+Seychelles,2,WG2+3,0,0.0000,10
+Seychelles,2,WG3,0,0.0000,81
+Seychelles,3,WG1,0,0.0000,564
+Seychelles,3,WG1+2,0,0.0000,29
+Seychelles,3,WG1+3,0,0.0000,6
 Seychelles,3,WG2,1,0.2770,361
+Seychelles,3,WG2+3,0,0.0000,11
+Seychelles,3,WG3,0,0.0000,202
+Seychelles,4,WG1,0,0.0000,583
+Seychelles,4,WG1+2,0,0.0000,31
+Seychelles,4,WG1+3,0,0.0000,1
 Seychelles,4,WG2,2,0.5333,375
+Seychelles,4,WG2+3,0,0.0000,17
+Seychelles,4,WG3,0,0.0000,255
+Seychelles,5,WG1,0,0.0000,752
+Seychelles,5,WG1+2,0,0.0000,25
 Seychelles,5,WG2,1,0.1577,634
+Seychelles,5,WG2+3,0,0.0000,5
+Seychelles,5,WG3,0,0.0000,263
+Sierra Leone,1,WG1,0,0.0000,233
+Sierra Leone,1,WG1+2,0,0.0000,11
+Sierra Leone,1,WG1+3,0,0.0000,4
+Sierra Leone,1,WG2,0,0.0000,153
+Sierra Leone,1,WG2+3,0,0.0000,5
+Sierra Leone,1,WG3,0,0.0000,60
+Sierra Leone,2,WG1,0,0.0000,384
+Sierra Leone,2,WG1+2,0,0.0000,25
+Sierra Leone,2,WG1+3,0,0.0000,2
+Sierra Leone,2,WG2,0,0.0000,508
 Sierra Leone,2,WG2+3,1,10.0000,10
+Sierra Leone,2,WG3,0,0.0000,81
+Sierra Leone,3,WG1,0,0.0000,564
+Sierra Leone,3,WG1+2,0,0.0000,29
+Sierra Leone,3,WG1+3,0,0.0000,6
+Sierra Leone,3,WG2,0,0.0000,361
+Sierra Leone,3,WG2+3,0,0.0000,11
+Sierra Leone,3,WG3,0,0.0000,202
+Sierra Leone,4,WG1,0,0.0000,583
+Sierra Leone,4,WG1+2,0,0.0000,31
+Sierra Leone,4,WG1+3,0,0.0000,1
+Sierra Leone,4,WG2,0,0.0000,375
+Sierra Leone,4,WG2+3,0,0.0000,17
 Sierra Leone,4,WG3,1,0.3922,255
+Sierra Leone,5,WG1,0,0.0000,752
+Sierra Leone,5,WG1+2,0,0.0000,25
 Sierra Leone,5,WG2,1,0.1577,634
+Sierra Leone,5,WG2+3,0,0.0000,5
+Sierra Leone,5,WG3,0,0.0000,263
+Singapore,1,WG1,0,0.0000,233
+Singapore,1,WG1+2,0,0.0000,11
+Singapore,1,WG1+3,0,0.0000,4
+Singapore,1,WG2,0,0.0000,153
+Singapore,1,WG2+3,0,0.0000,5
+Singapore,1,WG3,0,0.0000,60
+Singapore,2,WG1,0,0.0000,384
+Singapore,2,WG1+2,0,0.0000,25
+Singapore,2,WG1+3,0,0.0000,2
 Singapore,2,WG2,1,0.1969,508
+Singapore,2,WG2+3,0,0.0000,10
+Singapore,2,WG3,0,0.0000,81
+Singapore,3,WG1,0,0.0000,564
+Singapore,3,WG1+2,0,0.0000,29
+Singapore,3,WG1+3,0,0.0000,6
 Singapore,3,WG2,1,0.2770,361
+Singapore,3,WG2+3,0,0.0000,11
+Singapore,3,WG3,0,0.0000,202
+Singapore,4,WG1,0,0.0000,583
+Singapore,4,WG1+2,0,0.0000,31
+Singapore,4,WG1+3,0,0.0000,1
 Singapore,4,WG2,1,0.2667,375
+Singapore,4,WG2+3,0,0.0000,17
+Singapore,4,WG3,0,0.0000,255
+Singapore,5,WG1,0,0.0000,752
+Singapore,5,WG1+2,0,0.0000,25
 Singapore,5,WG2,3,0.4732,634
+Singapore,5,WG2+3,0,0.0000,5
+Singapore,5,WG3,0,0.0000,263
+Slovakia,1,WG1,0,0.0000,233
+Slovakia,1,WG1+2,0,0.0000,11
+Slovakia,1,WG1+3,0,0.0000,4
+Slovakia,1,WG2,0,0.0000,153
+Slovakia,1,WG2+3,0,0.0000,5
+Slovakia,1,WG3,0,0.0000,60
+Slovakia,2,WG1,0,0.0000,384
+Slovakia,2,WG1+2,0,0.0000,25
+Slovakia,2,WG1+3,0,0.0000,2
+Slovakia,2,WG2,0,0.0000,508
+Slovakia,2,WG2+3,0,0.0000,10
+Slovakia,2,WG3,0,0.0000,81
+Slovakia,3,WG1,0,0.0000,564
+Slovakia,3,WG1+2,0,0.0000,29
+Slovakia,3,WG1+3,0,0.0000,6
 Slovakia,3,WG2,1,0.2770,361
+Slovakia,3,WG2+3,0,0.0000,11
+Slovakia,3,WG3,0,0.0000,202
+Slovakia,4,WG1,0,0.0000,583
+Slovakia,4,WG1+2,0,0.0000,31
+Slovakia,4,WG1+3,0,0.0000,1
+Slovakia,4,WG2,0,0.0000,375
+Slovakia,4,WG2+3,0,0.0000,17
+Slovakia,4,WG3,0,0.0000,255
+Slovakia,5,WG1,0,0.0000,752
+Slovakia,5,WG1+2,0,0.0000,25
+Slovakia,5,WG2,0,0.0000,634
+Slovakia,5,WG2+3,0,0.0000,5
+Slovakia,5,WG3,0,0.0000,263
+Slovenia,1,WG1,0,0.0000,233
+Slovenia,1,WG1+2,0,0.0000,11
+Slovenia,1,WG1+3,0,0.0000,4
+Slovenia,1,WG2,0,0.0000,153
+Slovenia,1,WG2+3,0,0.0000,5
+Slovenia,1,WG3,0,0.0000,60
+Slovenia,2,WG1,0,0.0000,384
+Slovenia,2,WG1+2,0,0.0000,25
+Slovenia,2,WG1+3,0,0.0000,2
+Slovenia,2,WG2,0,0.0000,508
+Slovenia,2,WG2+3,0,0.0000,10
+Slovenia,2,WG3,0,0.0000,81
+Slovenia,3,WG1,0,0.0000,564
+Slovenia,3,WG1+2,0,0.0000,29
+Slovenia,3,WG1+3,0,0.0000,6
+Slovenia,3,WG2,0,0.0000,361
+Slovenia,3,WG2+3,0,0.0000,11
+Slovenia,3,WG3,0,0.0000,202
+Slovenia,4,WG1,0,0.0000,583
+Slovenia,4,WG1+2,0,0.0000,31
+Slovenia,4,WG1+3,0,0.0000,1
 Slovenia,4,WG2,1,0.2667,375
+Slovenia,4,WG2+3,0,0.0000,17
+Slovenia,4,WG3,0,0.0000,255
+Slovenia,5,WG1,0,0.0000,752
+Slovenia,5,WG1+2,0,0.0000,25
 Slovenia,5,WG2,1,0.1577,634
+Slovenia,5,WG2+3,0,0.0000,5
+Slovenia,5,WG3,0,0.0000,263
+South Africa,1,WG1,0,0.0000,233
+South Africa,1,WG1+2,0,0.0000,11
+South Africa,1,WG1+3,0,0.0000,4
+South Africa,1,WG2,0,0.0000,153
+South Africa,1,WG2+3,0,0.0000,5
+South Africa,1,WG3,0,0.0000,60
+South Africa,2,WG1,0,0.0000,384
+South Africa,2,WG1+2,0,0.0000,25
+South Africa,2,WG1+3,0,0.0000,2
 South Africa,2,WG2,4,0.7874,508
+South Africa,2,WG2+3,0,0.0000,10
+South Africa,2,WG3,0,0.0000,81
 South Africa,3,WG1,3,0.5319,564
 South Africa,3,WG1+2,1,3.4483,29
+South Africa,3,WG1+3,0,0.0000,6
+South Africa,3,WG2,0,0.0000,361
+South Africa,3,WG2+3,0,0.0000,11
 South Africa,3,WG3,4,1.9802,202
 South Africa,4,WG1,3,0.5146,583
+South Africa,4,WG1+2,0,0.0000,31
+South Africa,4,WG1+3,0,0.0000,1
 South Africa,4,WG2,7,1.8667,375
+South Africa,4,WG2+3,0,0.0000,17
 South Africa,4,WG3,4,1.5686,255
 South Africa,5,WG1,3,0.3989,752
 South Africa,5,WG1+2,1,4.0000,25
 South Africa,5,WG2,21,3.3123,634
+South Africa,5,WG2+3,0,0.0000,5
 South Africa,5,WG3,4,1.5209,263
+South Korea,1,WG1,0,0.0000,233
+South Korea,1,WG1+2,0,0.0000,11
+South Korea,1,WG1+3,0,0.0000,4
+South Korea,1,WG2,0,0.0000,153
+South Korea,1,WG2+3,0,0.0000,5
+South Korea,1,WG3,0,0.0000,60
+South Korea,2,WG1,0,0.0000,384
+South Korea,2,WG1+2,0,0.0000,25
+South Korea,2,WG1+3,0,0.0000,2
+South Korea,2,WG2,0,0.0000,508
+South Korea,2,WG2+3,0,0.0000,10
 South Korea,2,WG3,1,1.2346,81
 South Korea,3,WG1,1,0.1773,564
+South Korea,3,WG1+2,0,0.0000,29
+South Korea,3,WG1+3,0,0.0000,6
+South Korea,3,WG2,0,0.0000,361
+South Korea,3,WG2+3,0,0.0000,11
 South Korea,3,WG3,1,0.4950,202
 South Korea,4,WG1,2,0.3431,583
+South Korea,4,WG1+2,0,0.0000,31
+South Korea,4,WG1+3,0,0.0000,1
+South Korea,4,WG2,0,0.0000,375
+South Korea,4,WG2+3,0,0.0000,17
 South Korea,4,WG3,1,0.3922,255
 South Korea,5,WG1,6,0.7979,752
 South Korea,5,WG1+2,1,4.0000,25
 South Korea,5,WG2,2,0.3155,634
+South Korea,5,WG2+3,0,0.0000,5
 South Korea,5,WG3,3,1.1407,263
+Spain,1,WG1,0,0.0000,233
+Spain,1,WG1+2,0,0.0000,11
+Spain,1,WG1+3,0,0.0000,4
+Spain,1,WG2,0,0.0000,153
+Spain,1,WG2+3,0,0.0000,5
+Spain,1,WG3,0,0.0000,60
+Spain,2,WG1,0,0.0000,384
+Spain,2,WG1+2,0,0.0000,25
+Spain,2,WG1+3,0,0.0000,2
 Spain,2,WG2,2,0.3937,508
+Spain,2,WG2+3,0,0.0000,10
 Spain,2,WG3,1,1.2346,81
 Spain,3,WG1,3,0.5319,564
+Spain,3,WG1+2,0,0.0000,29
+Spain,3,WG1+3,0,0.0000,6
+Spain,3,WG2,0,0.0000,361
+Spain,3,WG2+3,0,0.0000,11
+Spain,3,WG3,0,0.0000,202
 Spain,4,WG1,3,0.5146,583
+Spain,4,WG1+2,0,0.0000,31
+Spain,4,WG1+3,0,0.0000,1
 Spain,4,WG2,3,0.8000,375
+Spain,4,WG2+3,0,0.0000,17
 Spain,4,WG3,1,0.3922,255
 Spain,5,WG1,12,1.5957,752
 Spain,5,WG1+2,1,4.0000,25
 Spain,5,WG2,11,1.7350,634
+Spain,5,WG2+3,0,0.0000,5
 Spain,5,WG3,4,1.5209,263
+Sri Lanka,1,WG1,0,0.0000,233
+Sri Lanka,1,WG1+2,0,0.0000,11
+Sri Lanka,1,WG1+3,0,0.0000,4
+Sri Lanka,1,WG2,0,0.0000,153
+Sri Lanka,1,WG2+3,0,0.0000,5
+Sri Lanka,1,WG3,0,0.0000,60
+Sri Lanka,2,WG1,0,0.0000,384
+Sri Lanka,2,WG1+2,0,0.0000,25
+Sri Lanka,2,WG1+3,0,0.0000,2
 Sri Lanka,2,WG2,1,0.1969,508
+Sri Lanka,2,WG2+3,0,0.0000,10
 Sri Lanka,2,WG3,1,1.2346,81
+Sri Lanka,3,WG1,0,0.0000,564
+Sri Lanka,3,WG1+2,0,0.0000,29
+Sri Lanka,3,WG1+3,0,0.0000,6
 Sri Lanka,3,WG2,1,0.2770,361
+Sri Lanka,3,WG2+3,0,0.0000,11
+Sri Lanka,3,WG3,0,0.0000,202
+Sri Lanka,4,WG1,0,0.0000,583
+Sri Lanka,4,WG1+2,0,0.0000,31
+Sri Lanka,4,WG1+3,0,0.0000,1
 Sri Lanka,4,WG2,1,0.2667,375
+Sri Lanka,4,WG2+3,0,0.0000,17
 Sri Lanka,4,WG3,1,0.3922,255
+Sri Lanka,5,WG1,0,0.0000,752
+Sri Lanka,5,WG1+2,0,0.0000,25
 Sri Lanka,5,WG2,1,0.1577,634
+Sri Lanka,5,WG2+3,0,0.0000,5
+Sri Lanka,5,WG3,0,0.0000,263
 Sudan,1,WG1,1,0.4292,233
+Sudan,1,WG1+2,0,0.0000,11
+Sudan,1,WG1+3,0,0.0000,4
+Sudan,1,WG2,0,0.0000,153
+Sudan,1,WG2+3,0,0.0000,5
+Sudan,1,WG3,0,0.0000,60
+Sudan,2,WG1,0,0.0000,384
+Sudan,2,WG1+2,0,0.0000,25
+Sudan,2,WG1+3,0,0.0000,2
+Sudan,2,WG2,0,0.0000,508
+Sudan,2,WG2+3,0,0.0000,10
+Sudan,2,WG3,0,0.0000,81
+Sudan,3,WG1,0,0.0000,564
+Sudan,3,WG1+2,0,0.0000,29
+Sudan,3,WG1+3,0,0.0000,6
+Sudan,3,WG2,0,0.0000,361
+Sudan,3,WG2+3,0,0.0000,11
+Sudan,3,WG3,0,0.0000,202
+Sudan,4,WG1,0,0.0000,583
+Sudan,4,WG1+2,0,0.0000,31
+Sudan,4,WG1+3,0,0.0000,1
 Sudan,4,WG2,2,0.5333,375
+Sudan,4,WG2+3,0,0.0000,17
 Sudan,4,WG3,4,1.5686,255
+Sudan,5,WG1,0,0.0000,752
+Sudan,5,WG1+2,0,0.0000,25
 Sudan,5,WG2,2,0.3155,634
+Sudan,5,WG2+3,0,0.0000,5
 Sudan,5,WG3,4,1.5209,263
+Swaziland,1,WG1,0,0.0000,233
+Swaziland,1,WG1+2,0,0.0000,11
+Swaziland,1,WG1+3,0,0.0000,4
+Swaziland,1,WG2,0,0.0000,153
+Swaziland,1,WG2+3,0,0.0000,5
+Swaziland,1,WG3,0,0.0000,60
+Swaziland,2,WG1,0,0.0000,384
+Swaziland,2,WG1+2,0,0.0000,25
+Swaziland,2,WG1+3,0,0.0000,2
+Swaziland,2,WG2,0,0.0000,508
+Swaziland,2,WG2+3,0,0.0000,10
+Swaziland,2,WG3,0,0.0000,81
+Swaziland,3,WG1,0,0.0000,564
+Swaziland,3,WG1+2,0,0.0000,29
+Swaziland,3,WG1+3,0,0.0000,6
+Swaziland,3,WG2,0,0.0000,361
+Swaziland,3,WG2+3,0,0.0000,11
+Swaziland,3,WG3,0,0.0000,202
+Swaziland,4,WG1,0,0.0000,583
+Swaziland,4,WG1+2,0,0.0000,31
+Swaziland,4,WG1+3,0,0.0000,1
+Swaziland,4,WG2,0,0.0000,375
+Swaziland,4,WG2+3,0,0.0000,17
+Swaziland,4,WG3,0,0.0000,255
+Swaziland,5,WG1,0,0.0000,752
 Swaziland,5,WG1+2,1,4.0000,25
+Swaziland,5,WG2,0,0.0000,634
+Swaziland,5,WG2+3,0,0.0000,5
+Swaziland,5,WG3,0,0.0000,263
 Sweden,1,WG1,4,1.7167,233
+Sweden,1,WG1+2,0,0.0000,11
+Sweden,1,WG1+3,0,0.0000,4
+Sweden,1,WG2,0,0.0000,153
+Sweden,1,WG2+3,0,0.0000,5
+Sweden,1,WG3,0,0.0000,60
 Sweden,2,WG1,3,0.7813,384
 Sweden,2,WG1+2,2,8.0000,25
+Sweden,2,WG1+3,0,0.0000,2
 Sweden,2,WG2,7,1.3780,508
+Sweden,2,WG2+3,0,0.0000,10
 Sweden,2,WG3,2,2.4691,81
 Sweden,3,WG1,7,1.2411,564
+Sweden,3,WG1+2,0,0.0000,29
+Sweden,3,WG1+3,0,0.0000,6
 Sweden,3,WG2,4,1.1080,361
+Sweden,3,WG2+3,0,0.0000,11
 Sweden,3,WG3,1,0.4950,202
 Sweden,4,WG1,5,0.8576,583
+Sweden,4,WG1+2,0,0.0000,31
+Sweden,4,WG1+3,0,0.0000,1
 Sweden,4,WG2,7,1.8667,375
+Sweden,4,WG2+3,0,0.0000,17
+Sweden,4,WG3,0,0.0000,255
 Sweden,5,WG1,6,0.7979,752
+Sweden,5,WG1+2,0,0.0000,25
 Sweden,5,WG2,9,1.4196,634
+Sweden,5,WG2+3,0,0.0000,5
 Sweden,5,WG3,2,0.7605,263
 Switzerland,1,WG1,5,2.1459,233
+Switzerland,1,WG1+2,0,0.0000,11
+Switzerland,1,WG1+3,0,0.0000,4
+Switzerland,1,WG2,0,0.0000,153
+Switzerland,1,WG2+3,0,0.0000,5
 Switzerland,1,WG3,2,3.3333,60
 Switzerland,2,WG1,4,1.0417,384
 Switzerland,2,WG1+2,3,12.0000,25
+Switzerland,2,WG1+3,0,0.0000,2
 Switzerland,2,WG2,15,2.9528,508
+Switzerland,2,WG2+3,0,0.0000,10
 Switzerland,2,WG3,3,3.7037,81
 Switzerland,3,WG1,12,2.1277,564
+Switzerland,3,WG1+2,0,0.0000,29
+Switzerland,3,WG1+3,0,0.0000,6
 Switzerland,3,WG2,2,0.5540,361
+Switzerland,3,WG2+3,0,0.0000,11
 Switzerland,3,WG3,2,0.9901,202
 Switzerland,4,WG1,17,2.9160,583
 Switzerland,4,WG1+2,2,6.4516,31
+Switzerland,4,WG1+3,0,0.0000,1
 Switzerland,4,WG2,9,2.4000,375
+Switzerland,4,WG2+3,0,0.0000,17
 Switzerland,4,WG3,1,0.3922,255
 Switzerland,5,WG1,28,3.7234,752
+Switzerland,5,WG1+2,0,0.0000,25
 Switzerland,5,WG2,6,0.9464,634
+Switzerland,5,WG2+3,0,0.0000,5
 Switzerland,5,WG3,3,1.1407,263
+Taiwan,1,WG1,0,0.0000,233
+Taiwan,1,WG1+2,0,0.0000,11
+Taiwan,1,WG1+3,0,0.0000,4
+Taiwan,1,WG2,0,0.0000,153
+Taiwan,1,WG2+3,0,0.0000,5
+Taiwan,1,WG3,0,0.0000,60
 Taiwan,2,WG1,1,0.2604,384
+Taiwan,2,WG1+2,0,0.0000,25
+Taiwan,2,WG1+3,0,0.0000,2
+Taiwan,2,WG2,0,0.0000,508
+Taiwan,2,WG2+3,0,0.0000,10
+Taiwan,2,WG3,0,0.0000,81
+Taiwan,3,WG1,0,0.0000,564
+Taiwan,3,WG1+2,0,0.0000,29
+Taiwan,3,WG1+3,0,0.0000,6
+Taiwan,3,WG2,0,0.0000,361
+Taiwan,3,WG2+3,0,0.0000,11
+Taiwan,3,WG3,0,0.0000,202
+Taiwan,4,WG1,0,0.0000,583
+Taiwan,4,WG1+2,0,0.0000,31
+Taiwan,4,WG1+3,0,0.0000,1
+Taiwan,4,WG2,0,0.0000,375
+Taiwan,4,WG2+3,0,0.0000,17
+Taiwan,4,WG3,0,0.0000,255
+Taiwan,5,WG1,0,0.0000,752
+Taiwan,5,WG1+2,0,0.0000,25
+Taiwan,5,WG2,0,0.0000,634
+Taiwan,5,WG2+3,0,0.0000,5
+Taiwan,5,WG3,0,0.0000,263
 Tanzania,1,WG1,1,0.4292,233
+Tanzania,1,WG1+2,0,0.0000,11
+Tanzania,1,WG1+3,0,0.0000,4
+Tanzania,1,WG2,0,0.0000,153
+Tanzania,1,WG2+3,0,0.0000,5
 Tanzania,1,WG3,1,1.6667,60
+Tanzania,2,WG1,0,0.0000,384
+Tanzania,2,WG1+2,0,0.0000,25
+Tanzania,2,WG1+3,0,0.0000,2
 Tanzania,2,WG2,3,0.5906,508
+Tanzania,2,WG2+3,0,0.0000,10
+Tanzania,2,WG3,0,0.0000,81
 Tanzania,3,WG1,1,0.1773,564
+Tanzania,3,WG1+2,0,0.0000,29
+Tanzania,3,WG1+3,0,0.0000,6
+Tanzania,3,WG2,0,0.0000,361
+Tanzania,3,WG2+3,0,0.0000,11
 Tanzania,3,WG3,1,0.4950,202
+Tanzania,4,WG1,0,0.0000,583
+Tanzania,4,WG1+2,0,0.0000,31
+Tanzania,4,WG1+3,0,0.0000,1
 Tanzania,4,WG2,1,0.2667,375
+Tanzania,4,WG2+3,0,0.0000,17
+Tanzania,4,WG3,0,0.0000,255
+Tanzania,5,WG1,0,0.0000,752
+Tanzania,5,WG1+2,0,0.0000,25
 Tanzania,5,WG2,3,0.4732,634
+Tanzania,5,WG2+3,0,0.0000,5
 Tanzania,5,WG3,2,0.7605,263
+Thailand,1,WG1,0,0.0000,233
+Thailand,1,WG1+2,0,0.0000,11
+Thailand,1,WG1+3,0,0.0000,4
 Thailand,1,WG2,1,0.6536,153
+Thailand,1,WG2+3,0,0.0000,5
+Thailand,1,WG3,0,0.0000,60
+Thailand,2,WG1,0,0.0000,384
+Thailand,2,WG1+2,0,0.0000,25
+Thailand,2,WG1+3,0,0.0000,2
 Thailand,2,WG2,2,0.3937,508
+Thailand,2,WG2+3,0,0.0000,10
+Thailand,2,WG3,0,0.0000,81
+Thailand,3,WG1,0,0.0000,564
+Thailand,3,WG1+2,0,0.0000,29
+Thailand,3,WG1+3,0,0.0000,6
+Thailand,3,WG2,0,0.0000,361
+Thailand,3,WG2+3,0,0.0000,11
+Thailand,3,WG3,0,0.0000,202
 Thailand,4,WG1,2,0.3431,583
+Thailand,4,WG1+2,0,0.0000,31
+Thailand,4,WG1+3,0,0.0000,1
+Thailand,4,WG2,0,0.0000,375
+Thailand,4,WG2+3,0,0.0000,17
 Thailand,4,WG3,1,0.3922,255
+Thailand,5,WG1,0,0.0000,752
+Thailand,5,WG1+2,0,0.0000,25
+Thailand,5,WG2,0,0.0000,634
+Thailand,5,WG2+3,0,0.0000,5
 Thailand,5,WG3,2,0.7605,263
+The Gambia,1,WG1,0,0.0000,233
+The Gambia,1,WG1+2,0,0.0000,11
+The Gambia,1,WG1+3,0,0.0000,4
+The Gambia,1,WG2,0,0.0000,153
+The Gambia,1,WG2+3,0,0.0000,5
+The Gambia,1,WG3,0,0.0000,60
+The Gambia,2,WG1,0,0.0000,384
+The Gambia,2,WG1+2,0,0.0000,25
+The Gambia,2,WG1+3,0,0.0000,2
+The Gambia,2,WG2,0,0.0000,508
+The Gambia,2,WG2+3,0,0.0000,10
+The Gambia,2,WG3,0,0.0000,81
+The Gambia,3,WG1,0,0.0000,564
+The Gambia,3,WG1+2,0,0.0000,29
+The Gambia,3,WG1+3,0,0.0000,6
 The Gambia,3,WG2,1,0.2770,361
+The Gambia,3,WG2+3,0,0.0000,11
+The Gambia,3,WG3,0,0.0000,202
 The Gambia,4,WG1,1,0.1715,583
+The Gambia,4,WG1+2,0,0.0000,31
+The Gambia,4,WG1+3,0,0.0000,1
+The Gambia,4,WG2,0,0.0000,375
+The Gambia,4,WG2+3,0,0.0000,17
+The Gambia,4,WG3,0,0.0000,255
+The Gambia,5,WG1,0,0.0000,752
+The Gambia,5,WG1+2,0,0.0000,25
 The Gambia,5,WG2,4,0.6309,634
+The Gambia,5,WG2+3,0,0.0000,5
+The Gambia,5,WG3,0,0.0000,263
+Togo,1,WG1,0,0.0000,233
+Togo,1,WG1+2,0,0.0000,11
+Togo,1,WG1+3,0,0.0000,4
+Togo,1,WG2,0,0.0000,153
+Togo,1,WG2+3,0,0.0000,5
+Togo,1,WG3,0,0.0000,60
+Togo,2,WG1,0,0.0000,384
+Togo,2,WG1+2,0,0.0000,25
+Togo,2,WG1+3,0,0.0000,2
+Togo,2,WG2,0,0.0000,508
+Togo,2,WG2+3,0,0.0000,10
+Togo,2,WG3,0,0.0000,81
+Togo,3,WG1,0,0.0000,564
+Togo,3,WG1+2,0,0.0000,29
+Togo,3,WG1+3,0,0.0000,6
+Togo,3,WG2,0,0.0000,361
+Togo,3,WG2+3,0,0.0000,11
+Togo,3,WG3,0,0.0000,202
+Togo,4,WG1,0,0.0000,583
+Togo,4,WG1+2,0,0.0000,31
+Togo,4,WG1+3,0,0.0000,1
+Togo,4,WG2,0,0.0000,375
+Togo,4,WG2+3,0,0.0000,17
+Togo,4,WG3,0,0.0000,255
+Togo,5,WG1,0,0.0000,752
+Togo,5,WG1+2,0,0.0000,25
+Togo,5,WG2,0,0.0000,634
+Togo,5,WG2+3,0,0.0000,5
+Togo,5,WG3,0,0.0000,263
+Trinidad and Tobago,1,WG1,0,0.0000,233
+Trinidad and Tobago,1,WG1+2,0,0.0000,11
+Trinidad and Tobago,1,WG1+3,0,0.0000,4
+Trinidad and Tobago,1,WG2,0,0.0000,153
+Trinidad and Tobago,1,WG2+3,0,0.0000,5
+Trinidad and Tobago,1,WG3,0,0.0000,60
+Trinidad and Tobago,2,WG1,0,0.0000,384
+Trinidad and Tobago,2,WG1+2,0,0.0000,25
+Trinidad and Tobago,2,WG1+3,0,0.0000,2
+Trinidad and Tobago,2,WG2,0,0.0000,508
+Trinidad and Tobago,2,WG2+3,0,0.0000,10
+Trinidad and Tobago,2,WG3,0,0.0000,81
 Trinidad and Tobago,3,WG1,1,0.1773,564
+Trinidad and Tobago,3,WG1+2,0,0.0000,29
+Trinidad and Tobago,3,WG1+3,0,0.0000,6
+Trinidad and Tobago,3,WG2,0,0.0000,361
+Trinidad and Tobago,3,WG2+3,0,0.0000,11
+Trinidad and Tobago,3,WG3,0,0.0000,202
+Trinidad and Tobago,4,WG1,0,0.0000,583
+Trinidad and Tobago,4,WG1+2,0,0.0000,31
+Trinidad and Tobago,4,WG1+3,0,0.0000,1
 Trinidad and Tobago,4,WG2,2,0.5333,375
+Trinidad and Tobago,4,WG2+3,0,0.0000,17
+Trinidad and Tobago,4,WG3,0,0.0000,255
+Trinidad and Tobago,5,WG1,0,0.0000,752
+Trinidad and Tobago,5,WG1+2,0,0.0000,25
 Trinidad and Tobago,5,WG2,3,0.4732,634
+Trinidad and Tobago,5,WG2+3,0,0.0000,5
 Trinidad and Tobago,5,WG3,1,0.3802,263
+Tunisia,1,WG1,0,0.0000,233
+Tunisia,1,WG1+2,0,0.0000,11
+Tunisia,1,WG1+3,0,0.0000,4
+Tunisia,1,WG2,0,0.0000,153
+Tunisia,1,WG2+3,0,0.0000,5
+Tunisia,1,WG3,0,0.0000,60
+Tunisia,2,WG1,0,0.0000,384
+Tunisia,2,WG1+2,0,0.0000,25
+Tunisia,2,WG1+3,0,0.0000,2
 Tunisia,2,WG2,1,0.1969,508
+Tunisia,2,WG2+3,0,0.0000,10
+Tunisia,2,WG3,0,0.0000,81
+Tunisia,3,WG1,0,0.0000,564
+Tunisia,3,WG1+2,0,0.0000,29
+Tunisia,3,WG1+3,0,0.0000,6
+Tunisia,3,WG2,0,0.0000,361
+Tunisia,3,WG2+3,0,0.0000,11
+Tunisia,3,WG3,0,0.0000,202
+Tunisia,4,WG1,0,0.0000,583
+Tunisia,4,WG1+2,0,0.0000,31
+Tunisia,4,WG1+3,0,0.0000,1
+Tunisia,4,WG2,0,0.0000,375
+Tunisia,4,WG2+3,0,0.0000,17
 Tunisia,4,WG3,1,0.3922,255
+Tunisia,5,WG1,0,0.0000,752
+Tunisia,5,WG1+2,0,0.0000,25
 Tunisia,5,WG2,2,0.3155,634
+Tunisia,5,WG2+3,0,0.0000,5
+Tunisia,5,WG3,0,0.0000,263
+Turkey,1,WG1,0,0.0000,233
+Turkey,1,WG1+2,0,0.0000,11
+Turkey,1,WG1+3,0,0.0000,4
+Turkey,1,WG2,0,0.0000,153
+Turkey,1,WG2+3,0,0.0000,5
+Turkey,1,WG3,0,0.0000,60
+Turkey,2,WG1,0,0.0000,384
+Turkey,2,WG1+2,0,0.0000,25
+Turkey,2,WG1+3,0,0.0000,2
+Turkey,2,WG2,0,0.0000,508
+Turkey,2,WG2+3,0,0.0000,10
+Turkey,2,WG3,0,0.0000,81
+Turkey,3,WG1,0,0.0000,564
+Turkey,3,WG1+2,0,0.0000,29
+Turkey,3,WG1+3,0,0.0000,6
+Turkey,3,WG2,0,0.0000,361
+Turkey,3,WG2+3,0,0.0000,11
+Turkey,3,WG3,0,0.0000,202
+Turkey,4,WG1,0,0.0000,583
+Turkey,4,WG1+2,0,0.0000,31
+Turkey,4,WG1+3,0,0.0000,1
 Turkey,4,WG2,1,0.2667,375
 Turkey,4,WG2+3,1,5.8824,17
+Turkey,4,WG3,0,0.0000,255
 Turkey,5,WG1,1,0.1330,752
+Turkey,5,WG1+2,0,0.0000,25
+Turkey,5,WG2,0,0.0000,634
+Turkey,5,WG2+3,0,0.0000,5
+Turkey,5,WG3,0,0.0000,263
+Turkmenistan,1,WG1,0,0.0000,233
+Turkmenistan,1,WG1+2,0,0.0000,11
+Turkmenistan,1,WG1+3,0,0.0000,4
+Turkmenistan,1,WG2,0,0.0000,153
+Turkmenistan,1,WG2+3,0,0.0000,5
+Turkmenistan,1,WG3,0,0.0000,60
+Turkmenistan,2,WG1,0,0.0000,384
+Turkmenistan,2,WG1+2,0,0.0000,25
+Turkmenistan,2,WG1+3,0,0.0000,2
 Turkmenistan,2,WG2,1,0.1969,508
+Turkmenistan,2,WG2+3,0,0.0000,10
+Turkmenistan,2,WG3,0,0.0000,81
+Turkmenistan,3,WG1,0,0.0000,564
+Turkmenistan,3,WG1+2,0,0.0000,29
+Turkmenistan,3,WG1+3,0,0.0000,6
+Turkmenistan,3,WG2,0,0.0000,361
+Turkmenistan,3,WG2+3,0,0.0000,11
+Turkmenistan,3,WG3,0,0.0000,202
+Turkmenistan,4,WG1,0,0.0000,583
+Turkmenistan,4,WG1+2,0,0.0000,31
+Turkmenistan,4,WG1+3,0,0.0000,1
+Turkmenistan,4,WG2,0,0.0000,375
+Turkmenistan,4,WG2+3,0,0.0000,17
+Turkmenistan,4,WG3,0,0.0000,255
+Turkmenistan,5,WG1,0,0.0000,752
+Turkmenistan,5,WG1+2,0,0.0000,25
+Turkmenistan,5,WG2,0,0.0000,634
+Turkmenistan,5,WG2+3,0,0.0000,5
+Turkmenistan,5,WG3,0,0.0000,263
+Uganda,1,WG1,0,0.0000,233
+Uganda,1,WG1+2,0,0.0000,11
+Uganda,1,WG1+3,0,0.0000,4
+Uganda,1,WG2,0,0.0000,153
+Uganda,1,WG2+3,0,0.0000,5
+Uganda,1,WG3,0,0.0000,60
+Uganda,2,WG1,0,0.0000,384
+Uganda,2,WG1+2,0,0.0000,25
+Uganda,2,WG1+3,0,0.0000,2
+Uganda,2,WG2,0,0.0000,508
+Uganda,2,WG2+3,0,0.0000,10
 Uganda,2,WG3,1,1.2346,81
+Uganda,3,WG1,0,0.0000,564
+Uganda,3,WG1+2,0,0.0000,29
+Uganda,3,WG1+3,0,0.0000,6
 Uganda,3,WG2,1,0.2770,361
+Uganda,3,WG2+3,0,0.0000,11
+Uganda,3,WG3,0,0.0000,202
+Uganda,4,WG1,0,0.0000,583
+Uganda,4,WG1+2,0,0.0000,31
+Uganda,4,WG1+3,0,0.0000,1
+Uganda,4,WG2,0,0.0000,375
+Uganda,4,WG2+3,0,0.0000,17
+Uganda,4,WG3,0,0.0000,255
+Uganda,5,WG1,0,0.0000,752
+Uganda,5,WG1+2,0,0.0000,25
+Uganda,5,WG2,0,0.0000,634
+Uganda,5,WG2+3,0,0.0000,5
 Uganda,5,WG3,1,0.3802,263
+Ukraine,1,WG1,0,0.0000,233
+Ukraine,1,WG1+2,0,0.0000,11
+Ukraine,1,WG1+3,0,0.0000,4
+Ukraine,1,WG2,0,0.0000,153
+Ukraine,1,WG2+3,0,0.0000,5
+Ukraine,1,WG3,0,0.0000,60
+Ukraine,2,WG1,0,0.0000,384
+Ukraine,2,WG1+2,0,0.0000,25
+Ukraine,2,WG1+3,0,0.0000,2
+Ukraine,2,WG2,0,0.0000,508
+Ukraine,2,WG2+3,0,0.0000,10
+Ukraine,2,WG3,0,0.0000,81
+Ukraine,3,WG1,0,0.0000,564
+Ukraine,3,WG1+2,0,0.0000,29
+Ukraine,3,WG1+3,0,0.0000,6
+Ukraine,3,WG2,0,0.0000,361
+Ukraine,3,WG2+3,0,0.0000,11
+Ukraine,3,WG3,0,0.0000,202
+Ukraine,4,WG1,0,0.0000,583
+Ukraine,4,WG1+2,0,0.0000,31
+Ukraine,4,WG1+3,0,0.0000,1
 Ukraine,4,WG2,1,0.2667,375
+Ukraine,4,WG2+3,0,0.0000,17
+Ukraine,4,WG3,0,0.0000,255
+Ukraine,5,WG1,0,0.0000,752
+Ukraine,5,WG1+2,0,0.0000,25
 Ukraine,5,WG2,1,0.1577,634
+Ukraine,5,WG2+3,0,0.0000,5
 Ukraine,5,WG3,1,0.3802,263
 United Kingdom,1,WG1,42,18.0258,233
 United Kingdom,1,WG1+2,1,9.0909,11
 United Kingdom,1,WG1+3,1,25.0000,4
 United Kingdom,1,WG2,4,2.6144,153
+United Kingdom,1,WG2+3,0,0.0000,5
 United Kingdom,1,WG3,4,6.6667,60
 United Kingdom,2,WG1,40,10.4167,384
 United Kingdom,2,WG1+2,3,12.0000,25
@@ -677,20 +3319,50 @@ United Kingdom,2,WG2+3,1,10.0000,10
 United Kingdom,2,WG3,3,3.7037,81
 United Kingdom,3,WG1,54,9.5745,564
 United Kingdom,3,WG1+2,5,17.2414,29
+United Kingdom,3,WG1+3,0,0.0000,6
 United Kingdom,3,WG2,20,5.5402,361
 United Kingdom,3,WG2+3,1,9.0909,11
 United Kingdom,3,WG3,15,7.4257,202
 United Kingdom,4,WG1,74,12.6930,583
 United Kingdom,4,WG1+2,6,19.3548,31
+United Kingdom,4,WG1+3,0,0.0000,1
 United Kingdom,4,WG2,44,11.7333,375
 United Kingdom,4,WG2+3,2,11.7647,17
 United Kingdom,4,WG3,11,4.3137,255
 United Kingdom,5,WG1,111,14.7606,752
 United Kingdom,5,WG1+2,2,8.0000,25
 United Kingdom,5,WG2,67,10.5678,634
+United Kingdom,5,WG2+3,0,0.0000,5
 United Kingdom,5,WG3,18,6.8441,263
+Uruguay,1,WG1,0,0.0000,233
+Uruguay,1,WG1+2,0,0.0000,11
+Uruguay,1,WG1+3,0,0.0000,4
+Uruguay,1,WG2,0,0.0000,153
+Uruguay,1,WG2+3,0,0.0000,5
+Uruguay,1,WG3,0,0.0000,60
+Uruguay,2,WG1,0,0.0000,384
+Uruguay,2,WG1+2,0,0.0000,25
+Uruguay,2,WG1+3,0,0.0000,2
+Uruguay,2,WG2,0,0.0000,508
+Uruguay,2,WG2+3,0,0.0000,10
+Uruguay,2,WG3,0,0.0000,81
+Uruguay,3,WG1,0,0.0000,564
+Uruguay,3,WG1+2,0,0.0000,29
+Uruguay,3,WG1+3,0,0.0000,6
+Uruguay,3,WG2,0,0.0000,361
+Uruguay,3,WG2+3,0,0.0000,11
+Uruguay,3,WG3,0,0.0000,202
+Uruguay,4,WG1,0,0.0000,583
+Uruguay,4,WG1+2,0,0.0000,31
+Uruguay,4,WG1+3,0,0.0000,1
 Uruguay,4,WG2,1,0.2667,375
+Uruguay,4,WG2+3,0,0.0000,17
 Uruguay,4,WG3,2,0.7843,255
+Uruguay,5,WG1,0,0.0000,752
+Uruguay,5,WG1+2,0,0.0000,25
+Uruguay,5,WG2,0,0.0000,634
+Uruguay,5,WG2+3,0,0.0000,5
+Uruguay,5,WG3,0,0.0000,263
 USA,1,WG1,88,37.7682,233
 USA,1,WG1+2,1,9.0909,11
 USA,1,WG1+3,3,75.0000,4
@@ -711,6 +3383,7 @@ USA,3,WG2+3,4,36.3636,11
 USA,3,WG3,45,22.2772,202
 USA,4,WG1,215,36.8782,583
 USA,4,WG1+2,12,38.7097,31
+USA,4,WG1+3,0,0.0000,1
 USA,4,WG2,62,16.5333,375
 USA,4,WG2+3,3,17.6471,17
 USA,4,WG3,52,20.3922,255
@@ -720,31 +3393,176 @@ USA,5,WG2,123,19.4006,634
 USA,5,WG2+3,2,40.0000,5
 USA,5,WG3,47,17.8707,263
 USSR,1,WG1,8,3.4335,233
+USSR,1,WG1+2,0,0.0000,11
+USSR,1,WG1+3,0,0.0000,4
 USSR,1,WG2,9,5.8824,153
+USSR,1,WG2+3,0,0.0000,5
 USSR,1,WG3,1,1.6667,60
+USSR,2,WG1,0,0.0000,384
+USSR,2,WG1+2,0,0.0000,25
+USSR,2,WG1+3,0,0.0000,2
+USSR,2,WG2,0,0.0000,508
+USSR,2,WG2+3,0,0.0000,10
+USSR,2,WG3,0,0.0000,81
+USSR,3,WG1,0,0.0000,564
+USSR,3,WG1+2,0,0.0000,29
+USSR,3,WG1+3,0,0.0000,6
+USSR,3,WG2,0,0.0000,361
+USSR,3,WG2+3,0,0.0000,11
+USSR,3,WG3,0,0.0000,202
+USSR,4,WG1,0,0.0000,583
+USSR,4,WG1+2,0,0.0000,31
+USSR,4,WG1+3,0,0.0000,1
+USSR,4,WG2,0,0.0000,375
+USSR,4,WG2+3,0,0.0000,17
+USSR,4,WG3,0,0.0000,255
+USSR,5,WG1,0,0.0000,752
+USSR,5,WG1+2,0,0.0000,25
+USSR,5,WG2,0,0.0000,634
+USSR,5,WG2+3,0,0.0000,5
+USSR,5,WG3,0,0.0000,263
+Uzbekistan,1,WG1,0,0.0000,233
+Uzbekistan,1,WG1+2,0,0.0000,11
+Uzbekistan,1,WG1+3,0,0.0000,4
+Uzbekistan,1,WG2,0,0.0000,153
+Uzbekistan,1,WG2+3,0,0.0000,5
+Uzbekistan,1,WG3,0,0.0000,60
+Uzbekistan,2,WG1,0,0.0000,384
+Uzbekistan,2,WG1+2,0,0.0000,25
+Uzbekistan,2,WG1+3,0,0.0000,2
+Uzbekistan,2,WG2,0,0.0000,508
+Uzbekistan,2,WG2+3,0,0.0000,10
+Uzbekistan,2,WG3,0,0.0000,81
+Uzbekistan,3,WG1,0,0.0000,564
+Uzbekistan,3,WG1+2,0,0.0000,29
+Uzbekistan,3,WG1+3,0,0.0000,6
 Uzbekistan,3,WG2,1,0.2770,361
+Uzbekistan,3,WG2+3,0,0.0000,11
+Uzbekistan,3,WG3,0,0.0000,202
+Uzbekistan,4,WG1,0,0.0000,583
+Uzbekistan,4,WG1+2,0,0.0000,31
+Uzbekistan,4,WG1+3,0,0.0000,1
+Uzbekistan,4,WG2,0,0.0000,375
+Uzbekistan,4,WG2+3,0,0.0000,17
+Uzbekistan,4,WG3,0,0.0000,255
+Uzbekistan,5,WG1,0,0.0000,752
+Uzbekistan,5,WG1+2,0,0.0000,25
+Uzbekistan,5,WG2,0,0.0000,634
+Uzbekistan,5,WG2+3,0,0.0000,5
+Uzbekistan,5,WG3,0,0.0000,263
+Venezuela,1,WG1,0,0.0000,233
+Venezuela,1,WG1+2,0,0.0000,11
+Venezuela,1,WG1+3,0,0.0000,4
+Venezuela,1,WG2,0,0.0000,153
+Venezuela,1,WG2+3,0,0.0000,5
+Venezuela,1,WG3,0,0.0000,60
 Venezuela,2,WG1,1,0.2604,384
+Venezuela,2,WG1+2,0,0.0000,25
+Venezuela,2,WG1+3,0,0.0000,2
 Venezuela,2,WG2,5,0.9843,508
+Venezuela,2,WG2+3,0,0.0000,10
+Venezuela,2,WG3,0,0.0000,81
 Venezuela,3,WG1,1,0.1773,564
 Venezuela,3,WG1+2,1,3.4483,29
+Venezuela,3,WG1+3,0,0.0000,6
 Venezuela,3,WG2,1,0.2770,361
+Venezuela,3,WG2+3,0,0.0000,11
+Venezuela,3,WG3,0,0.0000,202
+Venezuela,4,WG1,0,0.0000,583
+Venezuela,4,WG1+2,0,0.0000,31
+Venezuela,4,WG1+3,0,0.0000,1
 Venezuela,4,WG2,2,0.5333,375
+Venezuela,4,WG2+3,0,0.0000,17
+Venezuela,4,WG3,0,0.0000,255
+Venezuela,5,WG1,0,0.0000,752
+Venezuela,5,WG1+2,0,0.0000,25
 Venezuela,5,WG2,2,0.3155,634
+Venezuela,5,WG2+3,0,0.0000,5
+Venezuela,5,WG3,0,0.0000,263
+Vietnam,1,WG1,0,0.0000,233
+Vietnam,1,WG1+2,0,0.0000,11
+Vietnam,1,WG1+3,0,0.0000,4
 Vietnam,1,WG2,1,0.6536,153
+Vietnam,1,WG2+3,0,0.0000,5
+Vietnam,1,WG3,0,0.0000,60
+Vietnam,2,WG1,0,0.0000,384
+Vietnam,2,WG1+2,0,0.0000,25
+Vietnam,2,WG1+3,0,0.0000,2
 Vietnam,2,WG2,1,0.1969,508
+Vietnam,2,WG2+3,0,0.0000,10
+Vietnam,2,WG3,0,0.0000,81
 Vietnam,3,WG1,1,0.1773,564
+Vietnam,3,WG1+2,0,0.0000,29
+Vietnam,3,WG1+3,0,0.0000,6
+Vietnam,3,WG2,0,0.0000,361
+Vietnam,3,WG2+3,0,0.0000,11
+Vietnam,3,WG3,0,0.0000,202
+Vietnam,4,WG1,0,0.0000,583
+Vietnam,4,WG1+2,0,0.0000,31
+Vietnam,4,WG1+3,0,0.0000,1
 Vietnam,4,WG2,2,0.5333,375
+Vietnam,4,WG2+3,0,0.0000,17
+Vietnam,4,WG3,0,0.0000,255
+Vietnam,5,WG1,0,0.0000,752
+Vietnam,5,WG1+2,0,0.0000,25
 Vietnam,5,WG2,2,0.3155,634
+Vietnam,5,WG2+3,0,0.0000,5
+Vietnam,5,WG3,0,0.0000,263
+Zambia,1,WG1,0,0.0000,233
+Zambia,1,WG1+2,0,0.0000,11
+Zambia,1,WG1+3,0,0.0000,4
+Zambia,1,WG2,0,0.0000,153
+Zambia,1,WG2+3,0,0.0000,5
+Zambia,1,WG3,0,0.0000,60
+Zambia,2,WG1,0,0.0000,384
+Zambia,2,WG1+2,0,0.0000,25
+Zambia,2,WG1+3,0,0.0000,2
+Zambia,2,WG2,0,0.0000,508
+Zambia,2,WG2+3,0,0.0000,10
+Zambia,2,WG3,0,0.0000,81
 Zambia,3,WG1,1,0.1773,564
+Zambia,3,WG1+2,0,0.0000,29
+Zambia,3,WG1+3,0,0.0000,6
+Zambia,3,WG2,0,0.0000,361
+Zambia,3,WG2+3,0,0.0000,11
 Zambia,3,WG3,1,0.4950,202
+Zambia,4,WG1,0,0.0000,583
+Zambia,4,WG1+2,0,0.0000,31
+Zambia,4,WG1+3,0,0.0000,1
+Zambia,4,WG2,0,0.0000,375
+Zambia,4,WG2+3,0,0.0000,17
 Zambia,4,WG3,1,0.3922,255
 Zambia,5,WG1,3,0.3989,752
+Zambia,5,WG1+2,0,0.0000,25
+Zambia,5,WG2,0,0.0000,634
+Zambia,5,WG2+3,0,0.0000,5
 Zambia,5,WG3,2,0.7605,263
+Zimbabwe,1,WG1,0,0.0000,233
+Zimbabwe,1,WG1+2,0,0.0000,11
+Zimbabwe,1,WG1+3,0,0.0000,4
+Zimbabwe,1,WG2,0,0.0000,153
+Zimbabwe,1,WG2+3,0,0.0000,5
 Zimbabwe,1,WG3,1,1.6667,60
+Zimbabwe,2,WG1,0,0.0000,384
+Zimbabwe,2,WG1+2,0,0.0000,25
+Zimbabwe,2,WG1+3,0,0.0000,2
 Zimbabwe,2,WG2,3,0.5906,508
+Zimbabwe,2,WG2+3,0,0.0000,10
 Zimbabwe,2,WG3,1,1.2346,81
 Zimbabwe,3,WG1,1,0.1773,564
+Zimbabwe,3,WG1+2,0,0.0000,29
+Zimbabwe,3,WG1+3,0,0.0000,6
 Zimbabwe,3,WG2,1,0.2770,361
+Zimbabwe,3,WG2+3,0,0.0000,11
+Zimbabwe,3,WG3,0,0.0000,202
+Zimbabwe,4,WG1,0,0.0000,583
+Zimbabwe,4,WG1+2,0,0.0000,31
+Zimbabwe,4,WG1+3,0,0.0000,1
 Zimbabwe,4,WG2,1,0.2667,375
+Zimbabwe,4,WG2+3,0,0.0000,17
+Zimbabwe,4,WG3,0,0.0000,255
+Zimbabwe,5,WG1,0,0.0000,752
+Zimbabwe,5,WG1+2,0,0.0000,25
 Zimbabwe,5,WG2,2,0.3155,634
+Zimbabwe,5,WG2+3,0,0.0000,5
 Zimbabwe,5,WG3,1,0.3802,263
