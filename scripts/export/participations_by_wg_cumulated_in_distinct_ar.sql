@@ -51,6 +51,7 @@ FROM
       AND p1.wg <> p2.wg
       AND p1.author_id = p2.author_id
     )
+    GROUP BY author_id
   ) non_bridge_participations
   GROUP BY wg
 ) participations
