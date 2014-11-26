@@ -468,7 +468,7 @@ Bridge Author Id,Bridge Author,AR,% WG I+II+III,% WG I+II,% WG I+III,% WG II+III
 1327,Bubu Pateh Jallow,3,0.0000,66.6700,0.0000,0.0000,WG II,33.3300,66.6700,0.0000,LA,100.0000,16.6700,50.0000,33.3300,0.0000,TS,Technical Summary,Department of Water Resources,The Gambia
 1327,Bubu Pateh Jallow,4,0.0000,66.6700,0.0000,0.0000,WG I,33.3300,66.6700,0.0000,RE,100.0000,16.6700,50.0000,33.3300,0.0000,3,Observations: Atmospheric Surface and Climate Change,Department of Water Resources,The Gambia
 1327,Bubu Pateh Jallow,4,0.0000,66.6700,0.0000,0.0000,WG I,33.3300,66.6700,0.0000,RE,100.0000,16.6700,50.0000,33.3300,0.0000,TS,Technical Summary,Department of Water Resources,The Gambia
-1329,Anthony Janetos,1,0.0000,50.0000,0.0000,0.0000,WG I,25.0000,75.0000,0.0000,CA,75.0000,50.0000,25.0000,0.0000,25.0000,12,Annex,H. John Heinz III Center for Science Economics and the Environment,USA
+1329,Anthony Janetos,1,0.0000,50.0000,0.0000,0.0000,WG I,25.0000,75.0000,0.0000,CA,75.0000,50.0000,25.0000,0.0000,25.0000,ANX,Annex,H. John Heinz III Center for Science Economics and the Environment,USA
 1329,Anthony Janetos,1,0.0000,50.0000,0.0000,0.0000,WG II,25.0000,75.0000,0.0000,CLA,75.0000,50.0000,25.0000,0.0000,25.0000,3,Natural terrestrial Ecosystems,H. John Heinz III Center for Science Economics and the Environment,USA
 1329,Anthony Janetos,4,0.0000,50.0000,0.0000,0.0000,WG II,25.0000,75.0000,0.0000,LA,75.0000,50.0000,25.0000,0.0000,25.0000,20,Perspectives on climate change and sustainability,H. John Heinz III Center for Science Economics and the Environment,USA
 1329,Anthony Janetos,5,0.0000,50.0000,0.0000,0.0000,WG II,25.0000,75.0000,0.0000,CLA,75.0000,50.0000,25.0000,0.0000,25.0000,21,Regional Context,Pacific Northwest National Laboratory,USA
@@ -484,9 +484,9 @@ Bridge Author Id,Bridge Author,AR,% WG I+II+III,% WG I+II,% WG I+III,% WG II+III
 1375,Andy Jones,3,0.0000,85.7100,0.0000,0.0000,WG II,57.1400,42.8600,0.0000,LA,28.5700,0.0000,28.5700,0.0000,71.4300,3,Developing and Applying Scenarios,Met Office,United Kingdom
 1375,Andy Jones,4,0.0000,85.7100,0.0000,0.0000,WG I,57.1400,42.8600,0.0000,CA,28.5700,0.0000,28.5700,0.0000,71.4300,7,Coupling Between Changes in the Climate System and Biogeochemistry,Met Office,United Kingdom
 1375,Andy Jones,5,0.0000,85.7100,0.0000,0.0000,WG I,57.1400,42.8600,0.0000,CA,28.5700,0.0000,28.5700,0.0000,71.4300,7,Clouds and AER,N/A,United Kingdom
-1382,Philip D. Jones,1,0.0000,50.0000,0.0000,0.0000,WG I,75.0000,25.0000,0.0000,CA,50.0000,12.5000,37.5000,0.0000,50.0000,12,Annex,University of East Anglia,United Kingdom
 1382,Philip D. Jones,1,0.0000,50.0000,0.0000,0.0000,WG I,75.0000,25.0000,0.0000,LA,50.0000,12.5000,37.5000,0.0000,50.0000,7,Observed Climate Variations and Change,University of East Anglia,United Kingdom
 1382,Philip D. Jones,1,0.0000,50.0000,0.0000,0.0000,WG I,75.0000,25.0000,0.0000,LA,50.0000,12.5000,37.5000,0.0000,50.0000,8,Detection of the Greenhouse Effect in the Observations,University of East Anglia,United Kingdom
+1382,Philip D. Jones,1,0.0000,50.0000,0.0000,0.0000,WG I,75.0000,25.0000,0.0000,CA,50.0000,12.5000,37.5000,0.0000,50.0000,ANX,Annex,University of East Anglia,United Kingdom
 1382,Philip D. Jones,3,0.0000,50.0000,0.0000,0.0000,WG II,75.0000,25.0000,0.0000,CA,50.0000,12.5000,37.5000,0.0000,50.0000,12,Australia and New Zealand,University of East Anglia,United Kingdom
 1382,Philip D. Jones,3,0.0000,50.0000,0.0000,0.0000,WG II,75.0000,25.0000,0.0000,LA,50.0000,12.5000,37.5000,0.0000,50.0000,SPM,Summary For Policy Makers,University of East Anglia,United Kingdom
 1382,Philip D. Jones,4,0.0000,50.0000,0.0000,0.0000,WG I,75.0000,25.0000,0.0000,CLA,50.0000,12.5000,37.5000,0.0000,50.0000,3,Observations: Atmospheric Surface and Climate Change,University of East Anglia,United Kingdom
@@ -521,8 +521,8 @@ Bridge Author Id,Bridge Author,AR,% WG I+II+III,% WG I+II,% WG I+III,% WG II+III
 1431,Thomas R. Karl,3,0.0000,0.0000,25.0000,0.0000,WG I,87.5000,0.0000,12.5000,CLA,75.0000,37.5000,25.0000,12.5000,25.0000,2,Observed Climate Variability and Change,National Oceanographic and Atmospheric Administration (NOAA),USA
 1431,Thomas R. Karl,3,0.0000,0.0000,25.0000,0.0000,WG I,87.5000,0.0000,12.5000,LA,75.0000,37.5000,25.0000,12.5000,25.0000,TS,Technical Summary,National Oceanographic and Atmospheric Administration (NOAA),USA
 1431,Thomas R. Karl,4,0.0000,0.0000,25.0000,0.0000,WG I,87.5000,0.0000,12.5000,RE,75.0000,37.5000,25.0000,12.5000,25.0000,3,Observations: Atmospheric Surface and Climate Change,National Oceanographic and Atmospheric Administration (NOAA),USA
-1434,David J. Karoly,1,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,CA,58.3300,8.3300,33.3300,16.6700,41.6700,12,Annex,Monash University,Australia
 1434,David J. Karoly,1,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,LA,58.3300,8.3300,33.3300,16.6700,41.6700,8,Detection of the Greenhouse Effect in the Observations,Monash University,Australia
+1434,David J. Karoly,1,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,CA,58.3300,8.3300,33.3300,16.6700,41.6700,ANX,Annex,Monash University,Australia
 1434,David J. Karoly,2,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,CA,58.3300,8.3300,33.3300,16.6700,41.6700,6,Climate Models – Projections for the Future,Monash University,Australia
 1434,David J. Karoly,2,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,CA,58.3300,8.3300,33.3300,16.6700,41.6700,8,Detection of Climate Change and Attribution of Causes,Monash University,Australia
 1434,David J. Karoly,3,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,CLA,58.3300,8.3300,33.3300,16.6700,41.6700,12,Detection of Climate Change and Attribution of Causes,Monash University,Australia
@@ -557,7 +557,7 @@ Bridge Author Id,Bridge Author,AR,% WG I+II+III,% WG I+II,% WG I+III,% WG II+III
 1482,Haroon Kheshgi,4,37.5000,25.0000,75.0000,25.0000,WG III,50.0000,12.5000,37.5000,RE,50.0000,0.0000,25.0000,25.0000,50.0000,5,Transport and its Infrastructure,Exxon Mobil Corporation,USA
 1482,Haroon Kheshgi,5,37.5000,25.0000,75.0000,25.0000,WG II,50.0000,12.5000,37.5000,RE,50.0000,0.0000,25.0000,25.0000,50.0000,10,Key Economic Sectors and Services,Exxon Mobil Corporation,USA
 1482,Haroon Kheshgi,5,37.5000,25.0000,75.0000,25.0000,WG III,50.0000,12.5000,37.5000,LA,50.0000,0.0000,25.0000,25.0000,50.0000,10,Industry,Exxon Mobil Corporation,USA
-1508,R. Kintanar,1,0.0000,100.0000,0.0000,0.0000,WG I,50.0000,50.0000,0.0000,CA,0.0000,0.0000,0.0000,0.0000,100.0000,12,Annex,N/A,Philippines
+1508,R. Kintanar,1,0.0000,100.0000,0.0000,0.0000,WG I,50.0000,50.0000,0.0000,CA,0.0000,0.0000,0.0000,0.0000,100.0000,ANX,Annex,N/A,Philippines
 1508,R. Kintanar,1,0.0000,100.0000,0.0000,0.0000,WG II,50.0000,50.0000,0.0000,CA,0.0000,0.0000,0.0000,0.0000,100.0000,2,Agriculture and Forestry,N/A,Philippines
 1519,T. Kittel,2,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,CA,0.0000,0.0000,0.0000,0.0000,100.0000,6,Climate Models – Projections for the Future,National Center for Atmospheric Research (NCAR),USA
 1519,T. Kittel,2,0.0000,66.6700,0.0000,0.0000,WG II,66.6700,33.3300,0.0000,CA,0.0000,0.0000,0.0000,0.0000,100.0000,5,Impacts of Climate Change on Mountain Regions,National Center for Atmospheric Research (NCAR),USA
@@ -900,7 +900,7 @@ Bridge Author Id,Bridge Author,AR,% WG I+II+III,% WG I+II,% WG I+III,% WG II+III
 2350,A. Barrie Pittock,3,0.0000,50.0000,0.0000,0.0000,WG II,25.0000,75.0000,0.0000,LA,75.0000,8.3300,66.6700,0.0000,25.0000,SPM,Summary For Policy Makers,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 2350,A. Barrie Pittock,3,0.0000,50.0000,0.0000,0.0000,WG II,25.0000,75.0000,0.0000,LA,75.0000,8.3300,66.6700,0.0000,25.0000,TS,Technical Summary,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 2350,A. Barrie Pittock,4,0.0000,50.0000,0.0000,0.0000,WG II,25.0000,75.0000,0.0000,LA,75.0000,8.3300,66.6700,0.0000,25.0000,19,Assessing key vulnerabilities and the risk from climate change,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-2383,Michael Prather,1,0.0000,40.0000,0.0000,0.0000,WG I,80.0000,20.0000,0.0000,CA,70.0000,20.0000,50.0000,0.0000,30.0000,12,Annex,National Aeronautics and Space Administration (NASA),USA
+2383,Michael Prather,1,0.0000,40.0000,0.0000,0.0000,WG I,80.0000,20.0000,0.0000,CA,70.0000,20.0000,50.0000,0.0000,30.0000,ANX,Annex,National Aeronautics and Space Administration (NASA),USA
 2383,Michael Prather,2,0.0000,40.0000,0.0000,0.0000,WG I,80.0000,20.0000,0.0000,CLA,70.0000,20.0000,50.0000,0.0000,30.0000,2,Radiative Forcing of Climate Change,University of California Irvine,USA
 2383,Michael Prather,2,0.0000,40.0000,0.0000,0.0000,WG I,80.0000,20.0000,0.0000,LA,70.0000,20.0000,50.0000,0.0000,30.0000,TS,Technical Summary,University of California Irvine,USA
 2383,Michael Prather,3,0.0000,40.0000,0.0000,0.0000,WG I,80.0000,20.0000,0.0000,CLA,70.0000,20.0000,50.0000,0.0000,30.0000,4,Atmospheric Chemistry and Greenhouse Gases,University of California Irvine,USA
@@ -947,10 +947,10 @@ Bridge Author Id,Bridge Author,AR,% WG I+II+III,% WG I+II,% WG I+III,% WG II+III
 2439,E.Ya. Rankova,2,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,CA,0.0000,0.0000,0.0000,0.0000,100.0000,3,Observed Climate Variability and Change,Institute of Global Climate and Ecology,Russian Federation
 2439,E.Ya. Rankova,3,0.0000,66.6700,0.0000,0.0000,WG I,66.6700,33.3300,0.0000,CA,0.0000,0.0000,0.0000,0.0000,100.0000,2,Observed Climate Variability and Change,Institute of Global Climate and Ecology,Russian Federation
 2439,E.Ya. Rankova,3,0.0000,66.6700,0.0000,0.0000,WG II,66.6700,33.3300,0.0000,CA,0.0000,0.0000,0.0000,0.0000,100.0000,11,Asia,Institute of Global Climate and Ecology,Russian Federation
-2441,Sarah C.B. Raper,1,0.0000,16.6700,0.0000,0.0000,WG I,91.6700,8.3300,0.0000,CA,41.6700,0.0000,41.6700,0.0000,58.3300,12,Annex,University of East Anglia,United Kingdom
 2441,Sarah C.B. Raper,1,0.0000,16.6700,0.0000,0.0000,WG I,91.6700,8.3300,0.0000,LA,41.6700,0.0000,41.6700,0.0000,58.3300,6,Time-Dependent Greenhouse Gas Induced Climate Change,University of East Anglia,United Kingdom
 2441,Sarah C.B. Raper,1,0.0000,16.6700,0.0000,0.0000,WG I,91.6700,8.3300,0.0000,LA,41.6700,0.0000,41.6700,0.0000,58.3300,8,Detection of the Greenhouse Effect in the Observations,University of East Anglia,United Kingdom
 2441,Sarah C.B. Raper,1,0.0000,16.6700,0.0000,0.0000,WG I,91.6700,8.3300,0.0000,LA,41.6700,0.0000,41.6700,0.0000,58.3300,9,Sea Level Rise,University of East Anglia,United Kingdom
+2441,Sarah C.B. Raper,1,0.0000,16.6700,0.0000,0.0000,WG I,91.6700,8.3300,0.0000,CA,41.6700,0.0000,41.6700,0.0000,58.3300,ANX,Annex,University of East Anglia,United Kingdom
 2441,Sarah C.B. Raper,2,0.0000,16.6700,0.0000,0.0000,WG I,91.6700,8.3300,0.0000,CA,41.6700,0.0000,41.6700,0.0000,58.3300,6,Climate Models – Projections for the Future,University of East Anglia,United Kingdom
 2441,Sarah C.B. Raper,2,0.0000,16.6700,0.0000,0.0000,WG I,91.6700,8.3300,0.0000,CA,41.6700,0.0000,41.6700,0.0000,58.3300,7,Changes in Sea Level,University of East Anglia,United Kingdom
 2441,Sarah C.B. Raper,3,0.0000,16.6700,0.0000,0.0000,WG I,91.6700,8.3300,0.0000,CA,41.6700,0.0000,41.6700,0.0000,58.3300,11,Changes in Sea Level,University of East Anglia,United Kingdom
@@ -1204,7 +1204,7 @@ Bridge Author Id,Bridge Author,AR,% WG I+II+III,% WG I+II,% WG I+III,% WG II+III
 2968,Claudia Tebaldi,4,0.0000,50.0000,0.0000,0.0000,WG I,75.0000,25.0000,0.0000,CA,25.0000,0.0000,25.0000,0.0000,75.0000,11,Regional Climate Projections,National Center for Atmospheric Research (NCAR),USA
 2968,Claudia Tebaldi,4,0.0000,50.0000,0.0000,0.0000,WG II,75.0000,25.0000,0.0000,CA,25.0000,0.0000,25.0000,0.0000,75.0000,2,New Assessment methods and the characterization of future conditions,National Center for Atmospheric Research (NCAR),USA
 2968,Claudia Tebaldi,5,0.0000,50.0000,0.0000,0.0000,WG I,75.0000,25.0000,0.0000,LA,25.0000,0.0000,25.0000,0.0000,75.0000,12,"Long-term Climate Change: Projections, Commitments and Irreversibility","Climate Central,Inc.",USA
-3007,Dennis A. Tirpak,1,42.8600,28.5700,28.5700,57.1400,WG I,14.2900,28.5700,57.1400,CA,85.7100,42.8600,42.8600,0.0000,14.2900,12,Annex,U.S. Environmental Protection Agency (EPA),USA
+3007,Dennis A. Tirpak,1,42.8600,28.5700,28.5700,57.1400,WG I,14.2900,28.5700,57.1400,CA,85.7100,42.8600,42.8600,0.0000,14.2900,ANX,Annex,U.S. Environmental Protection Agency (EPA),USA
 3007,Dennis A. Tirpak,1,42.8600,28.5700,28.5700,57.1400,WG III,14.2900,28.5700,57.1400,CLA,85.7100,42.8600,42.8600,0.0000,14.2900,2,Emissions Scenarios,U.S. Environmental Protection Agency (EPA),USA
 3007,Dennis A. Tirpak,2,42.8600,28.5700,28.5700,57.1400,WG II,14.2900,28.5700,57.1400,CLA,85.7100,42.8600,42.8600,0.0000,14.2900,27,Methods for Assessment of Mitigation Options,U.S. Environmental Protection Agency (EPA),USA
 3007,Dennis A. Tirpak,2,42.8600,28.5700,28.5700,57.1400,WG II,14.2900,28.5700,57.1400,LA,85.7100,42.8600,42.8600,0.0000,14.2900,TS,Technical Summary,U.S. Environmental Protection Agency (EPA),USA
@@ -1290,8 +1290,8 @@ Bridge Author Id,Bridge Author,AR,% WG I+II+III,% WG I+II,% WG I+III,% WG II+III
 3167,Rachel Warren,4,0.0000,0.0000,0.0000,40.0000,WG III,0.0000,80.0000,20.0000,LA,60.0000,20.0000,40.0000,0.0000,40.0000,3,Issues Related to Mitigation in the Long Term Context,University of East Anglia,United Kingdom
 3167,Rachel Warren,5,0.0000,0.0000,0.0000,40.0000,WG II,0.0000,80.0000,20.0000,CLA,60.0000,20.0000,40.0000,0.0000,40.0000,19,Emergent Risks and Key Vulnerabilities,University of East Anglia,United Kingdom
 3167,Rachel Warren,5,0.0000,0.0000,0.0000,40.0000,WG II,0.0000,80.0000,20.0000,LA,60.0000,20.0000,40.0000,0.0000,40.0000,SPM,Summary For Policy Makers,University of East Anglia,United Kingdom
-3170,Richard A. Warrick,1,0.0000,57.1400,0.0000,0.0000,WG I,28.5700,71.4300,0.0000,CA,85.7100,28.5700,57.1400,0.0000,14.2900,12,Annex,University of East Anglia,United Kingdom
 3170,Richard A. Warrick,1,0.0000,57.1400,0.0000,0.0000,WG I,28.5700,71.4300,0.0000,CLA,85.7100,28.5700,57.1400,0.0000,14.2900,9,Sea Level Rise,University of East Anglia,United Kingdom
+3170,Richard A. Warrick,1,0.0000,57.1400,0.0000,0.0000,WG I,28.5700,71.4300,0.0000,CA,85.7100,28.5700,57.1400,0.0000,14.2900,ANX,Annex,University of East Anglia,United Kingdom
 3170,Richard A. Warrick,2,0.0000,57.1400,0.0000,0.0000,WG II,28.5700,71.4300,0.0000,LA,85.7100,28.5700,57.1400,0.0000,14.2900,9,Coastal Zones and Small Islands,University of Waikato,New Zealand
 3170,Richard A. Warrick,3,0.0000,57.1400,0.0000,0.0000,WG II,28.5700,71.4300,0.0000,CLA,85.7100,28.5700,57.1400,0.0000,14.2900,2,Methods and Tools,University of Waikato,New Zealand
 3170,Richard A. Warrick,3,0.0000,57.1400,0.0000,0.0000,WG II,28.5700,71.4300,0.0000,LA,85.7100,28.5700,57.1400,0.0000,14.2900,SPM,Summary For Policy Makers,University of Waikato,New Zealand

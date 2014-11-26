@@ -10,7 +10,7 @@ id,number,title,wg,ar,assessment_report_id,working_group_id
 9,9,Sea Level Rise,1,1,1,1
 10,10,Effects on Ecosystems,1,1,1,1
 11,11,Narrowing the Uncertainties,1,1,1,1
-12,12,Annex,1,1,1,1
+12,ANX,Annex,1,1,1,1
 13,1,The Climate System: an Overview,1,2,2,2
 14,2,Radiative Forcing of Climate Change,1,2,2,2
 15,3,Observed Climate Variability and Change,1,2,2,2

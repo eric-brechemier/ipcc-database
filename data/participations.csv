@@ -287,38 +287,38 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 42,1,1,11,LA,370,K. Browning,182,Met Office,United Kingdom,NULL,NULL
 7450,1,1,11,LA,2027,P. Morel,700,World Meteorological Organization (WMO),Switzerland,NULL,NULL
 281,1,1,11,LA,2446,I. Rasool,124,National Aeronautics and Space Administration (NASA),USA,10,OSSA
-67,1,1,12,LA,663,R.G. Derwent,1399,Harwell Laboratory,United Kingdom,NULL,NULL
-7512,1,1,12,LA,1346,G.J. Jenkins,182,Met Office,United Kingdom,NULL,NULL
-146,1,1,12,LA,1347,R. Jenne,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-7513,1,1,12,CA,371,C. Bruhl,1002,Max-Planck Institute for Chemistry,Germany,NULL,NULL
-46,1,1,12,CA,404,E. Byutner,1396,Main Geophysical Observatory,USSR,NULL,NULL
-76,1,1,12,CA,788,Ian G. Enting,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
-96,1,1,12,CA,1006,J Goudrian,396,Wageningen University,Netherlands,212,Agricultural Department
-118,1,1,12,CA,1130,K. Hasselmann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
-126,1,1,12,CA,1160,Martin Heimann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
-7443,1,1,12,CA,1301,I.S.A Isaksen,424,University of Oslo,Norway,NULL,NULL
-142,1,1,12,CA,1329,Anthony Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
-7497,1,1,12,CA,1367,E Johnson,1399,Harwell Laboratory,United Kingdom,NULL,NULL
-149,1,1,12,CA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
-7483,1,1,12,CA,1433,I. Karol,1396,Main Geophysical Observatory,USSR,NULL,NULL
-157,1,1,12,CA,1434,David J. Karoly,216,Monash University,Australia,NULL,NULL
-7469,1,1,12,CA,1506,D. Kinnison,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
-165,1,1,12,CA,1508,R. Kintanar,81,N/A,Philippines,NULL,NULL
-7484,1,1,12,CA,1515,A. Kiselev,1396,Main Geophysical Observatory,USSR,NULL,NULL
-168,1,1,12,CA,1533,J. Knox,164,Environment Canada,Canada,56,Atmospheric Environment Canada
-7433,1,1,12,CA,1600,K Kurz,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
-175,1,1,12,CA,1604,J.E. Kutzbach,731,University of Wisconsin,USA,NULL,NULL
-259,1,1,12,CA,2294,H. Peng,271,Oak Ridge National Laboratory,USA,NULL,NULL
-272,1,1,12,CA,2383,Michael Prather,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
-280,1,1,12,CA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
-319,1,1,12,CA,2750,Keith P. Shine,204,University of Reading,United Kingdom,NULL,NULL
-322,1,1,12,CA,2765,U. Siegenthaler,126,University of Bern,Switzerland,NULL,NULL
-332,1,1,12,CA,2885,F. Stordal,424,University of Oslo,Norway,NULL,NULL
-344,1,1,12,CA,2987,A.M. Thompson,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
-346,1,1,12,CA,3007,Dennis A. Tirpak,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
-369,1,1,12,CA,3170,Richard A. Warrick,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
-380,1,1,12,CA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
-394,1,1,12,CA,3280,Donald J. Wuebbles,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+67,1,1,ANX,LA,663,R.G. Derwent,1399,Harwell Laboratory,United Kingdom,NULL,NULL
+7512,1,1,ANX,LA,1346,G.J. Jenkins,182,Met Office,United Kingdom,NULL,NULL
+146,1,1,ANX,LA,1347,R. Jenne,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+7513,1,1,ANX,CA,371,C. Bruhl,1002,Max-Planck Institute for Chemistry,Germany,NULL,NULL
+46,1,1,ANX,CA,404,E. Byutner,1396,Main Geophysical Observatory,USSR,NULL,NULL
+76,1,1,ANX,CA,788,Ian G. Enting,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
+96,1,1,ANX,CA,1006,J Goudrian,396,Wageningen University,Netherlands,212,Agricultural Department
+118,1,1,ANX,CA,1130,K. Hasselmann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
+126,1,1,ANX,CA,1160,Martin Heimann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
+7443,1,1,ANX,CA,1301,I.S.A Isaksen,424,University of Oslo,Norway,NULL,NULL
+142,1,1,ANX,CA,1329,Anthony Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
+7497,1,1,ANX,CA,1367,E Johnson,1399,Harwell Laboratory,United Kingdom,NULL,NULL
+149,1,1,ANX,CA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+7483,1,1,ANX,CA,1433,I. Karol,1396,Main Geophysical Observatory,USSR,NULL,NULL
+157,1,1,ANX,CA,1434,David J. Karoly,216,Monash University,Australia,NULL,NULL
+7469,1,1,ANX,CA,1506,D. Kinnison,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+165,1,1,ANX,CA,1508,R. Kintanar,81,N/A,Philippines,NULL,NULL
+7484,1,1,ANX,CA,1515,A. Kiselev,1396,Main Geophysical Observatory,USSR,NULL,NULL
+168,1,1,ANX,CA,1533,J. Knox,164,Environment Canada,Canada,56,Atmospheric Environment Canada
+7433,1,1,ANX,CA,1600,K Kurz,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
+175,1,1,ANX,CA,1604,J.E. Kutzbach,731,University of Wisconsin,USA,NULL,NULL
+259,1,1,ANX,CA,2294,H. Peng,271,Oak Ridge National Laboratory,USA,NULL,NULL
+272,1,1,ANX,CA,2383,Michael Prather,124,National Aeronautics and Space Administration (NASA),USA,3,Goddard Institute for Space Studies
+280,1,1,ANX,CA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+319,1,1,ANX,CA,2750,Keith P. Shine,204,University of Reading,United Kingdom,NULL,NULL
+322,1,1,ANX,CA,2765,U. Siegenthaler,126,University of Bern,Switzerland,NULL,NULL
+332,1,1,ANX,CA,2885,F. Stordal,424,University of Oslo,Norway,NULL,NULL
+344,1,1,ANX,CA,2987,A.M. Thompson,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
+346,1,1,ANX,CA,3007,Dennis A. Tirpak,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
+369,1,1,ANX,CA,3170,Richard A. Warrick,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+380,1,1,ANX,CA,3223,Tom M.L. Wigley,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
+394,1,1,ANX,CA,3280,Donald J. Wuebbles,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 4,1,2,2,CA,20,B. Acock,113,N/A,USA,NULL,NULL
 24,1,2,2,CA,238,M. Beran,117,N/A,United Kingdom,NULL,NULL
 34,1,2,2,CA,290,Michel Boko,1278,National University of Benin,Benin,NULL,NULL
