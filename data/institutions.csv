@@ -41,6 +41,7 @@ id,name,institution_type_id,Institution Type (INFO)
 491,Australian Bureau of Agricultural and Resource Economics (ABARE),12,Non Available
 157,Australian Bureau of Meteorology,11,Public Research Organisation
 645,Australian Centre for Sustainable Mining Practices (ACSMP),12,Non Available
+1438,Australian Defence Force Academy,6,Higher Education Institution
 1423,"Australian Department of Arts, Sport, Environment, Tourism and Territories",5,Government Agency
 1121,Australian Institute of Marine Science (AIMS),11,Public Research Organisation
 230,Australian National University,6,Higher Education Institution
@@ -49,6 +50,7 @@ id,name,institution_type_id,Institution Type (INFO)
 763,Bangladesh Centre for Advanced Studies (BCAS),4,Foundation
 1366,Bangladesh Institute of Development Studies (BIDS),11,Public Research Organisation
 761,Bangladesh Unnayan Parishad (BUP),4,Foundation
+1440,Barbadian Coastal Conservation Unit,5,Government Agency
 854,Bard College,6,Higher Education Institution
 408,Basque Centre for Climate Change,9,Non-Governmental Organization
 1284,Battelle Institute,4,Foundation
@@ -142,6 +144,7 @@ id,name,institution_type_id,Institution Type (INFO)
 858,Centre Régional AGRHYMET,8,International Institution
 672,Centro de Estudios Cientificos (CECS),9,Non-Governmental Organization
 402,Centro de Investigaciones Biologicas del Noroeste,11,Public Research Organisation
+1439,Centro de Investigaciones Biometeorologicas,12,Non Available
 973,Centro de Investigaciones de Economia Mundial (CIEM),11,Public Research Organisation
 528,Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades,12,Non Available
 986,Centro de Sensoriamento Remoto,6,Higher Education Institution
@@ -181,6 +184,7 @@ id,name,institution_type_id,Institution Type (INFO)
 255,Colorado State University,6,Higher Education Institution
 361,Columbia Business School,6,Higher Education Institution
 185,Columbia University,6,Higher Education Institution
+1441,COMARNA,12,Non Available
 1167,Comision Nac.de Cambio Clim.,5,Government Agency
 814,Commission on Geomorphological Response to Environmental Change,5,Government Agency
 171,Commonwealth Scientific and Industrial Research Organization (CSIRO),11,Public Research Organisation
@@ -204,6 +208,7 @@ id,name,institution_type_id,Institution Type (INFO)
 1022,Creighton University,6,Higher Education Institution
 979,CSTB Building Research Center,11,Public Research Organisation
 463,Cuban Environment Agency,5,Government Agency
+1443,Cuban Institute of Ecology and Systematics,12,Non Available
 643,Cuban Observatory for Science and Technology,5,Government Agency
 610,Curtin University,12,Non Available
 728,Dalhousie University,6,Higher Education Institution
@@ -403,6 +408,7 @@ id,name,institution_type_id,Institution Type (INFO)
 432,Indian Institute of Technology Bombay,6,Higher Education Institution
 625,Indian Institute of Technology Delhi,6,Higher Education Institution
 134,Indian Institute of Tropical Meteorology,11,Public Research Organisation
+1447,Indian School of Environmental Sciences,6,Higher Education Institution
 178,Indian Space Research Organisation,11,Public Research Organisation
 636,"Indian Statistical Institute,Delhi",12,Non Available
 1218,Indiana University,6,Higher Education Institution
@@ -531,6 +537,7 @@ id,name,institution_type_id,Institution Type (INFO)
 1326,Kenya Marine and Fisheries Research Institute,11,Public Research Organisation
 805,Kenya Medical Research Institute,11,Public Research Organisation
 659,Kenya Meteorological Department,5,Government Agency
+1442,Kenyan Commission for Higher Education,5,Government Agency
 558,KFW German Development Bank,12,Non Available
 630,King Abdulaziz City for Science and Technology,5,Government Agency
 1268,King Abdulaziz University,6,Higher Education Institution
@@ -708,6 +715,7 @@ id,name,institution_type_id,Institution Type (INFO)
 442,New Zealand Agricultural Greenhouse Gas Research Centre,11,Public Research Organisation
 780,Newcastle University,6,Higher Education Institution
 1135,Nice University,6,Higher Education Institution
+1445,NINR,12,Non Available
 969,Nippon Steel Corporation,2,Company
 838,Nord-Sud Zentrum fur Entwicklungsforschung,6,Higher Education Institution
 367,Nordland Research Institute,4,Foundation
@@ -906,6 +914,8 @@ id,name,institution_type_id,Institution Type (INFO)
 905,U.S. Environmental Protection Agency (EPA),5,Government Agency
 1294,U.S. Forest Service,5,Government Agency
 312,U.S. Geological Survey,5,Government Agency
+1444,U.S. Joint Global Change Research Institute,11,Public Research Organisation
+1446,U.S. Office of Technology Assessment,5,Government Agency
 1436,UK Department of the Environment,5,Government Agency
 634,UK Energy Research Centre (UKERC),11,Public Research Organisation
 452,Umea University,6,Higher Education Institution
