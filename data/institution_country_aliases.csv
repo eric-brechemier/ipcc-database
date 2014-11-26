@@ -1,15 +1,19 @@
 alias,country_id,Country (INFO),institution_id,Institution (INFO)
 "Conservation Division, Department of Arts, Sport, Environment, Tourism and Territories",6,Australia,1423,"Australian Department of Arts, Sport, Environment, Tourism and Territories"
 "Department of Arts, Sport, Environment, Tourism and Territories",6,Australia,1423,"Australian Department of Arts, Sport, Environment, Tourism and Territories"
+Coastal Conservation Unit,9,Barbados,1440,Barbadian Coastal Conservation Unit
 Ministry of External Relations,16,Brazil,1425,Brazilian Ministry of External Relations
 State Meteorological Agency,23,China,187,China Meteorological Administration
 Academy of Agricultural Sciences,23,China,820,Chinese Academy of Agricultural Science
 National Center for Climate Change Strategy and International Cooperation,23,China,655,National Center for Climate Strategy Study and International Cooperation (NRDC)
+Institute of Ecology and Systematics,26,Cuba,1443,Cuban Institute of Ecology and Systematics
 Ministere de l'Environnement,35,France,1426,French Ministry of Environment
+School of Environmental Sciences,44,India,1447,Indian School of Environmental Sciences
 Food and Agricultural Organization,49,Italy,644,Food and Agriculture Organization (FAO)
 Forestry & Forest Products Research Institute,51,Japan,957,Forestry and Forest Products Research Institute
 Ministry of Foreign Affairs,51,Japan,1427,Japanese Ministry of Foreign Affairs
 Ministry of International Trade and Industry,51,Japan,985,Ministry of Economy Trade and Industry
+Commission for Higher Education,53,Kenya,1442,Kenyan Commission for Higher Education
 "Ministry of Research, Technical Training, and Technology",53,Kenya,995,Ministry of Research Technical Training and Technology
 Ministry of Foreign Affairs,62,Malta,1428,Maltese Ministry of Foreign Affairs
 Department of Hydrology & Meteorology,72,Nepal,1429,Nepalese Department of Hydrology & Meteorology
@@ -22,5 +26,7 @@ Department of the Environment,117,United Kingdom,1436,UK Department of the Envir
 National Center for Atmospheric Research,113,USA,166,National Center for Atmospheric Research (NCAR)
 "Department of the Army, Civil Works",113,USA,1357,U.S. Army Corps of Engineers
 DOE,113,USA,227,U.S. Department of Energy
+Joint Global Change Research Institute,113,USA,1444,U.S. Joint Global Change Research Institute
+Office of Technology Assessment,113,USA,1446,U.S. Office of Technology Assessment
 Institute of Meteorology and Hydrology,121,Vietnam,832,Institute of Meteorology and Hydrology Vietnam
 Department of Meteorological Services,123,Zimbabwe,1363,Zimbabwe Meteorological Services
