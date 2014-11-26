@@ -1823,6 +1823,135 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1873,2,2,TS,LA,3331,Patrick Young,1361,Wilfrid Laurier University,USA,NULL,NULL
 1882,2,2,TS,LA,3366,Fengqi Zhou,525,Energy Research Institute,China,NULL,NULL
 1885,2,2,TS,LA,3377,M.C. Zinyowera,1363,Zimbabwe Meteorological Services,Zimbabwe,NULL,NULL
+7577,2,2,SPM,LA,21,Roberto Acosta Moreno,1448,COMARNA,Cuba,NULL,NULL
+7698,2,2,SPM,LA,28,Sharad P. Adhikary,1084,Water and Energy Commission Secretariat,Nepal,NULL,NULL
+7578,2,2,SPM,LA,30,Michael Adler,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
+7579,2,2,SPM,LA,37,Shardul Agrawala,1452,IPCC,India,NULL,NULL
+7581,2,2,SPM,LA,39,Adrian Guillermo Aguilar,1267,Instituto de Geografia,Mexico,NULL,NULL
+7580,2,2,SPM,LA,52,Saiyed Al-Khouli,1268,King Abdulaziz University,Saudi Arabia,NULL,NULL
+7582,2,2,SPM,LA,69,Barbara Allen-Diaz,298,University of California Berkeley,USA,NULL,NULL
+7583,2,2,SPM,LA,93,Mitsuru Ando,51,N/A,Japan,NULL,NULL
+7584,2,2,SPM,LA,96,Rigoberto Andressen,1272,University of Merida,Venezuela,NULL,NULL
+7585,2,2,SPM,LA,99,B.W. Ang,894,National University of Singapore,Singapore,NULL,NULL
+7586,2,2,SPM,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+7587,2,2,SPM,LA,128,Anne Arquit-Niederberger,1273,ProClim,Switzerland,NULL,NULL
+7588,2,2,SPM,LA,166,Walter Baethgen,1463,International Fertilizer Development Center (IFDC),Uruguay,NULL,NULL
+7674,2,2,SPM,LA,211,Bryson C. Bates,6,N/A,Australia,NULL,NULL
+7589,2,2,SPM,LA,231,Martin Beniston,1170,IPCC,Switzerland,NULL,NULL
+7590,2,2,SPM,LA,257,Rosina Bierbaum,1090,Office of Science and Technology Policy (OSTP),USA,NULL,NULL
+7591,2,2,SPM,LA,259,Luitzen Bijlsma,1091,National Institute for Coastal and Marine Management,Netherlands,NULL,NULL
+7592,2,2,SPM,LA,290,Michel Boko,1278,National University of Benin,Benin,NULL,NULL
+7593,2,2,SPM,LA,291,Bert Bolin,1458,IPCC,Sweden,NULL,NULL
+7594,2,2,SPM,LA,292,Suzanne Bolton,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
+7595,2,2,SPM,LA,333,Evelyne Bravo,120,N/A,Venezuela,NULL,NULL
+7596,2,2,SPM,LA,365,Sandra Brown,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
+7597,2,2,SPM,LA,390,Peter Bullock,1281,Cranfield University,United Kingdom,NULL,NULL
+7687,2,2,SPM,LA,434,Melvin G.R. Cannell,1041,Institute of Terrestrial Ecology,United Kingdom,NULL,NULL
+7691,2,2,SPM,LA,436,Osvaldo F. Canziani,1444,IPCC,Argentina,NULL,NULL
+7598,2,2,SPM,LA,439,Rodolfo Carcavallo,1443,Centro de Investigaciones Biometeorologicas,Argentina,NULL,NULL
+7599,2,2,SPM,LA,461,Carlos Clemente Cerri,16,N/A,Brazil,NULL,NULL
+7702,2,2,SPM,LA,472,William U. Chandler,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+7600,2,2,SPM,LA,482,Fred Cheghe,995,Ministry of Research Technical Training and Technology,Kenya,NULL,NULL
+7601,2,2,SPM,LA,541,Vernon Cole,255,Colorado State University,USA,NULL,NULL
+7703,2,2,SPM,LA,577,Wolfgang P. Cramer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+7604,2,2,SPM,LA,591,Rex Victor Cruz,389,University of the Philippines Los Baños,Philippines,NULL,NULL
+7692,2,2,SPM,LA,617,Ogunlade R. Davidson,920,University of Sierra Leone,Sierra Leone,NULL,NULL
+7602,2,2,SPM,LA,665,Ehrlich Desa,44,N/A,India,NULL,NULL
+7678,2,2,SPM,LA,676,Xu Deying,1288,Chinese Academy of Forestry,China,NULL,NULL
+7699,2,2,SPM,LA,680,Sandra Myrna Diaz,793,Universidad Nacional de Córdoba,Argentina,NULL,NULL
+7669,2,2,SPM,LA,699,Andrew F. Dlugolecki,1290,Fire and Life Assurance Corp.,United Kingdom,NULL,NULL
+7603,2,2,SPM,LA,762,James Edmonds,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+7605,2,2,SPM,LA,800,John Everett,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
+7606,2,2,SPM,LA,838,Andreas Fischlin,136,ETH Zurich,Switzerland,NULL,NULL
+7670,2,2,SPM,LA,844,B. Blair Fitzharris,350,University of Otago,New Zealand,NULL,NULL
+7607,2,2,SPM,LA,869,Douglas Fox,1294,U.S. Forest Service,USA,NULL,NULL
+7608,2,2,SPM,LA,887,Jaafar Friaa,1460,IPCC,Tunisia,NULL,NULL
+7609,2,2,SPM,LA,917,Wojciech Galinski,1296,Research Institute of Forestry,Poland,NULL,NULL
+7610,2,2,SPM,LA,977,Habiba Gitay,230,Australian National University,Australia,NULL,NULL
+7693,2,2,SPM,LA,1034,Peter M. Groffman,1108,Institute of Ecosystem Studies,USA,NULL,NULL
+7671,2,2,SPM,LA,1042,Amulf Grubler,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+7611,2,2,SPM,LA,1043,Howard Gruenspecht,227,U.S. Department of Energy,USA,NULL,NULL
+7612,2,2,SPM,LA,1094,Steven Hamburg,1261,Brown University,USA,NULL,NULL
+7700,2,2,SPM,LA,1210,M. Timm Hoffman,840,National Botanical Institute,South Africa,NULL,NULL
+7613,2,2,SPM,LA,1229,Jarle Inge Holten,1456,NINR,Norway,NULL,NULL
+7614,2,2,SPM,LA,1305,Hisashi Ishitani,148,University of Tokyo,Japan,NULL,NULL
+7615,2,2,SPM,LA,1309,Venugopalan Ittekkot,264,University of Hamburg,Germany,NULL,NULL
+7616,2,2,SPM,LA,1356,Su Jilan,1117,Second Institute of Oceanography,China,NULL,NULL
+7617,2,2,SPM,LA,1364,Thomas Johansson,1308,United Nations Development Programme (UNDP),Sweden,NULL,NULL
+7618,2,2,SPM,LA,1403,Zdzislaw Kaczmarek,387,Polish Academy of Sciences,Poland,NULL,NULL
+7619,2,2,SPM,LA,1437,Takao Kashiwagi,1183,Tokyo University of Agriculture & Technology,Japan,NULL,NULL
+7620,2,2,SPM,LA,1512,Miko Kirschbaum,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
+7694,2,2,SPM,LA,1523,Richard J.T. Klein,1091,National Institute for Coastal and Marine Management,Netherlands,NULL,NULL
+7621,2,2,SPM,LA,1555,Paul Komor,1465,U.S. Office of Technology Assessment,USA,NULL,NULL
+7622,2,2,SPM,LA,1581,Andrei Krovnin,1311,Russian Federal Research Institute of Fisheries and Oceanography,Russian Federation,NULL,NULL
+7623,2,2,SPM,LA,1589,Shashi Kulshrestha,1312,Independent Consultant,India,NULL,NULL
+7624,2,2,SPM,LA,1632,Herbert Lang,136,ETH Zurich,Switzerland,NULL,NULL
+7680,2,2,SPM,LA,1658,Henri Le Houerou,1314,CEFE,France,NULL,NULL
+7625,2,2,SPM,LA,1680,Rik Leemans,888,National Institute for Public Health and the Environment (RIVM),Netherlands,NULL,NULL
+7684,2,2,SPM,LA,1707,Mark D. Levine,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+7701,2,2,SPM,LA,1723,Tranviet Lien,832,Institute of Meteorology and Hydrology Vietnam,Vietnam,NULL,NULL
+7683,2,2,SPM,LA,1726,Erda Lin,1119,Agrometeorology Institute,China,NULL,NULL
+7626,2,2,SPM,LA,1743,Chunzhen Liu,1120,Hydrological Forecasting and Water Control Center,China,NULL,NULL
+7627,2,2,SPM,LA,1755,Daniel Lluch-Belda,402,Centro de Investigaciones Biologicas del Noroeste,Mexico,NULL,NULL
+7688,2,2,SPM,LA,1799,Michael C. MacCracken,1083,Office of the US Global Change Research Program,USA,NULL,NULL
+7685,2,2,SPM,LA,1814,John J. Magnuson,731,University of Wisconsin,USA,NULL,NULL
+7681,2,2,SPM,LA,1819,Gabriel M. Mailu,995,Ministry of Research Technical Training and Technology,Kenya,NULL,NULL
+7629,2,2,SPM,LA,1821,Joseph Mworia Maitima,53,N/A,Kenya,NULL,NULL
+7628,2,2,SPM,LA,1849,Gregg Marland,271,Oak Ridge National Laboratory,USA,NULL,NULL
+7666,2,2,SPM,LA,5088,Kathy Maskell,1425,IPCC,United Kingdom,NULL,NULL
+7630,2,2,SPM,LA,1914,Roger McLean,1445,Australian Defence Force Academy,Australia,NULL,NULL
+7672,2,2,SPM,LA,1916,Anthony J. McMichael,1446,London School of Hygiene and Tropical Medicine,Australia,NULL,NULL
+7631,2,2,SPM,LA,1958,Laurie Michaelis,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
+7676,2,2,SPM,LA,1972,Edward L. Miles,132,University of Washington,USA,NULL,NULL
+7632,2,2,SPM,LA,2021,William Moomaw,962,Tufts University,USA,NULL,NULL
+7695,2,2,SPM,LA,2026,Jose Roberto Moreira,1195,Biomass Users Network (BUN),Brazil,NULL,NULL
+7633,2,2,SPM,LA,2044,Richard H. Moss,1461,IPCC,USA,NULL,NULL
+7634,2,2,SPM,LA,2057,Patrick Mulholland,113,N/A,USA,NULL,NULL
+7635,2,2,SPM,LA,2099,Nebojsa Nakicenovic,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+7696,2,2,SPM,LA,2124,Robert J. Nicholls,1127,Middlesex University,United Kingdom,NULL,NULL
+7636,2,2,SPM,LA,2134,Shuzo Nishioka,1324,Environment Agency,Japan,NULL,NULL
+7637,2,2,SPM,LA,2136,Ian Noble,230,Australian National University,Australia,NULL,NULL
+7638,2,2,SPM,LA,2152,Leonard Nurse,1447,Barbadian Coastal Conservation Unit,Barbados,NULL,NULL
+7639,2,2,SPM,LA,2171,Rispa Odongo,1455,Kenyan Commission for Higher Education,Kenya,NULL,NULL
+7697,2,2,SPM,LA,2183,Ryousauke Ohashi,51,N/A,Japan,NULL,NULL
+7640,2,2,SPM,LA,2190,Ezekiel Okemwa,1326,Kenya Marine and Fisheries Research Institute,Kenya,NULL,NULL
+7641,2,2,SPM,LA,2216,Mats Oquist,1217,Swedish University of Agricultural Sciences,Sweden,NULL,NULL
+7642,2,2,SPM,LA,2266,Martin Parry,638,University College London,United Kingdom,NULL,NULL
+7643,2,2,SPM,LA,2302,Martha Perdomo,1466,IPCC,Venezuela,NULL,NULL
+7664,2,2,SPM,LA,5036,Michel Petit,1450,IPCC,France,NULL,NULL
+7704,2,2,SPM,LA,2351,Warren T. Piver,299,National Institute of Environmental Health Sciences,USA,NULL,NULL
+7644,2,2,SPM,LA,2426,P.S. Ramakrishnan,1453,Indian School of Environmental Sciences,India,NULL,NULL
+7645,2,2,SPM,LA,2449,Alexander Rauja Gacuhi,995,Ministry of Research Technical Training and Technology,Kenya,NULL,NULL
+7689,2,2,SPM,LA,2452,Nijavalli H. Ravindranath,159,Indian Institute of Science,India,NULL,NULL
+7686,2,2,SPM,LA,2470,John M. Reilly,849,U.S. Department of Agriculture,USA,NULL,NULL
+7646,2,2,SPM,LA,2496,Arthur Riedacker,456,Institut National de la Recherche Agronomique (INRA),France,NULL,NULL
+7647,2,2,SPM,LA,2540,Hans-Holger Rogner,277,University of Victoria,Canada,NULL,NULL
+7648,2,2,SPM,LA,2624,Jayant Sathaye,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+7649,2,2,SPM,LA,2628,Dieter Sauerbeck,1346,Federal Ministry of Environment,Germany,NULL,NULL
+7690,2,2,SPM,LA,2694,Michael J. Scott,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+7665,2,2,SPM,LA,5037,Subodh Sharma,1452,IPCC,India,NULL,NULL
+7650,2,2,SPM,LA,2757,David Shriner,1090,Office of Science and Technology Policy (OSTP),USA,NULL,NULL
+7651,2,2,SPM,LA,2779,S.K. Sinha,1165,Ministry of Environment and Forests,India,NULL,NULL
+7682,2,2,SPM,LA,2785,Jim F. Skea,468,University of Sussex,United Kingdom,NULL,NULL
+7668,2,2,SPM,LA,2826,Allen M. Solomon,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
+7679,2,2,SPM,LA,2856,Eugene Z. Stakhiv,1148,U.S. Army Institute for Water Resources,USA,NULL,NULL
+7652,2,2,SPM,LA,2861,Oedon Starosolszky,1354,Water Resource Research Center,Hungary,NULL,NULL
+7673,2,2,SPM,LA,2903,Avelino G. Suarez,1449,Cuban Institute of Ecology and Systematics,Cuba,NULL,NULL
+7675,2,2,SPM,LA,2929,B.H. Svensson,1217,Swedish University of Agricultural Sciences,Sweden,NULL,NULL
+7653,2,2,SPM,LA,2944,Hidekazu Takakura,985,Ministry of Economy Trade and Industry,Japan,NULL,NULL
+7654,2,2,SPM,LA,2963,Melissa Taylor,1461,IPCC,USA,NULL,NULL
+7655,2,2,SPM,LA,2976,Lucien Tessier,35,N/A,France,NULL,NULL
+7677,2,2,SPM,LA,3007,Dennis A. Tirpak,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
+7656,2,2,SPM,LA,3026,Jean-Paul Troadec,35,N/A,France,NULL,NULL
+7667,2,2,SPM,LA,5038,Hiroshi Tsukamoto,1454,IPCC,Japan,NULL,NULL
+7657,2,2,SPM,LA,3037,Itsuya Tsuzaka,1206,Global Industrial and Social Progress Research Institute (GISPRI),Japan,NULL,NULL
+7658,2,2,SPM,LA,3092,Pier Vellinga,1459,IPCC,Netherlands,NULL,NULL
+7659,2,2,SPM,LA,3178,Robert T. Watson,1461,IPCC,USA,NULL,NULL
+7660,2,2,SPM,LA,3235,Ted Williams,227,U.S. Department of Energy,USA,NULL,NULL
+7661,2,2,SPM,LA,3286,Youyu Xie,233,Chinese Academy of Sciences,China,NULL,NULL
+7662,2,2,SPM,LA,3331,Patrick Young,1464,Consultant,USA,NULL,NULL
+7706,2,2,SPM,LA,3366,Fengqi Zhou,525,Energy Research Institute,China,NULL,NULL
+7663,2,2,SPM,LA,3377,M.C. Zinyowera,1467,IPCC,Zimbabwe,NULL,NULL
 550,2,3,1,LA,81,A. Amano,1365,Kwansei Gakuin University,Japan,NULL,NULL
 905,2,3,1,LA,990,J. Goldemberg,158,University of Sao Paulo,Brazil,NULL,NULL
 1584,2,3,1,LA,3390,R. Saha,1,N/A,N/A,NULL,NULL
@@ -2746,6 +2875,65 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2202,3,1,TS,CA,3156,S.-W. Wang,140,Peking University,China,NULL,NULL
 2195,3,1,TS,CA,3178,Robert T. Watson,1077,World Bank,USA,NULL,NULL
 2132,3,1,TS,CA,3312,K.S. Yap,1081,Malaysian Meteorological Service,Malaysia,NULL,NULL
+7705,3,1,SPM,LA,55,D.L. Albritton,1,N/A,N/A,NULL,NULL
+7707,3,1,SPM,LA,67,Myles R. Allen,1,N/A,N/A,NULL,NULL
+7710,3,1,SPM,LA,164,Alphonsus Baede,1,N/A,N/A,NULL,NULL
+7708,3,1,SPM,LA,510,John A. Church,1,N/A,N/A,NULL,NULL
+7709,3,1,SPM,LA,593,Ulrich Cubasch,1,N/A,N/A,NULL,NULL
+7713,3,1,SPM,LA,692,Yihui Ding,1,N/A,N/A,NULL,NULL
+7712,3,1,SPM,LA,767,D.H. Ehhalt,1,N/A,N/A,NULL,NULL
+7714,3,1,SPM,LA,858,Christopher K. Folland,1,N/A,N/A,NULL,NULL
+7715,3,1,SPM,LA,973,Filippo Giorgi,1,N/A,N/A,NULL,NULL
+7716,3,1,SPM,LA,1024,Jonathan M. Gregory,1,N/A,N/A,NULL,NULL
+7717,3,1,SPM,LA,1031,David J. Griggs,1,N/A,N/A,NULL,NULL
+7718,3,1,SPM,LA,1147,James M. Haywood,1,N/A,N/A,NULL,NULL
+7719,3,1,SPM,LA,1188,Bruce Charles Hewitson,1,N/A,N/A,NULL,NULL
+7720,3,1,SPM,LA,1244,J.T. Houghton,1,N/A,N/A,NULL,NULL
+7721,3,1,SPM,LA,1248,Joanna I. House,1,N/A,N/A,NULL,NULL
+7722,3,1,SPM,LA,1273,Mike Hulme,1,N/A,N/A,NULL,NULL
+7723,3,1,SPM,LA,1301,I.S.A Isaksen,1,N/A,N/A,NULL,NULL
+7726,3,1,SPM,LA,1335,V.J. Jaramillo,1,N/A,N/A,NULL,NULL
+7727,3,1,SPM,LA,1341,A. Jayaraman,1,N/A,N/A,NULL,NULL
+7724,3,1,SPM,LA,5086,Catherine A. Johnson,1,N/A,N/A,NULL,NULL
+7725,3,1,SPM,LA,1386,Fortunat Joos,1,N/A,N/A,NULL,NULL
+7728,3,1,SPM,LA,1391,Sylvie Joussaume,1,N/A,N/A,NULL,NULL
+7730,3,1,SPM,LA,1431,Thomas R. Karl,1,N/A,N/A,NULL,NULL
+7729,3,1,SPM,LA,1434,David J. Karoly,1,N/A,N/A,NULL,NULL
+7733,3,1,SPM,LA,1482,Haroon Kheshgi,1,N/A,N/A,NULL,NULL
+7732,3,1,SPM,LA,1695,Corrine Le Quéré,1,N/A,N/A,NULL,NULL
+7731,3,1,SPM,LA,5088,Kathy Maskell,1,N/A,N/A,NULL,NULL
+7737,3,1,SPM,LA,1871,Luis Jose Mata,1,N/A,N/A,NULL,NULL
+7734,3,1,SPM,LA,1892,Bryant J. McAvaney,1,N/A,N/A,NULL,NULL
+7735,3,1,SPM,LA,1902,Mack McFarland,1,N/A,N/A,NULL,NULL
+7736,3,1,SPM,LA,1922,Linda O. Mearns,1,N/A,N/A,NULL,NULL
+7738,3,1,SPM,LA,1927,Gerald A. Meehl,1,N/A,N/A,NULL,NULL
+7739,3,1,SPM,LA,1932,L.G. Meira Filho,1,N/A,N/A,NULL,NULL
+7740,3,1,SPM,LA,1934,V. Meleshko,1,N/A,N/A,NULL,NULL
+7741,3,1,SPM,LA,2001,John F. B. Mitchell,1,N/A,N/A,NULL,NULL
+7742,3,1,SPM,LA,2023,B. Moore III,1,N/A,N/A,NULL,NULL
+7743,3,1,SPM,LA,2052,R.K. Mugara,1,N/A,N/A,NULL,NULL
+7746,3,1,SPM,LA,2140,M. Noguer,1,N/A,N/A,NULL,NULL
+7747,3,1,SPM,LA,2156,B.S. Nyenzi,1,N/A,N/A,NULL,NULL
+7744,3,1,SPM,LA,2214,Michael Oppenheimer,1,N/A,N/A,NULL,NULL
+7745,3,1,SPM,LA,2298,Joyce E. Penner,1,N/A,N/A,NULL,NULL
+7750,3,1,SPM,LA,2365,S. Pollonais,1,N/A,N/A,NULL,NULL
+7749,3,1,SPM,LA,2383,Michael Prather,1,N/A,N/A,NULL,NULL
+7748,3,1,SPM,LA,2385,I. Colin Prentice,1,N/A,N/A,NULL,NULL
+7751,3,1,SPM,LA,2430,Venkatachalam Ramaswamy,1,N/A,N/A,NULL,NULL
+7752,3,1,SPM,LA,2433,A. Ramirez-Rojas,1,N/A,N/A,NULL,NULL
+7753,3,1,SPM,LA,2441,Sarah C.B. Raper,1,N/A,N/A,NULL,NULL
+7755,3,1,SPM,LA,2602,"Michael James ""Jim"" Salinger",1,N/A,N/A,NULL,NULL
+7756,3,1,SPM,LA,2674,Robert (Bob) J. Scholes,1,N/A,N/A,NULL,NULL
+7754,3,1,SPM,LA,2827,Susan Solomon,1,N/A,N/A,NULL,NULL
+7757,3,1,SPM,LA,2880,Thomas F. Stocker,1,N/A,N/A,NULL,NULL
+7760,3,1,SPM,LA,2883,John M.R. Stone,1,N/A,N/A,NULL,NULL
+7758,3,1,SPM,LA,2890,Ronald J. Stouffer,1,N/A,N/A,NULL,NULL
+7759,3,1,SPM,LA,3022,Kevin E. Trenberth,1,N/A,N/A,NULL,NULL
+7761,3,1,SPM,LA,5090,Ming-Xing Wang,1,N/A,N/A,NULL,NULL
+7762,3,1,SPM,LA,3178,Robert T. Watson,1,N/A,N/A,NULL,NULL
+7711,3,1,SPM,LA,5091,Dai Xiaosu,1,N/A,N/A,NULL,NULL
+7763,3,1,SPM,LA,3312,K.S. Yap,1,N/A,N/A,NULL,NULL
+7765,3,1,SPM,LA,3376,John Zillman,1,N/A,N/A,NULL,NULL
 2422,3,2,1,CLA,2619,Jose Sarukhan,1142,Ciudad Universitaria,Mexico,NULL,NULL
 2400,3,2,1,CLA,2669,T.L. Schneider,1066,Institute for World Forestry and Ecology,Germany,NULL,NULL
 3534,3,2,1,LA,25,James O. Adejuwon,758,Obafemi Awolowo University,Nigeria,NULL,NULL
@@ -7480,3 +7668,58 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5981,5,3,16,RE,445,Carlo Carraro,507,Fondazione Eni Enrico Mattei (FEEM),Italy,NULL,NULL
 6060,5,3,16,RE,3832,Mohammed Said Karrouk,572,University Hassan II,Morocco,NULL,NULL
 6116,5,3,16,RE,3939,Ignacio Perez-Arriaga,615,Institute for Research in Technology,Spain,NULL,NULL
+7767,5,3,SPM,LA,37,Shardul Agrawala,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
+7768,5,3,SPM,LA,208,Igor Alexeyevich Bashmakov,500,Center for Energy Efficiency (CENEF),Russian Federation,NULL,NULL
+7770,5,3,SPM,LA,3654,Gabriel Blanco,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,NULL,NULL
+7771,5,3,SPM,LA,3668,Thomas Bruckner,510,University of Leipzig,Germany,NULL,NULL
+7772,5,3,SPM,LA,5083,Steffen Brunner,1451,IPCC,Germany,NULL,NULL
+7773,5,3,SPM,LA,3670,Mercedes Bustamante,512,University of Brasília,Brazil,NULL,NULL
+7774,5,3,SPM,LA,526,Leon Clarke,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+7775,5,3,SPM,LA,3701,Felix Creutzig,522,Mercator Research Institute on Global Commons and ClimateChange (MCC),Germany,NULL,NULL
+7817,5,3,SPM,LA,3367,Zhou Dadi,525,Energy Research Institute,China,NULL,NULL
+7776,5,3,SPM,LA,3714,Shobhakar Dhakal,531,Asian Institute of Technology,Thailand,NULL,NULL
+7777,5,3,SPM,LA,3721,Navroz Dubash,534,Centre for Policy Research,India,NULL,NULL
+7764,5,3,SPM,LA,760,Ottmar Edenhofer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+7778,5,3,SPM,LA,5084,Patrick Eickemeier,1451,IPCC,Germany,NULL,NULL
+7779,5,3,SPM,LA,5085,Ellie Farahani,1451,IPCC,Germany,NULL,NULL
+7780,5,3,SPM,LA,3741,Manfred Fischedick,542,"Wuppertal Institute for Climate,Environment and Energy",Germany,NULL,NULL
+7781,5,3,SPM,LA,851,Marc Fleurbaey,428,Princeton University,USA,NULL,NULL
+7782,5,3,SPM,LA,3765,Reyer Gerlagh,549,Tilburg University,Netherlands,NULL,NULL
+7785,5,3,SPM,LA,3769,Luis Gómez,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+7783,5,3,SPM,LA,1058,Shreekant Gupta,386,University of Delhi,India,NULL,NULL
+7784,5,3,SPM,LA,1059,Sujata Gupta,1457,Asian Development Bank,Philippines,NULL,NULL
+7786,5,3,SPM,LA,1112,Jochen Harnisch,558,KFW German Development Bank,Germany,NULL,NULL
+7787,5,3,SPM,LA,3817,Leiwen Jiang,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+7788,5,3,SPM,LA,5087,Susanne Kadner,1451,IPCC,Germany,NULL,NULL
+7789,5,3,SPM,LA,3844,Stephan Klasen,579,University of Göttingen,Germany,NULL,NULL
+7790,5,3,SPM,LA,1553,Charles Kolstad,338,Stanford University,USA,NULL,NULL
+7791,5,3,SPM,LA,3853,Volker Krey,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+7792,5,3,SPM,LA,3856,Howard Kunreuther,583,University of Pennsylvania,USA,NULL,NULL
+7793,5,3,SPM,LA,3876,Oswaldo Lucon,594,São Paulo State Environment Secretariat,Brazil,NULL,NULL
+7794,5,3,SPM,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
+7795,5,3,SPM,LA,4610,Jan Minx,1451,IPCC,Germany,NULL,NULL
+7796,5,3,SPM,LA,3904,Yacob Mulugetta,519,University of Surrey,United Kingdom,NULL,NULL
+7797,5,3,SPM,LA,2271,Anthony Patt,725,Swiss Federal Institute of Technology,Switzerland,NULL,NULL
+7766,5,3,SPM,LA,2329,Ramon Pichs-Madruga,973,Centro de Investigaciones de Economia Mundial (CIEM),Cuba,NULL,NULL
+7798,5,3,SPM,LA,2452,Nijavalli H. Ravindranath,159,Indian Institute of Science,India,NULL,NULL
+7799,5,3,SPM,LA,2486,Keywan Riahi,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+7800,5,3,SPM,LA,2568,Joyashree Roy,623,Jadavpur University,India,NULL,NULL
+7801,5,3,SPM,LA,2639,Roberto Schaeffer,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
+7802,5,3,SPM,LA,5089,Steffen Schloemer,1451,IPCC,Germany,NULL,NULL
+7803,5,3,SPM,LA,3983,Karen Seto,629,Yale University,USA,NULL,NULL
+7804,5,3,SPM,LA,4833,Kristin Seyboth,1461,IPCC,USA,NULL,NULL
+7805,5,3,SPM,LA,2775,Ralph E. H. Sims,633,Massey University,New Zealand,NULL,NULL
+7806,5,3,SPM,LA,2785,Jim F. Skea,697,Imperial College London,United Kingdom,NULL,NULL
+7807,5,3,SPM,LA,4856,Steven Smith,1462,U.S. Joint Global Change Research Institute,USA,NULL,NULL
+7769,5,3,SPM,LA,2817,Youba Sokona,1170,IPCC,Switzerland,NULL,NULL
+7808,5,3,SPM,LA,3993,Eswaran Somanathan,636,"Indian Statistical Institute,Delhi",India,NULL,NULL
+7810,5,3,SPM,LA,2862,Robert N. Stavins,215,Harvard University,USA,NULL,NULL
+7809,5,3,SPM,LA,4000,Thomas Sterner,177,University of Gothenburg,Sweden,NULL,NULL
+7811,5,3,SPM,LA,2911,Taishi Sugiyama,639,Central Research Institute of Electric Power Industry,Japan,NULL,NULL
+7812,5,3,SPM,LA,4005,Sangwon Suh,544,University of California,USA,NULL,NULL
+7813,5,3,SPM,LA,4022,Kevin Chika Urama,646,African Technology Policy Studies (ATPS) Network,Kenya,NULL,NULL
+7814,5,3,SPM,LA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,NULL,NULL
+7815,5,3,SPM,LA,3101,David G. Victor,259,University of California San Diego,USA,NULL,NULL
+7819,5,3,SPM,LA,4931,Christoph von Stechow,1451,IPCC,Germany,NULL,NULL
+7816,5,3,SPM,LA,3379,Ji Zou,655,National Center for Climate Strategy Study and International Cooperation (NRDC),China,NULL,NULL
+7818,5,3,SPM,LA,5092,Timm Zwickel,1451,IPCC,Germany,NULL,NULL

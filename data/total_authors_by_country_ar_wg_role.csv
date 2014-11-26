@@ -18,9 +18,9 @@ Algeria,Lead Author,1,1,0,214,0.0000
 Algeria,Lead Author,1,2,0,11,0.0000
 Algeria,Lead Author,1,3,0,43,0.0000
 Algeria,Lead Author,2,1,0,84,0.0000
-Algeria,Lead Author,2,2,0,281,0.0000
+Algeria,Lead Author,2,2,0,287,0.0000
 Algeria,Lead Author,2,3,0,65,0.0000
-Algeria,Lead Author,3,1,0,110,0.0000
+Algeria,Lead Author,3,1,0,137,0.0000
 Algeria,Lead Author,3,2,0,184,0.0000
 Algeria,Lead Author,3,3,0,139,0.0000
 Algeria,Lead Author,4,1,0,139,0.0000
@@ -28,7 +28,7 @@ Algeria,Lead Author,4,2,0,197,0.0000
 Algeria,Lead Author,4,3,0,175,0.0000
 Algeria,Lead Author,5,1,0,195,0.0000
 Algeria,Lead Author,5,2,0,236,0.0000
-Algeria,Lead Author,5,3,0,198,0.0000
+Algeria,Lead Author,5,3,0,243,0.0000
 Algeria,Review Editor,3,1,0,21,0.0000
 Algeria,Review Editor,3,2,0,34,0.0000
 Algeria,Review Editor,3,3,0,19,0.0000
@@ -71,9 +71,9 @@ Antigua and Barbuda,Lead Author,1,1,0,214,0.0000
 Antigua and Barbuda,Lead Author,1,2,0,11,0.0000
 Antigua and Barbuda,Lead Author,1,3,0,43,0.0000
 Antigua and Barbuda,Lead Author,2,1,0,84,0.0000
-Antigua and Barbuda,Lead Author,2,2,0,281,0.0000
+Antigua and Barbuda,Lead Author,2,2,0,287,0.0000
 Antigua and Barbuda,Lead Author,2,3,0,65,0.0000
-Antigua and Barbuda,Lead Author,3,1,0,110,0.0000
+Antigua and Barbuda,Lead Author,3,1,0,137,0.0000
 Antigua and Barbuda,Lead Author,3,2,1,184,0.5435
 Antigua and Barbuda,Lead Author,3,3,0,139,0.0000
 Antigua and Barbuda,Lead Author,4,1,0,139,0.0000
@@ -81,7 +81,7 @@ Antigua and Barbuda,Lead Author,4,2,0,197,0.0000
 Antigua and Barbuda,Lead Author,4,3,0,175,0.0000
 Antigua and Barbuda,Lead Author,5,1,0,195,0.0000
 Antigua and Barbuda,Lead Author,5,2,0,236,0.0000
-Antigua and Barbuda,Lead Author,5,3,0,198,0.0000
+Antigua and Barbuda,Lead Author,5,3,0,243,0.0000
 Antigua and Barbuda,Review Editor,3,1,0,21,0.0000
 Antigua and Barbuda,Review Editor,3,2,0,34,0.0000
 Antigua and Barbuda,Review Editor,3,3,0,19,0.0000
@@ -124,9 +124,9 @@ Argentina,Lead Author,1,1,1,214,0.4673
 Argentina,Lead Author,1,2,0,11,0.0000
 Argentina,Lead Author,1,3,0,43,0.0000
 Argentina,Lead Author,2,1,1,84,1.1905
-Argentina,Lead Author,2,2,4,281,1.4235
+Argentina,Lead Author,2,2,5,287,1.7422
 Argentina,Lead Author,2,3,0,65,0.0000
-Argentina,Lead Author,3,1,0,110,0.0000
+Argentina,Lead Author,3,1,0,137,0.0000
 Argentina,Lead Author,3,2,8,184,4.3478
 Argentina,Lead Author,3,3,2,139,1.4388
 Argentina,Lead Author,4,1,3,139,2.1583
@@ -134,7 +134,7 @@ Argentina,Lead Author,4,2,4,197,2.0305
 Argentina,Lead Author,4,3,1,175,0.5714
 Argentina,Lead Author,5,1,1,195,0.5128
 Argentina,Lead Author,5,2,4,236,1.6949
-Argentina,Lead Author,5,3,4,198,2.0202
+Argentina,Lead Author,5,3,5,243,2.0576
 Argentina,Review Editor,3,1,0,21,0.0000
 Argentina,Review Editor,3,2,1,34,2.9412
 Argentina,Review Editor,3,3,0,19,0.0000
@@ -177,9 +177,9 @@ Australia,Lead Author,1,1,11,214,5.1402
 Australia,Lead Author,1,2,0,11,0.0000
 Australia,Lead Author,1,3,3,43,6.9767
 Australia,Lead Author,2,1,8,84,9.5238
-Australia,Lead Author,2,2,10,281,3.5587
+Australia,Lead Author,2,2,11,287,3.8328
 Australia,Lead Author,2,3,1,65,1.5385
-Australia,Lead Author,3,1,5,110,4.5455
+Australia,Lead Author,3,1,5,137,3.6496
 Australia,Lead Author,3,2,7,184,3.8043
 Australia,Lead Author,3,3,1,139,0.7194
 Australia,Lead Author,4,1,7,139,5.0360
@@ -187,7 +187,7 @@ Australia,Lead Author,4,2,13,197,6.5990
 Australia,Lead Author,4,3,4,175,2.2857
 Australia,Lead Author,5,1,10,195,5.1282
 Australia,Lead Author,5,2,15,236,6.3559
-Australia,Lead Author,5,3,7,198,3.5354
+Australia,Lead Author,5,3,7,243,2.8807
 Australia,Review Editor,3,1,1,21,4.7619
 Australia,Review Editor,3,2,2,34,5.8824
 Australia,Review Editor,3,3,0,19,0.0000
@@ -230,9 +230,9 @@ Austria,Lead Author,1,1,0,214,0.0000
 Austria,Lead Author,1,2,0,11,0.0000
 Austria,Lead Author,1,3,0,43,0.0000
 Austria,Lead Author,2,1,0,84,0.0000
-Austria,Lead Author,2,2,4,281,1.4235
+Austria,Lead Author,2,2,4,287,1.3937
 Austria,Lead Author,2,3,1,65,1.5385
-Austria,Lead Author,3,1,1,110,0.9091
+Austria,Lead Author,3,1,1,137,0.7299
 Austria,Lead Author,3,2,1,184,0.5435
 Austria,Lead Author,3,3,3,139,2.1583
 Austria,Lead Author,4,1,1,139,0.7194
@@ -240,7 +240,7 @@ Austria,Lead Author,4,2,1,197,0.5076
 Austria,Lead Author,4,3,7,175,4.0000
 Austria,Lead Author,5,1,1,195,0.5128
 Austria,Lead Author,5,2,1,236,0.4237
-Austria,Lead Author,5,3,7,198,3.5354
+Austria,Lead Author,5,3,9,243,3.7037
 Austria,Review Editor,3,1,0,21,0.0000
 Austria,Review Editor,3,2,0,34,0.0000
 Austria,Review Editor,3,3,0,19,0.0000
@@ -283,9 +283,9 @@ Bangladesh,Lead Author,1,1,0,214,0.0000
 Bangladesh,Lead Author,1,2,0,11,0.0000
 Bangladesh,Lead Author,1,3,0,43,0.0000
 Bangladesh,Lead Author,2,1,0,84,0.0000
-Bangladesh,Lead Author,2,2,0,281,0.0000
+Bangladesh,Lead Author,2,2,0,287,0.0000
 Bangladesh,Lead Author,2,3,1,65,1.5385
-Bangladesh,Lead Author,3,1,0,110,0.0000
+Bangladesh,Lead Author,3,1,0,137,0.0000
 Bangladesh,Lead Author,3,2,2,184,1.0870
 Bangladesh,Lead Author,3,3,1,139,0.7194
 Bangladesh,Lead Author,4,1,0,139,0.0000
@@ -293,7 +293,7 @@ Bangladesh,Lead Author,4,2,4,197,2.0305
 Bangladesh,Lead Author,4,3,0,175,0.0000
 Bangladesh,Lead Author,5,1,0,195,0.0000
 Bangladesh,Lead Author,5,2,1,236,0.4237
-Bangladesh,Lead Author,5,3,2,198,1.0101
+Bangladesh,Lead Author,5,3,2,243,0.8230
 Bangladesh,Review Editor,3,1,0,21,0.0000
 Bangladesh,Review Editor,3,2,0,34,0.0000
 Bangladesh,Review Editor,3,3,0,19,0.0000
@@ -336,9 +336,9 @@ Barbados,Lead Author,1,1,0,214,0.0000
 Barbados,Lead Author,1,2,0,11,0.0000
 Barbados,Lead Author,1,3,0,43,0.0000
 Barbados,Lead Author,2,1,0,84,0.0000
-Barbados,Lead Author,2,2,1,281,0.3559
+Barbados,Lead Author,2,2,1,287,0.3484
 Barbados,Lead Author,2,3,0,65,0.0000
-Barbados,Lead Author,3,1,0,110,0.0000
+Barbados,Lead Author,3,1,0,137,0.0000
 Barbados,Lead Author,3,2,1,184,0.5435
 Barbados,Lead Author,3,3,0,139,0.0000
 Barbados,Lead Author,4,1,0,139,0.0000
@@ -346,7 +346,7 @@ Barbados,Lead Author,4,2,1,197,0.5076
 Barbados,Lead Author,4,3,0,175,0.0000
 Barbados,Lead Author,5,1,0,195,0.0000
 Barbados,Lead Author,5,2,2,236,0.8475
-Barbados,Lead Author,5,3,0,198,0.0000
+Barbados,Lead Author,5,3,0,243,0.0000
 Barbados,Review Editor,3,1,0,21,0.0000
 Barbados,Review Editor,3,2,0,34,0.0000
 Barbados,Review Editor,3,3,0,19,0.0000
@@ -389,9 +389,9 @@ Belgium,Lead Author,1,1,3,214,1.4019
 Belgium,Lead Author,1,2,0,11,0.0000
 Belgium,Lead Author,1,3,1,43,2.3256
 Belgium,Lead Author,2,1,0,84,0.0000
-Belgium,Lead Author,2,2,0,281,0.0000
+Belgium,Lead Author,2,2,0,287,0.0000
 Belgium,Lead Author,2,3,0,65,0.0000
-Belgium,Lead Author,3,1,1,110,0.9091
+Belgium,Lead Author,3,1,1,137,0.7299
 Belgium,Lead Author,3,2,2,184,1.0870
 Belgium,Lead Author,3,3,1,139,0.7194
 Belgium,Lead Author,4,1,1,139,0.7194
@@ -399,7 +399,7 @@ Belgium,Lead Author,4,2,2,197,1.0152
 Belgium,Lead Author,4,3,1,175,0.5714
 Belgium,Lead Author,5,1,1,195,0.5128
 Belgium,Lead Author,5,2,0,236,0.0000
-Belgium,Lead Author,5,3,0,198,0.0000
+Belgium,Lead Author,5,3,0,243,0.0000
 Belgium,Review Editor,3,1,0,21,0.0000
 Belgium,Review Editor,3,2,0,34,0.0000
 Belgium,Review Editor,3,3,0,19,0.0000
@@ -442,9 +442,9 @@ Belize,Lead Author,1,1,0,214,0.0000
 Belize,Lead Author,1,2,0,11,0.0000
 Belize,Lead Author,1,3,0,43,0.0000
 Belize,Lead Author,2,1,0,84,0.0000
-Belize,Lead Author,2,2,0,281,0.0000
+Belize,Lead Author,2,2,0,287,0.0000
 Belize,Lead Author,2,3,0,65,0.0000
-Belize,Lead Author,3,1,0,110,0.0000
+Belize,Lead Author,3,1,0,137,0.0000
 Belize,Lead Author,3,2,0,184,0.0000
 Belize,Lead Author,3,3,0,139,0.0000
 Belize,Lead Author,4,1,0,139,0.0000
@@ -452,7 +452,7 @@ Belize,Lead Author,4,2,0,197,0.0000
 Belize,Lead Author,4,3,0,175,0.0000
 Belize,Lead Author,5,1,0,195,0.0000
 Belize,Lead Author,5,2,0,236,0.0000
-Belize,Lead Author,5,3,0,198,0.0000
+Belize,Lead Author,5,3,0,243,0.0000
 Belize,Review Editor,3,1,0,21,0.0000
 Belize,Review Editor,3,2,0,34,0.0000
 Belize,Review Editor,3,3,0,19,0.0000
@@ -495,9 +495,9 @@ Benin,Lead Author,1,1,0,214,0.0000
 Benin,Lead Author,1,2,0,11,0.0000
 Benin,Lead Author,1,3,0,43,0.0000
 Benin,Lead Author,2,1,0,84,0.0000
-Benin,Lead Author,2,2,1,281,0.3559
+Benin,Lead Author,2,2,1,287,0.3484
 Benin,Lead Author,2,3,0,65,0.0000
-Benin,Lead Author,3,1,1,110,0.9091
+Benin,Lead Author,3,1,1,137,0.7299
 Benin,Lead Author,3,2,0,184,0.0000
 Benin,Lead Author,3,3,0,139,0.0000
 Benin,Lead Author,4,1,0,139,0.0000
@@ -505,7 +505,7 @@ Benin,Lead Author,4,2,0,197,0.0000
 Benin,Lead Author,4,3,0,175,0.0000
 Benin,Lead Author,5,1,0,195,0.0000
 Benin,Lead Author,5,2,0,236,0.0000
-Benin,Lead Author,5,3,0,198,0.0000
+Benin,Lead Author,5,3,0,243,0.0000
 Benin,Review Editor,3,1,0,21,0.0000
 Benin,Review Editor,3,2,0,34,0.0000
 Benin,Review Editor,3,3,0,19,0.0000
@@ -548,9 +548,9 @@ Bermuda,Lead Author,1,1,0,214,0.0000
 Bermuda,Lead Author,1,2,0,11,0.0000
 Bermuda,Lead Author,1,3,0,43,0.0000
 Bermuda,Lead Author,2,1,0,84,0.0000
-Bermuda,Lead Author,2,2,0,281,0.0000
+Bermuda,Lead Author,2,2,0,287,0.0000
 Bermuda,Lead Author,2,3,0,65,0.0000
-Bermuda,Lead Author,3,1,0,110,0.0000
+Bermuda,Lead Author,3,1,0,137,0.0000
 Bermuda,Lead Author,3,2,0,184,0.0000
 Bermuda,Lead Author,3,3,0,139,0.0000
 Bermuda,Lead Author,4,1,0,139,0.0000
@@ -558,7 +558,7 @@ Bermuda,Lead Author,4,2,0,197,0.0000
 Bermuda,Lead Author,4,3,0,175,0.0000
 Bermuda,Lead Author,5,1,0,195,0.0000
 Bermuda,Lead Author,5,2,0,236,0.0000
-Bermuda,Lead Author,5,3,0,198,0.0000
+Bermuda,Lead Author,5,3,0,243,0.0000
 Bermuda,Review Editor,3,1,0,21,0.0000
 Bermuda,Review Editor,3,2,0,34,0.0000
 Bermuda,Review Editor,3,3,0,19,0.0000
@@ -601,9 +601,9 @@ Bolivia,Lead Author,1,1,0,214,0.0000
 Bolivia,Lead Author,1,2,0,11,0.0000
 Bolivia,Lead Author,1,3,0,43,0.0000
 Bolivia,Lead Author,2,1,0,84,0.0000
-Bolivia,Lead Author,2,2,0,281,0.0000
+Bolivia,Lead Author,2,2,0,287,0.0000
 Bolivia,Lead Author,2,3,0,65,0.0000
-Bolivia,Lead Author,3,1,0,110,0.0000
+Bolivia,Lead Author,3,1,0,137,0.0000
 Bolivia,Lead Author,3,2,0,184,0.0000
 Bolivia,Lead Author,3,3,0,139,0.0000
 Bolivia,Lead Author,4,1,0,139,0.0000
@@ -611,7 +611,7 @@ Bolivia,Lead Author,4,2,1,197,0.5076
 Bolivia,Lead Author,4,3,0,175,0.0000
 Bolivia,Lead Author,5,1,0,195,0.0000
 Bolivia,Lead Author,5,2,0,236,0.0000
-Bolivia,Lead Author,5,3,0,198,0.0000
+Bolivia,Lead Author,5,3,0,243,0.0000
 Bolivia,Review Editor,3,1,0,21,0.0000
 Bolivia,Review Editor,3,2,0,34,0.0000
 Bolivia,Review Editor,3,3,0,19,0.0000
@@ -654,9 +654,9 @@ Botswana,Lead Author,1,1,0,214,0.0000
 Botswana,Lead Author,1,2,0,11,0.0000
 Botswana,Lead Author,1,3,0,43,0.0000
 Botswana,Lead Author,2,1,0,84,0.0000
-Botswana,Lead Author,2,2,0,281,0.0000
+Botswana,Lead Author,2,2,0,287,0.0000
 Botswana,Lead Author,2,3,0,65,0.0000
-Botswana,Lead Author,3,1,0,110,0.0000
+Botswana,Lead Author,3,1,0,137,0.0000
 Botswana,Lead Author,3,2,1,184,0.5435
 Botswana,Lead Author,3,3,0,139,0.0000
 Botswana,Lead Author,4,1,0,139,0.0000
@@ -664,7 +664,7 @@ Botswana,Lead Author,4,2,1,197,0.5076
 Botswana,Lead Author,4,3,1,175,0.5714
 Botswana,Lead Author,5,1,1,195,0.5128
 Botswana,Lead Author,5,2,0,236,0.0000
-Botswana,Lead Author,5,3,1,198,0.5051
+Botswana,Lead Author,5,3,1,243,0.4115
 Botswana,Review Editor,3,1,0,21,0.0000
 Botswana,Review Editor,3,2,0,34,0.0000
 Botswana,Review Editor,3,3,0,19,0.0000
@@ -707,9 +707,9 @@ Brazil,Lead Author,1,1,3,214,1.4019
 Brazil,Lead Author,1,2,0,11,0.0000
 Brazil,Lead Author,1,3,2,43,4.6512
 Brazil,Lead Author,2,1,3,84,3.5714
-Brazil,Lead Author,2,2,3,281,1.0676
+Brazil,Lead Author,2,2,3,287,1.0453
 Brazil,Lead Author,2,3,3,65,4.6154
-Brazil,Lead Author,3,1,2,110,1.8182
+Brazil,Lead Author,3,1,2,137,1.4599
 Brazil,Lead Author,3,2,3,184,1.6304
 Brazil,Lead Author,3,3,5,139,3.5971
 Brazil,Lead Author,4,1,3,139,2.1583
@@ -717,7 +717,7 @@ Brazil,Lead Author,4,2,2,197,1.0152
 Brazil,Lead Author,4,3,3,175,1.7143
 Brazil,Lead Author,5,1,4,195,2.0513
 Brazil,Lead Author,5,2,6,236,2.5424
-Brazil,Lead Author,5,3,3,198,1.5152
+Brazil,Lead Author,5,3,6,243,2.4691
 Brazil,Review Editor,3,1,0,21,0.0000
 Brazil,Review Editor,3,2,2,34,5.8824
 Brazil,Review Editor,3,3,0,19,0.0000
@@ -760,9 +760,9 @@ Bulgaria,Lead Author,1,1,0,214,0.0000
 Bulgaria,Lead Author,1,2,0,11,0.0000
 Bulgaria,Lead Author,1,3,0,43,0.0000
 Bulgaria,Lead Author,2,1,0,84,0.0000
-Bulgaria,Lead Author,2,2,0,281,0.0000
+Bulgaria,Lead Author,2,2,0,287,0.0000
 Bulgaria,Lead Author,2,3,0,65,0.0000
-Bulgaria,Lead Author,3,1,0,110,0.0000
+Bulgaria,Lead Author,3,1,0,137,0.0000
 Bulgaria,Lead Author,3,2,0,184,0.0000
 Bulgaria,Lead Author,3,3,0,139,0.0000
 Bulgaria,Lead Author,4,1,0,139,0.0000
@@ -770,7 +770,7 @@ Bulgaria,Lead Author,4,2,0,197,0.0000
 Bulgaria,Lead Author,4,3,0,175,0.0000
 Bulgaria,Lead Author,5,1,0,195,0.0000
 Bulgaria,Lead Author,5,2,0,236,0.0000
-Bulgaria,Lead Author,5,3,0,198,0.0000
+Bulgaria,Lead Author,5,3,0,243,0.0000
 Bulgaria,Review Editor,3,1,0,21,0.0000
 Bulgaria,Review Editor,3,2,0,34,0.0000
 Bulgaria,Review Editor,3,3,0,19,0.0000
@@ -813,9 +813,9 @@ Cameroon,Lead Author,1,1,0,214,0.0000
 Cameroon,Lead Author,1,2,0,11,0.0000
 Cameroon,Lead Author,1,3,0,43,0.0000
 Cameroon,Lead Author,2,1,0,84,0.0000
-Cameroon,Lead Author,2,2,0,281,0.0000
+Cameroon,Lead Author,2,2,0,287,0.0000
 Cameroon,Lead Author,2,3,0,65,0.0000
-Cameroon,Lead Author,3,1,0,110,0.0000
+Cameroon,Lead Author,3,1,0,137,0.0000
 Cameroon,Lead Author,3,2,0,184,0.0000
 Cameroon,Lead Author,3,3,0,139,0.0000
 Cameroon,Lead Author,4,1,0,139,0.0000
@@ -823,7 +823,7 @@ Cameroon,Lead Author,4,2,0,197,0.0000
 Cameroon,Lead Author,4,3,0,175,0.0000
 Cameroon,Lead Author,5,1,0,195,0.0000
 Cameroon,Lead Author,5,2,1,236,0.4237
-Cameroon,Lead Author,5,3,0,198,0.0000
+Cameroon,Lead Author,5,3,0,243,0.0000
 Cameroon,Review Editor,3,1,0,21,0.0000
 Cameroon,Review Editor,3,2,0,34,0.0000
 Cameroon,Review Editor,3,3,0,19,0.0000
@@ -866,9 +866,9 @@ Canada,Lead Author,1,1,9,214,4.2056
 Canada,Lead Author,1,2,0,11,0.0000
 Canada,Lead Author,1,3,0,43,0.0000
 Canada,Lead Author,2,1,4,84,4.7619
-Canada,Lead Author,2,2,14,281,4.9822
+Canada,Lead Author,2,2,14,287,4.8780
 Canada,Lead Author,2,3,2,65,3.0769
-Canada,Lead Author,3,1,7,110,6.3636
+Canada,Lead Author,3,1,7,137,5.1095
 Canada,Lead Author,3,2,13,184,7.0652
 Canada,Lead Author,3,3,6,139,4.3165
 Canada,Lead Author,4,1,5,139,3.5971
@@ -876,7 +876,7 @@ Canada,Lead Author,4,2,12,197,6.0914
 Canada,Lead Author,4,3,7,175,4.0000
 Canada,Lead Author,5,1,5,195,2.5641
 Canada,Lead Author,5,2,10,236,4.2373
-Canada,Lead Author,5,3,5,198,2.5253
+Canada,Lead Author,5,3,5,243,2.0576
 Canada,Review Editor,3,1,1,21,4.7619
 Canada,Review Editor,3,2,5,34,14.7059
 Canada,Review Editor,3,3,0,19,0.0000
@@ -919,9 +919,9 @@ Chad,Lead Author,1,1,0,214,0.0000
 Chad,Lead Author,1,2,0,11,0.0000
 Chad,Lead Author,1,3,0,43,0.0000
 Chad,Lead Author,2,1,0,84,0.0000
-Chad,Lead Author,2,2,0,281,0.0000
+Chad,Lead Author,2,2,0,287,0.0000
 Chad,Lead Author,2,3,0,65,0.0000
-Chad,Lead Author,3,1,0,110,0.0000
+Chad,Lead Author,3,1,0,137,0.0000
 Chad,Lead Author,3,2,0,184,0.0000
 Chad,Lead Author,3,3,0,139,0.0000
 Chad,Lead Author,4,1,0,139,0.0000
@@ -929,7 +929,7 @@ Chad,Lead Author,4,2,1,197,0.5076
 Chad,Lead Author,4,3,0,175,0.0000
 Chad,Lead Author,5,1,0,195,0.0000
 Chad,Lead Author,5,2,0,236,0.0000
-Chad,Lead Author,5,3,0,198,0.0000
+Chad,Lead Author,5,3,0,243,0.0000
 Chad,Review Editor,3,1,0,21,0.0000
 Chad,Review Editor,3,2,0,34,0.0000
 Chad,Review Editor,3,3,0,19,0.0000
@@ -972,9 +972,9 @@ Chile,Lead Author,1,1,0,214,0.0000
 Chile,Lead Author,1,2,0,11,0.0000
 Chile,Lead Author,1,3,0,43,0.0000
 Chile,Lead Author,2,1,0,84,0.0000
-Chile,Lead Author,2,2,0,281,0.0000
+Chile,Lead Author,2,2,0,287,0.0000
 Chile,Lead Author,2,3,0,65,0.0000
-Chile,Lead Author,3,1,0,110,0.0000
+Chile,Lead Author,3,1,0,137,0.0000
 Chile,Lead Author,3,2,1,184,0.5435
 Chile,Lead Author,3,3,2,139,1.4388
 Chile,Lead Author,4,1,1,139,0.7194
@@ -982,7 +982,7 @@ Chile,Lead Author,4,2,2,197,1.0152
 Chile,Lead Author,4,3,1,175,0.5714
 Chile,Lead Author,5,1,2,195,1.0256
 Chile,Lead Author,5,2,2,236,0.8475
-Chile,Lead Author,5,3,1,198,0.5051
+Chile,Lead Author,5,3,1,243,0.4115
 Chile,Review Editor,3,1,0,21,0.0000
 Chile,Review Editor,3,2,0,34,0.0000
 Chile,Review Editor,3,3,0,19,0.0000
@@ -1025,9 +1025,9 @@ China,Lead Author,1,1,6,214,2.8037
 China,Lead Author,1,2,0,11,0.0000
 China,Lead Author,1,3,2,43,4.6512
 China,Lead Author,2,1,2,84,2.3810
-China,Lead Author,2,2,8,281,2.8470
+China,Lead Author,2,2,8,287,2.7875
 China,Lead Author,2,3,1,65,1.5385
-China,Lead Author,3,1,7,110,6.3636
+China,Lead Author,3,1,7,137,5.1095
 China,Lead Author,3,2,3,184,1.6304
 China,Lead Author,3,3,6,139,4.3165
 China,Lead Author,4,1,10,139,7.1942
@@ -1035,7 +1035,7 @@ China,Lead Author,4,2,6,197,3.0457
 China,Lead Author,4,3,11,175,6.2857
 China,Lead Author,5,1,15,195,7.6923
 China,Lead Author,5,2,11,236,4.6610
-China,Lead Author,5,3,10,198,5.0505
+China,Lead Author,5,3,12,243,4.9383
 China,Review Editor,3,1,1,21,4.7619
 China,Review Editor,3,2,3,34,8.8235
 China,Review Editor,3,3,0,19,0.0000
@@ -1078,9 +1078,9 @@ Colombia,Lead Author,1,1,0,214,0.0000
 Colombia,Lead Author,1,2,0,11,0.0000
 Colombia,Lead Author,1,3,0,43,0.0000
 Colombia,Lead Author,2,1,0,84,0.0000
-Colombia,Lead Author,2,2,0,281,0.0000
+Colombia,Lead Author,2,2,0,287,0.0000
 Colombia,Lead Author,2,3,0,65,0.0000
-Colombia,Lead Author,3,1,0,110,0.0000
+Colombia,Lead Author,3,1,0,137,0.0000
 Colombia,Lead Author,3,2,0,184,0.0000
 Colombia,Lead Author,3,3,0,139,0.0000
 Colombia,Lead Author,4,1,0,139,0.0000
@@ -1088,7 +1088,7 @@ Colombia,Lead Author,4,2,0,197,0.0000
 Colombia,Lead Author,4,3,0,175,0.0000
 Colombia,Lead Author,5,1,0,195,0.0000
 Colombia,Lead Author,5,2,1,236,0.4237
-Colombia,Lead Author,5,3,1,198,0.5051
+Colombia,Lead Author,5,3,1,243,0.4115
 Colombia,Review Editor,3,1,0,21,0.0000
 Colombia,Review Editor,3,2,0,34,0.0000
 Colombia,Review Editor,3,3,0,19,0.0000
@@ -1131,9 +1131,9 @@ Costa Rica,Lead Author,1,1,0,214,0.0000
 Costa Rica,Lead Author,1,2,0,11,0.0000
 Costa Rica,Lead Author,1,3,0,43,0.0000
 Costa Rica,Lead Author,2,1,0,84,0.0000
-Costa Rica,Lead Author,2,2,0,281,0.0000
+Costa Rica,Lead Author,2,2,0,287,0.0000
 Costa Rica,Lead Author,2,3,0,65,0.0000
-Costa Rica,Lead Author,3,1,0,110,0.0000
+Costa Rica,Lead Author,3,1,0,137,0.0000
 Costa Rica,Lead Author,3,2,1,184,0.5435
 Costa Rica,Lead Author,3,3,0,139,0.0000
 Costa Rica,Lead Author,4,1,0,139,0.0000
@@ -1141,7 +1141,7 @@ Costa Rica,Lead Author,4,2,0,197,0.0000
 Costa Rica,Lead Author,4,3,0,175,0.0000
 Costa Rica,Lead Author,5,1,0,195,0.0000
 Costa Rica,Lead Author,5,2,0,236,0.0000
-Costa Rica,Lead Author,5,3,1,198,0.5051
+Costa Rica,Lead Author,5,3,1,243,0.4115
 Costa Rica,Review Editor,3,1,0,21,0.0000
 Costa Rica,Review Editor,3,2,0,34,0.0000
 Costa Rica,Review Editor,3,3,0,19,0.0000
@@ -1184,9 +1184,9 @@ Cuba,Lead Author,1,1,0,214,0.0000
 Cuba,Lead Author,1,2,0,11,0.0000
 Cuba,Lead Author,1,3,0,43,0.0000
 Cuba,Lead Author,2,1,0,84,0.0000
-Cuba,Lead Author,2,2,2,281,0.7117
+Cuba,Lead Author,2,2,2,287,0.6969
 Cuba,Lead Author,2,3,0,65,0.0000
-Cuba,Lead Author,3,1,0,110,0.0000
+Cuba,Lead Author,3,1,0,137,0.0000
 Cuba,Lead Author,3,2,1,184,0.5435
 Cuba,Lead Author,3,3,1,139,0.7194
 Cuba,Lead Author,4,1,0,139,0.0000
@@ -1194,7 +1194,7 @@ Cuba,Lead Author,4,2,1,197,0.5076
 Cuba,Lead Author,4,3,3,175,1.7143
 Cuba,Lead Author,5,1,0,195,0.0000
 Cuba,Lead Author,5,2,1,236,0.4237
-Cuba,Lead Author,5,3,4,198,2.0202
+Cuba,Lead Author,5,3,5,243,2.0576
 Cuba,Review Editor,3,1,0,21,0.0000
 Cuba,Review Editor,3,2,0,34,0.0000
 Cuba,Review Editor,3,3,1,19,5.2632
@@ -1237,9 +1237,9 @@ Czech Republic,Lead Author,1,1,0,214,0.0000
 Czech Republic,Lead Author,1,2,0,11,0.0000
 Czech Republic,Lead Author,1,3,0,43,0.0000
 Czech Republic,Lead Author,2,1,0,84,0.0000
-Czech Republic,Lead Author,2,2,0,281,0.0000
+Czech Republic,Lead Author,2,2,0,287,0.0000
 Czech Republic,Lead Author,2,3,0,65,0.0000
-Czech Republic,Lead Author,3,1,0,110,0.0000
+Czech Republic,Lead Author,3,1,0,137,0.0000
 Czech Republic,Lead Author,3,2,0,184,0.0000
 Czech Republic,Lead Author,3,3,0,139,0.0000
 Czech Republic,Lead Author,4,1,0,139,0.0000
@@ -1247,7 +1247,7 @@ Czech Republic,Lead Author,4,2,0,197,0.0000
 Czech Republic,Lead Author,4,3,0,175,0.0000
 Czech Republic,Lead Author,5,1,0,195,0.0000
 Czech Republic,Lead Author,5,2,0,236,0.0000
-Czech Republic,Lead Author,5,3,0,198,0.0000
+Czech Republic,Lead Author,5,3,0,243,0.0000
 Czech Republic,Review Editor,3,1,0,21,0.0000
 Czech Republic,Review Editor,3,2,0,34,0.0000
 Czech Republic,Review Editor,3,3,0,19,0.0000
@@ -1290,9 +1290,9 @@ Denmark,Lead Author,1,1,3,214,1.4019
 Denmark,Lead Author,1,2,0,11,0.0000
 Denmark,Lead Author,1,3,0,43,0.0000
 Denmark,Lead Author,2,1,0,84,0.0000
-Denmark,Lead Author,2,2,3,281,1.0676
+Denmark,Lead Author,2,2,3,287,1.0453
 Denmark,Lead Author,2,3,1,65,1.5385
-Denmark,Lead Author,3,1,1,110,0.9091
+Denmark,Lead Author,3,1,1,137,0.7299
 Denmark,Lead Author,3,2,0,184,0.0000
 Denmark,Lead Author,3,3,3,139,2.1583
 Denmark,Lead Author,4,1,0,139,0.0000
@@ -1300,7 +1300,7 @@ Denmark,Lead Author,4,2,2,197,1.0152
 Denmark,Lead Author,4,3,2,175,1.1429
 Denmark,Lead Author,5,1,0,195,0.0000
 Denmark,Lead Author,5,2,1,236,0.4237
-Denmark,Lead Author,5,3,2,198,1.0101
+Denmark,Lead Author,5,3,2,243,0.8230
 Denmark,Review Editor,3,1,0,21,0.0000
 Denmark,Review Editor,3,2,0,34,0.0000
 Denmark,Review Editor,3,3,0,19,0.0000
@@ -1343,9 +1343,9 @@ Ecuador,Lead Author,1,1,0,214,0.0000
 Ecuador,Lead Author,1,2,0,11,0.0000
 Ecuador,Lead Author,1,3,0,43,0.0000
 Ecuador,Lead Author,2,1,0,84,0.0000
-Ecuador,Lead Author,2,2,0,281,0.0000
+Ecuador,Lead Author,2,2,0,287,0.0000
 Ecuador,Lead Author,2,3,0,65,0.0000
-Ecuador,Lead Author,3,1,0,110,0.0000
+Ecuador,Lead Author,3,1,0,137,0.0000
 Ecuador,Lead Author,3,2,0,184,0.0000
 Ecuador,Lead Author,3,3,0,139,0.0000
 Ecuador,Lead Author,4,1,0,139,0.0000
@@ -1353,7 +1353,7 @@ Ecuador,Lead Author,4,2,0,197,0.0000
 Ecuador,Lead Author,4,3,1,175,0.5714
 Ecuador,Lead Author,5,1,0,195,0.0000
 Ecuador,Lead Author,5,2,0,236,0.0000
-Ecuador,Lead Author,5,3,0,198,0.0000
+Ecuador,Lead Author,5,3,0,243,0.0000
 Ecuador,Review Editor,3,1,0,21,0.0000
 Ecuador,Review Editor,3,2,0,34,0.0000
 Ecuador,Review Editor,3,3,0,19,0.0000
@@ -1396,9 +1396,9 @@ Egypt,Lead Author,1,1,0,214,0.0000
 Egypt,Lead Author,1,2,0,11,0.0000
 Egypt,Lead Author,1,3,0,43,0.0000
 Egypt,Lead Author,2,1,0,84,0.0000
-Egypt,Lead Author,2,2,0,281,0.0000
+Egypt,Lead Author,2,2,0,287,0.0000
 Egypt,Lead Author,2,3,0,65,0.0000
-Egypt,Lead Author,3,1,0,110,0.0000
+Egypt,Lead Author,3,1,0,137,0.0000
 Egypt,Lead Author,3,2,0,184,0.0000
 Egypt,Lead Author,3,3,0,139,0.0000
 Egypt,Lead Author,4,1,0,139,0.0000
@@ -1406,7 +1406,7 @@ Egypt,Lead Author,4,2,1,197,0.5076
 Egypt,Lead Author,4,3,0,175,0.0000
 Egypt,Lead Author,5,1,0,195,0.0000
 Egypt,Lead Author,5,2,2,236,0.8475
-Egypt,Lead Author,5,3,2,198,1.0101
+Egypt,Lead Author,5,3,2,243,0.8230
 Egypt,Review Editor,3,1,0,21,0.0000
 Egypt,Review Editor,3,2,0,34,0.0000
 Egypt,Review Editor,3,3,0,19,0.0000
@@ -1449,9 +1449,9 @@ Ethiopia,Lead Author,1,1,1,214,0.4673
 Ethiopia,Lead Author,1,2,0,11,0.0000
 Ethiopia,Lead Author,1,3,0,43,0.0000
 Ethiopia,Lead Author,2,1,0,84,0.0000
-Ethiopia,Lead Author,2,2,0,281,0.0000
+Ethiopia,Lead Author,2,2,0,287,0.0000
 Ethiopia,Lead Author,2,3,0,65,0.0000
-Ethiopia,Lead Author,3,1,0,110,0.0000
+Ethiopia,Lead Author,3,1,0,137,0.0000
 Ethiopia,Lead Author,3,2,0,184,0.0000
 Ethiopia,Lead Author,3,3,0,139,0.0000
 Ethiopia,Lead Author,4,1,0,139,0.0000
@@ -1459,7 +1459,7 @@ Ethiopia,Lead Author,4,2,0,197,0.0000
 Ethiopia,Lead Author,4,3,0,175,0.0000
 Ethiopia,Lead Author,5,1,0,195,0.0000
 Ethiopia,Lead Author,5,2,0,236,0.0000
-Ethiopia,Lead Author,5,3,0,198,0.0000
+Ethiopia,Lead Author,5,3,0,243,0.0000
 Ethiopia,Review Editor,3,1,0,21,0.0000
 Ethiopia,Review Editor,3,2,0,34,0.0000
 Ethiopia,Review Editor,3,3,0,19,0.0000
@@ -1502,9 +1502,9 @@ Fiji,Lead Author,1,1,0,214,0.0000
 Fiji,Lead Author,1,2,0,11,0.0000
 Fiji,Lead Author,1,3,0,43,0.0000
 Fiji,Lead Author,2,1,0,84,0.0000
-Fiji,Lead Author,2,2,0,281,0.0000
+Fiji,Lead Author,2,2,0,287,0.0000
 Fiji,Lead Author,2,3,0,65,0.0000
-Fiji,Lead Author,3,1,0,110,0.0000
+Fiji,Lead Author,3,1,0,137,0.0000
 Fiji,Lead Author,3,2,0,184,0.0000
 Fiji,Lead Author,3,3,0,139,0.0000
 Fiji,Lead Author,4,1,0,139,0.0000
@@ -1512,7 +1512,7 @@ Fiji,Lead Author,4,2,0,197,0.0000
 Fiji,Lead Author,4,3,0,175,0.0000
 Fiji,Lead Author,5,1,0,195,0.0000
 Fiji,Lead Author,5,2,1,236,0.4237
-Fiji,Lead Author,5,3,1,198,0.5051
+Fiji,Lead Author,5,3,1,243,0.4115
 Fiji,Review Editor,3,1,0,21,0.0000
 Fiji,Review Editor,3,2,0,34,0.0000
 Fiji,Review Editor,3,3,0,19,0.0000
@@ -1555,9 +1555,9 @@ Finland,Lead Author,1,1,1,214,0.4673
 Finland,Lead Author,1,2,0,11,0.0000
 Finland,Lead Author,1,3,0,43,0.0000
 Finland,Lead Author,2,1,0,84,0.0000
-Finland,Lead Author,2,2,2,281,0.7117
+Finland,Lead Author,2,2,2,287,0.6969
 Finland,Lead Author,2,3,0,65,0.0000
-Finland,Lead Author,3,1,1,110,0.9091
+Finland,Lead Author,3,1,1,137,0.7299
 Finland,Lead Author,3,2,2,184,1.0870
 Finland,Lead Author,3,3,1,139,0.7194
 Finland,Lead Author,4,1,1,139,0.7194
@@ -1565,7 +1565,7 @@ Finland,Lead Author,4,2,1,197,0.5076
 Finland,Lead Author,4,3,3,175,1.7143
 Finland,Lead Author,5,1,1,195,0.5128
 Finland,Lead Author,5,2,1,236,0.4237
-Finland,Lead Author,5,3,1,198,0.5051
+Finland,Lead Author,5,3,1,243,0.4115
 Finland,Review Editor,3,1,0,21,0.0000
 Finland,Review Editor,3,2,1,34,2.9412
 Finland,Review Editor,3,3,0,19,0.0000
@@ -1608,9 +1608,9 @@ France,Lead Author,1,1,8,214,3.7383
 France,Lead Author,1,2,0,11,0.0000
 France,Lead Author,1,3,2,43,4.6512
 France,Lead Author,2,1,4,84,4.7619
-France,Lead Author,2,2,9,281,3.2028
+France,Lead Author,2,2,10,287,3.4843
 France,Lead Author,2,3,3,65,4.6154
-France,Lead Author,3,1,5,110,4.5455
+France,Lead Author,3,1,5,137,3.6496
 France,Lead Author,3,2,2,184,1.0870
 France,Lead Author,3,3,5,139,3.5971
 France,Lead Author,4,1,11,139,7.9137
@@ -1618,7 +1618,7 @@ France,Lead Author,4,2,6,197,3.0457
 France,Lead Author,4,3,8,175,4.5714
 France,Lead Author,5,1,8,195,4.1026
 France,Lead Author,5,2,9,236,3.8136
-France,Lead Author,5,3,5,198,2.5253
+France,Lead Author,5,3,6,243,2.4691
 France,Review Editor,3,1,0,21,0.0000
 France,Review Editor,3,2,1,34,2.9412
 France,Review Editor,3,3,1,19,5.2632
@@ -1661,9 +1661,9 @@ Germany,Lead Author,1,1,13,214,6.0748
 Germany,Lead Author,1,2,0,11,0.0000
 Germany,Lead Author,1,3,0,43,0.0000
 Germany,Lead Author,2,1,3,84,3.5714
-Germany,Lead Author,2,2,8,281,2.8470
+Germany,Lead Author,2,2,8,287,2.7875
 Germany,Lead Author,2,3,0,65,0.0000
-Germany,Lead Author,3,1,10,110,9.0909
+Germany,Lead Author,3,1,10,137,7.2993
 Germany,Lead Author,3,2,10,184,5.4348
 Germany,Lead Author,3,3,6,139,4.3165
 Germany,Lead Author,4,1,4,139,2.8777
@@ -1671,7 +1671,7 @@ Germany,Lead Author,4,2,6,197,3.0457
 Germany,Lead Author,4,3,6,175,3.4286
 Germany,Lead Author,5,1,12,195,6.1538
 Germany,Lead Author,5,2,11,236,4.6610
-Germany,Lead Author,5,3,8,198,4.0404
+Germany,Lead Author,5,3,21,243,8.6420
 Germany,Review Editor,3,1,0,21,0.0000
 Germany,Review Editor,3,2,1,34,2.9412
 Germany,Review Editor,3,3,1,19,5.2632
@@ -1714,9 +1714,9 @@ Ghana,Lead Author,1,1,0,214,0.0000
 Ghana,Lead Author,1,2,0,11,0.0000
 Ghana,Lead Author,1,3,0,43,0.0000
 Ghana,Lead Author,2,1,0,84,0.0000
-Ghana,Lead Author,2,2,0,281,0.0000
+Ghana,Lead Author,2,2,0,287,0.0000
 Ghana,Lead Author,2,3,0,65,0.0000
-Ghana,Lead Author,3,1,0,110,0.0000
+Ghana,Lead Author,3,1,0,137,0.0000
 Ghana,Lead Author,3,2,0,184,0.0000
 Ghana,Lead Author,3,3,0,139,0.0000
 Ghana,Lead Author,4,1,0,139,0.0000
@@ -1724,7 +1724,7 @@ Ghana,Lead Author,4,2,0,197,0.0000
 Ghana,Lead Author,4,3,0,175,0.0000
 Ghana,Lead Author,5,1,0,195,0.0000
 Ghana,Lead Author,5,2,1,236,0.4237
-Ghana,Lead Author,5,3,2,198,1.0101
+Ghana,Lead Author,5,3,2,243,0.8230
 Ghana,Review Editor,3,1,0,21,0.0000
 Ghana,Review Editor,3,2,0,34,0.0000
 Ghana,Review Editor,3,3,0,19,0.0000
@@ -1767,9 +1767,9 @@ Greece,Lead Author,1,1,0,214,0.0000
 Greece,Lead Author,1,2,0,11,0.0000
 Greece,Lead Author,1,3,0,43,0.0000
 Greece,Lead Author,2,1,0,84,0.0000
-Greece,Lead Author,2,2,0,281,0.0000
+Greece,Lead Author,2,2,0,287,0.0000
 Greece,Lead Author,2,3,0,65,0.0000
-Greece,Lead Author,3,1,0,110,0.0000
+Greece,Lead Author,3,1,0,137,0.0000
 Greece,Lead Author,3,2,0,184,0.0000
 Greece,Lead Author,3,3,0,139,0.0000
 Greece,Lead Author,4,1,0,139,0.0000
@@ -1777,7 +1777,7 @@ Greece,Lead Author,4,2,1,197,0.5076
 Greece,Lead Author,4,3,1,175,0.5714
 Greece,Lead Author,5,1,0,195,0.0000
 Greece,Lead Author,5,2,1,236,0.4237
-Greece,Lead Author,5,3,1,198,0.5051
+Greece,Lead Author,5,3,1,243,0.4115
 Greece,Review Editor,3,1,0,21,0.0000
 Greece,Review Editor,3,2,0,34,0.0000
 Greece,Review Editor,3,3,0,19,0.0000
@@ -1820,9 +1820,9 @@ Guatemala,Lead Author,1,1,0,214,0.0000
 Guatemala,Lead Author,1,2,0,11,0.0000
 Guatemala,Lead Author,1,3,0,43,0.0000
 Guatemala,Lead Author,2,1,0,84,0.0000
-Guatemala,Lead Author,2,2,0,281,0.0000
+Guatemala,Lead Author,2,2,0,287,0.0000
 Guatemala,Lead Author,2,3,0,65,0.0000
-Guatemala,Lead Author,3,1,0,110,0.0000
+Guatemala,Lead Author,3,1,0,137,0.0000
 Guatemala,Lead Author,3,2,0,184,0.0000
 Guatemala,Lead Author,3,3,0,139,0.0000
 Guatemala,Lead Author,4,1,0,139,0.0000
@@ -1830,7 +1830,7 @@ Guatemala,Lead Author,4,2,0,197,0.0000
 Guatemala,Lead Author,4,3,0,175,0.0000
 Guatemala,Lead Author,5,1,0,195,0.0000
 Guatemala,Lead Author,5,2,1,236,0.4237
-Guatemala,Lead Author,5,3,0,198,0.0000
+Guatemala,Lead Author,5,3,0,243,0.0000
 Guatemala,Review Editor,3,1,0,21,0.0000
 Guatemala,Review Editor,3,2,0,34,0.0000
 Guatemala,Review Editor,3,3,0,19,0.0000
@@ -1873,9 +1873,9 @@ Hong Kong,Lead Author,1,1,0,214,0.0000
 Hong Kong,Lead Author,1,2,0,11,0.0000
 Hong Kong,Lead Author,1,3,0,43,0.0000
 Hong Kong,Lead Author,2,1,0,84,0.0000
-Hong Kong,Lead Author,2,2,0,281,0.0000
+Hong Kong,Lead Author,2,2,0,287,0.0000
 Hong Kong,Lead Author,2,3,0,65,0.0000
-Hong Kong,Lead Author,3,1,0,110,0.0000
+Hong Kong,Lead Author,3,1,0,137,0.0000
 Hong Kong,Lead Author,3,2,0,184,0.0000
 Hong Kong,Lead Author,3,3,0,139,0.0000
 Hong Kong,Lead Author,4,1,0,139,0.0000
@@ -1883,7 +1883,7 @@ Hong Kong,Lead Author,4,2,0,197,0.0000
 Hong Kong,Lead Author,4,3,0,175,0.0000
 Hong Kong,Lead Author,5,1,0,195,0.0000
 Hong Kong,Lead Author,5,2,0,236,0.0000
-Hong Kong,Lead Author,5,3,1,198,0.5051
+Hong Kong,Lead Author,5,3,1,243,0.4115
 Hong Kong,Review Editor,3,1,0,21,0.0000
 Hong Kong,Review Editor,3,2,0,34,0.0000
 Hong Kong,Review Editor,3,3,0,19,0.0000
@@ -1926,9 +1926,9 @@ Hungary,Lead Author,1,1,0,214,0.0000
 Hungary,Lead Author,1,2,0,11,0.0000
 Hungary,Lead Author,1,3,0,43,0.0000
 Hungary,Lead Author,2,1,0,84,0.0000
-Hungary,Lead Author,2,2,3,281,1.0676
+Hungary,Lead Author,2,2,3,287,1.0453
 Hungary,Lead Author,2,3,0,65,0.0000
-Hungary,Lead Author,3,1,0,110,0.0000
+Hungary,Lead Author,3,1,0,137,0.0000
 Hungary,Lead Author,3,2,0,184,0.0000
 Hungary,Lead Author,3,3,1,139,0.7194
 Hungary,Lead Author,4,1,0,139,0.0000
@@ -1936,7 +1936,7 @@ Hungary,Lead Author,4,2,1,197,0.5076
 Hungary,Lead Author,4,3,2,175,1.1429
 Hungary,Lead Author,5,1,0,195,0.0000
 Hungary,Lead Author,5,2,1,236,0.4237
-Hungary,Lead Author,5,3,1,198,0.5051
+Hungary,Lead Author,5,3,2,243,0.8230
 Hungary,Review Editor,3,1,0,21,0.0000
 Hungary,Review Editor,3,2,0,34,0.0000
 Hungary,Review Editor,3,3,0,19,0.0000
@@ -1979,9 +1979,9 @@ Iceland,Lead Author,1,1,0,214,0.0000
 Iceland,Lead Author,1,2,0,11,0.0000
 Iceland,Lead Author,1,3,0,43,0.0000
 Iceland,Lead Author,2,1,0,84,0.0000
-Iceland,Lead Author,2,2,0,281,0.0000
+Iceland,Lead Author,2,2,0,287,0.0000
 Iceland,Lead Author,2,3,0,65,0.0000
-Iceland,Lead Author,3,1,0,110,0.0000
+Iceland,Lead Author,3,1,0,137,0.0000
 Iceland,Lead Author,3,2,0,184,0.0000
 Iceland,Lead Author,3,3,0,139,0.0000
 Iceland,Lead Author,4,1,0,139,0.0000
@@ -1989,7 +1989,7 @@ Iceland,Lead Author,4,2,1,197,0.5076
 Iceland,Lead Author,4,3,0,175,0.0000
 Iceland,Lead Author,5,1,0,195,0.0000
 Iceland,Lead Author,5,2,1,236,0.4237
-Iceland,Lead Author,5,3,0,198,0.0000
+Iceland,Lead Author,5,3,0,243,0.0000
 Iceland,Review Editor,3,1,0,21,0.0000
 Iceland,Review Editor,3,2,0,34,0.0000
 Iceland,Review Editor,3,3,0,19,0.0000
@@ -2032,9 +2032,9 @@ India,Lead Author,1,1,4,214,1.8692
 India,Lead Author,1,2,0,11,0.0000
 India,Lead Author,1,3,0,43,0.0000
 India,Lead Author,2,1,2,84,2.3810
-India,Lead Author,2,2,13,281,4.6263
+India,Lead Author,2,2,14,287,4.8780
 India,Lead Author,2,3,4,65,6.1538
-India,Lead Author,3,1,1,110,0.9091
+India,Lead Author,3,1,1,137,0.7299
 India,Lead Author,3,2,6,184,3.2609
 India,Lead Author,3,3,6,139,4.3165
 India,Lead Author,4,1,5,139,3.5971
@@ -2042,7 +2042,7 @@ India,Lead Author,4,2,7,197,3.5533
 India,Lead Author,4,3,6,175,3.4286
 India,Lead Author,5,1,8,195,4.1026
 India,Lead Author,5,2,5,236,2.1186
-India,Lead Author,5,3,13,198,6.5657
+India,Lead Author,5,3,16,243,6.5844
 India,Review Editor,3,1,1,21,4.7619
 India,Review Editor,3,2,3,34,8.8235
 India,Review Editor,3,3,4,19,21.0526
@@ -2085,9 +2085,9 @@ Indonesia,Lead Author,1,1,0,214,0.0000
 Indonesia,Lead Author,1,2,0,11,0.0000
 Indonesia,Lead Author,1,3,0,43,0.0000
 Indonesia,Lead Author,2,1,0,84,0.0000
-Indonesia,Lead Author,2,2,1,281,0.3559
+Indonesia,Lead Author,2,2,1,287,0.3484
 Indonesia,Lead Author,2,3,0,65,0.0000
-Indonesia,Lead Author,3,1,0,110,0.0000
+Indonesia,Lead Author,3,1,0,137,0.0000
 Indonesia,Lead Author,3,2,2,184,1.0870
 Indonesia,Lead Author,3,3,0,139,0.0000
 Indonesia,Lead Author,4,1,0,139,0.0000
@@ -2095,7 +2095,7 @@ Indonesia,Lead Author,4,2,0,197,0.0000
 Indonesia,Lead Author,4,3,2,175,1.1429
 Indonesia,Lead Author,5,1,1,195,0.5128
 Indonesia,Lead Author,5,2,0,236,0.0000
-Indonesia,Lead Author,5,3,0,198,0.0000
+Indonesia,Lead Author,5,3,0,243,0.0000
 Indonesia,Review Editor,3,1,0,21,0.0000
 Indonesia,Review Editor,3,2,0,34,0.0000
 Indonesia,Review Editor,3,3,1,19,5.2632
@@ -2138,9 +2138,9 @@ Iran,Lead Author,1,1,0,214,0.0000
 Iran,Lead Author,1,2,0,11,0.0000
 Iran,Lead Author,1,3,0,43,0.0000
 Iran,Lead Author,2,1,0,84,0.0000
-Iran,Lead Author,2,2,0,281,0.0000
+Iran,Lead Author,2,2,0,287,0.0000
 Iran,Lead Author,2,3,0,65,0.0000
-Iran,Lead Author,3,1,0,110,0.0000
+Iran,Lead Author,3,1,0,137,0.0000
 Iran,Lead Author,3,2,0,184,0.0000
 Iran,Lead Author,3,3,0,139,0.0000
 Iran,Lead Author,4,1,1,139,0.7194
@@ -2148,7 +2148,7 @@ Iran,Lead Author,4,2,1,197,0.5076
 Iran,Lead Author,4,3,0,175,0.0000
 Iran,Lead Author,5,1,0,195,0.0000
 Iran,Lead Author,5,2,0,236,0.0000
-Iran,Lead Author,5,3,1,198,0.5051
+Iran,Lead Author,5,3,1,243,0.4115
 Iran,Review Editor,3,1,0,21,0.0000
 Iran,Review Editor,3,2,0,34,0.0000
 Iran,Review Editor,3,3,0,19,0.0000
@@ -2191,9 +2191,9 @@ Ireland,Lead Author,1,1,0,214,0.0000
 Ireland,Lead Author,1,2,0,11,0.0000
 Ireland,Lead Author,1,3,0,43,0.0000
 Ireland,Lead Author,2,1,0,84,0.0000
-Ireland,Lead Author,2,2,0,281,0.0000
+Ireland,Lead Author,2,2,0,287,0.0000
 Ireland,Lead Author,2,3,0,65,0.0000
-Ireland,Lead Author,3,1,0,110,0.0000
+Ireland,Lead Author,3,1,0,137,0.0000
 Ireland,Lead Author,3,2,0,184,0.0000
 Ireland,Lead Author,3,3,0,139,0.0000
 Ireland,Lead Author,4,1,0,139,0.0000
@@ -2201,7 +2201,7 @@ Ireland,Lead Author,4,2,1,197,0.5076
 Ireland,Lead Author,4,3,1,175,0.5714
 Ireland,Lead Author,5,1,0,195,0.0000
 Ireland,Lead Author,5,2,0,236,0.0000
-Ireland,Lead Author,5,3,0,198,0.0000
+Ireland,Lead Author,5,3,0,243,0.0000
 Ireland,Review Editor,3,1,0,21,0.0000
 Ireland,Review Editor,3,2,0,34,0.0000
 Ireland,Review Editor,3,3,0,19,0.0000
@@ -2244,9 +2244,9 @@ Israel,Lead Author,1,1,0,214,0.0000
 Israel,Lead Author,1,2,0,11,0.0000
 Israel,Lead Author,1,3,0,43,0.0000
 Israel,Lead Author,2,1,0,84,0.0000
-Israel,Lead Author,2,2,0,281,0.0000
+Israel,Lead Author,2,2,0,287,0.0000
 Israel,Lead Author,2,3,0,65,0.0000
-Israel,Lead Author,3,1,0,110,0.0000
+Israel,Lead Author,3,1,0,137,0.0000
 Israel,Lead Author,3,2,1,184,0.5435
 Israel,Lead Author,3,3,0,139,0.0000
 Israel,Lead Author,4,1,0,139,0.0000
@@ -2254,7 +2254,7 @@ Israel,Lead Author,4,2,0,197,0.0000
 Israel,Lead Author,4,3,0,175,0.0000
 Israel,Lead Author,5,1,0,195,0.0000
 Israel,Lead Author,5,2,0,236,0.0000
-Israel,Lead Author,5,3,0,198,0.0000
+Israel,Lead Author,5,3,0,243,0.0000
 Israel,Review Editor,3,1,0,21,0.0000
 Israel,Review Editor,3,2,0,34,0.0000
 Israel,Review Editor,3,3,1,19,5.2632
@@ -2297,9 +2297,9 @@ Italy,Lead Author,1,1,0,214,0.0000
 Italy,Lead Author,1,2,0,11,0.0000
 Italy,Lead Author,1,3,1,43,2.3256
 Italy,Lead Author,2,1,0,84,0.0000
-Italy,Lead Author,2,2,2,281,0.7117
+Italy,Lead Author,2,2,2,287,0.6969
 Italy,Lead Author,2,3,2,65,3.0769
-Italy,Lead Author,3,1,2,110,1.8182
+Italy,Lead Author,3,1,2,137,1.4599
 Italy,Lead Author,3,2,0,184,0.0000
 Italy,Lead Author,3,3,1,139,0.7194
 Italy,Lead Author,4,1,1,139,0.7194
@@ -2307,7 +2307,7 @@ Italy,Lead Author,4,2,4,197,2.0305
 Italy,Lead Author,4,3,1,175,0.5714
 Italy,Lead Author,5,1,2,195,1.0256
 Italy,Lead Author,5,2,3,236,1.2712
-Italy,Lead Author,5,3,6,198,3.0303
+Italy,Lead Author,5,3,6,243,2.4691
 Italy,Review Editor,3,1,0,21,0.0000
 Italy,Review Editor,3,2,0,34,0.0000
 Italy,Review Editor,3,3,0,19,0.0000
@@ -2350,9 +2350,9 @@ Jamaica,Lead Author,1,1,0,214,0.0000
 Jamaica,Lead Author,1,2,0,11,0.0000
 Jamaica,Lead Author,1,3,0,43,0.0000
 Jamaica,Lead Author,2,1,0,84,0.0000
-Jamaica,Lead Author,2,2,1,281,0.3559
+Jamaica,Lead Author,2,2,1,287,0.3484
 Jamaica,Lead Author,2,3,0,65,0.0000
-Jamaica,Lead Author,3,1,0,110,0.0000
+Jamaica,Lead Author,3,1,0,137,0.0000
 Jamaica,Lead Author,3,2,0,184,0.0000
 Jamaica,Lead Author,3,3,0,139,0.0000
 Jamaica,Lead Author,4,1,1,139,0.7194
@@ -2360,7 +2360,7 @@ Jamaica,Lead Author,4,2,0,197,0.0000
 Jamaica,Lead Author,4,3,0,175,0.0000
 Jamaica,Lead Author,5,1,0,195,0.0000
 Jamaica,Lead Author,5,2,1,236,0.4237
-Jamaica,Lead Author,5,3,0,198,0.0000
+Jamaica,Lead Author,5,3,0,243,0.0000
 Jamaica,Review Editor,3,1,0,21,0.0000
 Jamaica,Review Editor,3,2,0,34,0.0000
 Jamaica,Review Editor,3,3,0,19,0.0000
@@ -2403,9 +2403,9 @@ Japan,Lead Author,1,1,4,214,1.8692
 Japan,Lead Author,1,2,2,11,18.1818
 Japan,Lead Author,1,3,3,43,6.9767
 Japan,Lead Author,2,1,2,84,2.3810
-Japan,Lead Author,2,2,16,281,5.6940
+Japan,Lead Author,2,2,17,287,5.9233
 Japan,Lead Author,2,3,2,65,3.0769
-Japan,Lead Author,3,1,3,110,2.7273
+Japan,Lead Author,3,1,3,137,2.1898
 Japan,Lead Author,3,2,7,184,3.8043
 Japan,Lead Author,3,3,12,139,8.6331
 Japan,Lead Author,4,1,7,139,5.0360
@@ -2413,7 +2413,7 @@ Japan,Lead Author,4,2,5,197,2.5381
 Japan,Lead Author,4,3,13,175,7.4286
 Japan,Lead Author,5,1,8,195,4.1026
 Japan,Lead Author,5,2,9,236,3.8136
-Japan,Lead Author,5,3,8,198,4.0404
+Japan,Lead Author,5,3,9,243,3.7037
 Japan,Review Editor,3,1,1,21,4.7619
 Japan,Review Editor,3,2,0,34,0.0000
 Japan,Review Editor,3,3,2,19,10.5263
@@ -2456,9 +2456,9 @@ Kazakhstan,Lead Author,1,1,0,214,0.0000
 Kazakhstan,Lead Author,1,2,0,11,0.0000
 Kazakhstan,Lead Author,1,3,0,43,0.0000
 Kazakhstan,Lead Author,2,1,0,84,0.0000
-Kazakhstan,Lead Author,2,2,0,281,0.0000
+Kazakhstan,Lead Author,2,2,0,287,0.0000
 Kazakhstan,Lead Author,2,3,0,65,0.0000
-Kazakhstan,Lead Author,3,1,0,110,0.0000
+Kazakhstan,Lead Author,3,1,0,137,0.0000
 Kazakhstan,Lead Author,3,2,1,184,0.5435
 Kazakhstan,Lead Author,3,3,0,139,0.0000
 Kazakhstan,Lead Author,4,1,0,139,0.0000
@@ -2466,7 +2466,7 @@ Kazakhstan,Lead Author,4,2,0,197,0.0000
 Kazakhstan,Lead Author,4,3,0,175,0.0000
 Kazakhstan,Lead Author,5,1,0,195,0.0000
 Kazakhstan,Lead Author,5,2,0,236,0.0000
-Kazakhstan,Lead Author,5,3,0,198,0.0000
+Kazakhstan,Lead Author,5,3,0,243,0.0000
 Kazakhstan,Review Editor,3,1,0,21,0.0000
 Kazakhstan,Review Editor,3,2,0,34,0.0000
 Kazakhstan,Review Editor,3,3,0,19,0.0000
@@ -2509,9 +2509,9 @@ Kenya,Lead Author,1,1,1,214,0.4673
 Kenya,Lead Author,1,2,0,11,0.0000
 Kenya,Lead Author,1,3,0,43,0.0000
 Kenya,Lead Author,2,1,2,84,2.3810
-Kenya,Lead Author,2,2,7,281,2.4911
+Kenya,Lead Author,2,2,7,287,2.4390
 Kenya,Lead Author,2,3,0,65,0.0000
-Kenya,Lead Author,3,1,2,110,1.8182
+Kenya,Lead Author,3,1,2,137,1.4599
 Kenya,Lead Author,3,2,3,184,1.6304
 Kenya,Lead Author,3,3,1,139,0.7194
 Kenya,Lead Author,4,1,3,139,2.1583
@@ -2519,7 +2519,7 @@ Kenya,Lead Author,4,2,1,197,0.5076
 Kenya,Lead Author,4,3,2,175,1.1429
 Kenya,Lead Author,5,1,0,195,0.0000
 Kenya,Lead Author,5,2,1,236,0.4237
-Kenya,Lead Author,5,3,0,198,0.0000
+Kenya,Lead Author,5,3,1,243,0.4115
 Kenya,Review Editor,3,1,0,21,0.0000
 Kenya,Review Editor,3,2,0,34,0.0000
 Kenya,Review Editor,3,3,0,19,0.0000
@@ -2562,9 +2562,9 @@ Laos,Lead Author,1,1,0,214,0.0000
 Laos,Lead Author,1,2,0,11,0.0000
 Laos,Lead Author,1,3,0,43,0.0000
 Laos,Lead Author,2,1,0,84,0.0000
-Laos,Lead Author,2,2,0,281,0.0000
+Laos,Lead Author,2,2,0,287,0.0000
 Laos,Lead Author,2,3,0,65,0.0000
-Laos,Lead Author,3,1,0,110,0.0000
+Laos,Lead Author,3,1,0,137,0.0000
 Laos,Lead Author,3,2,0,184,0.0000
 Laos,Lead Author,3,3,0,139,0.0000
 Laos,Lead Author,4,1,0,139,0.0000
@@ -2572,7 +2572,7 @@ Laos,Lead Author,4,2,0,197,0.0000
 Laos,Lead Author,4,3,0,175,0.0000
 Laos,Lead Author,5,1,0,195,0.0000
 Laos,Lead Author,5,2,0,236,0.0000
-Laos,Lead Author,5,3,0,198,0.0000
+Laos,Lead Author,5,3,0,243,0.0000
 Laos,Review Editor,3,1,0,21,0.0000
 Laos,Review Editor,3,2,0,34,0.0000
 Laos,Review Editor,3,3,0,19,0.0000
@@ -2615,9 +2615,9 @@ Lithuania,Lead Author,1,1,0,214,0.0000
 Lithuania,Lead Author,1,2,0,11,0.0000
 Lithuania,Lead Author,1,3,0,43,0.0000
 Lithuania,Lead Author,2,1,0,84,0.0000
-Lithuania,Lead Author,2,2,0,281,0.0000
+Lithuania,Lead Author,2,2,0,287,0.0000
 Lithuania,Lead Author,2,3,0,65,0.0000
-Lithuania,Lead Author,3,1,0,110,0.0000
+Lithuania,Lead Author,3,1,0,137,0.0000
 Lithuania,Lead Author,3,2,0,184,0.0000
 Lithuania,Lead Author,3,3,0,139,0.0000
 Lithuania,Lead Author,4,1,0,139,0.0000
@@ -2625,7 +2625,7 @@ Lithuania,Lead Author,4,2,0,197,0.0000
 Lithuania,Lead Author,4,3,1,175,0.5714
 Lithuania,Lead Author,5,1,0,195,0.0000
 Lithuania,Lead Author,5,2,0,236,0.0000
-Lithuania,Lead Author,5,3,0,198,0.0000
+Lithuania,Lead Author,5,3,0,243,0.0000
 Lithuania,Review Editor,3,1,0,21,0.0000
 Lithuania,Review Editor,3,2,0,34,0.0000
 Lithuania,Review Editor,3,3,0,19,0.0000
@@ -2668,9 +2668,9 @@ Madagascar,Lead Author,1,1,0,214,0.0000
 Madagascar,Lead Author,1,2,0,11,0.0000
 Madagascar,Lead Author,1,3,0,43,0.0000
 Madagascar,Lead Author,2,1,0,84,0.0000
-Madagascar,Lead Author,2,2,0,281,0.0000
+Madagascar,Lead Author,2,2,0,287,0.0000
 Madagascar,Lead Author,2,3,0,65,0.0000
-Madagascar,Lead Author,3,1,0,110,0.0000
+Madagascar,Lead Author,3,1,0,137,0.0000
 Madagascar,Lead Author,3,2,0,184,0.0000
 Madagascar,Lead Author,3,3,0,139,0.0000
 Madagascar,Lead Author,4,1,0,139,0.0000
@@ -2678,7 +2678,7 @@ Madagascar,Lead Author,4,2,0,197,0.0000
 Madagascar,Lead Author,4,3,0,175,0.0000
 Madagascar,Lead Author,5,1,0,195,0.0000
 Madagascar,Lead Author,5,2,1,236,0.4237
-Madagascar,Lead Author,5,3,0,198,0.0000
+Madagascar,Lead Author,5,3,0,243,0.0000
 Madagascar,Review Editor,3,1,0,21,0.0000
 Madagascar,Review Editor,3,2,0,34,0.0000
 Madagascar,Review Editor,3,3,0,19,0.0000
@@ -2721,9 +2721,9 @@ Malawi,Lead Author,1,1,0,214,0.0000
 Malawi,Lead Author,1,2,0,11,0.0000
 Malawi,Lead Author,1,3,0,43,0.0000
 Malawi,Lead Author,2,1,0,84,0.0000
-Malawi,Lead Author,2,2,0,281,0.0000
+Malawi,Lead Author,2,2,0,287,0.0000
 Malawi,Lead Author,2,3,0,65,0.0000
-Malawi,Lead Author,3,1,0,110,0.0000
+Malawi,Lead Author,3,1,0,137,0.0000
 Malawi,Lead Author,3,2,0,184,0.0000
 Malawi,Lead Author,3,3,0,139,0.0000
 Malawi,Lead Author,4,1,0,139,0.0000
@@ -2731,7 +2731,7 @@ Malawi,Lead Author,4,2,0,197,0.0000
 Malawi,Lead Author,4,3,0,175,0.0000
 Malawi,Lead Author,5,1,0,195,0.0000
 Malawi,Lead Author,5,2,0,236,0.0000
-Malawi,Lead Author,5,3,0,198,0.0000
+Malawi,Lead Author,5,3,0,243,0.0000
 Malawi,Review Editor,3,1,0,21,0.0000
 Malawi,Review Editor,3,2,0,34,0.0000
 Malawi,Review Editor,3,3,0,19,0.0000
@@ -2774,9 +2774,9 @@ Malaysia,Lead Author,1,1,0,214,0.0000
 Malaysia,Lead Author,1,2,0,11,0.0000
 Malaysia,Lead Author,1,3,0,43,0.0000
 Malaysia,Lead Author,2,1,0,84,0.0000
-Malaysia,Lead Author,2,2,1,281,0.3559
+Malaysia,Lead Author,2,2,1,287,0.3484
 Malaysia,Lead Author,2,3,0,65,0.0000
-Malaysia,Lead Author,3,1,1,110,0.9091
+Malaysia,Lead Author,3,1,1,137,0.7299
 Malaysia,Lead Author,3,2,1,184,0.5435
 Malaysia,Lead Author,3,3,1,139,0.7194
 Malaysia,Lead Author,4,1,0,139,0.0000
@@ -2784,7 +2784,7 @@ Malaysia,Lead Author,4,2,0,197,0.0000
 Malaysia,Lead Author,4,3,0,175,0.0000
 Malaysia,Lead Author,5,1,0,195,0.0000
 Malaysia,Lead Author,5,2,1,236,0.4237
-Malaysia,Lead Author,5,3,2,198,1.0101
+Malaysia,Lead Author,5,3,2,243,0.8230
 Malaysia,Review Editor,3,1,0,21,0.0000
 Malaysia,Review Editor,3,2,0,34,0.0000
 Malaysia,Review Editor,3,3,0,19,0.0000
@@ -2827,9 +2827,9 @@ Maldives,Lead Author,1,1,0,214,0.0000
 Maldives,Lead Author,1,2,0,11,0.0000
 Maldives,Lead Author,1,3,0,43,0.0000
 Maldives,Lead Author,2,1,0,84,0.0000
-Maldives,Lead Author,2,2,0,281,0.0000
+Maldives,Lead Author,2,2,0,287,0.0000
 Maldives,Lead Author,2,3,0,65,0.0000
-Maldives,Lead Author,3,1,0,110,0.0000
+Maldives,Lead Author,3,1,0,137,0.0000
 Maldives,Lead Author,3,2,0,184,0.0000
 Maldives,Lead Author,3,3,0,139,0.0000
 Maldives,Lead Author,4,1,0,139,0.0000
@@ -2837,7 +2837,7 @@ Maldives,Lead Author,4,2,0,197,0.0000
 Maldives,Lead Author,4,3,0,175,0.0000
 Maldives,Lead Author,5,1,0,195,0.0000
 Maldives,Lead Author,5,2,0,236,0.0000
-Maldives,Lead Author,5,3,0,198,0.0000
+Maldives,Lead Author,5,3,0,243,0.0000
 Maldives,Review Editor,3,1,0,21,0.0000
 Maldives,Review Editor,3,2,1,34,2.9412
 Maldives,Review Editor,3,3,0,19,0.0000
@@ -2880,9 +2880,9 @@ Malta,Lead Author,1,1,0,214,0.0000
 Malta,Lead Author,1,2,0,11,0.0000
 Malta,Lead Author,1,3,0,43,0.0000
 Malta,Lead Author,2,1,0,84,0.0000
-Malta,Lead Author,2,2,0,281,0.0000
+Malta,Lead Author,2,2,0,287,0.0000
 Malta,Lead Author,2,3,0,65,0.0000
-Malta,Lead Author,3,1,0,110,0.0000
+Malta,Lead Author,3,1,0,137,0.0000
 Malta,Lead Author,3,2,1,184,0.5435
 Malta,Lead Author,3,3,0,139,0.0000
 Malta,Lead Author,4,1,0,139,0.0000
@@ -2890,7 +2890,7 @@ Malta,Lead Author,4,2,1,197,0.5076
 Malta,Lead Author,4,3,0,175,0.0000
 Malta,Lead Author,5,1,0,195,0.0000
 Malta,Lead Author,5,2,1,236,0.4237
-Malta,Lead Author,5,3,0,198,0.0000
+Malta,Lead Author,5,3,0,243,0.0000
 Malta,Review Editor,3,1,0,21,0.0000
 Malta,Review Editor,3,2,0,34,0.0000
 Malta,Review Editor,3,3,0,19,0.0000
@@ -2933,9 +2933,9 @@ Mauritius,Lead Author,1,1,0,214,0.0000
 Mauritius,Lead Author,1,2,0,11,0.0000
 Mauritius,Lead Author,1,3,0,43,0.0000
 Mauritius,Lead Author,2,1,0,84,0.0000
-Mauritius,Lead Author,2,2,0,281,0.0000
+Mauritius,Lead Author,2,2,0,287,0.0000
 Mauritius,Lead Author,2,3,0,65,0.0000
-Mauritius,Lead Author,3,1,0,110,0.0000
+Mauritius,Lead Author,3,1,0,137,0.0000
 Mauritius,Lead Author,3,2,1,184,0.5435
 Mauritius,Lead Author,3,3,0,139,0.0000
 Mauritius,Lead Author,4,1,0,139,0.0000
@@ -2943,7 +2943,7 @@ Mauritius,Lead Author,4,2,1,197,0.5076
 Mauritius,Lead Author,4,3,0,175,0.0000
 Mauritius,Lead Author,5,1,0,195,0.0000
 Mauritius,Lead Author,5,2,0,236,0.0000
-Mauritius,Lead Author,5,3,0,198,0.0000
+Mauritius,Lead Author,5,3,0,243,0.0000
 Mauritius,Review Editor,3,1,0,21,0.0000
 Mauritius,Review Editor,3,2,0,34,0.0000
 Mauritius,Review Editor,3,3,0,19,0.0000
@@ -2986,9 +2986,9 @@ Mexico,Lead Author,1,1,0,214,0.0000
 Mexico,Lead Author,1,2,0,11,0.0000
 Mexico,Lead Author,1,3,0,43,0.0000
 Mexico,Lead Author,2,1,0,84,0.0000
-Mexico,Lead Author,2,2,2,281,0.7117
+Mexico,Lead Author,2,2,2,287,0.6969
 Mexico,Lead Author,2,3,0,65,0.0000
-Mexico,Lead Author,3,1,1,110,0.9091
+Mexico,Lead Author,3,1,1,137,0.7299
 Mexico,Lead Author,3,2,4,184,2.1739
 Mexico,Lead Author,3,3,2,139,1.4388
 Mexico,Lead Author,4,1,2,139,1.4388
@@ -2996,7 +2996,7 @@ Mexico,Lead Author,4,2,5,197,2.5381
 Mexico,Lead Author,4,3,3,175,1.7143
 Mexico,Lead Author,5,1,1,195,0.5128
 Mexico,Lead Author,5,2,7,236,2.9661
-Mexico,Lead Author,5,3,7,198,3.5354
+Mexico,Lead Author,5,3,7,243,2.8807
 Mexico,Review Editor,3,1,0,21,0.0000
 Mexico,Review Editor,3,2,0,34,0.0000
 Mexico,Review Editor,3,3,0,19,0.0000
@@ -3039,9 +3039,9 @@ Moldova,Lead Author,1,1,0,214,0.0000
 Moldova,Lead Author,1,2,0,11,0.0000
 Moldova,Lead Author,1,3,0,43,0.0000
 Moldova,Lead Author,2,1,0,84,0.0000
-Moldova,Lead Author,2,2,0,281,0.0000
+Moldova,Lead Author,2,2,0,287,0.0000
 Moldova,Lead Author,2,3,0,65,0.0000
-Moldova,Lead Author,3,1,0,110,0.0000
+Moldova,Lead Author,3,1,0,137,0.0000
 Moldova,Lead Author,3,2,0,184,0.0000
 Moldova,Lead Author,3,3,0,139,0.0000
 Moldova,Lead Author,4,1,0,139,0.0000
@@ -3049,7 +3049,7 @@ Moldova,Lead Author,4,2,1,197,0.5076
 Moldova,Lead Author,4,3,0,175,0.0000
 Moldova,Lead Author,5,1,0,195,0.0000
 Moldova,Lead Author,5,2,0,236,0.0000
-Moldova,Lead Author,5,3,0,198,0.0000
+Moldova,Lead Author,5,3,0,243,0.0000
 Moldova,Review Editor,3,1,0,21,0.0000
 Moldova,Review Editor,3,2,0,34,0.0000
 Moldova,Review Editor,3,3,0,19,0.0000
@@ -3092,9 +3092,9 @@ Monaco,Lead Author,1,1,0,214,0.0000
 Monaco,Lead Author,1,2,0,11,0.0000
 Monaco,Lead Author,1,3,0,43,0.0000
 Monaco,Lead Author,2,1,0,84,0.0000
-Monaco,Lead Author,2,2,0,281,0.0000
+Monaco,Lead Author,2,2,0,287,0.0000
 Monaco,Lead Author,2,3,0,65,0.0000
-Monaco,Lead Author,3,1,0,110,0.0000
+Monaco,Lead Author,3,1,0,137,0.0000
 Monaco,Lead Author,3,2,0,184,0.0000
 Monaco,Lead Author,3,3,0,139,0.0000
 Monaco,Lead Author,4,1,0,139,0.0000
@@ -3102,7 +3102,7 @@ Monaco,Lead Author,4,2,0,197,0.0000
 Monaco,Lead Author,4,3,0,175,0.0000
 Monaco,Lead Author,5,1,0,195,0.0000
 Monaco,Lead Author,5,2,0,236,0.0000
-Monaco,Lead Author,5,3,0,198,0.0000
+Monaco,Lead Author,5,3,0,243,0.0000
 Monaco,Review Editor,3,1,0,21,0.0000
 Monaco,Review Editor,3,2,0,34,0.0000
 Monaco,Review Editor,3,3,0,19,0.0000
@@ -3145,9 +3145,9 @@ Mongolia,Lead Author,1,1,0,214,0.0000
 Mongolia,Lead Author,1,2,0,11,0.0000
 Mongolia,Lead Author,1,3,0,43,0.0000
 Mongolia,Lead Author,2,1,0,84,0.0000
-Mongolia,Lead Author,2,2,0,281,0.0000
+Mongolia,Lead Author,2,2,0,287,0.0000
 Mongolia,Lead Author,2,3,0,65,0.0000
-Mongolia,Lead Author,3,1,0,110,0.0000
+Mongolia,Lead Author,3,1,0,137,0.0000
 Mongolia,Lead Author,3,2,0,184,0.0000
 Mongolia,Lead Author,3,3,0,139,0.0000
 Mongolia,Lead Author,4,1,0,139,0.0000
@@ -3155,7 +3155,7 @@ Mongolia,Lead Author,4,2,1,197,0.5076
 Mongolia,Lead Author,4,3,0,175,0.0000
 Mongolia,Lead Author,5,1,0,195,0.0000
 Mongolia,Lead Author,5,2,0,236,0.0000
-Mongolia,Lead Author,5,3,0,198,0.0000
+Mongolia,Lead Author,5,3,0,243,0.0000
 Mongolia,Review Editor,3,1,0,21,0.0000
 Mongolia,Review Editor,3,2,0,34,0.0000
 Mongolia,Review Editor,3,3,0,19,0.0000
@@ -3198,9 +3198,9 @@ Montenegro,Lead Author,1,1,0,214,0.0000
 Montenegro,Lead Author,1,2,0,11,0.0000
 Montenegro,Lead Author,1,3,0,43,0.0000
 Montenegro,Lead Author,2,1,0,84,0.0000
-Montenegro,Lead Author,2,2,0,281,0.0000
+Montenegro,Lead Author,2,2,0,287,0.0000
 Montenegro,Lead Author,2,3,0,65,0.0000
-Montenegro,Lead Author,3,1,0,110,0.0000
+Montenegro,Lead Author,3,1,0,137,0.0000
 Montenegro,Lead Author,3,2,0,184,0.0000
 Montenegro,Lead Author,3,3,0,139,0.0000
 Montenegro,Lead Author,4,1,0,139,0.0000
@@ -3208,7 +3208,7 @@ Montenegro,Lead Author,4,2,0,197,0.0000
 Montenegro,Lead Author,4,3,0,175,0.0000
 Montenegro,Lead Author,5,1,0,195,0.0000
 Montenegro,Lead Author,5,2,0,236,0.0000
-Montenegro,Lead Author,5,3,1,198,0.5051
+Montenegro,Lead Author,5,3,1,243,0.4115
 Montenegro,Review Editor,3,1,0,21,0.0000
 Montenegro,Review Editor,3,2,0,34,0.0000
 Montenegro,Review Editor,3,3,0,19,0.0000
@@ -3251,9 +3251,9 @@ Morocco,Lead Author,1,1,0,214,0.0000
 Morocco,Lead Author,1,2,0,11,0.0000
 Morocco,Lead Author,1,3,0,43,0.0000
 Morocco,Lead Author,2,1,0,84,0.0000
-Morocco,Lead Author,2,2,0,281,0.0000
+Morocco,Lead Author,2,2,0,287,0.0000
 Morocco,Lead Author,2,3,0,65,0.0000
-Morocco,Lead Author,3,1,0,110,0.0000
+Morocco,Lead Author,3,1,0,137,0.0000
 Morocco,Lead Author,3,2,1,184,0.5435
 Morocco,Lead Author,3,3,0,139,0.0000
 Morocco,Lead Author,4,1,1,139,0.7194
@@ -3261,7 +3261,7 @@ Morocco,Lead Author,4,2,1,197,0.5076
 Morocco,Lead Author,4,3,0,175,0.0000
 Morocco,Lead Author,5,1,2,195,1.0256
 Morocco,Lead Author,5,2,2,236,0.8475
-Morocco,Lead Author,5,3,1,198,0.5051
+Morocco,Lead Author,5,3,1,243,0.4115
 Morocco,Review Editor,3,1,0,21,0.0000
 Morocco,Review Editor,3,2,0,34,0.0000
 Morocco,Review Editor,3,3,0,19,0.0000
@@ -3304,9 +3304,9 @@ Mozambique,Lead Author,1,1,0,214,0.0000
 Mozambique,Lead Author,1,2,0,11,0.0000
 Mozambique,Lead Author,1,3,0,43,0.0000
 Mozambique,Lead Author,2,1,0,84,0.0000
-Mozambique,Lead Author,2,2,0,281,0.0000
+Mozambique,Lead Author,2,2,0,287,0.0000
 Mozambique,Lead Author,2,3,0,65,0.0000
-Mozambique,Lead Author,3,1,0,110,0.0000
+Mozambique,Lead Author,3,1,0,137,0.0000
 Mozambique,Lead Author,3,2,0,184,0.0000
 Mozambique,Lead Author,3,3,0,139,0.0000
 Mozambique,Lead Author,4,1,0,139,0.0000
@@ -3314,7 +3314,7 @@ Mozambique,Lead Author,4,2,1,197,0.5076
 Mozambique,Lead Author,4,3,0,175,0.0000
 Mozambique,Lead Author,5,1,0,195,0.0000
 Mozambique,Lead Author,5,2,0,236,0.0000
-Mozambique,Lead Author,5,3,0,198,0.0000
+Mozambique,Lead Author,5,3,0,243,0.0000
 Mozambique,Review Editor,3,1,0,21,0.0000
 Mozambique,Review Editor,3,2,0,34,0.0000
 Mozambique,Review Editor,3,3,0,19,0.0000
@@ -3357,9 +3357,9 @@ N/A,Lead Author,1,1,4,214,1.8692
 N/A,Lead Author,1,2,4,11,36.3636
 N/A,Lead Author,1,3,0,43,0.0000
 N/A,Lead Author,2,1,0,84,0.0000
-N/A,Lead Author,2,2,1,281,0.3559
+N/A,Lead Author,2,2,1,287,0.3484
 N/A,Lead Author,2,3,3,65,4.6154
-N/A,Lead Author,3,1,0,110,0.0000
+N/A,Lead Author,3,1,59,137,43.0657
 N/A,Lead Author,3,2,5,184,2.7174
 N/A,Lead Author,3,3,13,139,9.3525
 N/A,Lead Author,4,1,0,139,0.0000
@@ -3367,7 +3367,7 @@ N/A,Lead Author,4,2,0,197,0.0000
 N/A,Lead Author,4,3,0,175,0.0000
 N/A,Lead Author,5,1,0,195,0.0000
 N/A,Lead Author,5,2,0,236,0.0000
-N/A,Lead Author,5,3,0,198,0.0000
+N/A,Lead Author,5,3,0,243,0.0000
 N/A,Review Editor,3,1,0,21,0.0000
 N/A,Review Editor,3,2,1,34,2.9412
 N/A,Review Editor,3,3,0,19,0.0000
@@ -3410,9 +3410,9 @@ Namibia,Lead Author,1,1,0,214,0.0000
 Namibia,Lead Author,1,2,0,11,0.0000
 Namibia,Lead Author,1,3,0,43,0.0000
 Namibia,Lead Author,2,1,0,84,0.0000
-Namibia,Lead Author,2,2,0,281,0.0000
+Namibia,Lead Author,2,2,0,287,0.0000
 Namibia,Lead Author,2,3,0,65,0.0000
-Namibia,Lead Author,3,1,0,110,0.0000
+Namibia,Lead Author,3,1,0,137,0.0000
 Namibia,Lead Author,3,2,0,184,0.0000
 Namibia,Lead Author,3,3,0,139,0.0000
 Namibia,Lead Author,4,1,0,139,0.0000
@@ -3420,7 +3420,7 @@ Namibia,Lead Author,4,2,0,197,0.0000
 Namibia,Lead Author,4,3,0,175,0.0000
 Namibia,Lead Author,5,1,0,195,0.0000
 Namibia,Lead Author,5,2,1,236,0.4237
-Namibia,Lead Author,5,3,0,198,0.0000
+Namibia,Lead Author,5,3,0,243,0.0000
 Namibia,Review Editor,3,1,0,21,0.0000
 Namibia,Review Editor,3,2,0,34,0.0000
 Namibia,Review Editor,3,3,0,19,0.0000
@@ -3463,9 +3463,9 @@ Nepal,Lead Author,1,1,0,214,0.0000
 Nepal,Lead Author,1,2,0,11,0.0000
 Nepal,Lead Author,1,3,1,43,2.3256
 Nepal,Lead Author,2,1,0,84,0.0000
-Nepal,Lead Author,2,2,1,281,0.3559
+Nepal,Lead Author,2,2,1,287,0.3484
 Nepal,Lead Author,2,3,0,65,0.0000
-Nepal,Lead Author,3,1,0,110,0.0000
+Nepal,Lead Author,3,1,0,137,0.0000
 Nepal,Lead Author,3,2,1,184,0.5435
 Nepal,Lead Author,3,3,0,139,0.0000
 Nepal,Lead Author,4,1,0,139,0.0000
@@ -3473,7 +3473,7 @@ Nepal,Lead Author,4,2,0,197,0.0000
 Nepal,Lead Author,4,3,0,175,0.0000
 Nepal,Lead Author,5,1,0,195,0.0000
 Nepal,Lead Author,5,2,0,236,0.0000
-Nepal,Lead Author,5,3,0,198,0.0000
+Nepal,Lead Author,5,3,0,243,0.0000
 Nepal,Review Editor,3,1,0,21,0.0000
 Nepal,Review Editor,3,2,0,34,0.0000
 Nepal,Review Editor,3,3,0,19,0.0000
@@ -3516,9 +3516,9 @@ Netherlands,Lead Author,1,1,4,214,1.8692
 Netherlands,Lead Author,1,2,0,11,0.0000
 Netherlands,Lead Author,1,3,3,43,6.9767
 Netherlands,Lead Author,2,1,2,84,2.3810
-Netherlands,Lead Author,2,2,10,281,3.5587
+Netherlands,Lead Author,2,2,10,287,3.4843
 Netherlands,Lead Author,2,3,4,65,6.1538
-Netherlands,Lead Author,3,1,2,110,1.8182
+Netherlands,Lead Author,3,1,2,137,1.4599
 Netherlands,Lead Author,3,2,5,184,2.7174
 Netherlands,Lead Author,3,3,7,139,5.0360
 Netherlands,Lead Author,4,1,2,139,1.4388
@@ -3526,7 +3526,7 @@ Netherlands,Lead Author,4,2,4,197,2.0305
 Netherlands,Lead Author,4,3,15,175,8.5714
 Netherlands,Lead Author,5,1,1,195,0.5128
 Netherlands,Lead Author,5,2,3,236,1.2712
-Netherlands,Lead Author,5,3,8,198,4.0404
+Netherlands,Lead Author,5,3,9,243,3.7037
 Netherlands,Review Editor,3,1,0,21,0.0000
 Netherlands,Review Editor,3,2,1,34,2.9412
 Netherlands,Review Editor,3,3,1,19,5.2632
@@ -3569,9 +3569,9 @@ New Zealand,Lead Author,1,1,0,214,0.0000
 New Zealand,Lead Author,1,2,0,11,0.0000
 New Zealand,Lead Author,1,3,3,43,6.9767
 New Zealand,Lead Author,2,1,1,84,1.1905
-New Zealand,Lead Author,2,2,3,281,1.0676
+New Zealand,Lead Author,2,2,3,287,1.0453
 New Zealand,Lead Author,2,3,0,65,0.0000
-New Zealand,Lead Author,3,1,1,110,0.9091
+New Zealand,Lead Author,3,1,1,137,0.7299
 New Zealand,Lead Author,3,2,5,184,2.7174
 New Zealand,Lead Author,3,3,1,139,0.7194
 New Zealand,Lead Author,4,1,3,139,2.1583
@@ -3579,7 +3579,7 @@ New Zealand,Lead Author,4,2,7,197,3.5533
 New Zealand,Lead Author,4,3,2,175,1.1429
 New Zealand,Lead Author,5,1,3,195,1.5385
 New Zealand,Lead Author,5,2,5,236,2.1186
-New Zealand,Lead Author,5,3,2,198,1.0101
+New Zealand,Lead Author,5,3,3,243,1.2346
 New Zealand,Review Editor,3,1,0,21,0.0000
 New Zealand,Review Editor,3,2,1,34,2.9412
 New Zealand,Review Editor,3,3,0,19,0.0000
@@ -3622,9 +3622,9 @@ Nigeria,Lead Author,1,1,2,214,0.9346
 Nigeria,Lead Author,1,2,0,11,0.0000
 Nigeria,Lead Author,1,3,0,43,0.0000
 Nigeria,Lead Author,2,1,0,84,0.0000
-Nigeria,Lead Author,2,2,0,281,0.0000
+Nigeria,Lead Author,2,2,0,287,0.0000
 Nigeria,Lead Author,2,3,0,65,0.0000
-Nigeria,Lead Author,3,1,0,110,0.0000
+Nigeria,Lead Author,3,1,0,137,0.0000
 Nigeria,Lead Author,3,2,4,184,2.1739
 Nigeria,Lead Author,3,3,1,139,0.7194
 Nigeria,Lead Author,4,1,0,139,0.0000
@@ -3632,7 +3632,7 @@ Nigeria,Lead Author,4,2,1,197,0.5076
 Nigeria,Lead Author,4,3,3,175,1.7143
 Nigeria,Lead Author,5,1,0,195,0.0000
 Nigeria,Lead Author,5,2,1,236,0.4237
-Nigeria,Lead Author,5,3,0,198,0.0000
+Nigeria,Lead Author,5,3,0,243,0.0000
 Nigeria,Review Editor,3,1,0,21,0.0000
 Nigeria,Review Editor,3,2,0,34,0.0000
 Nigeria,Review Editor,3,3,0,19,0.0000
@@ -3675,9 +3675,9 @@ Norway,Lead Author,1,1,1,214,0.4673
 Norway,Lead Author,1,2,0,11,0.0000
 Norway,Lead Author,1,3,0,43,0.0000
 Norway,Lead Author,2,1,1,84,1.1905
-Norway,Lead Author,2,2,1,281,0.3559
+Norway,Lead Author,2,2,1,287,0.3484
 Norway,Lead Author,2,3,2,65,3.0769
-Norway,Lead Author,3,1,3,110,2.7273
+Norway,Lead Author,3,1,3,137,2.1898
 Norway,Lead Author,3,2,2,184,1.0870
 Norway,Lead Author,3,3,2,139,1.4388
 Norway,Lead Author,4,1,4,139,2.8777
@@ -3685,7 +3685,7 @@ Norway,Lead Author,4,2,1,197,0.5076
 Norway,Lead Author,4,3,1,175,0.5714
 Norway,Lead Author,5,1,4,195,2.0513
 Norway,Lead Author,5,2,6,236,2.5424
-Norway,Lead Author,5,3,4,198,2.0202
+Norway,Lead Author,5,3,4,243,1.6461
 Norway,Review Editor,3,1,0,21,0.0000
 Norway,Review Editor,3,2,0,34,0.0000
 Norway,Review Editor,3,3,3,19,15.7895
@@ -3728,9 +3728,9 @@ Oman,Lead Author,1,1,0,214,0.0000
 Oman,Lead Author,1,2,0,11,0.0000
 Oman,Lead Author,1,3,0,43,0.0000
 Oman,Lead Author,2,1,0,84,0.0000
-Oman,Lead Author,2,2,0,281,0.0000
+Oman,Lead Author,2,2,0,287,0.0000
 Oman,Lead Author,2,3,0,65,0.0000
-Oman,Lead Author,3,1,0,110,0.0000
+Oman,Lead Author,3,1,0,137,0.0000
 Oman,Lead Author,3,2,0,184,0.0000
 Oman,Lead Author,3,3,0,139,0.0000
 Oman,Lead Author,4,1,0,139,0.0000
@@ -3738,7 +3738,7 @@ Oman,Lead Author,4,2,0,197,0.0000
 Oman,Lead Author,4,3,1,175,0.5714
 Oman,Lead Author,5,1,1,195,0.5128
 Oman,Lead Author,5,2,0,236,0.0000
-Oman,Lead Author,5,3,0,198,0.0000
+Oman,Lead Author,5,3,0,243,0.0000
 Oman,Review Editor,3,1,0,21,0.0000
 Oman,Review Editor,3,2,0,34,0.0000
 Oman,Review Editor,3,3,0,19,0.0000
@@ -3781,9 +3781,9 @@ Pakistan,Lead Author,1,1,0,214,0.0000
 Pakistan,Lead Author,1,2,0,11,0.0000
 Pakistan,Lead Author,1,3,0,43,0.0000
 Pakistan,Lead Author,2,1,0,84,0.0000
-Pakistan,Lead Author,2,2,0,281,0.0000
+Pakistan,Lead Author,2,2,0,287,0.0000
 Pakistan,Lead Author,2,3,1,65,1.5385
-Pakistan,Lead Author,3,1,0,110,0.0000
+Pakistan,Lead Author,3,1,0,137,0.0000
 Pakistan,Lead Author,3,2,0,184,0.0000
 Pakistan,Lead Author,3,3,0,139,0.0000
 Pakistan,Lead Author,4,1,0,139,0.0000
@@ -3791,7 +3791,7 @@ Pakistan,Lead Author,4,2,0,197,0.0000
 Pakistan,Lead Author,4,3,0,175,0.0000
 Pakistan,Lead Author,5,1,0,195,0.0000
 Pakistan,Lead Author,5,2,1,236,0.4237
-Pakistan,Lead Author,5,3,0,198,0.0000
+Pakistan,Lead Author,5,3,0,243,0.0000
 Pakistan,Review Editor,3,1,0,21,0.0000
 Pakistan,Review Editor,3,2,0,34,0.0000
 Pakistan,Review Editor,3,3,0,19,0.0000
@@ -3834,9 +3834,9 @@ Peru,Lead Author,1,1,0,214,0.0000
 Peru,Lead Author,1,2,0,11,0.0000
 Peru,Lead Author,1,3,0,43,0.0000
 Peru,Lead Author,2,1,0,84,0.0000
-Peru,Lead Author,2,2,1,281,0.3559
+Peru,Lead Author,2,2,1,287,0.3484
 Peru,Lead Author,2,3,0,65,0.0000
-Peru,Lead Author,3,1,0,110,0.0000
+Peru,Lead Author,3,1,0,137,0.0000
 Peru,Lead Author,3,2,0,184,0.0000
 Peru,Lead Author,3,3,2,139,1.4388
 Peru,Lead Author,4,1,0,139,0.0000
@@ -3844,7 +3844,7 @@ Peru,Lead Author,4,2,1,197,0.5076
 Peru,Lead Author,4,3,1,175,0.5714
 Peru,Lead Author,5,1,0,195,0.0000
 Peru,Lead Author,5,2,0,236,0.0000
-Peru,Lead Author,5,3,0,198,0.0000
+Peru,Lead Author,5,3,0,243,0.0000
 Peru,Review Editor,3,1,0,21,0.0000
 Peru,Review Editor,3,2,0,34,0.0000
 Peru,Review Editor,3,3,1,19,5.2632
@@ -3887,9 +3887,9 @@ Philippines,Lead Author,1,1,0,214,0.0000
 Philippines,Lead Author,1,2,0,11,0.0000
 Philippines,Lead Author,1,3,0,43,0.0000
 Philippines,Lead Author,2,1,0,84,0.0000
-Philippines,Lead Author,2,2,1,281,0.3559
+Philippines,Lead Author,2,2,1,287,0.3484
 Philippines,Lead Author,2,3,0,65,0.0000
-Philippines,Lead Author,3,1,0,110,0.0000
+Philippines,Lead Author,3,1,0,137,0.0000
 Philippines,Lead Author,3,2,2,184,1.0870
 Philippines,Lead Author,3,3,0,139,0.0000
 Philippines,Lead Author,4,1,0,139,0.0000
@@ -3897,7 +3897,7 @@ Philippines,Lead Author,4,2,4,197,2.0305
 Philippines,Lead Author,4,3,0,175,0.0000
 Philippines,Lead Author,5,1,0,195,0.0000
 Philippines,Lead Author,5,2,3,236,1.2712
-Philippines,Lead Author,5,3,0,198,0.0000
+Philippines,Lead Author,5,3,1,243,0.4115
 Philippines,Review Editor,3,1,0,21,0.0000
 Philippines,Review Editor,3,2,0,34,0.0000
 Philippines,Review Editor,3,3,0,19,0.0000
@@ -3940,9 +3940,9 @@ Poland,Lead Author,1,1,1,214,0.4673
 Poland,Lead Author,1,2,0,11,0.0000
 Poland,Lead Author,1,3,0,43,0.0000
 Poland,Lead Author,2,1,0,84,0.0000
-Poland,Lead Author,2,2,2,281,0.7117
+Poland,Lead Author,2,2,2,287,0.6969
 Poland,Lead Author,2,3,0,65,0.0000
-Poland,Lead Author,3,1,0,110,0.0000
+Poland,Lead Author,3,1,0,137,0.0000
 Poland,Lead Author,3,2,1,184,0.5435
 Poland,Lead Author,3,3,0,139,0.0000
 Poland,Lead Author,4,1,0,139,0.0000
@@ -3950,7 +3950,7 @@ Poland,Lead Author,4,2,2,197,1.0152
 Poland,Lead Author,4,3,0,175,0.0000
 Poland,Lead Author,5,1,0,195,0.0000
 Poland,Lead Author,5,2,0,236,0.0000
-Poland,Lead Author,5,3,1,198,0.5051
+Poland,Lead Author,5,3,1,243,0.4115
 Poland,Review Editor,3,1,1,21,4.7619
 Poland,Review Editor,3,2,0,34,0.0000
 Poland,Review Editor,3,3,0,19,0.0000
@@ -3993,9 +3993,9 @@ Portugal,Lead Author,1,1,0,214,0.0000
 Portugal,Lead Author,1,2,0,11,0.0000
 Portugal,Lead Author,1,3,0,43,0.0000
 Portugal,Lead Author,2,1,0,84,0.0000
-Portugal,Lead Author,2,2,0,281,0.0000
+Portugal,Lead Author,2,2,0,287,0.0000
 Portugal,Lead Author,2,3,0,65,0.0000
-Portugal,Lead Author,3,1,0,110,0.0000
+Portugal,Lead Author,3,1,0,137,0.0000
 Portugal,Lead Author,3,2,1,184,0.5435
 Portugal,Lead Author,3,3,0,139,0.0000
 Portugal,Lead Author,4,1,0,139,0.0000
@@ -4003,7 +4003,7 @@ Portugal,Lead Author,4,2,0,197,0.0000
 Portugal,Lead Author,4,3,0,175,0.0000
 Portugal,Lead Author,5,1,0,195,0.0000
 Portugal,Lead Author,5,2,0,236,0.0000
-Portugal,Lead Author,5,3,0,198,0.0000
+Portugal,Lead Author,5,3,0,243,0.0000
 Portugal,Review Editor,3,1,0,21,0.0000
 Portugal,Review Editor,3,2,1,34,2.9412
 Portugal,Review Editor,3,3,0,19,0.0000
@@ -4046,9 +4046,9 @@ Puerto Rico,Lead Author,1,1,0,214,0.0000
 Puerto Rico,Lead Author,1,2,0,11,0.0000
 Puerto Rico,Lead Author,1,3,0,43,0.0000
 Puerto Rico,Lead Author,2,1,0,84,0.0000
-Puerto Rico,Lead Author,2,2,0,281,0.0000
+Puerto Rico,Lead Author,2,2,0,287,0.0000
 Puerto Rico,Lead Author,2,3,0,65,0.0000
-Puerto Rico,Lead Author,3,1,0,110,0.0000
+Puerto Rico,Lead Author,3,1,0,137,0.0000
 Puerto Rico,Lead Author,3,2,0,184,0.0000
 Puerto Rico,Lead Author,3,3,0,139,0.0000
 Puerto Rico,Lead Author,4,1,0,139,0.0000
@@ -4056,7 +4056,7 @@ Puerto Rico,Lead Author,4,2,0,197,0.0000
 Puerto Rico,Lead Author,4,3,0,175,0.0000
 Puerto Rico,Lead Author,5,1,0,195,0.0000
 Puerto Rico,Lead Author,5,2,0,236,0.0000
-Puerto Rico,Lead Author,5,3,0,198,0.0000
+Puerto Rico,Lead Author,5,3,0,243,0.0000
 Puerto Rico,Review Editor,3,1,0,21,0.0000
 Puerto Rico,Review Editor,3,2,0,34,0.0000
 Puerto Rico,Review Editor,3,3,0,19,0.0000
@@ -4099,9 +4099,9 @@ Qatar,Lead Author,1,1,0,214,0.0000
 Qatar,Lead Author,1,2,0,11,0.0000
 Qatar,Lead Author,1,3,0,43,0.0000
 Qatar,Lead Author,2,1,0,84,0.0000
-Qatar,Lead Author,2,2,0,281,0.0000
+Qatar,Lead Author,2,2,0,287,0.0000
 Qatar,Lead Author,2,3,0,65,0.0000
-Qatar,Lead Author,3,1,0,110,0.0000
+Qatar,Lead Author,3,1,0,137,0.0000
 Qatar,Lead Author,3,2,0,184,0.0000
 Qatar,Lead Author,3,3,0,139,0.0000
 Qatar,Lead Author,4,1,0,139,0.0000
@@ -4109,7 +4109,7 @@ Qatar,Lead Author,4,2,0,197,0.0000
 Qatar,Lead Author,4,3,0,175,0.0000
 Qatar,Lead Author,5,1,0,195,0.0000
 Qatar,Lead Author,5,2,0,236,0.0000
-Qatar,Lead Author,5,3,0,198,0.0000
+Qatar,Lead Author,5,3,0,243,0.0000
 Qatar,Review Editor,3,1,0,21,0.0000
 Qatar,Review Editor,3,2,0,34,0.0000
 Qatar,Review Editor,3,3,0,19,0.0000
@@ -4152,9 +4152,9 @@ Romania,Lead Author,1,1,0,214,0.0000
 Romania,Lead Author,1,2,0,11,0.0000
 Romania,Lead Author,1,3,0,43,0.0000
 Romania,Lead Author,2,1,0,84,0.0000
-Romania,Lead Author,2,2,0,281,0.0000
+Romania,Lead Author,2,2,0,287,0.0000
 Romania,Lead Author,2,3,0,65,0.0000
-Romania,Lead Author,3,1,0,110,0.0000
+Romania,Lead Author,3,1,0,137,0.0000
 Romania,Lead Author,3,2,0,184,0.0000
 Romania,Lead Author,3,3,0,139,0.0000
 Romania,Lead Author,4,1,2,139,1.4388
@@ -4162,7 +4162,7 @@ Romania,Lead Author,4,2,0,197,0.0000
 Romania,Lead Author,4,3,0,175,0.0000
 Romania,Lead Author,5,1,1,195,0.5128
 Romania,Lead Author,5,2,0,236,0.0000
-Romania,Lead Author,5,3,0,198,0.0000
+Romania,Lead Author,5,3,0,243,0.0000
 Romania,Review Editor,3,1,0,21,0.0000
 Romania,Review Editor,3,2,0,34,0.0000
 Romania,Review Editor,3,3,0,19,0.0000
@@ -4205,9 +4205,9 @@ Russian Federation,Lead Author,1,1,0,214,0.0000
 Russian Federation,Lead Author,1,2,0,11,0.0000
 Russian Federation,Lead Author,1,3,0,43,0.0000
 Russian Federation,Lead Author,2,1,2,84,2.3810
-Russian Federation,Lead Author,2,2,5,281,1.7794
+Russian Federation,Lead Author,2,2,5,287,1.7422
 Russian Federation,Lead Author,2,3,2,65,3.0769
-Russian Federation,Lead Author,3,1,3,110,2.7273
+Russian Federation,Lead Author,3,1,3,137,2.1898
 Russian Federation,Lead Author,3,2,7,184,3.8043
 Russian Federation,Lead Author,3,3,4,139,2.8777
 Russian Federation,Lead Author,4,1,3,139,2.1583
@@ -4215,7 +4215,7 @@ Russian Federation,Lead Author,4,2,6,197,3.0457
 Russian Federation,Lead Author,4,3,3,175,1.7143
 Russian Federation,Lead Author,5,1,5,195,2.5641
 Russian Federation,Lead Author,5,2,5,236,2.1186
-Russian Federation,Lead Author,5,3,1,198,0.5051
+Russian Federation,Lead Author,5,3,2,243,0.8230
 Russian Federation,Review Editor,3,1,0,21,0.0000
 Russian Federation,Review Editor,3,2,0,34,0.0000
 Russian Federation,Review Editor,3,3,0,19,0.0000
@@ -4258,9 +4258,9 @@ Samoa,Lead Author,1,1,0,214,0.0000
 Samoa,Lead Author,1,2,0,11,0.0000
 Samoa,Lead Author,1,3,0,43,0.0000
 Samoa,Lead Author,2,1,0,84,0.0000
-Samoa,Lead Author,2,2,0,281,0.0000
+Samoa,Lead Author,2,2,0,287,0.0000
 Samoa,Lead Author,2,3,0,65,0.0000
-Samoa,Lead Author,3,1,0,110,0.0000
+Samoa,Lead Author,3,1,0,137,0.0000
 Samoa,Lead Author,3,2,1,184,0.5435
 Samoa,Lead Author,3,3,0,139,0.0000
 Samoa,Lead Author,4,1,0,139,0.0000
@@ -4268,7 +4268,7 @@ Samoa,Lead Author,4,2,2,197,1.0152
 Samoa,Lead Author,4,3,0,175,0.0000
 Samoa,Lead Author,5,1,0,195,0.0000
 Samoa,Lead Author,5,2,1,236,0.4237
-Samoa,Lead Author,5,3,0,198,0.0000
+Samoa,Lead Author,5,3,0,243,0.0000
 Samoa,Review Editor,3,1,0,21,0.0000
 Samoa,Review Editor,3,2,0,34,0.0000
 Samoa,Review Editor,3,3,0,19,0.0000
@@ -4311,9 +4311,9 @@ Saudi Arabia,Lead Author,1,1,0,214,0.0000
 Saudi Arabia,Lead Author,1,2,0,11,0.0000
 Saudi Arabia,Lead Author,1,3,1,43,2.3256
 Saudi Arabia,Lead Author,2,1,0,84,0.0000
-Saudi Arabia,Lead Author,2,2,1,281,0.3559
+Saudi Arabia,Lead Author,2,2,1,287,0.3484
 Saudi Arabia,Lead Author,2,3,1,65,1.5385
-Saudi Arabia,Lead Author,3,1,0,110,0.0000
+Saudi Arabia,Lead Author,3,1,0,137,0.0000
 Saudi Arabia,Lead Author,3,2,0,184,0.0000
 Saudi Arabia,Lead Author,3,3,1,139,0.7194
 Saudi Arabia,Lead Author,4,1,0,139,0.0000
@@ -4321,7 +4321,7 @@ Saudi Arabia,Lead Author,4,2,0,197,0.0000
 Saudi Arabia,Lead Author,4,3,1,175,0.5714
 Saudi Arabia,Lead Author,5,1,0,195,0.0000
 Saudi Arabia,Lead Author,5,2,0,236,0.0000
-Saudi Arabia,Lead Author,5,3,2,198,1.0101
+Saudi Arabia,Lead Author,5,3,2,243,0.8230
 Saudi Arabia,Review Editor,3,1,0,21,0.0000
 Saudi Arabia,Review Editor,3,2,0,34,0.0000
 Saudi Arabia,Review Editor,3,3,0,19,0.0000
@@ -4364,9 +4364,9 @@ Senegal,Lead Author,1,1,0,214,0.0000
 Senegal,Lead Author,1,2,0,11,0.0000
 Senegal,Lead Author,1,3,0,43,0.0000
 Senegal,Lead Author,2,1,0,84,0.0000
-Senegal,Lead Author,2,2,0,281,0.0000
+Senegal,Lead Author,2,2,0,287,0.0000
 Senegal,Lead Author,2,3,1,65,1.5385
-Senegal,Lead Author,3,1,0,110,0.0000
+Senegal,Lead Author,3,1,0,137,0.0000
 Senegal,Lead Author,3,2,0,184,0.0000
 Senegal,Lead Author,3,3,0,139,0.0000
 Senegal,Lead Author,4,1,2,139,1.4388
@@ -4374,7 +4374,7 @@ Senegal,Lead Author,4,2,2,197,1.0152
 Senegal,Lead Author,4,3,0,175,0.0000
 Senegal,Lead Author,5,1,1,195,0.5128
 Senegal,Lead Author,5,2,3,236,1.2712
-Senegal,Lead Author,5,3,1,198,0.5051
+Senegal,Lead Author,5,3,1,243,0.4115
 Senegal,Review Editor,3,1,0,21,0.0000
 Senegal,Review Editor,3,2,1,34,2.9412
 Senegal,Review Editor,3,3,0,19,0.0000
@@ -4417,9 +4417,9 @@ Seychelles,Lead Author,1,1,0,214,0.0000
 Seychelles,Lead Author,1,2,0,11,0.0000
 Seychelles,Lead Author,1,3,0,43,0.0000
 Seychelles,Lead Author,2,1,0,84,0.0000
-Seychelles,Lead Author,2,2,0,281,0.0000
+Seychelles,Lead Author,2,2,0,287,0.0000
 Seychelles,Lead Author,2,3,0,65,0.0000
-Seychelles,Lead Author,3,1,0,110,0.0000
+Seychelles,Lead Author,3,1,0,137,0.0000
 Seychelles,Lead Author,3,2,0,184,0.0000
 Seychelles,Lead Author,3,3,0,139,0.0000
 Seychelles,Lead Author,4,1,0,139,0.0000
@@ -4427,7 +4427,7 @@ Seychelles,Lead Author,4,2,1,197,0.5076
 Seychelles,Lead Author,4,3,0,175,0.0000
 Seychelles,Lead Author,5,1,0,195,0.0000
 Seychelles,Lead Author,5,2,0,236,0.0000
-Seychelles,Lead Author,5,3,0,198,0.0000
+Seychelles,Lead Author,5,3,0,243,0.0000
 Seychelles,Review Editor,3,1,0,21,0.0000
 Seychelles,Review Editor,3,2,1,34,2.9412
 Seychelles,Review Editor,3,3,0,19,0.0000
@@ -4470,9 +4470,9 @@ Sierra Leone,Lead Author,1,1,0,214,0.0000
 Sierra Leone,Lead Author,1,2,0,11,0.0000
 Sierra Leone,Lead Author,1,3,0,43,0.0000
 Sierra Leone,Lead Author,2,1,0,84,0.0000
-Sierra Leone,Lead Author,2,2,1,281,0.3559
+Sierra Leone,Lead Author,2,2,1,287,0.3484
 Sierra Leone,Lead Author,2,3,1,65,1.5385
-Sierra Leone,Lead Author,3,1,0,110,0.0000
+Sierra Leone,Lead Author,3,1,0,137,0.0000
 Sierra Leone,Lead Author,3,2,0,184,0.0000
 Sierra Leone,Lead Author,3,3,0,139,0.0000
 Sierra Leone,Lead Author,4,1,0,139,0.0000
@@ -4480,7 +4480,7 @@ Sierra Leone,Lead Author,4,2,0,197,0.0000
 Sierra Leone,Lead Author,4,3,1,175,0.5714
 Sierra Leone,Lead Author,5,1,0,195,0.0000
 Sierra Leone,Lead Author,5,2,0,236,0.0000
-Sierra Leone,Lead Author,5,3,0,198,0.0000
+Sierra Leone,Lead Author,5,3,0,243,0.0000
 Sierra Leone,Review Editor,3,1,0,21,0.0000
 Sierra Leone,Review Editor,3,2,0,34,0.0000
 Sierra Leone,Review Editor,3,3,0,19,0.0000
@@ -4523,9 +4523,9 @@ Singapore,Lead Author,1,1,0,214,0.0000
 Singapore,Lead Author,1,2,0,11,0.0000
 Singapore,Lead Author,1,3,0,43,0.0000
 Singapore,Lead Author,2,1,0,84,0.0000
-Singapore,Lead Author,2,2,1,281,0.3559
+Singapore,Lead Author,2,2,1,287,0.3484
 Singapore,Lead Author,2,3,0,65,0.0000
-Singapore,Lead Author,3,1,0,110,0.0000
+Singapore,Lead Author,3,1,0,137,0.0000
 Singapore,Lead Author,3,2,1,184,0.5435
 Singapore,Lead Author,3,3,0,139,0.0000
 Singapore,Lead Author,4,1,0,139,0.0000
@@ -4533,7 +4533,7 @@ Singapore,Lead Author,4,2,1,197,0.5076
 Singapore,Lead Author,4,3,0,175,0.0000
 Singapore,Lead Author,5,1,0,195,0.0000
 Singapore,Lead Author,5,2,1,236,0.4237
-Singapore,Lead Author,5,3,0,198,0.0000
+Singapore,Lead Author,5,3,0,243,0.0000
 Singapore,Review Editor,3,1,0,21,0.0000
 Singapore,Review Editor,3,2,0,34,0.0000
 Singapore,Review Editor,3,3,0,19,0.0000
@@ -4576,9 +4576,9 @@ Slovakia,Lead Author,1,1,0,214,0.0000
 Slovakia,Lead Author,1,2,0,11,0.0000
 Slovakia,Lead Author,1,3,0,43,0.0000
 Slovakia,Lead Author,2,1,0,84,0.0000
-Slovakia,Lead Author,2,2,0,281,0.0000
+Slovakia,Lead Author,2,2,0,287,0.0000
 Slovakia,Lead Author,2,3,0,65,0.0000
-Slovakia,Lead Author,3,1,0,110,0.0000
+Slovakia,Lead Author,3,1,0,137,0.0000
 Slovakia,Lead Author,3,2,1,184,0.5435
 Slovakia,Lead Author,3,3,0,139,0.0000
 Slovakia,Lead Author,4,1,0,139,0.0000
@@ -4586,7 +4586,7 @@ Slovakia,Lead Author,4,2,0,197,0.0000
 Slovakia,Lead Author,4,3,0,175,0.0000
 Slovakia,Lead Author,5,1,0,195,0.0000
 Slovakia,Lead Author,5,2,0,236,0.0000
-Slovakia,Lead Author,5,3,0,198,0.0000
+Slovakia,Lead Author,5,3,0,243,0.0000
 Slovakia,Review Editor,3,1,0,21,0.0000
 Slovakia,Review Editor,3,2,0,34,0.0000
 Slovakia,Review Editor,3,3,0,19,0.0000
@@ -4629,9 +4629,9 @@ Slovenia,Lead Author,1,1,0,214,0.0000
 Slovenia,Lead Author,1,2,0,11,0.0000
 Slovenia,Lead Author,1,3,0,43,0.0000
 Slovenia,Lead Author,2,1,0,84,0.0000
-Slovenia,Lead Author,2,2,0,281,0.0000
+Slovenia,Lead Author,2,2,0,287,0.0000
 Slovenia,Lead Author,2,3,0,65,0.0000
-Slovenia,Lead Author,3,1,0,110,0.0000
+Slovenia,Lead Author,3,1,0,137,0.0000
 Slovenia,Lead Author,3,2,0,184,0.0000
 Slovenia,Lead Author,3,3,0,139,0.0000
 Slovenia,Lead Author,4,1,0,139,0.0000
@@ -4639,7 +4639,7 @@ Slovenia,Lead Author,4,2,1,197,0.5076
 Slovenia,Lead Author,4,3,0,175,0.0000
 Slovenia,Lead Author,5,1,0,195,0.0000
 Slovenia,Lead Author,5,2,0,236,0.0000
-Slovenia,Lead Author,5,3,0,198,0.0000
+Slovenia,Lead Author,5,3,0,243,0.0000
 Slovenia,Review Editor,3,1,0,21,0.0000
 Slovenia,Review Editor,3,2,0,34,0.0000
 Slovenia,Review Editor,3,3,0,19,0.0000
@@ -4682,9 +4682,9 @@ South Africa,Lead Author,1,1,0,214,0.0000
 South Africa,Lead Author,1,2,0,11,0.0000
 South Africa,Lead Author,1,3,0,43,0.0000
 South Africa,Lead Author,2,1,0,84,0.0000
-South Africa,Lead Author,2,2,1,281,0.3559
+South Africa,Lead Author,2,2,1,287,0.3484
 South Africa,Lead Author,2,3,0,65,0.0000
-South Africa,Lead Author,3,1,3,110,2.7273
+South Africa,Lead Author,3,1,3,137,2.1898
 South Africa,Lead Author,3,2,1,184,0.5435
 South Africa,Lead Author,3,3,2,139,1.4388
 South Africa,Lead Author,4,1,1,139,0.7194
@@ -4692,7 +4692,7 @@ South Africa,Lead Author,4,2,2,197,1.0152
 South Africa,Lead Author,4,3,4,175,2.2857
 South Africa,Lead Author,5,1,2,195,1.0256
 South Africa,Lead Author,5,2,8,236,3.3898
-South Africa,Lead Author,5,3,4,198,2.0202
+South Africa,Lead Author,5,3,4,243,1.6461
 South Africa,Review Editor,3,1,0,21,0.0000
 South Africa,Review Editor,3,2,0,34,0.0000
 South Africa,Review Editor,3,3,0,19,0.0000
@@ -4735,9 +4735,9 @@ South Korea,Lead Author,1,1,0,214,0.0000
 South Korea,Lead Author,1,2,0,11,0.0000
 South Korea,Lead Author,1,3,0,43,0.0000
 South Korea,Lead Author,2,1,0,84,0.0000
-South Korea,Lead Author,2,2,0,281,0.0000
+South Korea,Lead Author,2,2,0,287,0.0000
 South Korea,Lead Author,2,3,1,65,1.5385
-South Korea,Lead Author,3,1,0,110,0.0000
+South Korea,Lead Author,3,1,0,137,0.0000
 South Korea,Lead Author,3,2,0,184,0.0000
 South Korea,Lead Author,3,3,1,139,0.7194
 South Korea,Lead Author,4,1,1,139,0.7194
@@ -4745,7 +4745,7 @@ South Korea,Lead Author,4,2,0,197,0.0000
 South Korea,Lead Author,4,3,0,175,0.0000
 South Korea,Lead Author,5,1,1,195,0.5128
 South Korea,Lead Author,5,2,2,236,0.8475
-South Korea,Lead Author,5,3,3,198,1.5152
+South Korea,Lead Author,5,3,3,243,1.2346
 South Korea,Review Editor,3,1,1,21,4.7619
 South Korea,Review Editor,3,2,0,34,0.0000
 South Korea,Review Editor,3,3,0,19,0.0000
@@ -4788,9 +4788,9 @@ Spain,Lead Author,1,1,0,214,0.0000
 Spain,Lead Author,1,2,0,11,0.0000
 Spain,Lead Author,1,3,0,43,0.0000
 Spain,Lead Author,2,1,0,84,0.0000
-Spain,Lead Author,2,2,2,281,0.7117
+Spain,Lead Author,2,2,2,287,0.6969
 Spain,Lead Author,2,3,0,65,0.0000
-Spain,Lead Author,3,1,0,110,0.0000
+Spain,Lead Author,3,1,0,137,0.0000
 Spain,Lead Author,3,2,0,184,0.0000
 Spain,Lead Author,3,3,0,139,0.0000
 Spain,Lead Author,4,1,0,139,0.0000
@@ -4798,7 +4798,7 @@ Spain,Lead Author,4,2,2,197,1.0152
 Spain,Lead Author,4,3,1,175,0.5714
 Spain,Lead Author,5,1,3,195,1.5385
 Spain,Lead Author,5,2,4,236,1.6949
-Spain,Lead Author,5,3,3,198,1.5152
+Spain,Lead Author,5,3,3,243,1.2346
 Spain,Review Editor,3,1,0,21,0.0000
 Spain,Review Editor,3,2,0,34,0.0000
 Spain,Review Editor,3,3,0,19,0.0000
@@ -4841,9 +4841,9 @@ Sri Lanka,Lead Author,1,1,0,214,0.0000
 Sri Lanka,Lead Author,1,2,0,11,0.0000
 Sri Lanka,Lead Author,1,3,0,43,0.0000
 Sri Lanka,Lead Author,2,1,0,84,0.0000
-Sri Lanka,Lead Author,2,2,1,281,0.3559
+Sri Lanka,Lead Author,2,2,1,287,0.3484
 Sri Lanka,Lead Author,2,3,1,65,1.5385
-Sri Lanka,Lead Author,3,1,0,110,0.0000
+Sri Lanka,Lead Author,3,1,0,137,0.0000
 Sri Lanka,Lead Author,3,2,1,184,0.5435
 Sri Lanka,Lead Author,3,3,0,139,0.0000
 Sri Lanka,Lead Author,4,1,0,139,0.0000
@@ -4851,7 +4851,7 @@ Sri Lanka,Lead Author,4,2,0,197,0.0000
 Sri Lanka,Lead Author,4,3,0,175,0.0000
 Sri Lanka,Lead Author,5,1,0,195,0.0000
 Sri Lanka,Lead Author,5,2,1,236,0.4237
-Sri Lanka,Lead Author,5,3,0,198,0.0000
+Sri Lanka,Lead Author,5,3,0,243,0.0000
 Sri Lanka,Review Editor,3,1,0,21,0.0000
 Sri Lanka,Review Editor,3,2,0,34,0.0000
 Sri Lanka,Review Editor,3,3,0,19,0.0000
@@ -4894,9 +4894,9 @@ Sudan,Lead Author,1,1,1,214,0.4673
 Sudan,Lead Author,1,2,0,11,0.0000
 Sudan,Lead Author,1,3,0,43,0.0000
 Sudan,Lead Author,2,1,0,84,0.0000
-Sudan,Lead Author,2,2,0,281,0.0000
+Sudan,Lead Author,2,2,0,287,0.0000
 Sudan,Lead Author,2,3,0,65,0.0000
-Sudan,Lead Author,3,1,0,110,0.0000
+Sudan,Lead Author,3,1,0,137,0.0000
 Sudan,Lead Author,3,2,0,184,0.0000
 Sudan,Lead Author,3,3,0,139,0.0000
 Sudan,Lead Author,4,1,0,139,0.0000
@@ -4904,7 +4904,7 @@ Sudan,Lead Author,4,2,1,197,0.5076
 Sudan,Lead Author,4,3,3,175,1.7143
 Sudan,Lead Author,5,1,0,195,0.0000
 Sudan,Lead Author,5,2,2,236,0.8475
-Sudan,Lead Author,5,3,2,198,1.0101
+Sudan,Lead Author,5,3,2,243,0.8230
 Sudan,Review Editor,3,1,0,21,0.0000
 Sudan,Review Editor,3,2,0,34,0.0000
 Sudan,Review Editor,3,3,0,19,0.0000
@@ -4947,9 +4947,9 @@ Swaziland,Lead Author,1,1,0,214,0.0000
 Swaziland,Lead Author,1,2,0,11,0.0000
 Swaziland,Lead Author,1,3,0,43,0.0000
 Swaziland,Lead Author,2,1,0,84,0.0000
-Swaziland,Lead Author,2,2,0,281,0.0000
+Swaziland,Lead Author,2,2,0,287,0.0000
 Swaziland,Lead Author,2,3,0,65,0.0000
-Swaziland,Lead Author,3,1,0,110,0.0000
+Swaziland,Lead Author,3,1,0,137,0.0000
 Swaziland,Lead Author,3,2,0,184,0.0000
 Swaziland,Lead Author,3,3,0,139,0.0000
 Swaziland,Lead Author,4,1,0,139,0.0000
@@ -4957,7 +4957,7 @@ Swaziland,Lead Author,4,2,0,197,0.0000
 Swaziland,Lead Author,4,3,0,175,0.0000
 Swaziland,Lead Author,5,1,1,195,0.5128
 Swaziland,Lead Author,5,2,0,236,0.0000
-Swaziland,Lead Author,5,3,0,198,0.0000
+Swaziland,Lead Author,5,3,0,243,0.0000
 Swaziland,Review Editor,3,1,0,21,0.0000
 Swaziland,Review Editor,3,2,0,34,0.0000
 Swaziland,Review Editor,3,3,0,19,0.0000
@@ -5000,9 +5000,9 @@ Sweden,Lead Author,1,1,4,214,1.8692
 Sweden,Lead Author,1,2,0,11,0.0000
 Sweden,Lead Author,1,3,0,43,0.0000
 Sweden,Lead Author,2,1,3,84,3.5714
-Sweden,Lead Author,2,2,5,281,1.7794
+Sweden,Lead Author,2,2,5,287,1.7422
 Sweden,Lead Author,2,3,1,65,1.5385
-Sweden,Lead Author,3,1,0,110,0.0000
+Sweden,Lead Author,3,1,0,137,0.0000
 Sweden,Lead Author,3,2,2,184,1.0870
 Sweden,Lead Author,3,3,1,139,0.7194
 Sweden,Lead Author,4,1,0,139,0.0000
@@ -5010,7 +5010,7 @@ Sweden,Lead Author,4,2,3,197,1.5228
 Sweden,Lead Author,4,3,0,175,0.0000
 Sweden,Lead Author,5,1,2,195,1.0256
 Sweden,Lead Author,5,2,5,236,2.1186
-Sweden,Lead Author,5,3,2,198,1.0101
+Sweden,Lead Author,5,3,2,243,0.8230
 Sweden,Review Editor,3,1,1,21,4.7619
 Sweden,Review Editor,3,2,0,34,0.0000
 Sweden,Review Editor,3,3,0,19,0.0000
@@ -5053,9 +5053,9 @@ Switzerland,Lead Author,1,1,3,214,1.4019
 Switzerland,Lead Author,1,2,0,11,0.0000
 Switzerland,Lead Author,1,3,1,43,2.3256
 Switzerland,Lead Author,2,1,2,84,2.3810
-Switzerland,Lead Author,2,2,7,281,2.4911
+Switzerland,Lead Author,2,2,7,287,2.4390
 Switzerland,Lead Author,2,3,0,65,0.0000
-Switzerland,Lead Author,3,1,1,110,0.9091
+Switzerland,Lead Author,3,1,1,137,0.7299
 Switzerland,Lead Author,3,2,0,184,0.0000
 Switzerland,Lead Author,3,3,1,139,0.7194
 Switzerland,Lead Author,4,1,3,139,2.1583
@@ -5063,7 +5063,7 @@ Switzerland,Lead Author,4,2,3,197,1.5228
 Switzerland,Lead Author,4,3,1,175,0.5714
 Switzerland,Lead Author,5,1,10,195,5.1282
 Switzerland,Lead Author,5,2,2,236,0.8475
-Switzerland,Lead Author,5,3,3,198,1.5152
+Switzerland,Lead Author,5,3,5,243,2.0576
 Switzerland,Review Editor,3,1,1,21,4.7619
 Switzerland,Review Editor,3,2,1,34,2.9412
 Switzerland,Review Editor,3,3,0,19,0.0000
@@ -5106,9 +5106,9 @@ Taiwan,Lead Author,1,1,0,214,0.0000
 Taiwan,Lead Author,1,2,0,11,0.0000
 Taiwan,Lead Author,1,3,0,43,0.0000
 Taiwan,Lead Author,2,1,0,84,0.0000
-Taiwan,Lead Author,2,2,0,281,0.0000
+Taiwan,Lead Author,2,2,0,287,0.0000
 Taiwan,Lead Author,2,3,0,65,0.0000
-Taiwan,Lead Author,3,1,0,110,0.0000
+Taiwan,Lead Author,3,1,0,137,0.0000
 Taiwan,Lead Author,3,2,0,184,0.0000
 Taiwan,Lead Author,3,3,0,139,0.0000
 Taiwan,Lead Author,4,1,0,139,0.0000
@@ -5116,7 +5116,7 @@ Taiwan,Lead Author,4,2,0,197,0.0000
 Taiwan,Lead Author,4,3,0,175,0.0000
 Taiwan,Lead Author,5,1,0,195,0.0000
 Taiwan,Lead Author,5,2,0,236,0.0000
-Taiwan,Lead Author,5,3,0,198,0.0000
+Taiwan,Lead Author,5,3,0,243,0.0000
 Taiwan,Review Editor,3,1,0,21,0.0000
 Taiwan,Review Editor,3,2,0,34,0.0000
 Taiwan,Review Editor,3,3,0,19,0.0000
@@ -5159,9 +5159,9 @@ Tanzania,Lead Author,1,1,1,214,0.4673
 Tanzania,Lead Author,1,2,0,11,0.0000
 Tanzania,Lead Author,1,3,0,43,0.0000
 Tanzania,Lead Author,2,1,0,84,0.0000
-Tanzania,Lead Author,2,2,2,281,0.7117
+Tanzania,Lead Author,2,2,2,287,0.6969
 Tanzania,Lead Author,2,3,0,65,0.0000
-Tanzania,Lead Author,3,1,1,110,0.9091
+Tanzania,Lead Author,3,1,1,137,0.7299
 Tanzania,Lead Author,3,2,0,184,0.0000
 Tanzania,Lead Author,3,3,0,139,0.0000
 Tanzania,Lead Author,4,1,0,139,0.0000
@@ -5169,7 +5169,7 @@ Tanzania,Lead Author,4,2,1,197,0.5076
 Tanzania,Lead Author,4,3,0,175,0.0000
 Tanzania,Lead Author,5,1,0,195,0.0000
 Tanzania,Lead Author,5,2,3,236,1.2712
-Tanzania,Lead Author,5,3,2,198,1.0101
+Tanzania,Lead Author,5,3,2,243,0.8230
 Tanzania,Review Editor,3,1,0,21,0.0000
 Tanzania,Review Editor,3,2,0,34,0.0000
 Tanzania,Review Editor,3,3,0,19,0.0000
@@ -5212,9 +5212,9 @@ Thailand,Lead Author,1,1,0,214,0.0000
 Thailand,Lead Author,1,2,0,11,0.0000
 Thailand,Lead Author,1,3,0,43,0.0000
 Thailand,Lead Author,2,1,0,84,0.0000
-Thailand,Lead Author,2,2,2,281,0.7117
+Thailand,Lead Author,2,2,2,287,0.6969
 Thailand,Lead Author,2,3,0,65,0.0000
-Thailand,Lead Author,3,1,0,110,0.0000
+Thailand,Lead Author,3,1,0,137,0.0000
 Thailand,Lead Author,3,2,0,184,0.0000
 Thailand,Lead Author,3,3,0,139,0.0000
 Thailand,Lead Author,4,1,1,139,0.7194
@@ -5222,7 +5222,7 @@ Thailand,Lead Author,4,2,0,197,0.0000
 Thailand,Lead Author,4,3,0,175,0.0000
 Thailand,Lead Author,5,1,0,195,0.0000
 Thailand,Lead Author,5,2,0,236,0.0000
-Thailand,Lead Author,5,3,1,198,0.5051
+Thailand,Lead Author,5,3,2,243,0.8230
 Thailand,Review Editor,3,1,0,21,0.0000
 Thailand,Review Editor,3,2,0,34,0.0000
 Thailand,Review Editor,3,3,0,19,0.0000
@@ -5265,9 +5265,9 @@ The Gambia,Lead Author,1,1,0,214,0.0000
 The Gambia,Lead Author,1,2,0,11,0.0000
 The Gambia,Lead Author,1,3,0,43,0.0000
 The Gambia,Lead Author,2,1,0,84,0.0000
-The Gambia,Lead Author,2,2,0,281,0.0000
+The Gambia,Lead Author,2,2,0,287,0.0000
 The Gambia,Lead Author,2,3,0,65,0.0000
-The Gambia,Lead Author,3,1,0,110,0.0000
+The Gambia,Lead Author,3,1,0,137,0.0000
 The Gambia,Lead Author,3,2,1,184,0.5435
 The Gambia,Lead Author,3,3,0,139,0.0000
 The Gambia,Lead Author,4,1,0,139,0.0000
@@ -5275,7 +5275,7 @@ The Gambia,Lead Author,4,2,0,197,0.0000
 The Gambia,Lead Author,4,3,0,175,0.0000
 The Gambia,Lead Author,5,1,0,195,0.0000
 The Gambia,Lead Author,5,2,1,236,0.4237
-The Gambia,Lead Author,5,3,0,198,0.0000
+The Gambia,Lead Author,5,3,0,243,0.0000
 The Gambia,Review Editor,3,1,0,21,0.0000
 The Gambia,Review Editor,3,2,0,34,0.0000
 The Gambia,Review Editor,3,3,0,19,0.0000
@@ -5318,9 +5318,9 @@ Trinidad and Tobago,Lead Author,1,1,0,214,0.0000
 Trinidad and Tobago,Lead Author,1,2,0,11,0.0000
 Trinidad and Tobago,Lead Author,1,3,0,43,0.0000
 Trinidad and Tobago,Lead Author,2,1,0,84,0.0000
-Trinidad and Tobago,Lead Author,2,2,0,281,0.0000
+Trinidad and Tobago,Lead Author,2,2,0,287,0.0000
 Trinidad and Tobago,Lead Author,2,3,0,65,0.0000
-Trinidad and Tobago,Lead Author,3,1,1,110,0.9091
+Trinidad and Tobago,Lead Author,3,1,1,137,0.7299
 Trinidad and Tobago,Lead Author,3,2,0,184,0.0000
 Trinidad and Tobago,Lead Author,3,3,0,139,0.0000
 Trinidad and Tobago,Lead Author,4,1,0,139,0.0000
@@ -5328,7 +5328,7 @@ Trinidad and Tobago,Lead Author,4,2,2,197,1.0152
 Trinidad and Tobago,Lead Author,4,3,0,175,0.0000
 Trinidad and Tobago,Lead Author,5,1,0,195,0.0000
 Trinidad and Tobago,Lead Author,5,2,2,236,0.8475
-Trinidad and Tobago,Lead Author,5,3,0,198,0.0000
+Trinidad and Tobago,Lead Author,5,3,0,243,0.0000
 Trinidad and Tobago,Review Editor,3,1,1,21,4.7619
 Trinidad and Tobago,Review Editor,3,2,0,34,0.0000
 Trinidad and Tobago,Review Editor,3,3,0,19,0.0000
@@ -5371,9 +5371,9 @@ Tunisia,Lead Author,1,1,0,214,0.0000
 Tunisia,Lead Author,1,2,0,11,0.0000
 Tunisia,Lead Author,1,3,0,43,0.0000
 Tunisia,Lead Author,2,1,0,84,0.0000
-Tunisia,Lead Author,2,2,1,281,0.3559
+Tunisia,Lead Author,2,2,1,287,0.3484
 Tunisia,Lead Author,2,3,0,65,0.0000
-Tunisia,Lead Author,3,1,0,110,0.0000
+Tunisia,Lead Author,3,1,0,137,0.0000
 Tunisia,Lead Author,3,2,0,184,0.0000
 Tunisia,Lead Author,3,3,0,139,0.0000
 Tunisia,Lead Author,4,1,0,139,0.0000
@@ -5381,7 +5381,7 @@ Tunisia,Lead Author,4,2,0,197,0.0000
 Tunisia,Lead Author,4,3,1,175,0.5714
 Tunisia,Lead Author,5,1,0,195,0.0000
 Tunisia,Lead Author,5,2,0,236,0.0000
-Tunisia,Lead Author,5,3,0,198,0.0000
+Tunisia,Lead Author,5,3,0,243,0.0000
 Tunisia,Review Editor,3,1,0,21,0.0000
 Tunisia,Review Editor,3,2,0,34,0.0000
 Tunisia,Review Editor,3,3,0,19,0.0000
@@ -5424,9 +5424,9 @@ Turkey,Lead Author,1,1,0,214,0.0000
 Turkey,Lead Author,1,2,0,11,0.0000
 Turkey,Lead Author,1,3,0,43,0.0000
 Turkey,Lead Author,2,1,0,84,0.0000
-Turkey,Lead Author,2,2,0,281,0.0000
+Turkey,Lead Author,2,2,0,287,0.0000
 Turkey,Lead Author,2,3,0,65,0.0000
-Turkey,Lead Author,3,1,0,110,0.0000
+Turkey,Lead Author,3,1,0,137,0.0000
 Turkey,Lead Author,3,2,0,184,0.0000
 Turkey,Lead Author,3,3,0,139,0.0000
 Turkey,Lead Author,4,1,0,139,0.0000
@@ -5434,7 +5434,7 @@ Turkey,Lead Author,4,2,2,197,1.0152
 Turkey,Lead Author,4,3,0,175,0.0000
 Turkey,Lead Author,5,1,0,195,0.0000
 Turkey,Lead Author,5,2,0,236,0.0000
-Turkey,Lead Author,5,3,0,198,0.0000
+Turkey,Lead Author,5,3,0,243,0.0000
 Turkey,Review Editor,3,1,0,21,0.0000
 Turkey,Review Editor,3,2,0,34,0.0000
 Turkey,Review Editor,3,3,0,19,0.0000
@@ -5477,9 +5477,9 @@ Turkmenistan,Lead Author,1,1,0,214,0.0000
 Turkmenistan,Lead Author,1,2,0,11,0.0000
 Turkmenistan,Lead Author,1,3,0,43,0.0000
 Turkmenistan,Lead Author,2,1,0,84,0.0000
-Turkmenistan,Lead Author,2,2,0,281,0.0000
+Turkmenistan,Lead Author,2,2,0,287,0.0000
 Turkmenistan,Lead Author,2,3,0,65,0.0000
-Turkmenistan,Lead Author,3,1,0,110,0.0000
+Turkmenistan,Lead Author,3,1,0,137,0.0000
 Turkmenistan,Lead Author,3,2,0,184,0.0000
 Turkmenistan,Lead Author,3,3,0,139,0.0000
 Turkmenistan,Lead Author,4,1,0,139,0.0000
@@ -5487,7 +5487,7 @@ Turkmenistan,Lead Author,4,2,0,197,0.0000
 Turkmenistan,Lead Author,4,3,0,175,0.0000
 Turkmenistan,Lead Author,5,1,0,195,0.0000
 Turkmenistan,Lead Author,5,2,0,236,0.0000
-Turkmenistan,Lead Author,5,3,0,198,0.0000
+Turkmenistan,Lead Author,5,3,0,243,0.0000
 Turkmenistan,Review Editor,3,1,0,21,0.0000
 Turkmenistan,Review Editor,3,2,0,34,0.0000
 Turkmenistan,Review Editor,3,3,0,19,0.0000
@@ -5530,9 +5530,9 @@ Uganda,Lead Author,1,1,0,214,0.0000
 Uganda,Lead Author,1,2,0,11,0.0000
 Uganda,Lead Author,1,3,0,43,0.0000
 Uganda,Lead Author,2,1,0,84,0.0000
-Uganda,Lead Author,2,2,0,281,0.0000
+Uganda,Lead Author,2,2,0,287,0.0000
 Uganda,Lead Author,2,3,1,65,1.5385
-Uganda,Lead Author,3,1,0,110,0.0000
+Uganda,Lead Author,3,1,0,137,0.0000
 Uganda,Lead Author,3,2,1,184,0.5435
 Uganda,Lead Author,3,3,0,139,0.0000
 Uganda,Lead Author,4,1,0,139,0.0000
@@ -5540,7 +5540,7 @@ Uganda,Lead Author,4,2,0,197,0.0000
 Uganda,Lead Author,4,3,0,175,0.0000
 Uganda,Lead Author,5,1,0,195,0.0000
 Uganda,Lead Author,5,2,0,236,0.0000
-Uganda,Lead Author,5,3,1,198,0.5051
+Uganda,Lead Author,5,3,1,243,0.4115
 Uganda,Review Editor,3,1,0,21,0.0000
 Uganda,Review Editor,3,2,0,34,0.0000
 Uganda,Review Editor,3,3,0,19,0.0000
@@ -5583,9 +5583,9 @@ Ukraine,Lead Author,1,1,0,214,0.0000
 Ukraine,Lead Author,1,2,0,11,0.0000
 Ukraine,Lead Author,1,3,0,43,0.0000
 Ukraine,Lead Author,2,1,0,84,0.0000
-Ukraine,Lead Author,2,2,0,281,0.0000
+Ukraine,Lead Author,2,2,0,287,0.0000
 Ukraine,Lead Author,2,3,0,65,0.0000
-Ukraine,Lead Author,3,1,0,110,0.0000
+Ukraine,Lead Author,3,1,0,137,0.0000
 Ukraine,Lead Author,3,2,0,184,0.0000
 Ukraine,Lead Author,3,3,0,139,0.0000
 Ukraine,Lead Author,4,1,0,139,0.0000
@@ -5593,7 +5593,7 @@ Ukraine,Lead Author,4,2,0,197,0.0000
 Ukraine,Lead Author,4,3,0,175,0.0000
 Ukraine,Lead Author,5,1,0,195,0.0000
 Ukraine,Lead Author,5,2,0,236,0.0000
-Ukraine,Lead Author,5,3,0,198,0.0000
+Ukraine,Lead Author,5,3,0,243,0.0000
 Ukraine,Review Editor,3,1,0,21,0.0000
 Ukraine,Review Editor,3,2,0,34,0.0000
 Ukraine,Review Editor,3,3,0,19,0.0000
@@ -5636,9 +5636,9 @@ United Kingdom,Lead Author,1,1,40,214,18.6916
 United Kingdom,Lead Author,1,2,0,11,0.0000
 United Kingdom,Lead Author,1,3,4,43,9.3023
 United Kingdom,Lead Author,2,1,13,84,15.4762
-United Kingdom,Lead Author,2,2,21,281,7.4733
+United Kingdom,Lead Author,2,2,23,287,8.0139
 United Kingdom,Lead Author,2,3,4,65,6.1538
-United Kingdom,Lead Author,3,1,15,110,13.6364
+United Kingdom,Lead Author,3,1,15,137,10.9489
 United Kingdom,Lead Author,3,2,16,184,8.6957
 United Kingdom,Lead Author,3,3,6,139,4.3165
 United Kingdom,Lead Author,4,1,14,139,10.0719
@@ -5646,7 +5646,7 @@ United Kingdom,Lead Author,4,2,16,197,8.1218
 United Kingdom,Lead Author,4,3,9,175,5.1429
 United Kingdom,Lead Author,5,1,19,195,9.7436
 United Kingdom,Lead Author,5,2,16,236,6.7797
-United Kingdom,Lead Author,5,3,14,198,7.0707
+United Kingdom,Lead Author,5,3,16,243,6.5844
 United Kingdom,Review Editor,3,1,2,21,9.5238
 United Kingdom,Review Editor,3,2,4,34,11.7647
 United Kingdom,Review Editor,3,3,2,19,10.5263
@@ -5689,9 +5689,9 @@ Uruguay,Lead Author,1,1,0,214,0.0000
 Uruguay,Lead Author,1,2,0,11,0.0000
 Uruguay,Lead Author,1,3,0,43,0.0000
 Uruguay,Lead Author,2,1,0,84,0.0000
-Uruguay,Lead Author,2,2,0,281,0.0000
+Uruguay,Lead Author,2,2,1,287,0.3484
 Uruguay,Lead Author,2,3,0,65,0.0000
-Uruguay,Lead Author,3,1,0,110,0.0000
+Uruguay,Lead Author,3,1,0,137,0.0000
 Uruguay,Lead Author,3,2,0,184,0.0000
 Uruguay,Lead Author,3,3,0,139,0.0000
 Uruguay,Lead Author,4,1,0,139,0.0000
@@ -5699,7 +5699,7 @@ Uruguay,Lead Author,4,2,1,197,0.5076
 Uruguay,Lead Author,4,3,2,175,1.1429
 Uruguay,Lead Author,5,1,0,195,0.0000
 Uruguay,Lead Author,5,2,0,236,0.0000
-Uruguay,Lead Author,5,3,0,198,0.0000
+Uruguay,Lead Author,5,3,0,243,0.0000
 Uruguay,Review Editor,3,1,0,21,0.0000
 Uruguay,Review Editor,3,2,0,34,0.0000
 Uruguay,Review Editor,3,3,0,19,0.0000
@@ -5742,9 +5742,9 @@ USA,Lead Author,1,1,80,214,37.3832
 USA,Lead Author,1,2,4,11,36.3636
 USA,Lead Author,1,3,15,43,34.8837
 USA,Lead Author,2,1,28,84,33.3333
-USA,Lead Author,2,2,88,281,31.3167
+USA,Lead Author,2,2,89,287,31.0105
 USA,Lead Author,2,3,20,65,30.7692
-USA,Lead Author,3,1,25,110,22.7273
+USA,Lead Author,3,1,25,137,18.2482
 USA,Lead Author,3,2,36,184,19.5652
 USA,Lead Author,3,3,29,139,20.8633
 USA,Lead Author,4,1,35,139,25.1799
@@ -5752,7 +5752,7 @@ USA,Lead Author,4,2,28,197,14.2132
 USA,Lead Author,4,3,34,175,19.4286
 USA,Lead Author,5,1,55,195,28.2051
 USA,Lead Author,5,2,42,236,17.7966
-USA,Lead Author,5,3,33,198,16.6667
+USA,Lead Author,5,3,43,243,17.6955
 USA,Review Editor,3,1,6,21,28.5714
 USA,Review Editor,3,2,2,34,5.8824
 USA,Review Editor,3,3,1,19,5.2632
@@ -5795,9 +5795,9 @@ USSR,Lead Author,1,1,5,214,2.3364
 USSR,Lead Author,1,2,1,11,9.0909
 USSR,Lead Author,1,3,1,43,2.3256
 USSR,Lead Author,2,1,0,84,0.0000
-USSR,Lead Author,2,2,0,281,0.0000
+USSR,Lead Author,2,2,0,287,0.0000
 USSR,Lead Author,2,3,0,65,0.0000
-USSR,Lead Author,3,1,0,110,0.0000
+USSR,Lead Author,3,1,0,137,0.0000
 USSR,Lead Author,3,2,0,184,0.0000
 USSR,Lead Author,3,3,0,139,0.0000
 USSR,Lead Author,4,1,0,139,0.0000
@@ -5805,7 +5805,7 @@ USSR,Lead Author,4,2,0,197,0.0000
 USSR,Lead Author,4,3,0,175,0.0000
 USSR,Lead Author,5,1,0,195,0.0000
 USSR,Lead Author,5,2,0,236,0.0000
-USSR,Lead Author,5,3,0,198,0.0000
+USSR,Lead Author,5,3,0,243,0.0000
 USSR,Review Editor,3,1,0,21,0.0000
 USSR,Review Editor,3,2,0,34,0.0000
 USSR,Review Editor,3,3,0,19,0.0000
@@ -5848,9 +5848,9 @@ Uzbekistan,Lead Author,1,1,0,214,0.0000
 Uzbekistan,Lead Author,1,2,0,11,0.0000
 Uzbekistan,Lead Author,1,3,0,43,0.0000
 Uzbekistan,Lead Author,2,1,0,84,0.0000
-Uzbekistan,Lead Author,2,2,0,281,0.0000
+Uzbekistan,Lead Author,2,2,0,287,0.0000
 Uzbekistan,Lead Author,2,3,0,65,0.0000
-Uzbekistan,Lead Author,3,1,0,110,0.0000
+Uzbekistan,Lead Author,3,1,0,137,0.0000
 Uzbekistan,Lead Author,3,2,0,184,0.0000
 Uzbekistan,Lead Author,3,3,0,139,0.0000
 Uzbekistan,Lead Author,4,1,0,139,0.0000
@@ -5858,7 +5858,7 @@ Uzbekistan,Lead Author,4,2,0,197,0.0000
 Uzbekistan,Lead Author,4,3,0,175,0.0000
 Uzbekistan,Lead Author,5,1,0,195,0.0000
 Uzbekistan,Lead Author,5,2,0,236,0.0000
-Uzbekistan,Lead Author,5,3,0,198,0.0000
+Uzbekistan,Lead Author,5,3,0,243,0.0000
 Uzbekistan,Review Editor,3,1,0,21,0.0000
 Uzbekistan,Review Editor,3,2,1,34,2.9412
 Uzbekistan,Review Editor,3,3,0,19,0.0000
@@ -5901,9 +5901,9 @@ Venezuela,Lead Author,1,1,0,214,0.0000
 Venezuela,Lead Author,1,2,0,11,0.0000
 Venezuela,Lead Author,1,3,0,43,0.0000
 Venezuela,Lead Author,2,1,1,84,1.1905
-Venezuela,Lead Author,2,2,4,281,1.4235
+Venezuela,Lead Author,2,2,4,287,1.3937
 Venezuela,Lead Author,2,3,0,65,0.0000
-Venezuela,Lead Author,3,1,1,110,0.9091
+Venezuela,Lead Author,3,1,1,137,0.7299
 Venezuela,Lead Author,3,2,2,184,1.0870
 Venezuela,Lead Author,3,3,0,139,0.0000
 Venezuela,Lead Author,4,1,0,139,0.0000
@@ -5911,7 +5911,7 @@ Venezuela,Lead Author,4,2,1,197,0.5076
 Venezuela,Lead Author,4,3,0,175,0.0000
 Venezuela,Lead Author,5,1,0,195,0.0000
 Venezuela,Lead Author,5,2,1,236,0.4237
-Venezuela,Lead Author,5,3,0,198,0.0000
+Venezuela,Lead Author,5,3,0,243,0.0000
 Venezuela,Review Editor,3,1,2,21,9.5238
 Venezuela,Review Editor,3,2,0,34,0.0000
 Venezuela,Review Editor,3,3,0,19,0.0000
@@ -5954,9 +5954,9 @@ Vietnam,Lead Author,1,1,0,214,0.0000
 Vietnam,Lead Author,1,2,0,11,0.0000
 Vietnam,Lead Author,1,3,0,43,0.0000
 Vietnam,Lead Author,2,1,0,84,0.0000
-Vietnam,Lead Author,2,2,1,281,0.3559
+Vietnam,Lead Author,2,2,1,287,0.3484
 Vietnam,Lead Author,2,3,0,65,0.0000
-Vietnam,Lead Author,3,1,1,110,0.9091
+Vietnam,Lead Author,3,1,1,137,0.7299
 Vietnam,Lead Author,3,2,0,184,0.0000
 Vietnam,Lead Author,3,3,0,139,0.0000
 Vietnam,Lead Author,4,1,0,139,0.0000
@@ -5964,7 +5964,7 @@ Vietnam,Lead Author,4,2,1,197,0.5076
 Vietnam,Lead Author,4,3,0,175,0.0000
 Vietnam,Lead Author,5,1,0,195,0.0000
 Vietnam,Lead Author,5,2,1,236,0.4237
-Vietnam,Lead Author,5,3,0,198,0.0000
+Vietnam,Lead Author,5,3,0,243,0.0000
 Vietnam,Review Editor,3,1,0,21,0.0000
 Vietnam,Review Editor,3,2,0,34,0.0000
 Vietnam,Review Editor,3,3,0,19,0.0000
@@ -6007,9 +6007,9 @@ Zambia,Lead Author,1,1,0,214,0.0000
 Zambia,Lead Author,1,2,0,11,0.0000
 Zambia,Lead Author,1,3,0,43,0.0000
 Zambia,Lead Author,2,1,0,84,0.0000
-Zambia,Lead Author,2,2,0,281,0.0000
+Zambia,Lead Author,2,2,0,287,0.0000
 Zambia,Lead Author,2,3,0,65,0.0000
-Zambia,Lead Author,3,1,1,110,0.9091
+Zambia,Lead Author,3,1,1,137,0.7299
 Zambia,Lead Author,3,2,0,184,0.0000
 Zambia,Lead Author,3,3,1,139,0.7194
 Zambia,Lead Author,4,1,0,139,0.0000
@@ -6017,7 +6017,7 @@ Zambia,Lead Author,4,2,0,197,0.0000
 Zambia,Lead Author,4,3,1,175,0.5714
 Zambia,Lead Author,5,1,3,195,1.5385
 Zambia,Lead Author,5,2,0,236,0.0000
-Zambia,Lead Author,5,3,1,198,0.5051
+Zambia,Lead Author,5,3,1,243,0.4115
 Zambia,Review Editor,3,1,0,21,0.0000
 Zambia,Review Editor,3,2,0,34,0.0000
 Zambia,Review Editor,3,3,0,19,0.0000
@@ -6060,9 +6060,9 @@ Zimbabwe,Lead Author,1,1,0,214,0.0000
 Zimbabwe,Lead Author,1,2,0,11,0.0000
 Zimbabwe,Lead Author,1,3,0,43,0.0000
 Zimbabwe,Lead Author,2,1,0,84,0.0000
-Zimbabwe,Lead Author,2,2,3,281,1.0676
+Zimbabwe,Lead Author,2,2,3,287,1.0453
 Zimbabwe,Lead Author,2,3,1,65,1.5385
-Zimbabwe,Lead Author,3,1,1,110,0.9091
+Zimbabwe,Lead Author,3,1,1,137,0.7299
 Zimbabwe,Lead Author,3,2,1,184,0.5435
 Zimbabwe,Lead Author,3,3,0,139,0.0000
 Zimbabwe,Lead Author,4,1,0,139,0.0000
@@ -6070,7 +6070,7 @@ Zimbabwe,Lead Author,4,2,1,197,0.5076
 Zimbabwe,Lead Author,4,3,0,175,0.0000
 Zimbabwe,Lead Author,5,1,0,195,0.0000
 Zimbabwe,Lead Author,5,2,0,236,0.0000
-Zimbabwe,Lead Author,5,3,1,198,0.5051
+Zimbabwe,Lead Author,5,3,1,243,0.4115
 Zimbabwe,Review Editor,3,1,1,21,4.7619
 Zimbabwe,Review Editor,3,2,0,34,0.0000
 Zimbabwe,Review Editor,3,3,0,19,0.0000

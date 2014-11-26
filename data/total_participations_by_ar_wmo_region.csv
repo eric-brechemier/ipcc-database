@@ -6,29 +6,29 @@ AR,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO Region Participat
 1,ASI,Asia,44,7.6125,578
 1,AFR,Africa,17,2.9412,578
 1,SAM,South America,9,1.5571,578
-2,NAC,"North America, Central America and the Caribbean",576,41.6787,1382
-2,EUR,Europe,454,32.8509,1382
-2,ASI,Asia,133,9.6237,1382
-2,SWP,South-West Pacific,108,7.8148,1382
-2,SAM,South America,52,3.7627,1382
-2,AFR,Africa,50,3.6179,1382
-2,WMONA,Non Available,9,0.6512,1382
-3,NAC,"North America, Central America and the Caribbean",583,35.1841,1657
-3,EUR,Europe,518,31.2613,1657
-3,WMONA,Non Available,194,11.7079,1657
-3,ASI,Asia,143,8.6301,1657
-3,SWP,South-West Pacific,109,6.5782,1657
-3,SAM,South America,55,3.3193,1657
-3,AFR,Africa,55,3.3193,1657
+2,NAC,"North America, Central America and the Caribbean",616,40.7677,1511
+2,EUR,Europe,490,32.4289,1511
+2,ASI,Asia,157,10.3905,1511
+2,SWP,South-West Pacific,117,7.7432,1511
+2,AFR,Africa,61,4.0371,1511
+2,SAM,South America,61,4.0371,1511
+2,WMONA,Non Available,9,0.5956,1511
+3,NAC,"North America, Central America and the Caribbean",583,33.9744,1716
+3,EUR,Europe,518,30.1865,1716
+3,WMONA,Non Available,253,14.7436,1716
+3,ASI,Asia,143,8.3333,1716
+3,SWP,South-West Pacific,109,6.3520,1716
+3,SAM,South America,55,3.2051,1716
+3,AFR,Africa,55,3.2051,1716
 4,EUR,Europe,689,38.7296,1779
 4,NAC,"North America, Central America and the Caribbean",614,34.5138,1779
 4,ASI,Asia,195,10.9612,1779
 4,SWP,South-West Pacific,142,7.9820,1779
 4,AFR,Africa,81,4.5531,1779
 4,SAM,South America,58,3.2603,1779
-5,EUR,Europe,836,40.0959,2085
-5,NAC,"North America, Central America and the Caribbean",680,32.6139,2085
-5,ASI,Asia,209,10.0240,2085
-5,SWP,South-West Pacific,177,8.4892,2085
-5,AFR,Africa,114,5.4676,2085
-5,SAM,South America,69,3.3094,2085
+5,EUR,Europe,862,40.2804,2140
+5,NAC,"North America, Central America and the Caribbean",693,32.3832,2140
+5,ASI,Asia,218,10.1869,2140
+5,SWP,South-West Pacific,179,8.3645,2140
+5,AFR,Africa,115,5.3738,2140
+5,SAM,South America,73,3.4112,2140

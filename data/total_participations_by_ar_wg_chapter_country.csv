@@ -666,6 +666,42 @@ AR,WG,Chapter,Total Country Participations,% Country Participations,Total Chapte
 2,2,TS,1,0.8065,124,110,Tunisia
 2,2,TS,1,0.8065,124,121,Vietnam
 2,2,TS,1,0.8065,124,123,Zimbabwe
+2,2,SPM,34,26.3566,129,113,USA
+2,2,SPM,8,6.2016,129,51,Japan
+2,2,SPM,8,6.2016,129,117,United Kingdom
+2,2,SPM,7,5.4264,129,44,India
+2,2,SPM,6,4.6512,129,6,Australia
+2,2,SPM,6,4.6512,129,23,China
+2,2,SPM,6,4.6512,129,35,France
+2,2,SPM,6,4.6512,129,53,Kenya
+2,2,SPM,4,3.1008,129,107,Netherlands
+2,2,SPM,4,3.1008,129,101,Sweden
+2,2,SPM,4,3.1008,129,102,Switzerland
+2,2,SPM,3,2.3256,129,5,Argentina
+2,2,SPM,3,2.3256,129,36,Germany
+2,2,SPM,3,2.3256,129,120,Venezuela
+2,2,SPM,2,1.5504,129,7,Austria
+2,2,SPM,2,1.5504,129,16,Brazil
+2,2,SPM,2,1.5504,129,26,Cuba
+2,2,SPM,2,1.5504,129,64,Mexico
+2,2,SPM,2,1.5504,129,82,Poland
+2,2,SPM,1,0.7752,129,9,Barbados
+2,2,SPM,1,0.7752,129,12,Benin
+2,2,SPM,1,0.7752,129,20,Canada
+2,2,SPM,1,0.7752,129,42,Hungary
+2,2,SPM,1,0.7752,129,72,Nepal
+2,2,SPM,1,0.7752,129,73,New Zealand
+2,2,SPM,1,0.7752,129,75,Norway
+2,2,SPM,1,0.7752,129,81,Philippines
+2,2,SPM,1,0.7752,129,86,Russian Federation
+2,2,SPM,1,0.7752,129,88,Saudi Arabia
+2,2,SPM,1,0.7752,129,91,Sierra Leone
+2,2,SPM,1,0.7752,129,92,Singapore
+2,2,SPM,1,0.7752,129,95,South Africa
+2,2,SPM,1,0.7752,129,110,Tunisia
+2,2,SPM,1,0.7752,129,118,Uruguay
+2,2,SPM,1,0.7752,129,121,Vietnam
+2,2,SPM,1,0.7752,129,123,Zimbabwe
 2,3,1,4,44.4444,9,113,USA
 2,3,1,2,22.2222,9,1,N/A
 2,3,1,1,11.1111,9,16,Brazil
@@ -931,6 +967,7 @@ AR,WG,Chapter,Total Country Participations,% Country Participations,Total Chapte
 3,1,TS,1,1.8182,55,86,Russian Federation
 3,1,TS,1,1.8182,55,109,Trinidad and Tobago
 3,1,TS,1,1.8182,55,123,Zimbabwe
+3,1,SPM,59,100.0000,59,1,N/A
 3,2,1,5,35.7143,14,113,USA
 3,2,1,2,14.2857,14,117,United Kingdom
 3,2,1,1,7.1429,14,6,Australia
@@ -2847,3 +2884,24 @@ AR,WG,Chapter,Total Country Participations,% Country Participations,Total Chapte
 5,3,16,1,6.2500,16,69,Morocco
 5,3,16,1,6.2500,16,97,Spain
 5,3,16,1,6.2500,16,122,Zambia
+5,3,SPM,14,25.4545,55,36,Germany
+5,3,SPM,11,20.0000,55,113,USA
+5,3,SPM,5,9.0909,55,44,India
+5,3,SPM,3,5.4545,55,7,Austria
+5,3,SPM,3,5.4545,55,16,Brazil
+5,3,SPM,2,3.6364,55,23,China
+5,3,SPM,2,3.6364,55,102,Switzerland
+5,3,SPM,2,3.6364,55,117,United Kingdom
+5,3,SPM,1,1.8182,55,5,Argentina
+5,3,SPM,1,1.8182,55,26,Cuba
+5,3,SPM,1,1.8182,55,35,France
+5,3,SPM,1,1.8182,55,42,Hungary
+5,3,SPM,1,1.8182,55,51,Japan
+5,3,SPM,1,1.8182,55,53,Kenya
+5,3,SPM,1,1.8182,55,64,Mexico
+5,3,SPM,1,1.8182,55,107,Netherlands
+5,3,SPM,1,1.8182,55,73,New Zealand
+5,3,SPM,1,1.8182,55,81,Philippines
+5,3,SPM,1,1.8182,55,86,Russian Federation
+5,3,SPM,1,1.8182,55,101,Sweden
+5,3,SPM,1,1.8182,55,105,Thailand

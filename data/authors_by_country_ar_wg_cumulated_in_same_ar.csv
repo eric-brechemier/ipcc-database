@@ -10,6 +10,7 @@ Argentina,2,WG2,121,A. Aristarain
 Argentina,2,WG2,436,Osvaldo F. Canziani
 Argentina,2,WG2,439,Rodolfo Carcavallo
 Argentina,2,WG2,599,Susana I. Curto De Casas
+Argentina,2,WG2,680,Sandra Myrna Diaz
 Argentina,2,WG2,747,G. Dutt
 Argentina,2,WG2,1609,J. Labraga
 Argentina,2,WG2,1800,N. Maceira
@@ -140,6 +141,7 @@ Australia,2,WG2,1512,Miko Kirschbaum
 Australia,2,WG2,1578,P.E. Kriedemann
 Australia,2,WG2,1629,J. Landsberg
 Australia,2,WG2,1914,Roger McLean
+Australia,2,WG2,1916,Anthony J. McMichael
 Australia,2,WG2,1917,R.E. Mcmurtrie
 Australia,2,WG2,2126,S. Nicol
 Australia,2,WG2,2136,Ian Noble
@@ -397,8 +399,10 @@ Austria,5,WG2,4806,Andreas Scheba
 Austria,5,WG2,4850,Vegard Skirbekk
 Austria,5,WG2+3,2271,Anthony Patt
 Austria,5,WG3,3646,Leonardo Barreto
+Austria,5,WG3,3769,Luis Gómez
 Austria,5,WG3,1042,Amulf Grubler
 Austria,5,WG3,3783,Helmut Haberl
+Austria,5,WG3,3853,Volker Krey
 Austria,5,WG3,3872,Joanne Linnerooth- Bayer
 Austria,5,WG3,1789,Wolfgang Lutz
 Austria,5,WG3,1952,Lukas Meyer
@@ -1029,6 +1033,7 @@ Cuba,5,WG3,21,Roberto Acosta Moreno
 Cuba,5,WG3,681,Cristobal Felix Diaz Morejon
 Cuba,5,WG3,3762,Raúl Jorge Garrido Vázquez
 Cuba,5,WG3,1751,Juan F. Llanes-Regueiro
+Cuba,5,WG3,2329,Ramon Pichs-Madruga
 Cuba,5,WG3,3016,Julio Torres-Martínez
 Czech Republic,1,WG2,2494,V. Richter
 Czech Republic,3,WG1,334,R. Brazdil
@@ -1151,6 +1156,7 @@ France,2,WG2,975,P.-N. Giraud
 France,2,WG2,1658,Henri Le Houerou
 France,2,WG2,1958,Laurie Michaelis
 France,2,WG2,2218,J-P. Orfeuil
+France,2,WG2,5036,Michel Petit
 France,2,WG2,2496,Arthur Riedacker
 France,2,WG2,2873,G. Stevens
 France,2,WG2,2976,Lucien Tessier
@@ -1612,7 +1618,6 @@ Germany,5,WG2,4487,Werner Krauss
 Germany,5,WG2,1666,Walter Leal
 Germany,5,WG2,4577,Andreas Matzarakis
 Germany,5,WG2,1944,Annette Menzel
-Germany,5,WG2,4610,Jan Minx
 Germany,5,WG2,4684,Claudia Pahl-Wostl
 Germany,5,WG2,4709,Juliane Peterson
 Germany,5,WG2,4723,Hans Otto Portner
@@ -1621,26 +1626,34 @@ Germany,5,WG2,4781,Bjorn Rost
 Germany,5,WG2,4815,Lena Schulte-Uebbing
 Germany,5,WG2,2715,Josef Settele
 Germany,5,WG2,4900,Klement Tockner
-Germany,5,WG2,4931,Christoph von Stechow
 Germany,5,WG2,3165,Koko Warner
 Germany,5,WG2,4963,Christian Wiencke
 Germany,5,WG2,4974,Marten Winter
 Germany,5,WG2,4976,Astrid Wittmann
 Germany,5,WG2,3255,Johanna Wolf
 Germany,5,WG2,4990,Shelby Yamamoto
+Germany,5,WG2+3,4610,Jan Minx
+Germany,5,WG2+3,4931,Christoph von Stechow
 Germany,5,WG3,3668,Thomas Bruckner
+Germany,5,WG3,5083,Steffen Brunner
 Germany,5,WG3,3701,Felix Creutzig
+Germany,5,WG3,760,Ottmar Edenhofer
+Germany,5,WG3,5084,Patrick Eickemeier
+Germany,5,WG3,5085,Ellie Farahani
 Germany,5,WG3,3741,Manfred Fischedick
 Germany,5,WG3,1112,Jochen Harnisch
 Germany,5,WG3,3795,Hermann Held
 Germany,5,WG3,1216,Niklas Höhne
 Germany,5,WG3,3813,Martin Jänicke
+Germany,5,WG3,5087,Susanne Kadner
 Germany,5,WG3,3844,Stephan Klasen
 Germany,5,WG3,3853,Volker Krey
 Germany,5,WG3,3854,Elmar Kriegler
 Germany,5,WG3,3875,Andreas Löschel
 Germany,5,WG3,3889,Alan McKinnon
 Germany,5,WG3,3954,Michael Rauscher
+Germany,5,WG3,5089,Steffen Schloemer
+Germany,5,WG3,5092,Timm Zwickel
 Ghana,5,WG2,3550,Ama Essel
 Ghana,5,WG3,3730,Joseph Kow Essandoh- Yeddu
 Ghana,5,WG3,3922,Alfred Ofosu
@@ -1696,6 +1709,7 @@ India,2,WG2,2426,P.S. Ramakrishnan
 India,2,WG2,2429,K.S. Ramasastri
 India,2,WG2,2452,Nijavalli H. Ravindranath
 India,2,WG2,2699,J. Sehgal
+India,2,WG2,5037,Subodh Sharma
 India,2,WG2,2777,N. Singh
 India,2,WG2,2779,S.K. Sinha
 India,2,WG2,2913,Raman Sukumar
@@ -1935,6 +1949,7 @@ Japan,2,WG2,2193,T. Okita
 Japan,2,WG2,2590,N. Sagawa
 Japan,2,WG2,2944,Hidekazu Takakura
 Japan,2,WG2,3035,H. Tsuchiya
+Japan,2,WG2,5038,Hiroshi Tsukamoto
 Japan,2,WG2,3037,Itsuya Tsuzaka
 Japan,2,WG2,3330,Masatoshi Yoshino
 Japan,2,WG3,81,A. Amano
@@ -2280,16 +2295,75 @@ N/A,2,WG2,3388,P.M. Holligan
 N/A,2,WG3,3389,K.G. Maler
 N/A,2,WG3,3390,R. Saha
 N/A,2,WG3,3391,R. Squitieri
+N/A,3,WG1,55,D.L. Albritton
 N/A,3,WG1,3393,R. Alexander
+N/A,3,WG1,67,Myles R. Allen
+N/A,3,WG1,164,Alphonsus Baede
 N/A,3,WG1,3410,Xiongwen Chen
+N/A,3,WG1,510,John A. Church
+N/A,3,WG1,593,Ulrich Cubasch
+N/A,3,WG1,692,Yihui Ding
+N/A,3,WG1,767,D.H. Ehhalt
+N/A,3,WG1,858,Christopher K. Folland
 N/A,3,WG1,3427,W. Fraser
+N/A,3,WG1,973,Filippo Giorgi
+N/A,3,WG1,1024,Jonathan M. Gregory
+N/A,3,WG1,1031,David J. Griggs
+N/A,3,WG1,1147,James M. Haywood
+N/A,3,WG1,1188,Bruce Charles Hewitson
+N/A,3,WG1,1244,J.T. Houghton
+N/A,3,WG1,1248,Joanna I. House
+N/A,3,WG1,1273,Mike Hulme
+N/A,3,WG1,1301,I.S.A Isaksen
+N/A,3,WG1,1335,V.J. Jaramillo
+N/A,3,WG1,1341,A. Jayaraman
+N/A,3,WG1,5086,Catherine A. Johnson
+N/A,3,WG1,1386,Fortunat Joos
+N/A,3,WG1,1391,Sylvie Joussaume
+N/A,3,WG1,1431,Thomas R. Karl
+N/A,3,WG1,1434,David J. Karoly
+N/A,3,WG1,1482,Haroon Kheshgi
+N/A,3,WG1,1695,Corrine Le Quéré
 N/A,3,WG1,1701,Lawrence Leung
+N/A,3,WG1,5088,Kathy Maskell
+N/A,3,WG1,1871,Luis Jose Mata
+N/A,3,WG1,1892,Bryant J. McAvaney
+N/A,3,WG1,1902,Mack McFarland
+N/A,3,WG1,1922,Linda O. Mearns
+N/A,3,WG1,1927,Gerald A. Meehl
+N/A,3,WG1,1932,L.G. Meira Filho
+N/A,3,WG1,1934,V. Meleshko
+N/A,3,WG1,2001,John F. B. Mitchell
+N/A,3,WG1,2023,B. Moore III
 N/A,3,WG1,3484,J. Morgan
+N/A,3,WG1,2052,R.K. Mugara
+N/A,3,WG1,2140,M. Noguer
 N/A,3,WG1,3496,W. North
+N/A,3,WG1,2156,B.S. Nyenzi
+N/A,3,WG1,2214,Michael Oppenheimer
+N/A,3,WG1,2298,Joyce E. Penner
+N/A,3,WG1,2365,S. Pollonais
+N/A,3,WG1,2383,Michael Prather
+N/A,3,WG1,2385,I. Colin Prentice
+N/A,3,WG1,2430,Venkatachalam Ramaswamy
+N/A,3,WG1,2433,A. Ramirez-Rojas
+N/A,3,WG1,2441,Sarah C.B. Raper
+N/A,3,WG1,2602,"Michael James ""Jim"" Salinger"
+N/A,3,WG1,2674,Robert (Bob) J. Scholes
 N/A,3,WG1,3523,M. Skinner
+N/A,3,WG1,2827,Susan Solomon
+N/A,3,WG1,2880,Thomas F. Stocker
+N/A,3,WG1,2883,John M.R. Stone
+N/A,3,WG1,2890,Ronald J. Stouffer
+N/A,3,WG1,3022,Kevin E. Trenberth
 N/A,3,WG1,3534,R.S.W. Van de Wal
+N/A,3,WG1,5090,Ming-Xing Wang
+N/A,3,WG1,3178,Robert T. Watson
 N/A,3,WG1,3540,D. White
 N/A,3,WG1,3541,T. Williamson
+N/A,3,WG1,5091,Dai Xiaosu
+N/A,3,WG1,3312,K.S. Yap
+N/A,3,WG1,3376,John Zillman
 N/A,3,WG2,3392,A.U. Ahmed
 N/A,3,WG2,3394,A. Amani
 N/A,3,WG2,3396,F. Argenal
@@ -2867,6 +2941,7 @@ Philippines,5,WG2,2304,Rosa Perez
 Philippines,5,WG2,2400,Juan Pulhin
 Philippines,5,WG2,3001,Lourdes Tibig
 Philippines,5,WG2,4951,Reiner Wassman
+Philippines,5,WG3,1059,Sujata Gupta
 Poland,1,WG1,342,A. Breymcyer
 Poland,1,WG2,1498,J. Kindler
 Poland,2,WG2,917,Wojciech Galinski
@@ -2988,6 +3063,7 @@ Russian Federation,5,WG2,2481,Boris Revich
 Russian Federation,5,WG2,2707,Serguei M. Semenov
 Russian Federation,5,WG2,3339,Peter Zavialov
 Russian Federation,5,WG3,3650,Igor Bashmakov
+Russian Federation,5,WG3,208,Igor Alexeyevich Bashmakov
 Russian Federation,5,WG3,3967,Anna Romanovskaya
 Samoa,3,WG2,2705,Graham Sem
 Samoa,4,WG2,1681,Penehuro Lefale
@@ -3337,7 +3413,9 @@ Switzerland,5,WG2,4530,Heike Lischke
 Switzerland,5,WG2,2334,Etienne Piguet
 Switzerland,5,WG3,3700,Thomas Cottier
 Switzerland,5,WG3,1959,Axel Michaelowa
+Switzerland,5,WG3,2271,Anthony Patt
 Switzerland,5,WG3,3962,Carmenza Robledo Abad
+Switzerland,5,WG3,2817,Youba Sokona
 Taiwan,2,WG1,3031,C. Tsay
 Tanzania,1,WG1,2156,B.S. Nyenzi
 Tanzania,1,WG3,5066,Adolfo Mascarenhas
@@ -3504,6 +3582,7 @@ United Kingdom,2,WG2,1336,P.G. Jarvis
 United Kingdom,2,WG2,1397,R.J.V. Joyce
 United Kingdom,2,WG2,1571,Sari Kovats
 United Kingdom,2,WG2,1742,D. Lister
+United Kingdom,2,WG2,5088,Kathy Maskell
 United Kingdom,2,WG2,1916,Anthony J. McMichael
 United Kingdom,2,WG2,2124,Robert J. Nicholls
 United Kingdom,2,WG2,2238,S. Page
@@ -3955,6 +4034,7 @@ United Kingdom,5,WG3,2785,Jim F. Skea
 United Kingdom,5,WG3,2807,Peter Smith
 United Kingdom,5,WG3,4002,Neil Strachan
 United Kingdom,5,WG3,4028,Anthony Venables
+Uruguay,2,WG2,166,Walter Baethgen
 Uruguay,4,WG2,2090,Gustavo Nagy
 Uruguay,4,WG3,1860,Daniel L. Martino
 Uruguay,4,WG3,2231,Walter Oyhantçabal
@@ -4401,6 +4481,7 @@ USA,2,WG2,2894,David G. Streets
 USA,2,WG2,2896,C. Strzepek
 USA,2,WG2,2928,T. Svejcar
 USA,2,WG2,2962,A.E. Taylor
+USA,2,WG2,2963,Melissa Taylor
 USA,2,WG2,3007,Dennis A. Tirpak
 USA,2,WG2,3024,M. Trexler
 USA,2,WG2,3063,L. Vallianos
@@ -5307,7 +5388,6 @@ USA,5,WG1,4840,Nicolay Shiklomanov
 USA,5,WG1,2749,Drew Shindell
 USA,5,WG1,2792,Andrew G. Slater
 USA,5,WG1,4853,Jason Smerdon
-USA,5,WG1,4856,Steven Smith
 USA,5,WG1,4857,Thomas M. Smith
 USA,5,WG1,2813,Brian Soden
 USA,5,WG1,4864,Kenneth Sperber
@@ -5361,6 +5441,7 @@ USA,5,WG1+2,1922,Linda O. Mearns
 USA,5,WG1+2,2164,Brian C. O'Neill
 USA,5,WG1+2,2383,Michael Prather
 USA,5,WG1+2,2521,Alan Robock
+USA,5,WG1+3,4856,Steven Smith
 USA,5,WG2,36,Arun Agrawal
 USA,5,WG2,4070,Elena M. Aizen
 USA,5,WG2,4071,Vladimir B. Aizen
@@ -5459,7 +5540,6 @@ USA,5,WG2,2603,Asbury Sallenger
 USA,5,WG2,4799,Jorge Sarmiento
 USA,5,WG2,4807,Wolfram Schlenker
 USA,5,WG2,4821,Vanessa Schweizer
-USA,5,WG2,4833,Kristin Seyboth
 USA,5,WG2,2734,Rebecca Shaw
 USA,5,WG2,4845,Seth Shonkoff
 USA,5,WG2,4846,Sergio Signorini
@@ -5486,6 +5566,7 @@ USA,5,WG2,5010,David Zilberman
 USA,5,WG2,5011,Lewis Ziska
 USA,5,WG2+3,1482,Haroon Kheshgi
 USA,5,WG2+3,3856,Howard Kunreuther
+USA,5,WG2+3,4833,Kristin Seyboth
 USA,5,WG3,3653,Anthony Bigio
 USA,5,WG3,3655,Hilda Blanco
 USA,5,WG3,3656,Geoffrey Blanford
