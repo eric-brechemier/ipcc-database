@@ -1,0 +1,1319 @@
+AR,WG,Role,Total Country Participations,% Country Participations,Total Role Participations,Country Id,Country
+1,1,Coordinating Lead Author,11,32.3529,34,117,United Kingdom
+1,1,Coordinating Lead Author,11,32.3529,34,113,USA
+1,1,Coordinating Lead Author,2,5.8824,34,102,Switzerland
+1,1,Coordinating Lead Author,2,5.8824,34,114,USSR
+1,1,Coordinating Lead Author,1,2.9412,34,16,Brazil
+1,1,Coordinating Lead Author,1,2.9412,34,20,Canada
+1,1,Coordinating Lead Author,1,2.9412,34,23,China
+1,1,Coordinating Lead Author,1,2.9412,34,36,Germany
+1,1,Coordinating Lead Author,1,2.9412,34,44,India
+1,1,Coordinating Lead Author,1,2.9412,34,51,Japan
+1,1,Coordinating Lead Author,1,2.9412,34,107,Netherlands
+1,1,Coordinating Lead Author,1,2.9412,34,101,Sweden
+1,1,Lead Author,101,39.2996,257,113,USA
+1,1,Lead Author,48,18.6770,257,117,United Kingdom
+1,1,Lead Author,15,5.8366,257,36,Germany
+1,1,Lead Author,13,5.0584,257,6,Australia
+1,1,Lead Author,10,3.8911,257,20,Canada
+1,1,Lead Author,9,3.5019,257,35,France
+1,1,Lead Author,6,2.3346,257,23,China
+1,1,Lead Author,6,2.3346,257,51,Japan
+1,1,Lead Author,6,2.3346,257,114,USSR
+1,1,Lead Author,5,1.9455,257,107,Netherlands
+1,1,Lead Author,4,1.5564,257,10,Belgium
+1,1,Lead Author,4,1.5564,257,28,Denmark
+1,1,Lead Author,4,1.5564,257,44,India
+1,1,Lead Author,4,1.5564,257,1,N/A
+1,1,Lead Author,4,1.5564,257,101,Sweden
+1,1,Lead Author,4,1.5564,257,102,Switzerland
+1,1,Lead Author,3,1.1673,257,16,Brazil
+1,1,Lead Author,3,1.1673,257,74,Nigeria
+1,1,Lead Author,1,0.3891,257,5,Argentina
+1,1,Lead Author,1,0.3891,257,32,Ethiopia
+1,1,Lead Author,1,0.3891,257,34,Finland
+1,1,Lead Author,1,0.3891,257,53,Kenya
+1,1,Lead Author,1,0.3891,257,75,Norway
+1,1,Lead Author,1,0.3891,257,82,Poland
+1,1,Lead Author,1,0.3891,257,99,Sudan
+1,1,Lead Author,1,0.3891,257,104,Tanzania
+1,1,Contributing Author,8,27.5862,29,113,USA
+1,1,Contributing Author,6,20.6897,29,117,United Kingdom
+1,1,Contributing Author,4,13.7931,29,36,Germany
+1,1,Contributing Author,3,10.3448,29,114,USSR
+1,1,Contributing Author,2,6.8966,29,6,Australia
+1,1,Contributing Author,2,6.8966,29,75,Norway
+1,1,Contributing Author,1,3.4483,29,20,Canada
+1,1,Contributing Author,1,3.4483,29,107,Netherlands
+1,1,Contributing Author,1,3.4483,29,81,Philippines
+1,1,Contributing Author,1,3.4483,29,102,Switzerland
+1,2,Coordinating Lead Author,6,46.1538,13,20,Canada
+1,2,Coordinating Lead Author,3,23.0769,13,1,N/A
+1,2,Coordinating Lead Author,3,23.0769,13,113,USA
+1,2,Coordinating Lead Author,1,7.6923,13,114,USSR
+1,2,Lead Author,4,36.3636,11,1,N/A
+1,2,Lead Author,4,36.3636,11,113,USA
+1,2,Lead Author,2,18.1818,11,51,Japan
+1,2,Lead Author,1,9.0909,11,114,USSR
+1,2,Contributing Author,54,34.3949,157,1,N/A
+1,2,Contributing Author,17,10.8280,157,20,Canada
+1,2,Contributing Author,17,10.8280,157,113,USA
+1,2,Contributing Author,10,6.3694,157,6,Australia
+1,2,Contributing Author,7,4.4586,157,114,USSR
+1,2,Contributing Author,6,3.8217,157,73,New Zealand
+1,2,Contributing Author,6,3.8217,157,117,United Kingdom
+1,2,Contributing Author,4,2.5478,157,23,China
+1,2,Contributing Author,3,1.9108,157,36,Germany
+1,2,Contributing Author,3,1.9108,157,51,Japan
+1,2,Contributing Author,3,1.9108,157,74,Nigeria
+1,2,Contributing Author,2,1.2739,157,44,India
+1,2,Contributing Author,2,1.2739,157,53,Kenya
+1,2,Contributing Author,2,1.2739,157,64,Mexico
+1,2,Contributing Author,2,1.2739,157,107,Netherlands
+1,2,Contributing Author,2,1.2739,157,75,Norway
+1,2,Contributing Author,2,1.2739,157,82,Poland
+1,2,Contributing Author,1,0.6369,157,10,Belgium
+1,2,Contributing Author,1,0.6369,157,12,Benin
+1,2,Contributing Author,1,0.6369,157,16,Brazil
+1,2,Contributing Author,1,0.6369,157,25,Costa Rica
+1,2,Contributing Author,1,0.6369,157,27,Czech Republic
+1,2,Contributing Author,1,0.6369,157,32,Ethiopia
+1,2,Contributing Author,1,0.6369,157,34,Finland
+1,2,Contributing Author,1,0.6369,157,42,Hungary
+1,2,Contributing Author,1,0.6369,157,45,Indonesia
+1,2,Contributing Author,1,0.6369,157,47,Ireland
+1,2,Contributing Author,1,0.6369,157,48,Israel
+1,2,Contributing Author,1,0.6369,157,81,Philippines
+1,2,Contributing Author,1,0.6369,157,83,Portugal
+1,2,Contributing Author,1,0.6369,157,105,Thailand
+1,2,Contributing Author,1,0.6369,157,121,Vietnam
+1,3,Coordinating Lead Author,5,20.0000,25,113,USA
+1,3,Coordinating Lead Author,3,12.0000,25,20,Canada
+1,3,Coordinating Lead Author,3,12.0000,25,35,France
+1,3,Coordinating Lead Author,3,12.0000,25,107,Netherlands
+1,3,Coordinating Lead Author,2,8.0000,25,44,India
+1,3,Coordinating Lead Author,2,8.0000,25,51,Japan
+1,3,Coordinating Lead Author,2,8.0000,25,73,New Zealand
+1,3,Coordinating Lead Author,1,4.0000,25,6,Australia
+1,3,Coordinating Lead Author,1,4.0000,25,16,Brazil
+1,3,Coordinating Lead Author,1,4.0000,25,23,China
+1,3,Coordinating Lead Author,1,4.0000,25,62,Malta
+1,3,Coordinating Lead Author,1,4.0000,25,117,United Kingdom
+1,3,Lead Author,15,34.8837,43,113,USA
+1,3,Lead Author,4,9.3023,43,117,United Kingdom
+1,3,Lead Author,3,6.9767,43,6,Australia
+1,3,Lead Author,3,6.9767,43,51,Japan
+1,3,Lead Author,3,6.9767,43,107,Netherlands
+1,3,Lead Author,3,6.9767,43,73,New Zealand
+1,3,Lead Author,2,4.6512,43,16,Brazil
+1,3,Lead Author,2,4.6512,43,23,China
+1,3,Lead Author,2,4.6512,43,35,France
+1,3,Lead Author,1,2.3256,43,10,Belgium
+1,3,Lead Author,1,2.3256,43,49,Italy
+1,3,Lead Author,1,2.3256,43,72,Nepal
+1,3,Lead Author,1,2.3256,43,88,Saudi Arabia
+1,3,Lead Author,1,2.3256,43,102,Switzerland
+1,3,Lead Author,1,2.3256,43,114,USSR
+1,3,Contributing Author,3,33.3333,9,6,Australia
+1,3,Contributing Author,1,11.1111,9,53,Kenya
+1,3,Contributing Author,1,11.1111,9,62,Malta
+1,3,Contributing Author,1,11.1111,9,107,Netherlands
+1,3,Contributing Author,1,11.1111,9,102,Switzerland
+1,3,Contributing Author,1,11.1111,9,104,Tanzania
+1,3,Contributing Author,1,11.1111,9,123,Zimbabwe
+2,1,Coordinating Lead Author,8,53.3333,15,113,USA
+2,1,Coordinating Lead Author,2,13.3333,15,20,Canada
+2,1,Coordinating Lead Author,2,13.3333,15,117,United Kingdom
+2,1,Coordinating Lead Author,1,6.6667,15,6,Australia
+2,1,Coordinating Lead Author,1,6.6667,15,107,Netherlands
+2,1,Coordinating Lead Author,1,6.6667,15,73,New Zealand
+2,1,Lead Author,30,32.9670,91,113,USA
+2,1,Lead Author,14,15.3846,91,117,United Kingdom
+2,1,Lead Author,8,8.7912,91,6,Australia
+2,1,Lead Author,5,5.4945,91,20,Canada
+2,1,Lead Author,4,4.3956,91,16,Brazil
+2,1,Lead Author,4,4.3956,91,35,France
+2,1,Lead Author,3,3.2967,91,36,Germany
+2,1,Lead Author,3,3.2967,91,53,Kenya
+2,1,Lead Author,3,3.2967,91,101,Sweden
+2,1,Lead Author,3,3.2967,91,102,Switzerland
+2,1,Lead Author,2,2.1978,91,23,China
+2,1,Lead Author,2,2.1978,91,44,India
+2,1,Lead Author,2,2.1978,91,51,Japan
+2,1,Lead Author,2,2.1978,91,107,Netherlands
+2,1,Lead Author,2,2.1978,91,86,Russian Federation
+2,1,Lead Author,1,1.0989,91,5,Argentina
+2,1,Lead Author,1,1.0989,91,73,New Zealand
+2,1,Lead Author,1,1.0989,91,75,Norway
+2,1,Lead Author,1,1.0989,91,120,Venezuela
+2,1,Contributing Author,186,46.0396,404,113,USA
+2,1,Contributing Author,50,12.3762,404,117,United Kingdom
+2,1,Contributing Author,34,8.4158,404,6,Australia
+2,1,Contributing Author,30,7.4257,404,36,Germany
+2,1,Contributing Author,24,5.9406,404,20,Canada
+2,1,Contributing Author,20,4.9505,404,86,Russian Federation
+2,1,Contributing Author,12,2.9703,404,51,Japan
+2,1,Contributing Author,9,2.2277,404,35,France
+2,1,Contributing Author,6,1.4851,404,107,Netherlands
+2,1,Contributing Author,6,1.4851,404,102,Switzerland
+2,1,Contributing Author,5,1.2376,404,23,China
+2,1,Contributing Author,3,0.7426,404,44,India
+2,1,Contributing Author,3,0.7426,404,49,Italy
+2,1,Contributing Author,2,0.4950,404,28,Denmark
+2,1,Contributing Author,2,0.4950,404,73,New Zealand
+2,1,Contributing Author,2,0.4950,404,75,Norway
+2,1,Contributing Author,2,0.4950,404,101,Sweden
+2,1,Contributing Author,1,0.2475,404,5,Argentina
+2,1,Contributing Author,1,0.2475,404,13,Bermuda
+2,1,Contributing Author,1,0.2475,404,16,Brazil
+2,1,Contributing Author,1,0.2475,404,34,Finland
+2,1,Contributing Author,1,0.2475,404,43,Iceland
+2,1,Contributing Author,1,0.2475,404,48,Israel
+2,1,Contributing Author,1,0.2475,404,1,N/A
+2,1,Contributing Author,1,0.2475,404,103,Taiwan
+2,2,Coordinating Lead Author,13,29.5455,44,113,USA
+2,2,Coordinating Lead Author,6,13.6364,44,117,United Kingdom
+2,2,Coordinating Lead Author,5,11.3636,44,6,Australia
+2,2,Coordinating Lead Author,4,9.0909,44,51,Japan
+2,2,Coordinating Lead Author,3,6.8182,44,101,Sweden
+2,2,Coordinating Lead Author,3,6.8182,44,102,Switzerland
+2,2,Coordinating Lead Author,2,4.5455,44,35,France
+2,2,Coordinating Lead Author,2,4.5455,44,107,Netherlands
+2,2,Coordinating Lead Author,1,2.2727,44,7,Austria
+2,2,Coordinating Lead Author,1,2.2727,44,26,Cuba
+2,2,Coordinating Lead Author,1,2.2727,44,34,Finland
+2,2,Coordinating Lead Author,1,2.2727,44,36,Germany
+2,2,Coordinating Lead Author,1,2.2727,44,73,New Zealand
+2,2,Coordinating Lead Author,1,2.2727,44,82,Poland
+2,2,Lead Author,147,29.2247,503,113,USA
+2,2,Lead Author,36,7.1571,503,117,United Kingdom
+2,2,Lead Author,27,5.3678,503,51,Japan
+2,2,Lead Author,25,4.9702,503,44,India
+2,2,Lead Author,22,4.3738,503,23,China
+2,2,Lead Author,19,3.7773,503,20,Canada
+2,2,Lead Author,19,3.7773,503,35,France
+2,2,Lead Author,19,3.7773,503,53,Kenya
+2,2,Lead Author,18,3.5785,503,6,Australia
+2,2,Lead Author,15,2.9821,503,107,Netherlands
+2,2,Lead Author,13,2.5845,503,36,Germany
+2,2,Lead Author,11,2.1869,503,102,Switzerland
+2,2,Lead Author,10,1.9881,503,101,Sweden
+2,2,Lead Author,9,1.7893,503,7,Austria
+2,2,Lead Author,9,1.7893,503,120,Venezuela
+2,2,Lead Author,8,1.5905,503,5,Argentina
+2,2,Lead Author,8,1.5905,503,16,Brazil
+2,2,Lead Author,7,1.3917,503,86,Russian Federation
+2,2,Lead Author,6,1.1928,503,64,Mexico
+2,2,Lead Author,5,0.9940,503,26,Cuba
+2,2,Lead Author,5,0.9940,503,42,Hungary
+2,2,Lead Author,5,0.9940,503,82,Poland
+2,2,Lead Author,4,0.7952,503,73,New Zealand
+2,2,Lead Author,4,0.7952,503,91,Sierra Leone
+2,2,Lead Author,4,0.7952,503,123,Zimbabwe
+2,2,Lead Author,3,0.5964,503,9,Barbados
+2,2,Lead Author,3,0.5964,503,28,Denmark
+2,2,Lead Author,3,0.5964,503,72,Nepal
+2,2,Lead Author,3,0.5964,503,75,Norway
+2,2,Lead Author,3,0.5964,503,81,Philippines
+2,2,Lead Author,3,0.5964,503,88,Saudi Arabia
+2,2,Lead Author,3,0.5964,503,95,South Africa
+2,2,Lead Author,3,0.5964,503,121,Vietnam
+2,2,Lead Author,2,0.3976,503,12,Benin
+2,2,Lead Author,2,0.3976,503,34,Finland
+2,2,Lead Author,2,0.3976,503,49,Italy
+2,2,Lead Author,2,0.3976,503,1,N/A
+2,2,Lead Author,2,0.3976,503,92,Singapore
+2,2,Lead Author,2,0.3976,503,97,Spain
+2,2,Lead Author,2,0.3976,503,104,Tanzania
+2,2,Lead Author,2,0.3976,503,105,Thailand
+2,2,Lead Author,2,0.3976,503,110,Tunisia
+2,2,Lead Author,1,0.1988,503,45,Indonesia
+2,2,Lead Author,1,0.1988,503,50,Jamaica
+2,2,Lead Author,1,0.1988,503,60,Malaysia
+2,2,Lead Author,1,0.1988,503,80,Peru
+2,2,Lead Author,1,0.1988,503,98,Sri Lanka
+2,2,Lead Author,1,0.1988,503,118,Uruguay
+2,2,Contributing Author,96,30.1887,318,113,USA
+2,2,Contributing Author,23,7.2327,318,6,Australia
+2,2,Contributing Author,23,7.2327,318,117,United Kingdom
+2,2,Contributing Author,21,6.6038,318,36,Germany
+2,2,Contributing Author,14,4.4025,318,20,Canada
+2,2,Contributing Author,13,4.0881,318,102,Switzerland
+2,2,Contributing Author,11,3.4591,318,5,Argentina
+2,2,Contributing Author,9,2.8302,318,35,France
+2,2,Contributing Author,8,2.5157,318,107,Netherlands
+2,2,Contributing Author,8,2.5157,318,86,Russian Federation
+2,2,Contributing Author,7,2.2013,318,23,China
+2,2,Contributing Author,7,2.2013,318,73,New Zealand
+2,2,Contributing Author,6,1.8868,318,49,Italy
+2,2,Contributing Author,6,1.8868,318,51,Japan
+2,2,Contributing Author,6,1.8868,318,80,Peru
+2,2,Contributing Author,5,1.5723,318,7,Austria
+2,2,Contributing Author,5,1.5723,318,34,Finland
+2,2,Contributing Author,5,1.5723,318,53,Kenya
+2,2,Contributing Author,5,1.5723,318,101,Sweden
+2,2,Contributing Author,4,1.2579,318,44,India
+2,2,Contributing Author,4,1.2579,318,75,Norway
+2,2,Contributing Author,4,1.2579,318,95,South Africa
+2,2,Contributing Author,2,0.6289,318,16,Brazil
+2,2,Contributing Author,2,0.6289,318,28,Denmark
+2,2,Contributing Author,2,0.6289,318,42,Hungary
+2,2,Contributing Author,2,0.6289,318,72,Nepal
+2,2,Contributing Author,1,0.3145,318,3,Algeria
+2,2,Contributing Author,1,0.3145,318,10,Belgium
+2,2,Contributing Author,1,0.3145,318,12,Benin
+2,2,Contributing Author,1,0.3145,318,26,Cuba
+2,2,Contributing Author,1,0.3145,318,33,Fiji
+2,2,Contributing Author,1,0.3145,318,41,Hong Kong
+2,2,Contributing Author,1,0.3145,318,43,Iceland
+2,2,Contributing Author,1,0.3145,318,48,Israel
+2,2,Contributing Author,1,0.3145,318,59,Malawi
+2,2,Contributing Author,1,0.3145,318,64,Mexico
+2,2,Contributing Author,1,0.3145,318,1,N/A
+2,2,Contributing Author,1,0.3145,318,74,Nigeria
+2,2,Contributing Author,1,0.3145,318,81,Philippines
+2,2,Contributing Author,1,0.3145,318,82,Poland
+2,2,Contributing Author,1,0.3145,318,88,Saudi Arabia
+2,2,Contributing Author,1,0.3145,318,97,Spain
+2,2,Contributing Author,1,0.3145,318,104,Tanzania
+2,2,Contributing Author,1,0.3145,318,112,Turkmenistan
+2,2,Contributing Author,1,0.3145,318,120,Venezuela
+2,2,Contributing Author,1,0.3145,318,123,Zimbabwe
+2,3,Coordinating Lead Author,5,33.3333,15,113,USA
+2,3,Coordinating Lead Author,3,20.0000,15,20,Canada
+2,3,Coordinating Lead Author,3,20.0000,15,35,France
+2,3,Coordinating Lead Author,2,13.3333,15,44,India
+2,3,Coordinating Lead Author,1,6.6667,15,28,Denmark
+2,3,Coordinating Lead Author,1,6.6667,15,102,Switzerland
+2,3,Lead Author,28,30.7692,91,113,USA
+2,3,Lead Author,8,8.7912,91,117,United Kingdom
+2,3,Lead Author,5,5.4945,91,16,Brazil
+2,3,Lead Author,5,5.4945,91,44,India
+2,3,Lead Author,5,5.4945,91,1,N/A
+2,3,Lead Author,5,5.4945,91,107,Netherlands
+2,3,Lead Author,4,4.3956,91,35,France
+2,3,Lead Author,3,3.2967,91,49,Italy
+2,3,Lead Author,3,3.2967,91,86,Russian Federation
+2,3,Lead Author,3,3.2967,91,91,Sierra Leone
+2,3,Lead Author,2,2.1978,91,7,Austria
+2,3,Lead Author,2,2.1978,91,20,Canada
+2,3,Lead Author,2,2.1978,91,51,Japan
+2,3,Lead Author,2,2.1978,91,75,Norway
+2,3,Lead Author,2,2.1978,91,89,Senegal
+2,3,Lead Author,2,2.1978,91,98,Sri Lanka
+2,3,Lead Author,1,1.0989,91,6,Australia
+2,3,Lead Author,1,1.0989,91,8,Bangladesh
+2,3,Lead Author,1,1.0989,91,23,China
+2,3,Lead Author,1,1.0989,91,28,Denmark
+2,3,Lead Author,1,1.0989,91,78,Pakistan
+2,3,Lead Author,1,1.0989,91,88,Saudi Arabia
+2,3,Lead Author,1,1.0989,91,96,South Korea
+2,3,Lead Author,1,1.0989,91,101,Sweden
+2,3,Lead Author,1,1.0989,91,115,Uganda
+2,3,Lead Author,1,1.0989,91,123,Zimbabwe
+2,3,Contributing Author,14,46.6667,30,113,USA
+2,3,Contributing Author,2,6.6667,30,6,Australia
+2,3,Contributing Author,2,6.6667,30,35,France
+2,3,Contributing Author,2,6.6667,30,44,India
+2,3,Contributing Author,2,6.6667,30,102,Switzerland
+2,3,Contributing Author,1,3.3333,30,5,Argentina
+2,3,Contributing Author,1,3.3333,30,20,Canada
+2,3,Contributing Author,1,3.3333,30,36,Germany
+2,3,Contributing Author,1,3.3333,30,107,Netherlands
+2,3,Contributing Author,1,3.3333,30,86,Russian Federation
+2,3,Contributing Author,1,3.3333,30,97,Spain
+2,3,Contributing Author,1,3.3333,30,101,Sweden
+2,3,Contributing Author,1,3.3333,30,117,United Kingdom
+3,1,Coordinating Lead Author,9,39.1304,23,113,USA
+3,1,Coordinating Lead Author,3,13.0435,23,6,Australia
+3,1,Coordinating Lead Author,3,13.0435,23,36,Germany
+3,1,Coordinating Lead Author,3,13.0435,23,117,United Kingdom
+3,1,Coordinating Lead Author,1,4.3478,23,16,Brazil
+3,1,Coordinating Lead Author,1,4.3478,23,49,Italy
+3,1,Coordinating Lead Author,1,4.3478,23,107,Netherlands
+3,1,Coordinating Lead Author,1,4.3478,23,95,South Africa
+3,1,Coordinating Lead Author,1,4.3478,23,102,Switzerland
+3,1,Lead Author,59,33.9080,174,1,N/A
+3,1,Lead Author,26,14.9425,174,113,USA
+3,1,Lead Author,15,8.6207,174,117,United Kingdom
+3,1,Lead Author,10,5.7471,174,36,Germany
+3,1,Lead Author,8,4.5977,174,23,China
+3,1,Lead Author,7,4.0230,174,20,Canada
+3,1,Lead Author,6,3.4483,174,6,Australia
+3,1,Lead Author,5,2.8736,174,35,France
+3,1,Lead Author,4,2.2989,174,75,Norway
+3,1,Lead Author,4,2.2989,174,86,Russian Federation
+3,1,Lead Author,3,1.7241,174,51,Japan
+3,1,Lead Author,3,1.7241,174,95,South Africa
+3,1,Lead Author,2,1.1494,174,16,Brazil
+3,1,Lead Author,2,1.1494,174,49,Italy
+3,1,Lead Author,2,1.1494,174,53,Kenya
+3,1,Lead Author,2,1.1494,174,107,Netherlands
+3,1,Lead Author,1,0.5747,174,7,Austria
+3,1,Lead Author,1,0.5747,174,10,Belgium
+3,1,Lead Author,1,0.5747,174,12,Benin
+3,1,Lead Author,1,0.5747,174,28,Denmark
+3,1,Lead Author,1,0.5747,174,34,Finland
+3,1,Lead Author,1,0.5747,174,44,India
+3,1,Lead Author,1,0.5747,174,60,Malaysia
+3,1,Lead Author,1,0.5747,174,64,Mexico
+3,1,Lead Author,1,0.5747,174,73,New Zealand
+3,1,Lead Author,1,0.5747,174,102,Switzerland
+3,1,Lead Author,1,0.5747,174,104,Tanzania
+3,1,Lead Author,1,0.5747,174,109,Trinidad and Tobago
+3,1,Lead Author,1,0.5747,174,120,Venezuela
+3,1,Lead Author,1,0.5747,174,121,Vietnam
+3,1,Lead Author,1,0.5747,174,122,Zambia
+3,1,Lead Author,1,0.5747,174,123,Zimbabwe
+3,1,Review Editor,8,25.0000,32,113,USA
+3,1,Review Editor,5,15.6250,32,120,Venezuela
+3,1,Review Editor,3,9.3750,32,20,Canada
+3,1,Review Editor,3,9.3750,32,102,Switzerland
+3,1,Review Editor,2,6.2500,32,101,Sweden
+3,1,Review Editor,2,6.2500,32,117,United Kingdom
+3,1,Review Editor,2,6.2500,32,123,Zimbabwe
+3,1,Review Editor,1,3.1250,32,6,Australia
+3,1,Review Editor,1,3.1250,32,23,China
+3,1,Review Editor,1,3.1250,32,44,India
+3,1,Review Editor,1,3.1250,32,51,Japan
+3,1,Review Editor,1,3.1250,32,82,Poland
+3,1,Review Editor,1,3.1250,32,96,South Korea
+3,1,Review Editor,1,3.1250,32,109,Trinidad and Tobago
+3,1,Contributing Author,269,43.5981,617,113,USA
+3,1,Contributing Author,66,10.6969,617,36,Germany
+3,1,Contributing Author,62,10.0486,617,117,United Kingdom
+3,1,Contributing Author,36,5.8347,617,6,Australia
+3,1,Contributing Author,32,5.1864,617,20,Canada
+3,1,Contributing Author,25,4.0519,617,35,France
+3,1,Contributing Author,17,2.7553,617,51,Japan
+3,1,Contributing Author,15,2.4311,617,102,Switzerland
+3,1,Contributing Author,13,2.1070,617,107,Netherlands
+3,1,Contributing Author,12,1.9449,617,75,Norway
+3,1,Contributing Author,11,1.7828,617,86,Russian Federation
+3,1,Contributing Author,10,1.6207,617,1,N/A
+3,1,Contributing Author,6,0.9724,617,73,New Zealand
+3,1,Contributing Author,6,0.9724,617,101,Sweden
+3,1,Contributing Author,5,0.8104,617,49,Italy
+3,1,Contributing Author,4,0.6483,617,23,China
+3,1,Contributing Author,3,0.4862,617,7,Austria
+3,1,Contributing Author,3,0.4862,617,10,Belgium
+3,1,Contributing Author,3,0.4862,617,44,India
+3,1,Contributing Author,3,0.4862,617,97,Spain
+3,1,Contributing Author,2,0.3241,617,28,Denmark
+3,1,Contributing Author,2,0.3241,617,34,Finland
+3,1,Contributing Author,2,0.3241,617,53,Kenya
+3,1,Contributing Author,2,0.3241,617,95,South Africa
+3,1,Contributing Author,1,0.1621,617,5,Argentina
+3,1,Contributing Author,1,0.1621,617,16,Brazil
+3,1,Contributing Author,1,0.1621,617,27,Czech Republic
+3,1,Contributing Author,1,0.1621,617,38,Greece
+3,1,Contributing Author,1,0.1621,617,60,Malaysia
+3,1,Contributing Author,1,0.1621,617,64,Mexico
+3,1,Contributing Author,1,0.1621,617,81,Philippines
+3,1,Contributing Author,1,0.1621,617,120,Venezuela
+3,2,Coordinating Lead Author,4,9.5238,42,20,Canada
+3,2,Coordinating Lead Author,4,9.5238,42,117,United Kingdom
+3,2,Coordinating Lead Author,4,9.5238,42,113,USA
+3,2,Coordinating Lead Author,3,7.1429,42,6,Australia
+3,2,Coordinating Lead Author,3,7.1429,42,1,N/A
+3,2,Coordinating Lead Author,3,7.1429,42,73,New Zealand
+3,2,Coordinating Lead Author,2,4.7619,42,44,India
+3,2,Coordinating Lead Author,2,4.7619,42,86,Russian Federation
+3,2,Coordinating Lead Author,1,2.3810,42,8,Bangladesh
+3,2,Coordinating Lead Author,1,2.3810,42,9,Barbados
+3,2,Coordinating Lead Author,1,2.3810,42,16,Brazil
+3,2,Coordinating Lead Author,1,2.3810,42,23,China
+3,2,Coordinating Lead Author,1,2.3810,42,25,Costa Rica
+3,2,Coordinating Lead Author,1,2.3810,42,34,Finland
+3,2,Coordinating Lead Author,1,2.3810,42,36,Germany
+3,2,Coordinating Lead Author,1,2.3810,42,45,Indonesia
+3,2,Coordinating Lead Author,1,2.3810,42,51,Japan
+3,2,Coordinating Lead Author,1,2.3810,42,52,Kazakhstan
+3,2,Coordinating Lead Author,1,2.3810,42,53,Kenya
+3,2,Coordinating Lead Author,1,2.3810,42,64,Mexico
+3,2,Coordinating Lead Author,1,2.3810,42,107,Netherlands
+3,2,Coordinating Lead Author,1,2.3810,42,87,Samoa
+3,2,Coordinating Lead Author,1,2.3810,42,106,The Gambia
+3,2,Coordinating Lead Author,1,2.3810,42,120,Venezuela
+3,2,Coordinating Lead Author,1,2.3810,42,123,Zimbabwe
+3,2,Lead Author,59,22.0149,268,113,USA
+3,2,Lead Author,22,8.2090,268,117,United Kingdom
+3,2,Lead Author,21,7.8358,268,20,Canada
+3,2,Lead Author,14,5.2239,268,36,Germany
+3,2,Lead Author,13,4.8507,268,6,Australia
+3,2,Lead Author,9,3.3582,268,5,Argentina
+3,2,Lead Author,9,3.3582,268,107,Netherlands
+3,2,Lead Author,9,3.3582,268,73,New Zealand
+3,2,Lead Author,9,3.3582,268,86,Russian Federation
+3,2,Lead Author,8,2.9851,268,51,Japan
+3,2,Lead Author,7,2.6119,268,44,India
+3,2,Lead Author,7,2.6119,268,1,N/A
+3,2,Lead Author,5,1.8657,268,23,China
+3,2,Lead Author,5,1.8657,268,53,Kenya
+3,2,Lead Author,5,1.8657,268,64,Mexico
+3,2,Lead Author,5,1.8657,268,74,Nigeria
+3,2,Lead Author,4,1.4925,268,8,Bangladesh
+3,2,Lead Author,4,1.4925,268,16,Brazil
+3,2,Lead Author,3,1.1194,268,34,Finland
+3,2,Lead Author,3,1.1194,268,45,Indonesia
+3,2,Lead Author,3,1.1194,268,75,Norway
+3,2,Lead Author,3,1.1194,268,106,The Gambia
+3,2,Lead Author,3,1.1194,268,120,Venezuela
+3,2,Lead Author,2,0.7463,268,9,Barbados
+3,2,Lead Author,2,0.7463,268,10,Belgium
+3,2,Lead Author,2,0.7463,268,25,Costa Rica
+3,2,Lead Author,2,0.7463,268,35,France
+3,2,Lead Author,2,0.7463,268,48,Israel
+3,2,Lead Author,2,0.7463,268,52,Kazakhstan
+3,2,Lead Author,2,0.7463,268,81,Philippines
+3,2,Lead Author,2,0.7463,268,87,Samoa
+3,2,Lead Author,2,0.7463,268,95,South Africa
+3,2,Lead Author,2,0.7463,268,101,Sweden
+3,2,Lead Author,2,0.7463,268,123,Zimbabwe
+3,2,Lead Author,1,0.3731,268,4,Antigua and Barbuda
+3,2,Lead Author,1,0.3731,268,7,Austria
+3,2,Lead Author,1,0.3731,268,15,Botswana
+3,2,Lead Author,1,0.3731,268,22,Chile
+3,2,Lead Author,1,0.3731,268,26,Cuba
+3,2,Lead Author,1,0.3731,268,60,Malaysia
+3,2,Lead Author,1,0.3731,268,62,Malta
+3,2,Lead Author,1,0.3731,268,63,Mauritius
+3,2,Lead Author,1,0.3731,268,69,Morocco
+3,2,Lead Author,1,0.3731,268,72,Nepal
+3,2,Lead Author,1,0.3731,268,82,Poland
+3,2,Lead Author,1,0.3731,268,83,Portugal
+3,2,Lead Author,1,0.3731,268,92,Singapore
+3,2,Lead Author,1,0.3731,268,93,Slovakia
+3,2,Lead Author,1,0.3731,268,98,Sri Lanka
+3,2,Lead Author,1,0.3731,268,115,Uganda
+3,2,Review Editor,5,14.2857,35,20,Canada
+3,2,Review Editor,4,11.4286,35,117,United Kingdom
+3,2,Review Editor,3,8.5714,35,16,Brazil
+3,2,Review Editor,3,8.5714,35,23,China
+3,2,Review Editor,3,8.5714,35,44,India
+3,2,Review Editor,2,5.7143,35,6,Australia
+3,2,Review Editor,2,5.7143,35,113,USA
+3,2,Review Editor,1,2.8571,35,5,Argentina
+3,2,Review Editor,1,2.8571,35,34,Finland
+3,2,Review Editor,1,2.8571,35,35,France
+3,2,Review Editor,1,2.8571,35,36,Germany
+3,2,Review Editor,1,2.8571,35,61,Maldives
+3,2,Review Editor,1,2.8571,35,1,N/A
+3,2,Review Editor,1,2.8571,35,107,Netherlands
+3,2,Review Editor,1,2.8571,35,73,New Zealand
+3,2,Review Editor,1,2.8571,35,83,Portugal
+3,2,Review Editor,1,2.8571,35,89,Senegal
+3,2,Review Editor,1,2.8571,35,90,Seychelles
+3,2,Review Editor,1,2.8571,35,102,Switzerland
+3,2,Review Editor,1,2.8571,35,119,Uzbekistan
+3,2,Contributing Author,152,62.8099,242,1,N/A
+3,2,Contributing Author,24,9.9174,242,113,USA
+3,2,Contributing Author,22,9.0909,242,117,United Kingdom
+3,2,Contributing Author,7,2.8926,242,20,Canada
+3,2,Contributing Author,5,2.0661,242,6,Australia
+3,2,Contributing Author,4,1.6529,242,44,India
+3,2,Contributing Author,4,1.6529,242,51,Japan
+3,2,Contributing Author,4,1.6529,242,86,Russian Federation
+3,2,Contributing Author,3,1.2397,242,36,Germany
+3,2,Contributing Author,2,0.8264,242,5,Argentina
+3,2,Contributing Author,2,0.8264,242,23,China
+3,2,Contributing Author,2,0.8264,242,53,Kenya
+3,2,Contributing Author,2,0.8264,242,73,New Zealand
+3,2,Contributing Author,2,0.8264,242,101,Sweden
+3,2,Contributing Author,1,0.4132,242,10,Belgium
+3,2,Contributing Author,1,0.4132,242,15,Botswana
+3,2,Contributing Author,1,0.4132,242,16,Brazil
+3,2,Contributing Author,1,0.4132,242,34,Finland
+3,2,Contributing Author,1,0.4132,242,64,Mexico
+3,2,Contributing Author,1,0.4132,242,75,Norway
+3,2,Contributing Author,1,0.4132,242,102,Switzerland
+3,3,Coordinating Lead Author,6,30.0000,20,113,USA
+3,3,Coordinating Lead Author,2,10.0000,20,44,India
+3,3,Coordinating Lead Author,2,10.0000,20,117,United Kingdom
+3,3,Coordinating Lead Author,1,5.0000,20,5,Argentina
+3,3,Coordinating Lead Author,1,5.0000,20,16,Brazil
+3,3,Coordinating Lead Author,1,5.0000,20,28,Denmark
+3,3,Coordinating Lead Author,1,5.0000,20,34,Finland
+3,3,Coordinating Lead Author,1,5.0000,20,35,France
+3,3,Coordinating Lead Author,1,5.0000,20,36,Germany
+3,3,Coordinating Lead Author,1,5.0000,20,51,Japan
+3,3,Coordinating Lead Author,1,5.0000,20,107,Netherlands
+3,3,Coordinating Lead Author,1,5.0000,20,86,Russian Federation
+3,3,Coordinating Lead Author,1,5.0000,20,104,Tanzania
+3,3,Lead Author,39,22.8070,171,113,USA
+3,3,Lead Author,15,8.7719,171,1,N/A
+3,3,Lead Author,13,7.6023,171,51,Japan
+3,3,Lead Author,12,7.0175,171,107,Netherlands
+3,3,Lead Author,10,5.8480,171,117,United Kingdom
+3,3,Lead Author,7,4.0936,171,23,China
+3,3,Lead Author,7,4.0936,171,36,Germany
+3,3,Lead Author,6,3.5088,171,20,Canada
+3,3,Lead Author,6,3.5088,171,44,India
+3,3,Lead Author,5,2.9240,171,7,Austria
+3,3,Lead Author,5,2.9240,171,16,Brazil
+3,3,Lead Author,5,2.9240,171,28,Denmark
+3,3,Lead Author,5,2.9240,171,35,France
+3,3,Lead Author,5,2.9240,171,86,Russian Federation
+3,3,Lead Author,3,1.7544,171,75,Norway
+3,3,Lead Author,3,1.7544,171,95,South Africa
+3,3,Lead Author,2,1.1696,171,5,Argentina
+3,3,Lead Author,2,1.1696,171,22,Chile
+3,3,Lead Author,2,1.1696,171,34,Finland
+3,3,Lead Author,2,1.1696,171,64,Mexico
+3,3,Lead Author,2,1.1696,171,80,Peru
+3,3,Lead Author,1,0.5848,171,6,Australia
+3,3,Lead Author,1,0.5848,171,8,Bangladesh
+3,3,Lead Author,1,0.5848,171,10,Belgium
+3,3,Lead Author,1,0.5848,171,26,Cuba
+3,3,Lead Author,1,0.5848,171,42,Hungary
+3,3,Lead Author,1,0.5848,171,49,Italy
+3,3,Lead Author,1,0.5848,171,53,Kenya
+3,3,Lead Author,1,0.5848,171,60,Malaysia
+3,3,Lead Author,1,0.5848,171,73,New Zealand
+3,3,Lead Author,1,0.5848,171,74,Nigeria
+3,3,Lead Author,1,0.5848,171,88,Saudi Arabia
+3,3,Lead Author,1,0.5848,171,96,South Korea
+3,3,Lead Author,1,0.5848,171,101,Sweden
+3,3,Lead Author,1,0.5848,171,102,Switzerland
+3,3,Lead Author,1,0.5848,171,122,Zambia
+3,3,Review Editor,4,20.0000,20,44,India
+3,3,Review Editor,3,15.0000,20,75,Norway
+3,3,Review Editor,2,10.0000,20,48,Israel
+3,3,Review Editor,2,10.0000,20,51,Japan
+3,3,Review Editor,2,10.0000,20,117,United Kingdom
+3,3,Review Editor,1,5.0000,20,26,Cuba
+3,3,Review Editor,1,5.0000,20,35,France
+3,3,Review Editor,1,5.0000,20,36,Germany
+3,3,Review Editor,1,5.0000,20,45,Indonesia
+3,3,Review Editor,1,5.0000,20,107,Netherlands
+3,3,Review Editor,1,5.0000,20,80,Peru
+3,3,Review Editor,1,5.0000,20,113,USA
+3,3,Contributing Author,25,34.7222,72,113,USA
+3,3,Contributing Author,8,11.1111,72,117,United Kingdom
+3,3,Contributing Author,6,8.3333,72,51,Japan
+3,3,Contributing Author,6,8.3333,72,1,N/A
+3,3,Contributing Author,4,5.5556,72,36,Germany
+3,3,Contributing Author,4,5.5556,72,107,Netherlands
+3,3,Contributing Author,3,4.1667,72,23,China
+3,3,Contributing Author,3,4.1667,72,44,India
+3,3,Contributing Author,2,2.7778,72,16,Brazil
+3,3,Contributing Author,2,2.7778,72,26,Cuba
+3,3,Contributing Author,2,2.7778,72,95,South Africa
+3,3,Contributing Author,1,1.3889,72,7,Austria
+3,3,Contributing Author,1,1.3889,72,20,Canada
+3,3,Contributing Author,1,1.3889,72,34,Finland
+3,3,Contributing Author,1,1.3889,72,53,Kenya
+3,3,Contributing Author,1,1.3889,72,75,Norway
+3,3,Contributing Author,1,1.3889,72,80,Peru
+3,3,Contributing Author,1,1.3889,72,102,Switzerland
+4,1,Coordinating Lead Author,10,40.0000,25,113,USA
+4,1,Coordinating Lead Author,3,12.0000,25,117,United Kingdom
+4,1,Coordinating Lead Author,2,8.0000,25,20,Canada
+4,1,Coordinating Lead Author,2,8.0000,25,23,China
+4,1,Coordinating Lead Author,2,8.0000,25,36,Germany
+4,1,Coordinating Lead Author,1,4.0000,25,6,Australia
+4,1,Coordinating Lead Author,1,4.0000,25,28,Denmark
+4,1,Coordinating Lead Author,1,4.0000,25,35,France
+4,1,Coordinating Lead Author,1,4.0000,25,75,Norway
+4,1,Coordinating Lead Author,1,4.0000,25,95,South Africa
+4,1,Coordinating Lead Author,1,4.0000,25,102,Switzerland
+4,1,Lead Author,44,24.1758,182,113,USA
+4,1,Lead Author,20,10.9890,182,117,United Kingdom
+4,1,Lead Author,13,7.1429,182,35,France
+4,1,Lead Author,12,6.5934,182,6,Australia
+4,1,Lead Author,12,6.5934,182,23,China
+4,1,Lead Author,8,4.3956,182,51,Japan
+4,1,Lead Author,8,4.3956,182,102,Switzerland
+4,1,Lead Author,6,3.2967,182,75,Norway
+4,1,Lead Author,5,2.7473,182,5,Argentina
+4,1,Lead Author,5,2.7473,182,20,Canada
+4,1,Lead Author,5,2.7473,182,36,Germany
+4,1,Lead Author,5,2.7473,182,44,India
+4,1,Lead Author,5,2.7473,182,86,Russian Federation
+4,1,Lead Author,4,2.1978,182,64,Mexico
+4,1,Lead Author,4,2.1978,182,73,New Zealand
+4,1,Lead Author,3,1.6484,182,16,Brazil
+4,1,Lead Author,3,1.6484,182,53,Kenya
+4,1,Lead Author,3,1.6484,182,105,Thailand
+4,1,Lead Author,2,1.0989,182,107,Netherlands
+4,1,Lead Author,2,1.0989,182,85,Romania
+4,1,Lead Author,2,1.0989,182,89,Senegal
+4,1,Lead Author,2,1.0989,182,95,South Africa
+4,1,Lead Author,1,0.5495,182,7,Austria
+4,1,Lead Author,1,0.5495,182,10,Belgium
+4,1,Lead Author,1,0.5495,182,22,Chile
+4,1,Lead Author,1,0.5495,182,34,Finland
+4,1,Lead Author,1,0.5495,182,46,Iran
+4,1,Lead Author,1,0.5495,182,49,Italy
+4,1,Lead Author,1,0.5495,182,50,Jamaica
+4,1,Lead Author,1,0.5495,182,69,Morocco
+4,1,Lead Author,1,0.5495,182,96,South Korea
+4,1,Review Editor,4,13.7931,29,117,United Kingdom
+4,1,Review Editor,4,13.7931,29,113,USA
+4,1,Review Editor,3,10.3448,29,35,France
+4,1,Review Editor,3,10.3448,29,49,Italy
+4,1,Review Editor,3,10.3448,29,51,Japan
+4,1,Review Editor,2,6.8966,29,6,Australia
+4,1,Review Editor,2,6.8966,29,105,Thailand
+4,1,Review Editor,2,6.8966,29,106,The Gambia
+4,1,Review Editor,1,3.4483,29,23,China
+4,1,Review Editor,1,3.4483,29,36,Germany
+4,1,Review Editor,1,3.4483,29,44,India
+4,1,Review Editor,1,3.4483,29,53,Kenya
+4,1,Review Editor,1,3.4483,29,107,Netherlands
+4,1,Review Editor,1,3.4483,29,73,New Zealand
+4,1,Contributing Author,241,40.8475,590,113,USA
+4,1,Contributing Author,92,15.5932,590,117,United Kingdom
+4,1,Contributing Author,52,8.8136,590,36,Germany
+4,1,Contributing Author,32,5.4237,590,20,Canada
+4,1,Contributing Author,30,5.0847,590,35,France
+4,1,Contributing Author,28,4.7458,590,102,Switzerland
+4,1,Contributing Author,23,3.8983,590,6,Australia
+4,1,Contributing Author,22,3.7288,590,51,Japan
+4,1,Contributing Author,12,2.0339,590,75,Norway
+4,1,Contributing Author,10,1.6949,590,10,Belgium
+4,1,Contributing Author,7,1.1864,590,23,China
+4,1,Contributing Author,7,1.1864,590,107,Netherlands
+4,1,Contributing Author,6,1.0169,590,73,New Zealand
+4,1,Contributing Author,6,1.0169,590,86,Russian Federation
+4,1,Contributing Author,5,0.8475,590,101,Sweden
+4,1,Contributing Author,3,0.5085,590,97,Spain
+4,1,Contributing Author,2,0.3390,590,28,Denmark
+4,1,Contributing Author,2,0.3390,590,49,Italy
+4,1,Contributing Author,2,0.3390,590,95,South Africa
+4,1,Contributing Author,1,0.1695,590,5,Argentina
+4,1,Contributing Author,1,0.1695,590,7,Austria
+4,1,Contributing Author,1,0.1695,590,13,Bermuda
+4,1,Contributing Author,1,0.1695,590,34,Finland
+4,1,Contributing Author,1,0.1695,590,44,India
+4,1,Contributing Author,1,0.1695,590,46,Iran
+4,1,Contributing Author,1,0.1695,590,66,Monaco
+4,1,Contributing Author,1,0.1695,590,96,South Korea
+4,2,Coordinating Lead Author,7,13.7255,51,113,USA
+4,2,Coordinating Lead Author,6,11.7647,51,117,United Kingdom
+4,2,Coordinating Lead Author,3,5.8824,51,36,Germany
+4,2,Coordinating Lead Author,3,5.8824,51,44,India
+4,2,Coordinating Lead Author,2,3.9216,51,5,Argentina
+4,2,Coordinating Lead Author,2,3.9216,51,6,Australia
+4,2,Coordinating Lead Author,2,3.9216,51,20,Canada
+4,2,Coordinating Lead Author,2,3.9216,51,23,China
+4,2,Coordinating Lead Author,2,3.9216,51,35,France
+4,2,Coordinating Lead Author,2,3.9216,51,51,Japan
+4,2,Coordinating Lead Author,2,3.9216,51,81,Philippines
+4,2,Coordinating Lead Author,2,3.9216,51,86,Russian Federation
+4,2,Coordinating Lead Author,2,3.9216,51,95,South Africa
+4,2,Coordinating Lead Author,1,1.9608,51,9,Barbados
+4,2,Coordinating Lead Author,1,1.9608,51,16,Brazil
+4,2,Coordinating Lead Author,1,1.9608,51,22,Chile
+4,2,Coordinating Lead Author,1,1.9608,51,34,Finland
+4,2,Coordinating Lead Author,1,1.9608,51,42,Hungary
+4,2,Coordinating Lead Author,1,1.9608,51,64,Mexico
+4,2,Coordinating Lead Author,1,1.9608,51,73,New Zealand
+4,2,Coordinating Lead Author,1,1.9608,51,74,Nigeria
+4,2,Coordinating Lead Author,1,1.9608,51,82,Poland
+4,2,Coordinating Lead Author,1,1.9608,51,89,Senegal
+4,2,Coordinating Lead Author,1,1.9608,51,92,Singapore
+4,2,Coordinating Lead Author,1,1.9608,51,97,Spain
+4,2,Coordinating Lead Author,1,1.9608,51,101,Sweden
+4,2,Coordinating Lead Author,1,1.9608,51,102,Switzerland
+4,2,Lead Author,40,14.8699,269,113,USA
+4,2,Lead Author,23,8.5502,269,117,United Kingdom
+4,2,Lead Author,21,7.8067,269,6,Australia
+4,2,Lead Author,16,5.9480,269,20,Canada
+4,2,Lead Author,10,3.7175,269,44,India
+4,2,Lead Author,9,3.3457,269,36,Germany
+4,2,Lead Author,8,2.9740,269,23,China
+4,2,Lead Author,8,2.9740,269,35,France
+4,2,Lead Author,8,2.9740,269,51,Japan
+4,2,Lead Author,8,2.9740,269,64,Mexico
+4,2,Lead Author,8,2.9740,269,73,New Zealand
+4,2,Lead Author,8,2.9740,269,86,Russian Federation
+4,2,Lead Author,6,2.2305,269,81,Philippines
+4,2,Lead Author,5,1.8587,269,5,Argentina
+4,2,Lead Author,4,1.4870,269,8,Bangladesh
+4,2,Lead Author,4,1.4870,269,10,Belgium
+4,2,Lead Author,4,1.4870,269,49,Italy
+4,2,Lead Author,4,1.4870,269,107,Netherlands
+4,2,Lead Author,4,1.4870,269,95,South Africa
+4,2,Lead Author,4,1.4870,269,101,Sweden
+4,2,Lead Author,4,1.4870,269,102,Switzerland
+4,2,Lead Author,3,1.1152,269,16,Brazil
+4,2,Lead Author,3,1.1152,269,22,Chile
+4,2,Lead Author,3,1.1152,269,82,Poland
+4,2,Lead Author,3,1.1152,269,89,Senegal
+4,2,Lead Author,3,1.1152,269,97,Spain
+4,2,Lead Author,2,0.7435,269,9,Barbados
+4,2,Lead Author,2,0.7435,269,28,Denmark
+4,2,Lead Author,2,0.7435,269,34,Finland
+4,2,Lead Author,2,0.7435,269,42,Hungary
+4,2,Lead Author,2,0.7435,269,68,Mongolia
+4,2,Lead Author,2,0.7435,269,69,Morocco
+4,2,Lead Author,2,0.7435,269,74,Nigeria
+4,2,Lead Author,2,0.7435,269,87,Samoa
+4,2,Lead Author,2,0.7435,269,92,Singapore
+4,2,Lead Author,2,0.7435,269,94,Slovenia
+4,2,Lead Author,2,0.7435,269,109,Trinidad and Tobago
+4,2,Lead Author,2,0.7435,269,111,Turkey
+4,2,Lead Author,1,0.3717,269,7,Austria
+4,2,Lead Author,1,0.3717,269,14,Bolivia
+4,2,Lead Author,1,0.3717,269,15,Botswana
+4,2,Lead Author,1,0.3717,269,21,Chad
+4,2,Lead Author,1,0.3717,269,26,Cuba
+4,2,Lead Author,1,0.3717,269,30,Egypt
+4,2,Lead Author,1,0.3717,269,38,Greece
+4,2,Lead Author,1,0.3717,269,43,Iceland
+4,2,Lead Author,1,0.3717,269,46,Iran
+4,2,Lead Author,1,0.3717,269,47,Ireland
+4,2,Lead Author,1,0.3717,269,53,Kenya
+4,2,Lead Author,1,0.3717,269,62,Malta
+4,2,Lead Author,1,0.3717,269,63,Mauritius
+4,2,Lead Author,1,0.3717,269,65,Moldova
+4,2,Lead Author,1,0.3717,269,70,Mozambique
+4,2,Lead Author,1,0.3717,269,75,Norway
+4,2,Lead Author,1,0.3717,269,80,Peru
+4,2,Lead Author,1,0.3717,269,90,Seychelles
+4,2,Lead Author,1,0.3717,269,99,Sudan
+4,2,Lead Author,1,0.3717,269,104,Tanzania
+4,2,Lead Author,1,0.3717,269,118,Uruguay
+4,2,Lead Author,1,0.3717,269,120,Venezuela
+4,2,Lead Author,1,0.3717,269,121,Vietnam
+4,2,Lead Author,1,0.3717,269,123,Zimbabwe
+4,2,Review Editor,5,9.6154,52,6,Australia
+4,2,Review Editor,5,9.6154,52,20,Canada
+4,2,Review Editor,5,9.6154,52,113,USA
+4,2,Review Editor,4,7.6923,52,36,Germany
+4,2,Review Editor,4,7.6923,52,117,United Kingdom
+4,2,Review Editor,2,3.8462,52,5,Argentina
+4,2,Review Editor,2,3.8462,52,10,Belgium
+4,2,Review Editor,2,3.8462,52,16,Brazil
+4,2,Review Editor,2,3.8462,52,45,Indonesia
+4,2,Review Editor,2,3.8462,52,69,Morocco
+4,2,Review Editor,2,3.8462,52,94,Slovenia
+4,2,Review Editor,1,1.9231,52,3,Algeria
+4,2,Review Editor,1,1.9231,52,11,Belize
+4,2,Review Editor,1,1.9231,52,25,Costa Rica
+4,2,Review Editor,1,1.9231,52,27,Czech Republic
+4,2,Review Editor,1,1.9231,52,34,Finland
+4,2,Review Editor,1,1.9231,52,44,India
+4,2,Review Editor,1,1.9231,52,47,Ireland
+4,2,Review Editor,1,1.9231,52,48,Israel
+4,2,Review Editor,1,1.9231,52,51,Japan
+4,2,Review Editor,1,1.9231,52,60,Malaysia
+4,2,Review Editor,1,1.9231,52,64,Mexico
+4,2,Review Editor,1,1.9231,52,107,Netherlands
+4,2,Review Editor,1,1.9231,52,73,New Zealand
+4,2,Review Editor,1,1.9231,52,84,Puerto Rico
+4,2,Review Editor,1,1.9231,52,95,South Africa
+4,2,Review Editor,1,1.9231,52,98,Sri Lanka
+4,2,Review Editor,1,1.9231,52,99,Sudan
+4,2,Contributing Author,57,24.3590,234,113,USA
+4,2,Contributing Author,41,17.5214,234,117,United Kingdom
+4,2,Contributing Author,21,8.9744,234,20,Canada
+4,2,Contributing Author,12,5.1282,234,6,Australia
+4,2,Contributing Author,9,3.8462,234,102,Switzerland
+4,2,Contributing Author,8,3.4188,234,73,New Zealand
+4,2,Contributing Author,7,2.9915,234,101,Sweden
+4,2,Contributing Author,6,2.5641,234,23,China
+4,2,Contributing Author,6,2.5641,234,35,France
+4,2,Contributing Author,6,2.5641,234,36,Germany
+4,2,Contributing Author,6,2.5641,234,107,Netherlands
+4,2,Contributing Author,5,2.1368,234,44,India
+4,2,Contributing Author,5,2.1368,234,51,Japan
+4,2,Contributing Author,5,2.1368,234,95,South Africa
+4,2,Contributing Author,3,1.2821,234,7,Austria
+4,2,Contributing Author,3,1.2821,234,74,Nigeria
+4,2,Contributing Author,2,0.8547,234,5,Argentina
+4,2,Contributing Author,2,0.8547,234,10,Belgium
+4,2,Contributing Author,2,0.8547,234,16,Brazil
+4,2,Contributing Author,2,0.8547,234,28,Denmark
+4,2,Contributing Author,2,0.8547,234,47,Ireland
+4,2,Contributing Author,2,0.8547,234,53,Kenya
+4,2,Contributing Author,2,0.8547,234,75,Norway
+4,2,Contributing Author,1,0.4274,234,12,Benin
+4,2,Contributing Author,1,0.4274,234,15,Botswana
+4,2,Contributing Author,1,0.4274,234,21,Chad
+4,2,Contributing Author,1,0.4274,234,22,Chile
+4,2,Contributing Author,1,0.4274,234,30,Egypt
+4,2,Contributing Author,1,0.4274,234,33,Fiji
+4,2,Contributing Author,1,0.4274,234,34,Finland
+4,2,Contributing Author,1,0.4274,234,49,Italy
+4,2,Contributing Author,1,0.4274,234,56,Laos
+4,2,Contributing Author,1,0.4274,234,60,Malaysia
+4,2,Contributing Author,1,0.4274,234,64,Mexico
+4,2,Contributing Author,1,0.4274,234,69,Morocco
+4,2,Contributing Author,1,0.4274,234,72,Nepal
+4,2,Contributing Author,1,0.4274,234,83,Portugal
+4,2,Contributing Author,1,0.4274,234,90,Seychelles
+4,2,Contributing Author,1,0.4274,234,97,Spain
+4,2,Contributing Author,1,0.4274,234,111,Turkey
+4,2,Contributing Author,1,0.4274,234,116,Ukraine
+4,2,Contributing Author,1,0.4274,234,120,Venezuela
+4,2,Contributing Author,1,0.4274,234,121,Vietnam
+4,3,Coordinating Lead Author,7,28.0000,25,113,USA
+4,3,Coordinating Lead Author,3,12.0000,25,44,India
+4,3,Coordinating Lead Author,2,8.0000,25,7,Austria
+4,3,Coordinating Lead Author,2,8.0000,25,117,United Kingdom
+4,3,Coordinating Lead Author,1,4.0000,25,6,Australia
+4,3,Coordinating Lead Author,1,4.0000,25,16,Brazil
+4,3,Coordinating Lead Author,1,4.0000,25,23,China
+4,3,Coordinating Lead Author,1,4.0000,25,28,Denmark
+4,3,Coordinating Lead Author,1,4.0000,25,42,Hungary
+4,3,Coordinating Lead Author,1,4.0000,25,51,Japan
+4,3,Coordinating Lead Author,1,4.0000,25,64,Mexico
+4,3,Coordinating Lead Author,1,4.0000,25,107,Netherlands
+4,3,Coordinating Lead Author,1,4.0000,25,73,New Zealand
+4,3,Coordinating Lead Author,1,4.0000,25,86,Russian Federation
+4,3,Coordinating Lead Author,1,4.0000,25,118,Uruguay
+4,3,Lead Author,40,19.3237,207,113,USA
+4,3,Lead Author,22,10.6280,207,107,Netherlands
+4,3,Lead Author,14,6.7633,207,51,Japan
+4,3,Lead Author,12,5.7971,207,23,China
+4,3,Lead Author,11,5.3140,207,117,United Kingdom
+4,3,Lead Author,9,4.3478,207,7,Austria
+4,3,Lead Author,9,4.3478,207,44,India
+4,3,Lead Author,8,3.8647,207,35,France
+4,3,Lead Author,7,3.3816,207,20,Canada
+4,3,Lead Author,7,3.3816,207,36,Germany
+4,3,Lead Author,5,2.4155,207,6,Australia
+4,3,Lead Author,4,1.9324,207,16,Brazil
+4,3,Lead Author,4,1.9324,207,34,Finland
+4,3,Lead Author,4,1.9324,207,64,Mexico
+4,3,Lead Author,4,1.9324,207,86,Russian Federation
+4,3,Lead Author,4,1.9324,207,95,South Africa
+4,3,Lead Author,3,1.4493,207,26,Cuba
+4,3,Lead Author,3,1.4493,207,28,Denmark
+4,3,Lead Author,3,1.4493,207,42,Hungary
+4,3,Lead Author,3,1.4493,207,74,Nigeria
+4,3,Lead Author,3,1.4493,207,99,Sudan
+4,3,Lead Author,3,1.4493,207,118,Uruguay
+4,3,Lead Author,2,0.9662,207,45,Indonesia
+4,3,Lead Author,2,0.9662,207,53,Kenya
+4,3,Lead Author,2,0.9662,207,73,New Zealand
+4,3,Lead Author,2,0.9662,207,91,Sierra Leone
+4,3,Lead Author,1,0.4831,207,5,Argentina
+4,3,Lead Author,1,0.4831,207,10,Belgium
+4,3,Lead Author,1,0.4831,207,15,Botswana
+4,3,Lead Author,1,0.4831,207,22,Chile
+4,3,Lead Author,1,0.4831,207,29,Ecuador
+4,3,Lead Author,1,0.4831,207,38,Greece
+4,3,Lead Author,1,0.4831,207,47,Ireland
+4,3,Lead Author,1,0.4831,207,49,Italy
+4,3,Lead Author,1,0.4831,207,57,Lithuania
+4,3,Lead Author,1,0.4831,207,75,Norway
+4,3,Lead Author,1,0.4831,207,76,Oman
+4,3,Lead Author,1,0.4831,207,80,Peru
+4,3,Lead Author,1,0.4831,207,88,Saudi Arabia
+4,3,Lead Author,1,0.4831,207,97,Spain
+4,3,Lead Author,1,0.4831,207,102,Switzerland
+4,3,Lead Author,1,0.4831,207,110,Tunisia
+4,3,Lead Author,1,0.4831,207,122,Zambia
+4,3,Review Editor,4,14.8148,27,113,USA
+4,3,Review Editor,3,11.1111,27,53,Kenya
+4,3,Review Editor,2,7.4074,27,20,Canada
+4,3,Review Editor,2,7.4074,27,36,Germany
+4,3,Review Editor,1,3.7037,27,10,Belgium
+4,3,Review Editor,1,3.7037,27,16,Brazil
+4,3,Review Editor,1,3.7037,27,23,China
+4,3,Review Editor,1,3.7037,27,26,Cuba
+4,3,Review Editor,1,3.7037,27,28,Denmark
+4,3,Review Editor,1,3.7037,27,44,India
+4,3,Review Editor,1,3.7037,27,45,Indonesia
+4,3,Review Editor,1,3.7037,27,51,Japan
+4,3,Review Editor,1,3.7037,27,107,Netherlands
+4,3,Review Editor,1,3.7037,27,75,Norway
+4,3,Review Editor,1,3.7037,27,80,Peru
+4,3,Review Editor,1,3.7037,27,88,Saudi Arabia
+4,3,Review Editor,1,3.7037,27,96,South Korea
+4,3,Review Editor,1,3.7037,27,98,Sri Lanka
+4,3,Review Editor,1,3.7037,27,99,Sudan
+4,3,Review Editor,1,3.7037,27,117,United Kingdom
+4,3,Contributing Author,20,22.7273,88,113,USA
+4,3,Contributing Author,12,13.6364,88,107,Netherlands
+4,3,Contributing Author,6,6.8182,88,20,Canada
+4,3,Contributing Author,6,6.8182,88,35,France
+4,3,Contributing Author,5,5.6818,88,51,Japan
+4,3,Contributing Author,4,4.5455,88,7,Austria
+4,3,Contributing Author,4,4.5455,88,23,China
+4,3,Contributing Author,4,4.5455,88,117,United Kingdom
+4,3,Contributing Author,3,3.4091,88,6,Australia
+4,3,Contributing Author,3,3.4091,88,44,India
+4,3,Contributing Author,3,3.4091,88,75,Norway
+4,3,Contributing Author,2,2.2727,88,5,Argentina
+4,3,Contributing Author,2,2.2727,88,16,Brazil
+4,3,Contributing Author,2,2.2727,88,49,Italy
+4,3,Contributing Author,2,2.2727,88,64,Mexico
+4,3,Contributing Author,2,2.2727,88,73,New Zealand
+4,3,Contributing Author,2,2.2727,88,111,Turkey
+4,3,Contributing Author,1,1.1364,88,28,Denmark
+4,3,Contributing Author,1,1.1364,88,34,Finland
+4,3,Contributing Author,1,1.1364,88,36,Germany
+4,3,Contributing Author,1,1.1364,88,86,Russian Federation
+4,3,Contributing Author,1,1.1364,88,102,Switzerland
+4,3,Contributing Author,1,1.1364,88,105,Thailand
+5,1,Coordinating Lead Author,8,27.5862,29,113,USA
+5,1,Coordinating Lead Author,4,13.7931,29,6,Australia
+5,1,Coordinating Lead Author,4,13.7931,29,36,Germany
+5,1,Coordinating Lead Author,3,10.3448,29,35,France
+5,1,Coordinating Lead Author,3,10.3448,29,117,United Kingdom
+5,1,Coordinating Lead Author,1,3.4483,29,5,Argentina
+5,1,Coordinating Lead Author,1,3.4483,29,20,Canada
+5,1,Coordinating Lead Author,1,3.4483,29,28,Denmark
+5,1,Coordinating Lead Author,1,3.4483,29,44,India
+5,1,Coordinating Lead Author,1,3.4483,29,107,Netherlands
+5,1,Coordinating Lead Author,1,3.4483,29,75,Norway
+5,1,Coordinating Lead Author,1,3.4483,29,102,Switzerland
+5,1,Lead Author,59,27.9621,211,113,USA
+5,1,Lead Author,23,10.9005,211,117,United Kingdom
+5,1,Lead Author,16,7.5829,211,23,China
+5,1,Lead Author,12,5.6872,211,36,Germany
+5,1,Lead Author,11,5.2133,211,6,Australia
+5,1,Lead Author,10,4.7393,211,102,Switzerland
+5,1,Lead Author,9,4.2654,211,35,France
+5,1,Lead Author,9,4.2654,211,51,Japan
+5,1,Lead Author,8,3.7915,211,44,India
+5,1,Lead Author,6,2.8436,211,20,Canada
+5,1,Lead Author,6,2.8436,211,86,Russian Federation
+5,1,Lead Author,5,2.3697,211,75,Norway
+5,1,Lead Author,4,1.8957,211,16,Brazil
+5,1,Lead Author,3,1.4218,211,22,Chile
+5,1,Lead Author,3,1.4218,211,73,New Zealand
+5,1,Lead Author,3,1.4218,211,97,Spain
+5,1,Lead Author,3,1.4218,211,122,Zambia
+5,1,Lead Author,2,0.9479,211,49,Italy
+5,1,Lead Author,2,0.9479,211,69,Morocco
+5,1,Lead Author,2,0.9479,211,95,South Africa
+5,1,Lead Author,2,0.9479,211,101,Sweden
+5,1,Lead Author,1,0.4739,211,5,Argentina
+5,1,Lead Author,1,0.4739,211,7,Austria
+5,1,Lead Author,1,0.4739,211,10,Belgium
+5,1,Lead Author,1,0.4739,211,15,Botswana
+5,1,Lead Author,1,0.4739,211,34,Finland
+5,1,Lead Author,1,0.4739,211,45,Indonesia
+5,1,Lead Author,1,0.4739,211,64,Mexico
+5,1,Lead Author,1,0.4739,211,107,Netherlands
+5,1,Lead Author,1,0.4739,211,76,Oman
+5,1,Lead Author,1,0.4739,211,85,Romania
+5,1,Lead Author,1,0.4739,211,89,Senegal
+5,1,Lead Author,1,0.4739,211,96,South Korea
+5,1,Lead Author,1,0.4739,211,100,Swaziland
+5,1,Review Editor,11,22.0000,50,113,USA
+5,1,Review Editor,7,14.0000,50,35,France
+5,1,Review Editor,7,14.0000,50,117,United Kingdom
+5,1,Review Editor,3,6.0000,50,20,Canada
+5,1,Review Editor,3,6.0000,50,23,China
+5,1,Review Editor,2,4.0000,50,51,Japan
+5,1,Review Editor,1,2.0000,50,6,Australia
+5,1,Review Editor,1,2.0000,50,10,Belgium
+5,1,Review Editor,1,2.0000,50,16,Brazil
+5,1,Review Editor,1,2.0000,50,34,Finland
+5,1,Review Editor,1,2.0000,50,36,Germany
+5,1,Review Editor,1,2.0000,50,42,Hungary
+5,1,Review Editor,1,2.0000,50,44,India
+5,1,Review Editor,1,2.0000,50,46,Iran
+5,1,Review Editor,1,2.0000,50,49,Italy
+5,1,Review Editor,1,2.0000,50,60,Malaysia
+5,1,Review Editor,1,2.0000,50,69,Morocco
+5,1,Review Editor,1,2.0000,50,107,Netherlands
+5,1,Review Editor,1,2.0000,50,73,New Zealand
+5,1,Review Editor,1,2.0000,50,75,Norway
+5,1,Review Editor,1,2.0000,50,83,Portugal
+5,1,Review Editor,1,2.0000,50,96,South Korea
+5,1,Review Editor,1,2.0000,50,102,Switzerland
+5,1,Contributing Author,250,34.4353,726,113,USA
+5,1,Contributing Author,129,17.7686,726,117,United Kingdom
+5,1,Contributing Author,47,6.4738,726,36,Germany
+5,1,Contributing Author,37,5.0964,726,20,Canada
+5,1,Contributing Author,37,5.0964,726,35,France
+5,1,Contributing Author,34,4.6832,726,6,Australia
+5,1,Contributing Author,30,4.1322,726,102,Switzerland
+5,1,Contributing Author,27,3.7190,726,107,Netherlands
+5,1,Contributing Author,20,2.7548,726,75,Norway
+5,1,Contributing Author,19,2.6171,726,51,Japan
+5,1,Contributing Author,13,1.7906,726,97,Spain
+5,1,Contributing Author,11,1.5152,726,10,Belgium
+5,1,Contributing Author,9,1.2397,726,7,Austria
+5,1,Contributing Author,7,0.9642,726,23,China
+5,1,Contributing Author,7,0.9642,726,28,Denmark
+5,1,Contributing Author,7,0.9642,726,86,Russian Federation
+5,1,Contributing Author,6,0.8264,726,44,India
+5,1,Contributing Author,6,0.8264,726,96,South Korea
+5,1,Contributing Author,5,0.6887,726,49,Italy
+5,1,Contributing Author,5,0.6887,726,101,Sweden
+5,1,Contributing Author,4,0.5510,726,73,New Zealand
+5,1,Contributing Author,3,0.4132,726,5,Argentina
+5,1,Contributing Author,2,0.2755,726,34,Finland
+5,1,Contributing Author,2,0.2755,726,64,Mexico
+5,1,Contributing Author,2,0.2755,726,95,South Africa
+5,1,Contributing Author,1,0.1377,726,13,Bermuda
+5,1,Contributing Author,1,0.1377,726,16,Brazil
+5,1,Contributing Author,1,0.1377,726,43,Iceland
+5,1,Contributing Author,1,0.1377,726,47,Ireland
+5,1,Contributing Author,1,0.1377,726,74,Nigeria
+5,1,Contributing Author,1,0.1377,726,77,Qatar
+5,1,Contributing Author,1,0.1377,726,111,Turkey
+5,2,Coordinating Lead Author,13,20.3125,64,113,USA
+5,2,Coordinating Lead Author,7,10.9375,64,117,United Kingdom
+5,2,Coordinating Lead Author,5,7.8125,64,6,Australia
+5,2,Coordinating Lead Author,3,4.6875,64,23,China
+5,2,Coordinating Lead Author,3,4.6875,64,36,Germany
+5,2,Coordinating Lead Author,3,4.6875,64,44,India
+5,2,Coordinating Lead Author,3,4.6875,64,51,Japan
+5,2,Coordinating Lead Author,3,4.6875,64,95,South Africa
+5,2,Coordinating Lead Author,2,3.1250,64,73,New Zealand
+5,2,Coordinating Lead Author,2,3.1250,64,101,Sweden
+5,2,Coordinating Lead Author,1,1.5625,64,5,Argentina
+5,2,Coordinating Lead Author,1,1.5625,64,8,Bangladesh
+5,2,Coordinating Lead Author,1,1.5625,64,9,Barbados
+5,2,Coordinating Lead Author,1,1.5625,64,16,Brazil
+5,2,Coordinating Lead Author,1,1.5625,64,25,Costa Rica
+5,2,Coordinating Lead Author,1,1.5625,64,26,Cuba
+5,2,Coordinating Lead Author,1,1.5625,64,28,Denmark
+5,2,Coordinating Lead Author,1,1.5625,64,43,Iceland
+5,2,Coordinating Lead Author,1,1.5625,64,49,Italy
+5,2,Coordinating Lead Author,1,1.5625,64,53,Kenya
+5,2,Coordinating Lead Author,1,1.5625,64,60,Malaysia
+5,2,Coordinating Lead Author,1,1.5625,64,64,Mexico
+5,2,Coordinating Lead Author,1,1.5625,64,71,Namibia
+5,2,Coordinating Lead Author,1,1.5625,64,81,Philippines
+5,2,Coordinating Lead Author,1,1.5625,64,86,Russian Federation
+5,2,Coordinating Lead Author,1,1.5625,64,89,Senegal
+5,2,Coordinating Lead Author,1,1.5625,64,92,Singapore
+5,2,Coordinating Lead Author,1,1.5625,64,97,Spain
+5,2,Coordinating Lead Author,1,1.5625,64,106,The Gambia
+5,2,Coordinating Lead Author,1,1.5625,64,123,Zimbabwe
+5,2,Lead Author,49,19.2157,255,113,USA
+5,2,Lead Author,18,7.0588,255,6,Australia
+5,2,Lead Author,17,6.6667,255,117,United Kingdom
+5,2,Lead Author,12,4.7059,255,20,Canada
+5,2,Lead Author,12,4.7059,255,36,Germany
+5,2,Lead Author,11,4.3137,255,23,China
+5,2,Lead Author,9,3.5294,255,35,France
+5,2,Lead Author,9,3.5294,255,51,Japan
+5,2,Lead Author,8,3.1373,255,95,South Africa
+5,2,Lead Author,7,2.7451,255,64,Mexico
+5,2,Lead Author,7,2.7451,255,75,Norway
+5,2,Lead Author,6,2.3529,255,16,Brazil
+5,2,Lead Author,6,2.3529,255,86,Russian Federation
+5,2,Lead Author,5,1.9608,255,44,India
+5,2,Lead Author,5,1.9608,255,73,New Zealand
+5,2,Lead Author,5,1.9608,255,97,Spain
+5,2,Lead Author,5,1.9608,255,101,Sweden
+5,2,Lead Author,4,1.5686,255,5,Argentina
+5,2,Lead Author,3,1.1765,255,30,Egypt
+5,2,Lead Author,3,1.1765,255,49,Italy
+5,2,Lead Author,3,1.1765,255,107,Netherlands
+5,2,Lead Author,3,1.1765,255,81,Philippines
+5,2,Lead Author,3,1.1765,255,89,Senegal
+5,2,Lead Author,3,1.1765,255,104,Tanzania
+5,2,Lead Author,2,0.7843,255,9,Barbados
+5,2,Lead Author,2,0.7843,255,22,Chile
+5,2,Lead Author,2,0.7843,255,69,Morocco
+5,2,Lead Author,2,0.7843,255,96,South Korea
+5,2,Lead Author,2,0.7843,255,99,Sudan
+5,2,Lead Author,2,0.7843,255,102,Switzerland
+5,2,Lead Author,2,0.7843,255,109,Trinidad and Tobago
+5,2,Lead Author,2,0.7843,255,120,Venezuela
+5,2,Lead Author,1,0.3922,255,7,Austria
+5,2,Lead Author,1,0.3922,255,8,Bangladesh
+5,2,Lead Author,1,0.3922,255,19,Cameroon
+5,2,Lead Author,1,0.3922,255,24,Colombia
+5,2,Lead Author,1,0.3922,255,26,Cuba
+5,2,Lead Author,1,0.3922,255,28,Denmark
+5,2,Lead Author,1,0.3922,255,33,Fiji
+5,2,Lead Author,1,0.3922,255,34,Finland
+5,2,Lead Author,1,0.3922,255,37,Ghana
+5,2,Lead Author,1,0.3922,255,38,Greece
+5,2,Lead Author,1,0.3922,255,39,Guatemala
+5,2,Lead Author,1,0.3922,255,42,Hungary
+5,2,Lead Author,1,0.3922,255,43,Iceland
+5,2,Lead Author,1,0.3922,255,50,Jamaica
+5,2,Lead Author,1,0.3922,255,53,Kenya
+5,2,Lead Author,1,0.3922,255,58,Madagascar
+5,2,Lead Author,1,0.3922,255,60,Malaysia
+5,2,Lead Author,1,0.3922,255,62,Malta
+5,2,Lead Author,1,0.3922,255,71,Namibia
+5,2,Lead Author,1,0.3922,255,74,Nigeria
+5,2,Lead Author,1,0.3922,255,78,Pakistan
+5,2,Lead Author,1,0.3922,255,87,Samoa
+5,2,Lead Author,1,0.3922,255,92,Singapore
+5,2,Lead Author,1,0.3922,255,98,Sri Lanka
+5,2,Lead Author,1,0.3922,255,106,The Gambia
+5,2,Lead Author,1,0.3922,255,121,Vietnam
+5,2,Review Editor,13,19.6970,66,113,USA
+5,2,Review Editor,4,6.0606,66,117,United Kingdom
+5,2,Review Editor,3,4.5455,66,6,Australia
+5,2,Review Editor,3,4.5455,66,51,Japan
+5,2,Review Editor,3,4.5455,66,97,Spain
+5,2,Review Editor,2,3.0303,66,7,Austria
+5,2,Review Editor,2,3.0303,66,16,Brazil
+5,2,Review Editor,2,3.0303,66,20,Canada
+5,2,Review Editor,2,3.0303,66,24,Colombia
+5,2,Review Editor,2,3.0303,66,35,France
+5,2,Review Editor,2,3.0303,66,44,India
+5,2,Review Editor,2,3.0303,66,75,Norway
+5,2,Review Editor,2,3.0303,66,86,Russian Federation
+5,2,Review Editor,2,3.0303,66,95,South Africa
+5,2,Review Editor,2,3.0303,66,102,Switzerland
+5,2,Review Editor,1,1.5152,66,5,Argentina
+5,2,Review Editor,1,1.5152,66,10,Belgium
+5,2,Review Editor,1,1.5152,66,15,Botswana
+5,2,Review Editor,1,1.5152,66,22,Chile
+5,2,Review Editor,1,1.5152,66,23,China
+5,2,Review Editor,1,1.5152,66,34,Finland
+5,2,Review Editor,1,1.5152,66,36,Germany
+5,2,Review Editor,1,1.5152,66,61,Maldives
+5,2,Review Editor,1,1.5152,66,64,Mexico
+5,2,Review Editor,1,1.5152,66,65,Moldova
+5,2,Review Editor,1,1.5152,66,107,Netherlands
+5,2,Review Editor,1,1.5152,66,73,New Zealand
+5,2,Review Editor,1,1.5152,66,80,Peru
+5,2,Review Editor,1,1.5152,66,81,Philippines
+5,2,Review Editor,1,1.5152,66,82,Poland
+5,2,Review Editor,1,1.5152,66,83,Portugal
+5,2,Review Editor,1,1.5152,66,89,Senegal
+5,2,Review Editor,1,1.5152,66,94,Slovenia
+5,2,Review Editor,1,1.5152,66,110,Tunisia
+5,2,Review Editor,1,1.5152,66,116,Ukraine
+5,2,Contributing Author,96,23.1325,415,113,USA
+5,2,Contributing Author,56,13.4940,415,117,United Kingdom
+5,2,Contributing Author,42,10.1205,415,6,Australia
+5,2,Contributing Author,28,6.7470,415,36,Germany
+5,2,Contributing Author,16,3.8554,415,95,South Africa
+5,2,Contributing Author,15,3.6145,415,20,Canada
+5,2,Contributing Author,13,3.1325,415,35,France
+5,2,Contributing Author,13,3.1325,415,107,Netherlands
+5,2,Contributing Author,13,3.1325,415,73,New Zealand
+5,2,Contributing Author,11,2.6506,415,75,Norway
+5,2,Contributing Author,10,2.4096,415,44,India
+5,2,Contributing Author,9,2.1687,415,64,Mexico
+5,2,Contributing Author,8,1.9277,415,49,Italy
+5,2,Contributing Author,6,1.4458,415,16,Brazil
+5,2,Contributing Author,6,1.4458,415,51,Japan
+5,2,Contributing Author,6,1.4458,415,97,Spain
+5,2,Contributing Author,5,1.2048,415,23,China
+5,2,Contributing Author,5,1.2048,415,34,Finland
+5,2,Contributing Author,5,1.2048,415,74,Nigeria
+5,2,Contributing Author,4,0.9639,415,86,Russian Federation
+5,2,Contributing Author,3,0.7229,415,7,Austria
+5,2,Contributing Author,3,0.7229,415,101,Sweden
+5,2,Contributing Author,3,0.7229,415,106,The Gambia
+5,2,Contributing Author,2,0.4819,415,5,Argentina
+5,2,Contributing Author,2,0.4819,415,19,Cameroon
+5,2,Contributing Author,2,0.4819,415,38,Greece
+5,2,Contributing Author,2,0.4819,415,72,Nepal
+5,2,Contributing Author,2,0.4819,415,89,Senegal
+5,2,Contributing Author,2,0.4819,415,92,Singapore
+5,2,Contributing Author,2,0.4819,415,102,Switzerland
+5,2,Contributing Author,2,0.4819,415,109,Trinidad and Tobago
+5,2,Contributing Author,2,0.4819,415,120,Venezuela
+5,2,Contributing Author,1,0.2410,415,3,Algeria
+5,2,Contributing Author,1,0.2410,415,8,Bangladesh
+5,2,Contributing Author,1,0.2410,415,15,Botswana
+5,2,Contributing Author,1,0.2410,415,17,Bulgaria
+5,2,Contributing Author,1,0.2410,415,22,Chile
+5,2,Contributing Author,1,0.2410,415,24,Colombia
+5,2,Contributing Author,1,0.2410,415,25,Costa Rica
+5,2,Contributing Author,1,0.2410,415,32,Ethiopia
+5,2,Contributing Author,1,0.2410,415,33,Fiji
+5,2,Contributing Author,1,0.2410,415,47,Ireland
+5,2,Contributing Author,1,0.2410,415,50,Jamaica
+5,2,Contributing Author,1,0.2410,415,81,Philippines
+5,2,Contributing Author,1,0.2410,415,82,Poland
+5,2,Contributing Author,1,0.2410,415,85,Romania
+5,2,Contributing Author,1,0.2410,415,90,Seychelles
+5,2,Contributing Author,1,0.2410,415,91,Sierra Leone
+5,2,Contributing Author,1,0.2410,415,96,South Korea
+5,2,Contributing Author,1,0.2410,415,100,Swaziland
+5,2,Contributing Author,1,0.2410,415,110,Tunisia
+5,2,Contributing Author,1,0.2410,415,121,Vietnam
+5,2,Contributing Author,1,0.2410,415,123,Zimbabwe
+5,3,Coordinating Lead Author,9,26.4706,34,113,USA
+5,3,Coordinating Lead Author,4,11.7647,34,36,Germany
+5,3,Coordinating Lead Author,4,11.7647,34,44,India
+5,3,Coordinating Lead Author,3,8.8235,34,16,Brazil
+5,3,Coordinating Lead Author,3,8.8235,34,23,China
+5,3,Coordinating Lead Author,2,5.8824,34,117,United Kingdom
+5,3,Coordinating Lead Author,1,2.9412,34,5,Argentina
+5,3,Coordinating Lead Author,1,2.9412,34,35,France
+5,3,Coordinating Lead Author,1,2.9412,34,42,Hungary
+5,3,Coordinating Lead Author,1,2.9412,34,51,Japan
+5,3,Coordinating Lead Author,1,2.9412,34,53,Kenya
+5,3,Coordinating Lead Author,1,2.9412,34,107,Netherlands
+5,3,Coordinating Lead Author,1,2.9412,34,73,New Zealand
+5,3,Coordinating Lead Author,1,2.9412,34,86,Russian Federation
+5,3,Coordinating Lead Author,1,2.9412,34,105,Thailand
+5,3,Lead Author,44,17.3228,254,113,USA
+5,3,Lead Author,22,8.6614,254,36,Germany
+5,3,Lead Author,18,7.0866,254,44,India
+5,3,Lead Author,16,6.2992,254,117,United Kingdom
+5,3,Lead Author,12,4.7244,254,23,China
+5,3,Lead Author,11,4.3307,254,7,Austria
+5,3,Lead Author,9,3.5433,254,51,Japan
+5,3,Lead Author,9,3.5433,254,107,Netherlands
+5,3,Lead Author,8,3.1496,254,64,Mexico
+5,3,Lead Author,7,2.7559,254,6,Australia
+5,3,Lead Author,6,2.3622,254,16,Brazil
+5,3,Lead Author,6,2.3622,254,35,France
+5,3,Lead Author,6,2.3622,254,49,Italy
+5,3,Lead Author,5,1.9685,254,5,Argentina
+5,3,Lead Author,5,1.9685,254,20,Canada
+5,3,Lead Author,5,1.9685,254,26,Cuba
+5,3,Lead Author,5,1.9685,254,102,Switzerland
+5,3,Lead Author,4,1.5748,254,75,Norway
+5,3,Lead Author,4,1.5748,254,95,South Africa
+5,3,Lead Author,3,1.1811,254,73,New Zealand
+5,3,Lead Author,3,1.1811,254,96,South Korea
+5,3,Lead Author,3,1.1811,254,97,Spain
+5,3,Lead Author,3,1.1811,254,101,Sweden
+5,3,Lead Author,2,0.7874,254,8,Bangladesh
+5,3,Lead Author,2,0.7874,254,28,Denmark
+5,3,Lead Author,2,0.7874,254,30,Egypt
+5,3,Lead Author,2,0.7874,254,37,Ghana
+5,3,Lead Author,2,0.7874,254,42,Hungary
+5,3,Lead Author,2,0.7874,254,60,Malaysia
+5,3,Lead Author,2,0.7874,254,86,Russian Federation
+5,3,Lead Author,2,0.7874,254,88,Saudi Arabia
+5,3,Lead Author,2,0.7874,254,99,Sudan
+5,3,Lead Author,2,0.7874,254,104,Tanzania
+5,3,Lead Author,2,0.7874,254,105,Thailand
+5,3,Lead Author,1,0.3937,254,15,Botswana
+5,3,Lead Author,1,0.3937,254,22,Chile
+5,3,Lead Author,1,0.3937,254,24,Colombia
+5,3,Lead Author,1,0.3937,254,25,Costa Rica
+5,3,Lead Author,1,0.3937,254,33,Fiji
+5,3,Lead Author,1,0.3937,254,34,Finland
+5,3,Lead Author,1,0.3937,254,38,Greece
+5,3,Lead Author,1,0.3937,254,41,Hong Kong
+5,3,Lead Author,1,0.3937,254,46,Iran
+5,3,Lead Author,1,0.3937,254,53,Kenya
+5,3,Lead Author,1,0.3937,254,67,Montenegro
+5,3,Lead Author,1,0.3937,254,69,Morocco
+5,3,Lead Author,1,0.3937,254,81,Philippines
+5,3,Lead Author,1,0.3937,254,82,Poland
+5,3,Lead Author,1,0.3937,254,89,Senegal
+5,3,Lead Author,1,0.3937,254,115,Uganda
+5,3,Lead Author,1,0.3937,254,122,Zambia
+5,3,Lead Author,1,0.3937,254,123,Zimbabwe
+5,3,Review Editor,7,19.4444,36,113,USA
+5,3,Review Editor,5,13.8889,36,16,Brazil
+5,3,Review Editor,2,5.5556,36,7,Austria
+5,3,Review Editor,2,5.5556,36,99,Sudan
+5,3,Review Editor,2,5.5556,36,117,United Kingdom
+5,3,Review Editor,1,2.7778,36,5,Argentina
+5,3,Review Editor,1,2.7778,36,10,Belgium
+5,3,Review Editor,1,2.7778,36,17,Bulgaria
+5,3,Review Editor,1,2.7778,36,23,China
+5,3,Review Editor,1,2.7778,36,26,Cuba
+5,3,Review Editor,1,2.7778,36,28,Denmark
+5,3,Review Editor,1,2.7778,36,36,Germany
+5,3,Review Editor,1,2.7778,36,42,Hungary
+5,3,Review Editor,1,2.7778,36,44,India
+5,3,Review Editor,1,2.7778,36,49,Italy
+5,3,Review Editor,1,2.7778,36,64,Mexico
+5,3,Review Editor,1,2.7778,36,69,Morocco
+5,3,Review Editor,1,2.7778,36,107,Netherlands
+5,3,Review Editor,1,2.7778,36,75,Norway
+5,3,Review Editor,1,2.7778,36,97,Spain
+5,3,Review Editor,1,2.7778,36,109,Trinidad and Tobago
+5,3,Review Editor,1,2.7778,36,116,Ukraine
+5,3,Review Editor,1,2.7778,36,122,Zambia
