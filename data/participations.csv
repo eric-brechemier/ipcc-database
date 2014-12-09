@@ -774,7 +774,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1292,2,1,4,CA,1921,J. Mcwilliams,209,University of California Los Angeles,USA,NULL,NULL
 1294,2,1,4,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
 1318,2,1,4,CA,1974,M. Miller,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
-1366,2,1,4,CA,2107,J.  David Neelin,544,University of California,USA,NULL,NULL
+1366,2,1,4,CA,2107,J. David Neelin,544,University of California,USA,NULL,NULL
 1414,2,1,4,CA,2197,E. Olaguer,1248,Dow Chemical Co.,USA,NULL,NULL
 1429,2,1,4,CA,2246,Timothy N. Palmer,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
 1456,2,1,4,CA,2297,C. Penland,248,University of Colorado,USA,NULL,NULL
@@ -6118,7 +6118,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7103,5,1,9,CA,4623,Colin Morice,117,N/A,United Kingdom,NULL,NULL
 7106,5,1,9,CA,4626,Rym Msadek,113,N/A,USA,NULL,NULL
 7117,5,1,9,CA,2083,Gunnar Myhre,241,Center for International Climate and Environment (CICERO),Norway,218,Department of Geosciences
-7122,5,1,9,CA,2107,J.  David Neelin,113,N/A,USA,NULL,NULL
+7122,5,1,9,CA,2107,J. David Neelin,113,N/A,USA,NULL,NULL
 7144,5,1,9,CA,4685,Jeff Painter,113,N/A,USA,NULL,NULL
 7151,5,1,9,CA,2278,Tatiana Pavlova,86,N/A,Russian Federation,NULL,NULL
 7156,5,1,9,CA,2307,Judith Perlwitz,243,Cooperative Institute for Research in Environmental Sciences (CIRES),USA,NULL,NULL
@@ -6212,7 +6212,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7142,5,1,10,CA,4680,Friederike Otto,117,N/A,United Kingdom,NULL,NULL
 7165,5,1,10,CA,2332,David Pierce,113,N/A,USA,NULL,NULL
 7170,5,1,10,CA,4720,Debbie Polson,117,N/A,United Kingdom,NULL,NULL
-7183,5,1,10,CA,4738,Jara  Imbers Quintana,117,N/A,United Kingdom,NULL,NULL
+7183,5,1,10,CA,4738,Jara Imbers Quintana,117,N/A,United Kingdom,NULL,NULL
 7200,5,1,10,CA,4758,Aurélien Ribes,35,N/A,France,NULL,NULL
 7215,5,1,10,CA,4776,Joeri Rogelj,102,N/A,Switzerland,NULL,NULL
 7233,5,1,10,CA,4800,Beena Balan Sarojini,117,N/A,United Kingdom,NULL,NULL
@@ -6491,7 +6491,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6987,5,1,14,CA,4474,Jeff Knight,117,N/A,United Kingdom,NULL,NULL
 6990,5,1,14,CA,1534,Thomas Knutson,113,N/A,USA,NULL,NULL
 7005,5,1,14,CA,4491,Ashwini Kulkarni,44,N/A,India,NULL,NULL
-7006,5,1,14,CA,4492,Koteswara  Rao Kundeti,44,N/A,India,NULL,NULL
+7006,5,1,14,CA,4492,Koteswara Rao Kundeti,44,N/A,India,NULL,NULL
 7014,5,1,14,CA,4503,K. M. Lau,113,N/A,USA,NULL,NULL
 7025,5,1,14,CA,4514,Geert Lenderink,107,N/A,Netherlands,NULL,NULL
 7026,5,1,14,CA,4515,Chris Lennard,95,N/A,South Africa,NULL,NULL
@@ -6505,7 +6505,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7085,5,1,14,CA,1941,Claudio Menendez,5,N/A,Argentina,NULL,NULL
 7112,5,1,14,CA,4632,Hiroyuki Murakami,113,N/A,USA,NULL,NULL
 7121,5,1,14,CA,4643,Mary Jo Nath,113,N/A,USA,NULL,NULL
-7123,5,1,14,CA,2107,J.  David Neelin,113,N/A,USA,NULL,NULL
+7123,5,1,14,CA,2107,J. David Neelin,113,N/A,USA,NULL,NULL
 7134,5,1,14,CA,4671,Martin Olesen,28,N/A,Denmark,NULL,NULL
 7168,5,1,14,CA,4717,Jan Polcher,35,N/A,France,NULL,NULL
 7180,5,1,14,CA,4734,Yun Qian,113,N/A,USA,NULL,NULL
