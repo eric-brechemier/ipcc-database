@@ -2900,7 +2900,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7730,3,1,SPM,LA,1431,Thomas R. Karl,1,N/A,N/A,NULL,NULL
 7729,3,1,SPM,LA,1434,David J. Karoly,1,N/A,N/A,NULL,NULL
 7733,3,1,SPM,LA,1482,Haroon Kheshgi,1,N/A,N/A,NULL,NULL
-7732,3,1,SPM,LA,1695,Corrine Le Quéré,1,N/A,N/A,NULL,NULL
+7732,3,1,SPM,LA,1695,Corinne Le Quéré,1,N/A,N/A,NULL,NULL
 7731,3,1,SPM,LA,5088,Kathy Maskell,1,N/A,N/A,NULL,NULL
 7737,3,1,SPM,LA,1871,Luis Jose Mata,1,N/A,N/A,NULL,NULL
 7734,3,1,SPM,LA,1892,Bryant J. McAvaney,1,N/A,N/A,NULL,NULL
@@ -4039,7 +4039,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4061,4,1,5,LA,1024,Jonathan M. Gregory,204,University of Reading,United Kingdom,256,Department of Meteorology
 4083,4,1,5,LA,1052,Sergey Gulev,205,P.P. Shirshov Institute of Oceanography,Russian Federation,NULL,NULL
 4109,4,1,5,LA,1099,Kimio Hanawa,698,Tohoku Gakuin University,Japan,253,"Physical Oceanography Laboratry,Department of Geophysics, Graduate School of Science"
-4391,4,1,5,LA,1695,Corrine Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
+4391,4,1,5,LA,1695,Corinne Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
 4423,4,1,5,LA,1709,Sydney Levitus,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 4660,4,1,5,LA,2141,Yukihiro Nojiri,723,Secretariat of Council for Science and Technology Policy Cabinet Office,Japan,NULL,NULL
 4994,4,1,5,LA,2760,C.K. Shum,168,Ohio State University,USA,69,Geodetic Science
@@ -4199,7 +4199,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4275,4,1,7,CA,1426,Bernd Kärcher,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,122,Institut of Atmospheric Physics
 4289,4,1,7,CA,1449,Michio Kawamiya,660,Frontier Research Center for Global Change,Japan,NULL,NULL
 4381,4,1,7,CA,1643,Keith Lassey,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
-4392,4,1,7,CA,1695,Corrine Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
+4392,4,1,7,CA,1695,Corinne Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
 4398,4,1,7,CA,1671,Caroline Leck,701,Stockholm University,Sweden,256,Department of Meteorology
 4404,4,1,7,CA,1679,Julia Lee-Taylor,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 4471,4,1,7,CA,1827,Yadvinder Malhi,153,University of Oxford,United Kingdom,NULL,NULL
@@ -5869,7 +5869,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5732,5,1,6,LA,920,Jim Galloway,199,University of Virginia,USA,NULL,NULL
 5755,5,1,6,LA,1160,Martin Heimann,212,Max-Planck Institute for Biogeochemistry,Germany,NULL,NULL
 5770,5,1,6,LA,1377,Christopher Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
-5802,5,1,6,LA,1695,Corrine Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
+5802,5,1,6,LA,1695,Corinne Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
 5829,5,1,6,LA,2085,Ranga Myneni,242,Boston University,USA,NULL,NULL
 5850,5,1,6,LA,2327,Shilong Piao,140,Peking University,China,NULL,NULL
 5918,5,1,6,LA,2993,Peter Thornton,271,Oak Ridge National Laboratory,USA,NULL,NULL
@@ -6582,7 +6582,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 6945,5,1,SPM,CA,1368,Gregory Johnson,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
 6962,5,1,SPM,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,140,Institut fur Geographie
 6966,5,1,SPM,CA,1442,Vladimir M. Kattsov,222,Voeikov Main Geophysical Observatory,Russian Federation,NULL,NULL
-7028,5,1,SPM,CA,1695,Corrine Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
+7028,5,1,SPM,CA,1695,Corinne Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
 7119,5,1,SPM,CA,2083,Gunnar Myhre,241,Center for International Climate and Environment (CICERO),Norway,218,Department of Geosciences
 7139,5,1,SPM,CA,2220,Timothy Osborn,231,University of East Anglia,United Kingdom,NULL,NULL
 7153,5,1,SPM,CA,2280,Antony Payne,160,University of Bristol,United Kingdom,NULL,NULL
