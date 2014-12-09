@@ -43,4 +43,5 @@ ON all_participations.role = roles.symbol
 ORDER BY
   wmo_participations.ar,
   roles.rank,
-  wmo_participations.total DESC
+  wmo_participations.total DESC,
+  wmo_participations.name

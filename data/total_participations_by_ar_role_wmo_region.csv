@@ -11,8 +11,8 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 1,CLA,Coordinating Lead Author,SWP,South-West Pacific,19,26.3889,72
 1,CLA,Coordinating Lead Author,ASI,Asia,11,15.2778,72
 1,CLA,Coordinating Lead Author,AFR,Africa,10,13.8889,72
-1,CLA,Coordinating Lead Author,WMONA,Non Available,8,11.1111,72
 1,CLA,Coordinating Lead Author,ASI,Asia,8,11.1111,72
+1,CLA,Coordinating Lead Author,WMONA,Non Available,8,11.1111,72
 1,CLA,Coordinating Lead Author,AFR,Africa,7,9.7222,72
 1,CLA,Coordinating Lead Author,SAM,South America,6,8.3333,72
 1,CLA,Coordinating Lead Author,WMONA,Non Available,3,4.1667,72
@@ -31,8 +31,8 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 1,LA,Lead Author,SWP,South-West Pacific,19,6.1093,311
 1,LA,Lead Author,ASI,Asia,11,3.5370,311
 1,LA,Lead Author,AFR,Africa,10,3.2154,311
-1,LA,Lead Author,WMONA,Non Available,8,2.5723,311
 1,LA,Lead Author,ASI,Asia,8,2.5723,311
+1,LA,Lead Author,WMONA,Non Available,8,2.5723,311
 1,LA,Lead Author,AFR,Africa,7,2.2508,311
 1,LA,Lead Author,SAM,South America,6,1.9293,311
 1,LA,Lead Author,WMONA,Non Available,3,0.9646,311
@@ -131,13 +131,13 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 3,CLA,Coordinating Lead Author,NAC,"North America, Central America and the Caribbean",21,24.7059,85
 3,CLA,Coordinating Lead Author,ASI,Asia,18,21.1765,85
 3,CLA,Coordinating Lead Author,SWP,South-West Pacific,11,12.9412,85
-3,CLA,Coordinating Lead Author,SAM,South America,10,11.7647,85
 3,CLA,Coordinating Lead Author,AFR,Africa,10,11.7647,85
+3,CLA,Coordinating Lead Author,SAM,South America,10,11.7647,85
 3,CLA,Coordinating Lead Author,ASI,Asia,9,10.5882,85
 3,CLA,Coordinating Lead Author,SAM,South America,9,10.5882,85
-3,CLA,Coordinating Lead Author,SWP,South-West Pacific,5,5.8824,85
-3,CLA,Coordinating Lead Author,SAM,South America,5,5.8824,85
 3,CLA,Coordinating Lead Author,AFR,Africa,5,5.8824,85
+3,CLA,Coordinating Lead Author,SAM,South America,5,5.8824,85
+3,CLA,Coordinating Lead Author,SWP,South-West Pacific,5,5.8824,85
 3,CLA,Coordinating Lead Author,AFR,Africa,4,4.7059,85
 3,CLA,Coordinating Lead Author,WMONA,Non Available,3,3.5294,85
 3,CLA,Coordinating Lead Author,WMONA,Non Available,1,1.1765,85
@@ -163,8 +163,8 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 3,LA,Lead Author,SAM,South America,10,1.6313,613
 3,LA,Lead Author,ASI,Asia,9,1.4682,613
 3,LA,Lead Author,SAM,South America,9,1.4682,613
-3,LA,Lead Author,SAM,South America,5,0.8157,613
 3,LA,Lead Author,AFR,Africa,5,0.8157,613
+3,LA,Lead Author,SAM,South America,5,0.8157,613
 3,LA,Lead Author,SWP,South-West Pacific,5,0.8157,613
 3,LA,Lead Author,AFR,Africa,4,0.6525,613
 3,LA,Lead Author,WMONA,Non Available,3,0.4894,613
@@ -187,13 +187,13 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 3,RE,Review Editor,NAC,"North America, Central America and the Caribbean",21,24.1379,87
 3,RE,Review Editor,ASI,Asia,18,20.6897,87
 3,RE,Review Editor,SWP,South-West Pacific,11,12.6437,87
-3,RE,Review Editor,SAM,South America,10,11.4943,87
 3,RE,Review Editor,AFR,Africa,10,11.4943,87
+3,RE,Review Editor,SAM,South America,10,11.4943,87
 3,RE,Review Editor,ASI,Asia,9,10.3448,87
 3,RE,Review Editor,SAM,South America,9,10.3448,87
-3,RE,Review Editor,SWP,South-West Pacific,5,5.7471,87
-3,RE,Review Editor,SAM,South America,5,5.7471,87
 3,RE,Review Editor,AFR,Africa,5,5.7471,87
+3,RE,Review Editor,SAM,South America,5,5.7471,87
+3,RE,Review Editor,SWP,South-West Pacific,5,5.7471,87
 3,RE,Review Editor,AFR,Africa,4,4.5977,87
 3,RE,Review Editor,WMONA,Non Available,3,3.4483,87
 3,RE,Review Editor,WMONA,Non Available,1,1.1494,87
@@ -210,17 +210,17 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 3,CA,Contributing Author,AFR,Africa,36,3.8668,931
 3,CA,Contributing Author,SAM,South America,31,3.3298,931
 3,CA,Contributing Author,EUR,Europe,28,3.0075,931
-3,CA,Contributing Author,NAC,"North America, Central America and the Caribbean",26,2.7927,931
 3,CA,Contributing Author,EUR,Europe,26,2.7927,931
+3,CA,Contributing Author,NAC,"North America, Central America and the Caribbean",26,2.7927,931
 3,CA,Contributing Author,NAC,"North America, Central America and the Caribbean",21,2.2556,931
 3,CA,Contributing Author,ASI,Asia,18,1.9334,931
 3,CA,Contributing Author,SWP,South-West Pacific,11,1.1815,931
 3,CA,Contributing Author,AFR,Africa,10,1.0741,931
 3,CA,Contributing Author,SAM,South America,10,1.0741,931
-3,CA,Contributing Author,SAM,South America,9,0.9667,931
 3,CA,Contributing Author,ASI,Asia,9,0.9667,931
-3,CA,Contributing Author,SAM,South America,5,0.5371,931
+3,CA,Contributing Author,SAM,South America,9,0.9667,931
 3,CA,Contributing Author,AFR,Africa,5,0.5371,931
+3,CA,Contributing Author,SAM,South America,5,0.5371,931
 3,CA,Contributing Author,SWP,South-West Pacific,5,0.5371,931
 3,CA,Contributing Author,AFR,Africa,4,0.4296,931
 3,CA,Contributing Author,WMONA,Non Available,3,0.3222,931
@@ -230,8 +230,8 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 4,CLA,Coordinating Lead Author,EUR,Europe,235,232.6733,101
 4,CLA,Coordinating Lead Author,NAC,"North America, Central America and the Caribbean",177,175.2475,101
 4,CLA,Coordinating Lead Author,ASI,Asia,101,100.0000,101
-4,CLA,Coordinating Lead Author,SWP,South-West Pacific,64,63.3663,101
 4,CLA,Coordinating Lead Author,ASI,Asia,64,63.3663,101
+4,CLA,Coordinating Lead Author,SWP,South-West Pacific,64,63.3663,101
 4,CLA,Coordinating Lead Author,SWP,South-West Pacific,56,55.4455,101
 4,CLA,Coordinating Lead Author,AFR,Africa,46,45.5446,101
 4,CLA,Coordinating Lead Author,EUR,Europe,36,35.6436,101
@@ -254,8 +254,8 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 4,LA,Lead Author,EUR,Europe,235,35.7143,658
 4,LA,Lead Author,NAC,"North America, Central America and the Caribbean",177,26.8997,658
 4,LA,Lead Author,ASI,Asia,101,15.3495,658
-4,LA,Lead Author,SWP,South-West Pacific,64,9.7264,658
 4,LA,Lead Author,ASI,Asia,64,9.7264,658
+4,LA,Lead Author,SWP,South-West Pacific,64,9.7264,658
 4,LA,Lead Author,SWP,South-West Pacific,56,8.5106,658
 4,LA,Lead Author,AFR,Africa,46,6.9909,658
 4,LA,Lead Author,EUR,Europe,36,5.4711,658
@@ -302,8 +302,8 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 4,CA,Contributing Author,EUR,Europe,235,25.7675,912
 4,CA,Contributing Author,NAC,"North America, Central America and the Caribbean",177,19.4079,912
 4,CA,Contributing Author,ASI,Asia,101,11.0746,912
-4,CA,Contributing Author,SWP,South-West Pacific,64,7.0175,912
 4,CA,Contributing Author,ASI,Asia,64,7.0175,912
+4,CA,Contributing Author,SWP,South-West Pacific,64,7.0175,912
 4,CA,Contributing Author,SWP,South-West Pacific,56,6.1404,912
 4,CA,Contributing Author,AFR,Africa,46,5.0439,912
 4,CA,Contributing Author,EUR,Europe,36,3.9474,912
