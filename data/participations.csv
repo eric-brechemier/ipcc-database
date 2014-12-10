@@ -5438,7 +5438,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3693,4,3,10,CLA,286,Jean E. Bogner,914,Landfills + Inc,USA,NULL,NULL
 3570,4,3,10,LA,44,Mohammed Abdelrafie Ahmed,487,University of Khartoum,Sudan,231,Faculty of Engineering & Architecture
 3887,4,3,10,LA,681,Cristobal Felix Diaz Morejon,923,Ministery of Science Technology and the Environment,Cuba,NULL,NULL
-3946,4,3,10,LA,803,Andre P.C. Faaij,273,University of Utrecht,Netherlands,177,Copernicus Institute for Sustainable Development -
+3946,4,3,10,LA,803,Andre Faaij,273,University of Utrecht,Netherlands,177,Copernicus Institute for Sustainable Development -
 4019,4,3,10,LA,925,Qingxian Gao,928,Chinese Research Academy of Environmental Science,China,NULL,NULL
 4124,4,3,10,LA,1127,Seiji Hashimoto,129,National Institute for Environmental Studies,Japan,NULL,NULL
 4480,4,3,10,LA,1843,Katarina Mareckova,955,Federal Ministry for Environment,Austria,NULL,NULL
@@ -5468,7 +5468,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5174,4,3,11,RE,3095,Aviel Verbruggen,649,University of Antwerp,Belgium,NULL,NULL
 3634,4,3,11,CA,157,Shimon Awerbuch,113,N/A,USA,NULL,NULL
 3666,4,3,11,CA,245,Lenny S. Bernstein,909,L. S. Bernstein & Associates L.L.C.,USA,NULL,NULL
-3947,4,3,11,CA,803,Andre P.C. Faaij,273,University of Utrecht,Netherlands,177,Copernicus Institute for Sustainable Development -
+3947,4,3,11,CA,803,Andre Faaij,273,University of Utrecht,Netherlands,177,Copernicus Institute for Sustainable Development -
 4134,4,3,11,CA,1143,Hitoshi Hayami,851,Keio University,Japan,NULL,NULL
 4142,4,3,11,CA,1158,Tom-Reiel Heggedal,902,Statistics Norway,Norway,NULL,NULL
 4357,4,3,11,CA,1605,Snorre Kverndokk,584,Frischsenteret,Norway,NULL,NULL
