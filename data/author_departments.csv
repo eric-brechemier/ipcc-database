@@ -1,6 +1,5 @@
 author_id,Author (INFO),department_id,Department (INFO)
 1,A. Aaheim,221,Centre for International Climate and Environmental Research-Oslo (CICERO)
-4,Mohamed Abdrabo,182,Institute of Graduate Studies and Research
 18,A. Ackerman,6,Ames Research Center
 27,Neil Adger,19,College of Life and Environmental Sciences
 37,Shardul Agrawala,94,International Research Institute
@@ -12,7 +11,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 70,Richard B. Alley,124,Department of Geosciences
 84,Caspar Ammann,59,Climate and Global Dynamics Division
 100,J.K. Angell,106,Air Resources Laboratory
-101,J. Angella,114,Environmental Research Laboratories
 112,A.J. Apling,285,Department of the Environment
 114,Michael J. Apps,265,Canadian Forest Service
 122,Phillip A. Arkin,92,Lamont-Doherty Earth Observatory
@@ -56,7 +54,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 323,Pascale Braconnot,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 331,Guy Brasseur,60,Earth and Sun Systems Laboratory
 336,Antoinette Brenkert,215,Joint Global Change Research Institute
-337,Francois-Marie Breon,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 338,Christopher Bretherton,20,Department of Atmospheric Sciences
 343,Keith R. Briffa,143,Climatic Research Unit
 345,Lino Briguglio,188,Islands and Small States Institute
@@ -85,7 +82,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 485,A. Anthony Chen,246,Department of Physics
 491,Zhenlin Chen,99,Dept of International Cooperation
 492,C. Chen,96,Consortium for International Earth Science Information Network
-493,William Cheung,193,Fisheries Centre
 497,Amnat Chidthaisong,236,The Joint Graduate School of Energy and Environment
 498,Francis Chiew,75,CSIRO Land and Water
 499,M. Chin,1,Goddard Space Flight Center
@@ -107,11 +103,9 @@ author_id,Author (INFO),department_id,Department (INFO)
 550,Joey Comiso,1,Goddard Space Flight Center
 551,Rosa Hilda Compagnucci,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
 552,Cecilia Conde,150,Centro de Ciencias de la Atmosfera
-554,Andrew Constable,197,Antarctic Marine Ecosystems Program
 555,Thomas J. Conway,101,Earth System Research Laboratory
 556,Edward Cook,92,Lamont-Doherty Earth Observatory
 557,W. Cooke,103,Geophysical Fluid Dynamics Laboratory
-561,Esteve Corbera,230,Institute of Environmental Science and Technology
 567,Elsa Cortijo,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 573,Peter M. Cox,18,School of Engineering Computer Science and Mathematics
 573,Peter M. Cox,87,Hadley Centre for Climate Prediction and Research
@@ -121,7 +115,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 608,J.S. Daniel,112,Aeronomy Laboratory
 623,J. Davison,281,Greenhouse Gas R&D Programme
 626,Jacqueline De Chazal,123,Institut d'Astronomie et de Géophysique G. Lemaitre
-633,M. de Lourdes Villers-Ruiz,150,Centro de Ciencias de la Atmosfera
 646,A. Del Genio,3,Goddard Institute for Space Studies
 647,Pascale Delecluse,65,Laboratoire d'Oceanographie Dynamique et Climatologie
 649,Thomas L. Delworth,103,Geophysical Fluid Dynamics Laboratory
@@ -139,13 +132,11 @@ author_id,Author (INFO),department_id,Department (INFO)
 710,Nikolai Dotzek,122,Institut of Atmospheric Physics
 711,B.C. Douglas,107,National Oceanographic Data Center
 715,Charles Doutriaux,126,Program for Climate Model Diagnosisand Intercomparison
-716,Kirstin Dow,192,Geography
 719,Thomas E. Downing,47,Environmental Change Institute
 724,Emmanuelle Driesschaert,123,Institut d'Astronomie et de Géophysique G. Lemaitre
 728,W. Drosdowsky,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
 737,Jean-Louis Dufresne,64,Laboratoire de Météorologie Dynamique (LMD)
 744,Jean-Claude Duplessy,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
-750,Ye Duzheng,147,Institute of Atmospheric Physics
 752,Mark Dyurgerov,160,Institute of Arctic and Alpine Research
 754,David Easterling,101,Earth System Research Laboratory
 775,James W. Elkins,101,Earth System Research Laboratory
@@ -243,7 +234,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 1279,N. Husson,64,Laboratoire de Météorologie Dynamique (LMD)
 1283,Philippe Huybrechts,134,Departement Geografie
 1295,William Ingram,87,Hadley Centre for Climate Prediction and Research
-1297,Gregory Insarov,169,Institute of Geography
 1305,Hisashi Ishitani,41,Graduate School of Engineering
 1314,C. Jackman,1,Goddard Space Flight Center
 1315,Daniel Jacob,135,Department of Earth and Planetary Sciences
@@ -262,7 +252,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 1391,Sylvie Joussaume,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 1392,Jean Jouzel,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 1405,Masa Kageyama,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
-1412,Patricia Kameri-Mbote,209,Strathmore Law Schoo
 1426,Bernd Kärcher,122,Institut of Atmospheric Physics
 1431,Thomas R. Karl,108,National Climatic Data Center
 1436,Georg Kaser,140,Institut fur Geographie
@@ -276,7 +265,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 1497,Masahide Kimoto,37,Center for Climate System Research
 1499,Brian King,216,National Oceanography Centre Southampton
 1501,M.D. King,9,Goddard Laboratory of the Atmosphere
-1505,Patrick Kinney,91,Mailman School of Public Health
 1514,Ben Kirtman,141,Center for Ocean-Land-Atmosphere Studies
 1518,Akio Kitoh,142,First Research Laboratory Climate ResearchDepartment
 1531,R. Knight,108,National Climatic Data Center
@@ -363,7 +351,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 2045,Philip Mote,23,Joint Institute for the Study of the Atmosphere and Oceans(JIASO)
 2045,Philip Mote,83,Joint Institute for the Study of the Atmosphere and Oceans(JIASO)
 2062,Simon A. Müller,12,"Climate and Environmental Physics,Physics Institute"
-2066,Luis Mundaca,222,International Institute for Industrial Environmental Economics
 2070,James M. Murphy,87,Hadley Centre for Climate Prediction and Research
 2071,D. Murphy,112,Aeronomy Laboratory
 2075,Raimund Muscheler,4,Goddard Earth Sciences and Technology Center
@@ -386,12 +373,9 @@ author_id,Author (INFO),department_id,Department (INFO)
 2174,H Oeschger,14,Physics Institute
 2186,G. Ohring,116,Satellite Data and Information Service
 2196,Daniel Olago,224,Department of Geology
-2207,Jean Ometto,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
-2212,Maggie Opondo,223,Institute for Climate Change and Adaptation
 2215,Hans Opschoor,185,Insititute of Social Studies
 2219,James Orr,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 2219,James Orr,260,Marine Environment Laboratories
-2223,Ursula Oswald Spring,152,Centro Regional de Investigaciones Multidiscipinarias
 2225,Bette Otto-Bliesner,59,Climate and Global Dynamics Division
 2228,Jonathan Overpeck,108,National Climatic Data Center
 2228,Jonathan Overpeck,226,Institute for the Study of Planet Earth
@@ -407,7 +391,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 2292,W. Richard Peltier,189,Department of Physics
 2295,Tsung-Hung Peng,111,Atlantic Oceanographic and Meteorological Laboratory
 2298,Joyce E. Penner,158,Department of Atmospheric Oceanic and Space Sciences
-2308,E. Perrott,47,Environmental Change Institute
 2313,Thomas Peterson,108,National Climatic Data Center
 2319,Philippe Peylin,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 2325,Thomas Phillips,126,Program for Climate Model Diagnosisand Intercomparison
@@ -416,8 +399,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 2347,Hugh M. Pitcher,215,Joint Global Change Research Institute
 2349,Andy Pitman,208,Department of Physical Geography
 2361,J. Polcher,64,Laboratoire de Météorologie Dynamique (LMD)
-2366,Elvira Poloczanska,76,CSIRO Marine and Atmospheric Research
-2367,Alexander Polonsky,227,Marine Hydrophysical Institute
 2370,Michael Ponater,122,Institut of Atmospheric Physics
 2371,V. Pope,87,Hadley Centre for Climate Prediction and Research
 2372,David Popp,273,The Maxwell School
@@ -453,7 +434,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 2511,J. Roads,167,Scripps Institution of Oceanography
 2512,D.L. Roberts,87,Hadley Centre for Climate Prediction and Research
 2514,Malcolm Roberts,87,Hadley Centre for Climate Prediction and Research
-2534,Dean Roemmich,167,Scripps Institution of Oceanography
 2536,G. Roff,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
 2543,Vladimir Romanenkov,274,All-Russian Institute of Agrochemistry
 2548,C.F. Ropelewski,95,International Research Institute for Climate Prediction
@@ -501,12 +481,10 @@ author_id,Author (INFO),department_id,Department (INFO)
 2860,Sheila Stark,87,Hadley Centre for Climate Prediction and Research
 2863,P. Steele,76,CSIRO Marine and Atmospheric Research
 2868,D.J. Stensrud,115,National Severe Storms Laboratory
-2869,Graeme Stephens,2,Jet Propulsion Laboratory
 2873,G. Stevens,199,Nuclear Energy Agency (NEA)
 2888,Lowell D. Stott,233,Department of Earth Sciences
 2889,Peter A. Stott,87,Hadley Centre for Climate Prediction and Research
 2890,Ronald J. Stouffer,103,Geophysical Fluid Dynamics Laboratory
-2898,Claudia Stubenrauch,64,Laboratoire de Météorologie Dynamique (LMD)
 2899,Nicola Stuber,127,Department of Meteorology
 2902,W. Su,149,Research Centie for Eco-Environmental Science
 2904,C.E. Suarez,207,Instituto de Economia Energetica (IDEE)
@@ -528,7 +506,6 @@ author_id,Author (INFO),department_id,Department (INFO)
 3067,Roderik Van de Wal,175,Sylvester Willo Institute for Marine and Atmospheric Research
 3077,Henk Van Schaik,270,Co-operative Programme on Water and Climate
 3082,Jean-Pascal van Ypersele,123,Institut d'Astronomie et de Géophysique G. Lemaitre
-3088,Robert Vautard,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 3091,Andrei A. Velichko,169,Institute of Geography
 3092,Pier Vellinga,184,Institute for Environmental Studies
 3106,Ricardo Villalba,263,Departmento de Dendrocronologia e Historia Ambiental
@@ -584,5 +561,3 @@ author_id,Author (INFO),department_id,Department (INFO)
 3364,Zong-Ci Zhao,97,National Climate Centre
 3384,H.J. Zwally,1,Goddard Space Flight Center
 3385,Francis W. Zwiers,54,Canadian Centre for Climate Modelling and Analysis
-3550,Ama Essel,203,Korle-Bu Teaching Hospital
-3813,Martin Jänicke,90,Environmental Policy Research Centre

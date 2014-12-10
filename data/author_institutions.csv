@@ -2,14 +2,9 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1,A. Aaheim,424,University of Oslo,Norway
 2,M. Abbott,180,Oregon State University,USA
 3,H. Abdel Nour,1388,Forest National Corporation,Sudan
-4,Mohamed Abdrabo,30,N/A,Egypt
-4,Mohamed Abdrabo,286,University of Alexandria,Egypt
-5,Amjad Abdulla,287,"Ministry of Housing,Environment and Energy",Maldives
 6,Ayako Abe-Ouchi,148,University of Tokyo,Japan
 7,Tarekegn Abeku,358,London School of Hygiene and Tropical Medicine,United Kingdom
 9,J. Aber,1050,University of New Hampshire,USA
-10,Achala Chandani Abeysekara,288,International Institute for Environment and Development (IIED),Sri Lanka
-11,Babatunde Abiodun,149,University of Cape Town,South Africa
 12,I. Abrol,44,N/A,India
 13,L.P. Abrol,1266,Indian Council of Agriculture Research,India
 14,Pamela Abuodha,757,University of Wollongong,Australia
@@ -23,7 +18,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 21,Roberto Acosta Moreno,26,N/A,Cuba
 21,Roberto Acosta Moreno,489,"Ministry of Science,Technology and Environment",Cuba
 22,P. Adams,1000,California Institute of Technology,USA
-23,Akintayo John Adedoyin,151,University of Botswana,Botswana
 24,Anthony O. Adegbulugbe,758,Obafemi Awolowo University,Nigeria
 24,Anthony O. Adegbulugbe,899,Centre for Energy Research and Development,Nigeria
 25,James O. Adejuwon,758,Obafemi Awolowo University,Nigeria
@@ -40,7 +34,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 33,Pramod Aggarwal,613,Indian Agricultural Research Institute,India
 34,Maureen Agnew,231,University of East Anglia,United Kingdom
 35,Micheline Agoli-Agbo,759,University of Abomey-Calavi,Benin
-36,Arun Agrawal,247,University of Michigan,USA
 37,Shardul Agrawala,44,N/A,India
 37,Shardul Agrawala,185,Columbia University,USA
 37,Shardul Agrawala,331,Organization for Economic Cooperation and Development (OECD),France
@@ -48,7 +41,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 39,Adrian Guillermo Aguilar,1267,Instituto de Geografia,Mexico
 41,Epiphane Dotou Ahlonsou,1082,Benin National Meteorological Service,Benin
 42,Qazi Z. Ahmad,761,Bangladesh Unnayan Parishad (BUP),Bangladesh
-43,Essam Hassan Mohamed Ahmed,493,Egyptian Environmental Affairs Agency,Egypt
 44,Mohammed Abdelrafie Ahmed,487,University of Khartoum,Sudan
 45,Dilip Ahuja,900,National Institute of Advanced Studies,India
 46,Ahmed Aidoud,3,N/A,Algeria
@@ -62,8 +54,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 55,D.L. Albritton,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 56,Joseph M. Alcamo,764,University of Kassel,Germany
 56,Joseph M. Alcamo,888,National Institute for Public Health and the Environment (RIVM),Netherlands
-57,Edvin Aldrian,152,"Agency for Meteorology,Climatology and Geophysics",Indonesia
-58,Paulina Aldunce,144,University of Chile,Chile
 59,Lisa Alexander,125,University of New South Wales,Australia
 59,Lisa Alexander,182,Met Office,United Kingdom
 60,V. Alexander,755,University of Alaska,USA
@@ -85,14 +75,11 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 75,A. Alvarez,1269,Forestry Research Institute,Cuba
 77,A.N. Alwelaie,1270,Imam Muhammed Ibn Saudi Islamic University,Saudi Arabia
 78,F. Alyea,509,Georgia Institute of Technology,USA
-79,Habib Amamou,292,"Ministry of Agriculture,Water Resources and Fisheries",Tunisia
 80,Markus Amann,376,International Institute for Applied Systems Analysis (IIASA),Austria
 81,A. Amano,1365,Kwansei Gakuin University,Japan
 82,Peter Ambenjie,659,Kenya Meteorological Department,Kenya
 83,Philippe Ambrosi,360,World Bank,France
 84,Caspar Ammann,166,National Center for Atmospheric Research (NCAR),USA
-86,Soon-Il An,155,Yonsei University,South Korea
-87,Maria Ananicheva,293,Institute of Geography,Russian Federation
 88,Carlos A. Anaya,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
 89,T. Anderson,132,University of Washington,USA
 90,J. Anderson,1389,Hatherly Laboratories,United Kingdom
@@ -105,7 +92,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 98,Natalia Andronova,247,University of Michigan,USA
 99,B.W. Ang,894,National University of Singapore,Singapore
 100,J.K. Angell,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-101,J. Angella,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 102,Oleg A. Anisimov,294,State Hydrological Institute,Russian Federation
 103,S. Anjian,1213,National Meteorological Centre,China
 104,James Annan,660,Frontier Research Center for Global Change,Japan
@@ -114,19 +100,15 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 107,John Antle,767,Montana State University,USA
 108,John Antonov,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 110,Assaf Anyamba,124,National Aeronautics and Space Administration (NASA),USA
-111,Shigeru Aoki,156,Hokkaido University,Japan
 112,A.J. Apling,1390,Global Atmosphere Division,United Kingdom
 113,C. Appenzeller,126,University of Bern,Switzerland
 114,Michael J. Apps,790,Natural Resources Canada,Canada
 115,E. Aquize,80,N/A,Peru
-116,Fernando Aragon,296,Centro Mario Molina,Mexico
 117,Miguel Araújo,768,Environmental Change Institute,Portugal
 118,Julie Arblaster,157,Australian Bureau of Meteorology,Australia
 118,Julie Arblaster,166,National Center for Atmospheric Research (NCAR),USA
 119,David Archer,113,N/A,USA
 119,David Archer,661,University of Chicago,USA
-120,Douglas Arent,113,N/A,USA
-120,Douglas Arent,297,National Renewable Energy Laboratory (NREL),USA
 121,A. Aristarain,5,N/A,Argentina
 122,Phillip A. Arkin,185,Columbia University,USA
 122,Phillip A. Arkin,188,National Oceanographic and Atmospheric Administration (NOAA),USA
@@ -150,16 +132,13 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 139,A.J. Askew,700,World Meteorological Organization (WMO),Switzerland
 140,Arne Asmussen,906,Joanneum Research Graz,Austria
 142,R.A. Assel,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-143,Maria Assuncao Silva Dias,158,University of Sao Paulo,Brazil
 144,Julius Atlhopheng,151,University of Botswana,Botswana
 145,Shiv D. Atri,769,India Meteorological Department,India
 146,Samar Attaher,770,Central Laboratory for Agricultural Climate,Egypt
 147,D. Attard,62,N/A,Malta
-148,Marlene Attzs,289,University of the West Indies,Trinidad and Tobago
 149,A. Auclair,1391,Quebec,Canada
 150,H. Audus,1160,International Energy Agency,United Kingdom
 151,Ingeborg Auer,663,Central Institute for Meteorology and Geodynamics,Austria
-152,Maximilian Auffhammer,298,University of California Berkeley,USA
 153,O. Aumont,167,Institut Pierre Simon Laplace (IPSL),France
 154,John Austin,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 155,P. Austin,326,University of British Columbia,Canada
@@ -176,14 +155,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 169,L. Bajuk,1004,Mathsoft Data Analysis Products Division,USA
 170,David Baker,166,National Center for Atmospheric Research (NCAR),USA
 170,David Baker,428,Princeton University,USA
-171,Govindasamy Bala,44,N/A,India
-171,Govindasamy Bala,159,Indian Institute of Science,India
-172,John Balbus,299,National Institute of Environmental Health Sciences,USA
 173,Mark P. Baldwin,117,N/A,United Kingdom
 173,Mark P. Baldwin,664,Northwest Research Associates,USA
 175,R. Ball,113,N/A,USA
 177,R. Balling,784,Arizona State University,USA
-178,Jonathan Bamber,160,University of Bristol,United Kingdom
 179,D. Banister,117,N/A,United Kingdom
 180,G. Banjo,1275,University of Lagos,Nigeria
 181,C.W. Banning,1005,Universitat Kiel,Germany
@@ -196,8 +171,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 189,Chris Barlow,773,Mekong River Commission,Laos
 190,T.P. Barnett,259,University of California San Diego,USA
 190,T.P. Barnett,544,University of California,USA
-191,Jonathan Barnett,6,N/A,Australia
-191,Jonathan Barnett,300,University of Melbourne,Australia
 194,Jean-Marc Barnola,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),France
 195,A. Barnston,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 196,T. Barnwell,905,U.S. Environmental Protection Agency (EPA),USA
@@ -206,7 +179,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 200,A. Barros,195,Pennsylvania State University,USA
 201,Vicente Ricardo Barros,170,Universidad de Buenos Aires,Argentina
 202,Roger G. Barry,248,University of Colorado,USA
-203,Judit Bartholy,161,Eotvos Lorand University,Hungary
 204,P. Bartiein,1215,University of Oregon,USA
 205,C. Bartlett,1050,University of New Hampshire,USA
 206,Charles Basalirwa,595,Makerere University,Uganda
@@ -228,7 +200,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 221,Susanne Becken,73,N/A,New Zealand
 221,Susanne Becken,774,Landcare Research,New Zealand
 222,Alfred Becker,200,Potsdam Institute for Climate Impact Research,Germany
-223,Juerg Beer,162,Eawag,Switzerland
 224,R. Beetham,117,N/A,United Kingdom
 225,Paul Beggs,368,Macquarie University,Australia
 226,TL Bell,124,National Aeronautics and Space Administration (NASA),USA
@@ -241,8 +212,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 231,Martin Beniston,136,ETH Zurich,Switzerland
 231,Martin Beniston,753,University of Geneva,Switzerland
 232,Pablo Benítez-Ponce,908,British Columbia Ministry of Environment,Canada
-233,Gerardo Benito,97,N/A,Spain
-233,Gerardo Benito,301,Spanish Council for Scientific Research,Spain
 235,T. Benning,113,N/A,USA
 236,Charlotte Benson,1089,Overseas Development Institute,United Kingdom
 237,C. Bentley,731,University of Wisconsin,USA
@@ -275,7 +244,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 262,Nathaniel L. Bindoff,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 264,R. Bindschadler,124,National Aeronautics and Space Administration (NASA),USA
 265,D. Binet,1277,IFREMER,France
-266,Joern Birkmann,305,United Nations University - Institute for Environment and Human Security,Germany
 267,Fatih Birol,911,International Energy Agency,France
 268,D.K. Biswas,1165,Ministry of Environment and Forests,India
 269,Cecilia M. Bitz,113,N/A,USA
@@ -306,7 +274,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 291,Bert Bolin,1007,Retired,Sweden
 292,Suzanne Bolton,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 292,Suzanne Bolton,1092,National Marine Fisheries Service,USA
-293,Simon Bolwig,506,Risoe National Laboratory,Denmark
 294,W. Bomin,1213,National Meteorological Centre,China
 295,Gordon B. Bonan,166,National Center for Atmospheric Research (NCAR),USA
 296,D. Bond,20,N/A,Canada
@@ -328,7 +295,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 310,Olivier Boucher,182,Met Office,United Kingdom
 310,Olivier Boucher,1008,Laboratoire d'Optique Atmospherique,France
 311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina
-312,Jean-Philipe Boulanger,306,Institut de Recherche pour le Developpement (IRD),France
 313,Lahouari Bounoua,124,National Aeronautics and Space Administration (NASA),USA
 314,Philippe Bousquet,35,N/A,France
 314,Philippe Bousquet,167,Institut Pierre Simon Laplace (IPSL),France
@@ -337,7 +303,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 318,Jason E. Box,28,N/A,Denmark
 318,Jason E. Box,168,Ohio State University,USA
 319,H. Boyd,20,N/A,Canada
-320,Phil Boyd,307,National Institute of Water and Atmosphere,New Zealand
 321,Tim Boyer,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 322,J. Boyle,201,Lawrence Livermore National Laboratory,USA
 323,Pascale Braconnot,35,N/A,France
@@ -357,10 +322,8 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 334,R. Brazdil,1010,Masaryk University,Czech Republic
 335,W.S. Breed,113,N/A,USA
 336,Antoinette Brenkert,414,University of Maryland,USA
-337,Francois-Marie Breon,167,Institut Pierre Simon Laplace (IPSL),France
 338,Christopher Bretherton,132,University of Washington,USA
 339,F.P. Bretherton,731,University of Wisconsin,USA
-341,Peter G. Brewer,308,Monterey Bay Aquarium Research Institute,USA
 342,A. Breymcyer,1394,Institute of Geography and Spatial Organization,Poland
 343,Keith R. Briffa,231,University of East Anglia,United Kingdom
 345,Lino Briguglio,309,University of Malta,Malta
@@ -373,11 +336,9 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 350,Anthony J. Broccoli,258,Rutgers University,USA
 351,Patrick Brockmann,167,Institut Pierre Simon Laplace (IPSL),France
 353,David H. Bromwich,168,Ohio State University,USA
-354,Stefan Broennimann,126,University of Bern,Switzerland
 355,P. Brookes,1280,Institute of Arable Crops Research,United Kingdom
 356,H. Brooks,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 357,Nick Brooks,231,University of East Anglia,United Kingdom
-358,John Broome,153,University of Oxford,United Kingdom
 359,J. Brouwer,107,N/A,Netherlands
 360,Victor Brovkin,36,N/A,Germany
 360,Victor Brovkin,169,Max-Planck Institute for Meteorology,Germany
@@ -394,12 +355,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 372,James P. Bruce,781,Canadian Climate Program Board,Canada
 373,J. Bruggink,107,N/A,Netherlands
 375,M. Brunet-India,1012,University Rovira I Virgili,Spain
-377,Annegrete Bruvoll,511,Vista Analysis,Norway
 378,F.O. Bryan,1013,Program in Atmospheric and Oceanic Sciences,USA
 379,K. Bryan,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 380,F. Bryant,113,N/A,USA
 381,H. Bryden,1014,Southampton Oceanography Centre,United Kingdom
-382,Marcos Buckeridge,158,University of Sao Paulo,Brazil
 384,M. Budyko,1395,State Hydrological Institute,USSR
 385,Harald Bugmann,136,ETH Zurich,Switzerland
 385,Harald Bugmann,725,Swiss Federal Institute of Technology,Switzerland
@@ -408,7 +367,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 389,Lawrence Buja,166,National Center for Atmospheric Research (NCAR),USA
 390,Peter Bullock,1281,Cranfield University,United Kingdom
 391,F. Bultot,1282,Royal Meteorological Institute,Belgium
-392,Stuart Bunn,311,Griffith University,Australia
 393,Sarah Burch,326,University of British Columbia,Canada
 394,Nicholas Burger,544,University of California,USA
 395,Virginia Burkett,113,N/A,USA
@@ -423,8 +381,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 404,E. Byutner,1396,Main Geophysical Observatory,USSR
 405,D.L. Cadet,1397,Institut National des Sciences de l'Univers,France
 406,Patricia Cadule,167,Institut Pierre Simon Laplace (IPSL),France
-407,Rongshuo Cai,23,N/A,China
-407,Rongshuo Cai,314,Third Institute of Oceanography Chinese State Oceanic Administration,China
 408,Wenju Cai,6,N/A,Australia
 408,Wenju Cai,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 409,Zucong Cai,918,Institute of Soil Science Chinese Academy of Sciences,China
@@ -444,8 +400,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 424,John R. Campbell,316,University of Waikato,New Zealand
 425,B. Campbell,941,Agriculture and Agri-Food Canada (AAFC),Canada
 426,C.A. Campbell,73,N/A,New Zealand
-427,Diarmid Campbell-Lendrum,317,World Health Organization (WHO),United Kingdom
-428,Edmo Campos,158,University of Sao Paulo,Brazil
 430,Maximiliano Campos,318,Organization of American States,Costa Rica
 430,Maximiliano Campos,783,National Meteorological Institute,Costa Rica
 431,Josep Canadell,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
@@ -456,11 +410,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 437,H-X. Cao,1398,State Meteorological Administration,China
 439,Rodolfo Carcavallo,170,Universidad de Buenos Aires,Argentina
 439,Rodolfo Carcavallo,1095,Instituto Oswaldo Cruz,Argentina
-440,Omar-Dario Cardona,319,Universidad Nacional de Colombia,Colombia
-441,Martha Micheline Cariño Olvera,514,Universidad Autonoma de Baja California Sur,Mexico
 442,A. Carleton,1218,Indiana University,USA
-443,JoAnn Carmin,320,Massachusetts Institute of Technology,USA
-444,Edward Carr,321,University of South Carolina,USA
 445,Carlo Carraro,507,Fondazione Eni Enrico Mattei (FEEM),Italy
 445,Carlo Carraro,1168,University of Venice,Italy
 446,Jorge Carrasco,172,Direccion Meteorologica de Chile,Chile
@@ -469,27 +419,21 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 449,Timothy Carter,322,Finnish Environment Institute,Finland
 450,Gino Casassa,672,Centro de Estudios Cientificos (CECS),Chile
 451,Christophe Cassou,352,Centre National de la Recherche Scientifique (CNRS),France
-452,Edwin Castellanos,323,Universidad del Valle de Guatemala,Guatemala
 453,M. Castro,202,Universidad Complutense de Madrid,Spain
 454,H. Cattle,182,Met Office,United Kingdom
-455,Iracema Cavalcanti,173,National Institute for Space Research (INPE),Brazil
 456,Daniel Caya,657,Consortium Ouranos,Canada
 457,Daniel R. Cayan,259,University of California San Diego,USA
 458,Anny Cazenave,174,Laboratoire d'Etudes en Géophysique et Océanographie Spatiale (LEGOS),France
 460,Jean-Paul Ceron,515,Université de Limoges,France
 461,Carlos Clemente Cerri,158,University of Sao Paulo,Brazil
 462,R.D. Cess,1219,State University of New York,USA
-463,Dave Chadee,109,N/A,Trinidad and Tobago
-463,Dave Chadee,289,University of the West Indies,Trinidad and Tobago
 464,M.J. Chadwick,1169,Personal,United Kingdom
 465,S. Chalise,1283,ICIMOD,Nepal
 466,Brian Challenger,1096,Antigua Public Utilities Authority (APUA),Antigua and Barbuda
-467,Andrew Challinor,130,University of Leeds,United Kingdom
 468,Don Chambers,113,N/A,USA
 468,Don Chambers,175,University of South Florida,USA
 468,Don Chambers,252,University of Texas-Austin,USA
 469,Lynda Chambers,250,Bureau of Meteorology,Australia
-470,Muyeye Chambwera,324,United Nations Development Programme (UNDP),Zimbabwe
 471,Mark Chandler,185,Columbia University,USA
 472,William U. Chandler,1284,Battelle Institute,USA
 473,Edmund K. Chang,674,State University of New York Stony Brook,USA
@@ -499,7 +443,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 477,Ben Chao,124,National Aeronautics and Space Administration (NASA),USA
 478,F.S. Chapin,113,N/A,USA
 479,Terry Chapin III,755,University of Alaska,USA
-480,Yassine Abdul-Rahman Charabi,176,Sultan Qaboos University,Oman
 481,R. Charlson,132,University of Washington,USA
 481,R. Charlson,701,Stockholm University,Sweden
 482,Fred Cheghe,995,Ministry of Research Technical Training and Technology,Kenya
@@ -509,11 +452,8 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 486,Deliang Chen,177,University of Gothenburg,Sweden
 486,Deliang Chen,1017,Gateborg University,Sweden
 488,Wenjun Chen,919,Canada Centre for Remote Sensing,Canada
-489,Ying Chen,492,Chinese Academy of Social Sciences (CASS),China
 491,Zhenlin Chen,187,China Meteorological Administration,China
 492,C. Chen,185,Columbia University,USA
-493,William Cheung,326,University of British Columbia,Canada
-494,Abha Chhabra,178,Indian Space Research Organisation,India
 495,Netra Chhetri,72,N/A,Nepal
 495,Netra Chhetri,784,Arizona State University,USA
 496,G. Chichilnisky,1,N/A,N/A
@@ -523,7 +463,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 498,Francis Chiew,300,University of Melbourne,Australia
 499,M. Chin,124,National Aeronautics and Space Administration (NASA),USA
 500,N.W.S. Chipompha,1285,Department of Forestry,Malawi
-501,Sin Chan Chou,173,National Institute for Space Research (INPE),Brazil
 502,R. Christ,996,United Nations Environment Programme (UNEP),Kenya
 502,R. Christ,1170,IPCC,Switzerland
 503,Jens Hesselbjerg Krishna Christensen,179,Danish Meteorological Institute,Denmark
@@ -544,8 +483,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 517,Christa Clapp,905,U.S. Environmental Protection Agency (EPA),USA
 518,J. Clark,652,Duke University,USA
 519,Deborah A. Clark,678,University of Missouri-St. Louis,USA
-520,Peter Clark,113,N/A,USA
-520,Peter Clark,180,Oregon State University,USA
 522,K.M. Clark,113,N/A,USA
 523,S. Clark,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 524,A. Clarke,146,British Antarctic Survey,United Kingdom
@@ -558,7 +495,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 530,W.R. Cline,1368,Institute for International Economics,USA
 531,Bernard Clot,689,Federal Office of Meteorology and Climatology Meteo-Swiss,Switzerland
 532,J. Coakley,180,Oregon State University,USA
-533,Kevern Cochrane,327,Rhodes University,South Africa
 534,Christopher R Cocklin,811,James Cook University,Australia
 535,Jorge O. Codignotto,170,Universidad de Buenos Aires,Argentina
 538,J. Graham Cogley,20,N/A,Canada
@@ -583,16 +519,13 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 552,Cecilia Conde,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
 553,Ulisses Confalonieri,16,N/A,Brazil
 553,Ulisses Confalonieri,329,Oswaldo Cruz Foundation (FIOCRUZ),Brazil
-554,Andrew Constable,330,Australian Antarctic Division,Australia
 555,Thomas J. Conway,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 556,Edward Cook,113,N/A,USA
 556,Edward Cook,185,Columbia University,USA
 557,W. Cooke,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 559,J. Copeland,255,Colorado State University,USA
 560,A. Copping,113,N/A,USA
-561,Esteve Corbera,474,University of Barcelona,Spain
 563,Jan Corfee-Morlot,331,Organization for Economic Cooperation and Development (OECD),France
-564,Richard Corlett,233,Chinese Academy of Sciences,China
 565,Roman Corobov,332,Independent Consultant,Moldova
 565,Roman Corobov,786,Regionica,Moldova
 567,Elsa Cortijo,167,Institut Pierre Simon Laplace (IPSL),France
@@ -625,27 +558,20 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 593,Ulrich Cubasch,169,Max-Planck Institute for Meteorology,Germany
 593,Ulrich Cubasch,183,Freie Universität Berlin,Germany
 593,Ulrich Cubasch,668,Deutsches Klimarechenzentrum,Germany
-595,Xuefeng Cui,190,Beijing Normal University,China
 596,D. Cunnold,509,Georgia Institute of Technology,USA
 597,J.A. Curry,1019,Aerospace Engineering,USA
 598,Ruth Curry,461,Woods Hole Oceanographic Institution,USA
 599,Susana I. Curto De Casas,170,Universidad de Buenos Aires,Argentina
 600,Luis Veiga da Cunha,1099,Universidade Nova de Lisboa,Portugal
-601,Geoff Dabelko,333,University of Ohio,USA
-602,Pradeep Kumar Dadhich,524,Deloitte Touche Tohmatsu India Pvt. Ltd.,India
 603,B. Dahlstrom,260,Swedish Meteorological and Hydrological Institute,Sweden
 604,Aiguo Dai,113,N/A,USA
 604,Aiguo Dai,166,National Center for Atmospheric Research (NCAR),USA
 606,Martin Dameris,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany
 607,U. Dammgen,1286,Agricultural Institute for Climate Research,Germany
 608,J.S. Daniel,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-610,Purnamita Dasgupta,44,N/A,India
-610,Purnamita Dasgupta,334,Institute of Economic Growth,India
 612,N. Datsenko,1220,Hydrometeorological Research Centre of Russian Federation,Russian Federation
 613,Rutu Dave,530,Netherlands Environmental Assessment Agency,Netherlands
 614,F. David,1287,St. Jerome Institut Mediterranean,France
-615,Debra Davidson,20,N/A,Canada
-615,Debra Davidson,335,University of Alberta,Canada
 617,Ogunlade R. Davidson,149,University of Cape Town,South Africa
 617,Ogunlade R. Davidson,920,University of Sierra Leone,Sierra Leone
 618,J. Davies,182,Met Office,United Kingdom
@@ -661,22 +587,17 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 629,Francisco De La Chesnaye,905,U.S. Environmental Protection Agency (EPA),USA
 630,Stephane De La Rue Du Can,181,Lawrence Berkeley National Laboratory,USA
 632,P. De Laquil III,113,N/A,USA
-633,M. de Lourdes Villers-Ruiz,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
-633,M. de Lourdes Villers-Ruiz,1100,College of Forest Resources,Mexico
 635,John De Ronde,789,WIJ Delft Hydraulics,Netherlands
 636,Julia de Seixas,1099,Universidade Nova de Lisboa,Portugal
 637,H.J.M. De Vries,888,National Institute for Public Health and the Environment (RIVM),Netherlands
 638,J. De Wolde,273,University of Utrecht,Netherlands
 640,Andrew Dearing,1172,World Business Council for Sustainable Development,Switzerland
-642,Manuel De Castro,184,University of Castilla - La Mancha,Spain
-643,Ruth Defries,185,Columbia University,USA
 644,W. Degefu,1421,National Meteorological Services Agency,Ethiopia
 645,M. Dehn,1020,University of Bonn,Germany
 646,A. Del Genio,124,National Aeronautics and Space Administration (NASA),USA
 647,Pascale Delecluse,167,Institut Pierre Simon Laplace (IPSL),France
 648,K. Casey Delhotal,921,Research Triangle Institute (RTI) International,USA
 649,Thomas L. Delworth,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-650,Papa Demba Fall,336,University Cheikh Anta Diop of Dakar,Senegal
 653,W.B. DeMore,124,National Aeronautics and Space Administration (NASA),USA
 654,P. DeMott,255,Colorado State University,USA
 655,Mike Demuth,790,Natural Resources Canada,Canada
@@ -701,7 +622,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 669,Clara Deser,113,N/A,USA
 669,Clara Deser,166,National Center for Atmospheric Research (NCAR),USA
 670,R.L. Desjardin,941,Agriculture and Agri-Food Canada (AAFC),Canada
-671,Suraje Dessai,131,University of Exeter,United Kingdom
 672,Klaus Dethloff,137,Alfred Wegener Institute for Polar and Marine Research,Germany
 674,Robert Devoy,792,University College Cork,Ireland
 675,B. Dey,1222,Howard University,USA
@@ -717,7 +637,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 684,Robert E. Dickinson,430,University of Arizona,USA
 684,Robert E. Dickinson,509,Georgia Institute of Technology,USA
 686,Garba Goudou Dieudonne,1101,Office of the Prime Minister,Nigeria
-687,Noah Diffenbaugh,338,Stanford University,USA
 688,J. Dignon,201,Lawrence Livermore National Laboratory,USA
 689,Bouwe Dijkstra,1173,University of Heidelberg,Germany
 690,Oagile Dikinya,794,University of Western Australia,Australia
@@ -730,23 +649,16 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 698,E. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 699,Andrew F. Dlugolecki,795,Consultant,United Kingdom
 699,Andrew F. Dlugolecki,1290,Fire and Life Assurance Corp.,United Kingdom
-700,Francisco Doblas-Reyes,97,N/A,Spain
-700,Francisco Doblas-Reyes,189,Catalan Institute of Climate Sciences,Spain
-702,David Dodman,50,N/A,Jamaica
-702,David Dodman,339,International Institute for Environment and Development (IIED),Jamaica
 703,Petra Doll,285,Goethe University Frankfurt,Germany
 704,David J. Dokken,1103,University Corporation for Atmospheric Research (UCAR),USA
 705,Trond Dokken,75,N/A,Norway
 705,Trond Dokken,681,Bjerknes Centre for Climate Research,Norway
-708,Wenjie Dong,190,Beijing Normal University,China
 710,Nikolai Dotzek,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany
 711,B.C. Douglas,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 711,B.C. Douglas,414,University of Maryland,USA
 712,A. Douglas,1022,Creighton University,USA
 714,I. Douglas,117,N/A,United Kingdom
 715,Charles Doutriaux,201,Lawrence Livermore National Laboratory,USA
-716,Kirstin Dow,113,N/A,USA
-716,Kirstin Dow,321,University of South Carolina,USA
 718,H. Dowlatabadi,1038,Carnegie Mellon University,USA
 719,Thomas E. Downing,153,University of Oxford,United Kingdom
 719,Thomas E. Downing,340,Global Climate Adaptation Partnership,USA
@@ -756,16 +668,12 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 722,D.J. Drewry,146,British Antarctic Survey,United Kingdom
 723,John Drexhage,924,International Institute for Sustainable Development,Canada
 724,Emmanuelle Driesschaert,194,Université Catholique de Louvain,Belgium
-725,Kenneth Drinkwater,341,Institute of Marine Research,Norway
-726,Fatima Driouech,191,Direction de la Meteorologie Nationale Maroc,Morocco
 727,Job Dronkers,107,N/A,Netherlands
 728,W. Drosdowsky,250,Bureau of Meteorology,Australia
 730,Maosheng Duan,516,Tsinghua University,China
 731,M. Duarte,170,Universidad de Buenos Aires,Argentina
 732,Pauline O. Dube,151,University of Botswana,Botswana
-733,Carolina Dubeux,342,Federal University of Rio de Janeiro,Brazil
 734,Ghislain Dubois,796,Environnement Conseil (TEC),France
-735,Do Minh Duc,343,Hanoi University of Science,Vietnam
 736,Phil Duffy,201,Lawrence Livermore National Laboratory,USA
 737,Jean-Louis Dufresne,167,Institut Pierre Simon Laplace (IPSL),France
 738,P.N. Duinker,20,N/A,Canada
@@ -778,9 +686,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 745,J. Dutoit,123,N/A,Zimbabwe
 746,Michael Dutschke,925,Biocarbon Consult,Germany
 747,G. Dutt,5,N/A,Argentina
-748,Virginie Duvat Magnan,344,Universite de La Rochelle - National Centre for Scientific Research (CNRS),France
 749,J. Duxbury,113,N/A,USA
-750,Ye Duzheng,233,Chinese Academy of Sciences,China
 751,M. Dyurgerov,293,Institute of Geography,Russian Federation
 752,Mark Dyurgerov,248,University of Colorado,USA
 753,D. Eamus,6,N/A,Australia
@@ -809,7 +715,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 776,W. Elliott,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 778,J. Ellis,255,Colorado State University,USA
 779,H. Ellsaesser,201,Lawrence Livermore National Laboratory,USA
-780,Ibrahim Elshinnawy,345,National Water Research Center,Egypt
 781,Elnour Abdalla Elsiddig,487,University of Khartoum,Sudan
 782,Kerry Emanuel,113,N/A,USA
 782,Kerry Emanuel,320,Massachusetts Institute of Technology,USA
@@ -821,7 +726,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 788,Ian G. Enting,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 789,Paul R. Epstein,1105,Harvard Medical School,USA
 790,P. Fraser,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-791,Siri Eriksen,346,Norwegian University of Life Sciences,Norway
 792,R.E. Eskridge,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 793,Francisco Estrada Porrúa,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
 794,Nicole Estrella,799,Technical University of Munich,Germany
@@ -834,9 +738,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 801,I. Everson,146,British Antarctic Survey,United Kingdom
 802,Veronika Eyring,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany
 803,Andre P.C. Faaij,273,University of Utrecht,Netherlands
-804,Victoria J. Fabry,348,California State University,USA
-805,Maria Cristina Facchini,49,N/A,Italy
-805,Maria Cristina Facchini,193,Institute of Atmospheric Sciences and Climate,Italy
 806,David W. Fahey,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 808,Pete Falloon,182,Met Office,United Kingdom
 809,Daidu Fan,800,Tongji University,China
@@ -850,7 +751,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 815,John Fasullo,113,N/A,USA
 815,John Fasullo,166,National Center for Atmospheric Research (NCAR),USA
 816,S. Faucheux,1370,Universite de Versailles,France
-817,Eberhard Faust,349,Munich Reinsurance Company,Germany
 818,Philip M. Fearnside,113,N/A,USA
 818,Philip M. Fearnside,802,Instituto Nacional de Pesquisas da Amazonia,Brazil
 819,Johannes Feddema,1,N/A,N/A
@@ -859,8 +759,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 820,Richard Feely,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 821,F. Fehsenfeld,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 822,Johann Feichter,169,Max-Planck Institute for Meteorology,Germany
-823,Graham Feingold,113,N/A,USA
-823,Graham Feingold,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 825,C. Feller,1293,ORSTOM,France
 826,Y. Feng,247,University of Michigan,USA
 827,Jørgen Fenhann,506,Risoe National Laboratory,Denmark
@@ -873,7 +771,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 831,Adam Finkel,428,Princeton University,USA
 832,Max Finlayson,1106,Environment Australia,Australia
 833,D. Finon,1171,Institut d'Economie et de Politique de l'Energie,France
-834,Arlene Fiore,185,Columbia University,USA
 835,M. Fiorino,201,Lawrence Livermore National Laboratory,USA
 836,H. Fischer,268,Scripps Institute of Oceanography,USA
 837,I. Fischer-Bruns,169,Max-Planck Institute for Meteorology,Germany
@@ -892,7 +789,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 849,James Rodger Fleming,1,N/A,N/A
 849,James Rodger Fleming,685,Colby College,USA
 850,N. Flemming,1225,Institute of Oceanographic Sciences,United Kingdom
-851,Marc Fleurbaey,428,Princeton University,USA
 852,G. Flittner,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 853,H. Flohn,1056,Universitat Bonn,Germany
 853,H. Flohn,1400,Meteorologisches Institut,Germany
@@ -915,8 +811,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 867,Peter Foukal,686,Heliophysics Inc.,USA
 868,Y. Fouquart,1226,Universite des Science & Technologie de Lille,France
 869,Douglas Fox,1294,U.S. Forest Service,USA
-870,David Frame,73,N/A,New Zealand
-870,David Frame,196,Victoria University of Wellington,New Zealand
 871,R. Francisco,1024,Weather Bureau,Philippines
 872,Bernard Francou,35,N/A,France
 872,Bernard Francou,306,Institut de Recherche pour le Developpement (IRD),France
@@ -927,7 +821,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 877,Oliver Frauenfeld,687,National Snow and Ice Data Center,USA
 878,C. Fredericksen,250,Bureau of Meteorology,Australia
 879,Melissa Free,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-880,Howard Freeland,197,Institute of Ocean Sciences,Canada
 882,Allan Frei,688,Hunter College,USA
 883,Christoph Frei,689,Federal Office of Meteorology and Climatology Meteo-Swiss,Switzerland
 884,J. Freney,6,N/A,Australia
@@ -951,7 +844,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 900,Jan Fuglestvedt,241,Center for International Climate and Environment (CICERO),Norway
 901,Yoshiyuki Fujii,690,National Institute of Polar Research,Japan
 902,T. Fujimori,1174,Japan Forest Technical Ass.,Japan
-904,Don Fullerton,1016,University of Illinois at Urbana-Champaign,USA
 905,Inez Fung,277,University of Victoria,Canada
 905,Inez Fung,298,University of California Berkeley,USA
 906,Christopher Furgal,328,Trent University,Canada
@@ -968,24 +860,19 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 916,S. Gafriy,48,N/A,Israel
 917,Wojciech Galinski,1296,Research Institute of Forestry,Poland
 919,K. Gallo,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-920,Jim Galloway,199,University of Virginia,USA
 922,R. Gammon,132,University of Washington,USA
 923,Andrey Ganopolski,200,Potsdam Institute for Climate Impact Research,Germany
 925,Qingxian Gao,23,N/A,China
 925,Qingxian Gao,928,Chinese Research Academy of Environmental Science,China
-926,Qingzhu Gao,351,Chinese Institute of Environment and Sustainable Development in Agriculture,China
 927,Xuejie Gao,187,China Meteorological Administration,China
 928,Hernan Garcia,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 930,Ricardo García-Herrera,202,Universidad Complutense de Madrid,Spain
 931,Amit Garg,547,"Indian Institute of Management,Ahmedabad",India
 931,Amit Garg,929,Government of India,India
 932,P. Garin,35,N/A,France
-934,Silvia Garzoli,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 935,Jorge Gasca,930,Mexican Petroleum Institute,Mexico
 936,F. Gassmann,1371,Paul Scherrer Institute,Switzerland
 937,W.L. Gates,201,Lawrence Livermore National Laboratory,USA
-938,Jean-Pierre Gattuso,35,N/A,France
-938,Jean-Pierre Gattuso,352,Centre National de la Recherche Scientifique (CNRS),France
 940,M. Gauss,424,University of Oslo,Norway
 941,Carlos Gay Garcia,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
 942,Amadou Thierno Gaye,693,Laboratory of Atmospheric Physics,Senegal
@@ -999,7 +886,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 952,Peter Gent,166,National Center for Atmospheric Research (NCAR),USA
 953,C. Genthon,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),France
 955,V. Georgievsky,294,State Hydrological Institute,Russian Federation
-956,Elena Georgopoulou,353,National Observatory of Athens,Greece
 957,Rudiger Gerdes,137,Alfred Wegener Institute for Polar and Marine Research,Germany
 959,F.W. Gerstengarbe,200,Potsdam Institute for Climate Impact Research,Germany
 960,S.J. Ghan,256,Pacific Northwest National Laboratory,USA
@@ -1016,7 +902,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 972,T. Ginsburg,1220,Hydrometeorological Research Centre of Russian Federation,Russian Federation
 973,Filippo Giorgi,166,National Center for Atmospheric Research (NCAR),USA
 973,Filippo Giorgi,354,Abdus Salam International Centre for Theoretical Physics,Italy
-974,Leonidas Osvaldo Girardin,355,Fundacion Bariloche,Argentina
 975,P.-N. Giraud,35,N/A,France
 976,L. Galindez Giron,120,N/A,Venezuela
 977,Habiba Gitay,230,Australian National University,Australia
@@ -1048,8 +933,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1000,H. Gordon,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 1002,Vivien Gornitz,185,Columbia University,USA
 1003,Stefan Gossling,425,Lund University,Sweden
-1004,Prashant Goswami,203,Centre for Mathematical Modeling and Computer Simulation,India
-1005,Dieudonne Goudou,357,High Commission of Niger Valley Development,Nigeria
 1006,J Goudrian,396,Wageningen University,Netherlands
 1007,W. Gould,1225,Institute of Oceanographic Sciences,United Kingdom
 1008,M.L. Goulden,544,University of California,USA
@@ -1102,7 +985,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1053,D. Gullet,164,Environment Canada,Canada
 1054,Raymond E. Gullison,934,Hardner & Gullison Associates LLC,Canada
 1055,Zhengteng Guo,233,Chinese Academy of Sciences,China
-1056,Anil Kumar Gupta,206,Wadia Institute of Himalayan Geology,India
 1057,Joyeeta Gupta,302,"Vrije Universiteit,Amsterdam",Netherlands
 1058,Shreekant Gupta,386,University of Delhi,India
 1059,Sujata Gupta,915,Tata Energy Research Institute (TERI),India
@@ -1113,7 +995,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1063,G. Gutman,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 1064,William Gutowski,207,Iowa State University,USA
 1065,P. Guttorp,132,University of Washington,USA
-1066,David Gutzler,208,University of New Mexico,USA
 1067,Daniel M. Gwary,936,University of Maiduguri,Nigeria
 1068,Dimitrios Gyalistras,126,University of Bern,Switzerland
 1068,Dimitrios Gyalistras,136,ETH Zurich,Switzerland
@@ -1134,7 +1015,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1078,Andrew Haines,1109,London Medical School,United Kingdom
 1079,Erik Haites,535,Margaree Consultants Inc.,Canada
 1080,H.I. Haites,535,Margaree Consultants Inc.,Canada
-1081,Kaija Hakala,359,MTT Agrifood Research Finland,Finland
 1082,J. Hales,6,N/A,Australia
 1083,Simon Hales,73,N/A,New Zealand
 1083,Simon Hales,350,University of Otago,New Zealand
@@ -1157,9 +1037,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1097,Keisuke Hanaki,148,University of Tokyo,Japan
 1098,Tatsuya Hanaoka,129,National Institute for Environmental Studies,Japan
 1099,Kimio Hanawa,698,Tohoku Gakuin University,Japan
-1100,William Michael Hanemann,544,University of California,USA
 1101,James E. Hansen,124,National Aeronautics and Space Administration (NASA),USA
-1102,Kabumbwe Hansingo,210,University of Zambia,Zambia
 1103,Clair Hanson,182,Met Office,United Kingdom
 1105,Inger Hanssen-Bauer,666,Norwegian Meteorological Institute,Norway
 1106,M. Hantel,1027,University of Vienna,Austria
@@ -1179,13 +1057,11 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1119,S. Harrison,212,Max-Planck Institute for Biogeochemistry,Germany
 1120,R. Harriss,1050,University of New Hampshire,USA
 1121,L.N. Harsh,1300,Central Arid Zone Research Institute,India
-1122,Dennis Hartmann,132,University of Washington,USA
 1123,Danny Harvey,313,University of Toronto,Canada
 1124,Nicholas Harvey,807,University of Adelaide,Australia
 1125,M. Harwell,113,N/A,USA
 1126,N. Hasegawa,1029,Japan Environment Agency,Japan
 1127,Seiji Hashimoto,129,National Institute for Environmental Studies,Japan
-1128,Rashid Hassan,560,Centre for Environmental Economics and Policy in Africa (CEEPA),South Africa
 1129,D.C. Hassell,182,Met Office,United Kingdom
 1130,K. Hasselmann,169,Max-Planck Institute for Meteorology,Germany
 1131,S. Hastenrath,731,University of Wisconsin,USA
@@ -1204,7 +1080,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1145,J. Hayes,113,N/A,USA
 1146,J. Haywood,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 1147,James M. Haywood,182,Met Office,United Kingdom
-1149,Geoffrey Heal,361,Columbia Business School,USA
 1150,I. Heany,1402,Institute of Freshwater Ecology,United Kingdom
 1151,R. Heathcote,6,N/A,Australia
 1152,A. Hecht,905,U.S. Environmental Protection Agency (EPA),USA
@@ -1227,7 +1102,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1167,Christoph Heinze,133,University of Bergen,Norway
 1168,Isaac Held,113,N/A,USA
 1168,Isaac Held,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-1169,Joseph P. Hella,362,Sokoine University of Agriculture,Tanzania
 1170,Thomas C. Heller,338,Stanford University,USA
 1172,Deborah Hemming,182,Met Office,United Kingdom
 1173,Roderick Henderson,280,National Institute of Water and Atmospheric Research,New Zealand
@@ -1248,14 +1122,11 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1190,K. Higuchi,282,Nagoya University,Japan
 1191,Niro Higuchi,802,Instituto Nacional de Pesquisas da Amazonia,Brazil
 1193,A. Higurashi,129,National Institute for Environmental Studies,Japan
-1194,Yasuaki Hijioka,51,N/A,Japan
-1194,Yasuaki Hijioka,129,National Institute for Environmental Studies,Japan
 1195,E. Hillsman,113,N/A,USA
 1196,Karim Hilmi,1,N/A,N/A
 1196,Karim Hilmi,363,Institut National de Recherche Halieutique,Morocco
 1197,M. Hinchy,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
 1198,D. Hinckley,905,U.S. Environmental Protection Agency (EPA),USA
-1199,Jochen Hinkel,364,Global Climate Forum,Germany
 1201,Larry Hinzman,755,University of Alaska,USA
 1202,H. Hirakuchi,639,Central Research Institute of Electric Power Industry,Japan
 1203,Alistair Hobday,6,N/A,Australia
@@ -1285,7 +1156,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1221,Elisabeth Holland,166,National Center for Atmospheric Research (NCAR),USA
 1223,Marika M. Holland,113,N/A,USA
 1223,Marika M. Holland,166,National Center for Atmospheric Research (NCAR),USA
-1226,Anne Hollowed,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 1227,E.O. Holopainen,274,University of Helsinki,Finland
 1228,E. Holt,1178,Climate Technology Initiative,USA
 1229,Jarle Inge Holten,1111,Terrestrial Ecology Research Institute,Norway
@@ -1313,23 +1183,18 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1248,Joanna I. House,117,N/A,United Kingdom
 1248,Joanna I. House,160,University of Bristol,United Kingdom
 1248,Joanna I. House,212,Max-Planck Institute for Biogeochemistry,Germany
-1251,Grete K. Hovelsrud,367,Nordland Research Institute,Norway
 1253,Mark Howden,6,N/A,Australia
 1253,Mark Howden,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 1253,Mark Howden,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
 1253,Mark Howden,1305,Department of Primary Industries and Energy,Australia
 1254,Charles Howe,248,University of Colorado,USA
 1256,Aixue Hu,166,National Center for Atmospheric Research (NCAR),USA
-1257,Yongyun Hu,140,Peking University,China
 1258,Z.-Z. Hu,1032,Center for Ocean-Land-Atmosphere Studies,USA
 1259,Nguyen Hu Ninh,810,Centre for Environment Research Education and Development,Vietnam
 1260,R. Huang,461,Woods Hole Oceanographic Institution,USA
-1261,He-Qing Huang,233,Chinese Academy of Sciences,China
-1262,Jianping Huang,213,Lanzhou University,China
 1264,S. Huang,247,University of Michigan,USA
 1265,Y.J. Huang,113,N/A,USA
 1266,Yang Huating,1276,China Institute for Marine Development Strategy,China
-1267,Christian Huggel,246,University of Zurich,Switzerland
 1268,K. Hughen,461,Woods Hole Oceanographic Institution,USA
 1269,Lesley Hughes,368,Macquarie University,Australia
 1270,M.K. Hughes,430,University of Arizona,USA
@@ -1348,7 +1213,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1283,Philippe Huybrechts,137,Alfred Wegener Institute for Polar and Marine Research,Germany
 1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium
 1285,Francis I. Ibitoye,899,Centre for Energy Research and Development,Nigeria
-1286,A. Ibrahim,30,N/A,Egypt
 1287,Ana Iglesias,1,N/A,N/A
 1287,Ana Iglesias,170,Universidad de Buenos Aires,Argentina
 1287,Ana Iglesias,370,Polytechnic University of Madrid,Spain
@@ -1361,8 +1225,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1295,William Ingram,117,N/A,United Kingdom
 1295,William Ingram,182,Met Office,United Kingdom
 1296,J.L. Innes,1306,Swiss Federal Institute for Forest Snow and Landscape Research,Switzerland
-1297,Gregory Insarov,263,Russian Federation Academy of Sciences,Russian Federation
-1298,Muhammad Mohsin Iqbal,371,Global Change Impact Studies Centre,Pakistan
 1299,P. Irannejad,368,Macquarie University,Australia
 1300,Masami Iriki,1114,Yamanashi Institute of Environmental Sciences,Japan
 1301,I.S.A Isaksen,424,University of Oslo,Norway
@@ -1383,7 +1245,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1314,C. Jackman,124,National Aeronautics and Space Administration (NASA),USA
 1315,Daniel Jacob,113,N/A,USA
 1315,Daniel Jacob,215,Harvard University,USA
-1316,Daniela Jacob,372,"Climate Service Center, Hamburg",Germany
 1317,J. Jacobeit,1035,Universitaet Wuerzburg,Germany
 1318,U.K. Jacobson,247,University of Michigan,USA
 1319,L. Jaeglo,215,Harvard University,USA
@@ -1393,8 +1254,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1322,A.B. Jaffe,1179,Brandeis University,USA
 1323,R. Jahnke,1229,Skidaway Institution of Oceanography,USA
 1324,A.K. Jain,1016,University of Illinois at Urbana-Champaign,USA
-1325,Suman Jain,210,University of Zambia,Zambia
-1326,Christian Jakob,216,Monash University,Australia
 1327,Bubu Pateh Jallow,704,Department of Water Resources,The Gambia
 1329,Anthony Janetos,256,Pacific Northwest National Laboratory,USA
 1329,Anthony Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA
@@ -1419,10 +1278,8 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1348,Catrinus J. Jepma,942,University of Groningen,Netherlands
 1349,Erik Jeppesen,817,National Environmental Research Institute,Denmark
 1350,Simon Jetté-Nantel,818,Organization for Economic Cooperation and Development (OECD),Canada
-1351,Svetlana Jevrejeva,217,Permanent Service for Mean Sea Level (PSMSL),United Kingdom
 1352,Y. Jia,1014,Southampton Oceanography Centre,United Kingdom
 1353,Kejun Jiang,525,Energy Research Institute,China
-1354,Tong Jiang,187,China Meteorological Administration,China
 1355,X. Jiang,1016,University of Illinois at Urbana-Champaign,USA
 1356,Su Jilan,1117,Second Institute of Oceanography,China
 1357,Blanca Elena Jimenez Cisneros,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
@@ -1435,8 +1292,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1364,Thomas Johansson,1308,United Nations Development Programme (UNDP),Sweden
 1365,Tim Johns,182,Met Office,United Kingdom
 1367,E Johnson,1399,Harwell Laboratory,United Kingdom
-1368,Gregory Johnson,113,N/A,USA
-1368,Gregory Johnson,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 1369,D. Johnson,661,University of Chicago,USA
 1371,P. Jonas,1231,University of Manchester Institute of Science and Technology (UMIST),United Kingdom
 1372,S. Jonasson,440,University of Copenhagen,Denmark
@@ -1456,7 +1311,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1387,Suzanne Joosen,912,Ecofys,Netherlands
 1388,Simon Josey,219,National Oceanography Centre,United Kingdom
 1388,Simon Josey,421,University of Southampton,United Kingdom
-1389,Frank Jotzo,230,Australian National University,Australia
 1390,Ian Joughin,113,N/A,USA
 1390,Ian Joughin,132,University of Washington,USA
 1391,Sylvie Joussaume,167,Institut Pierre Simon Laplace (IPSL),France
@@ -1465,7 +1319,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1394,L.A. Joyce,1031,Woods Hole Research Center,USA
 1395,Terrence Joyce,461,Woods Hole Oceanographic Institution,USA
 1397,R.J.V. Joyce,117,N/A,United Kingdom
-1399,Sukgeun Jung,375,Jeju National University,South Korea
 1400,Johann H. Jungclaus,36,N/A,Germany
 1400,Johann H. Jungclaus,169,Max-Planck Institute for Meteorology,Germany
 1401,P.R. Jutro,113,N/A,USA
@@ -1481,25 +1334,18 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1410,L. Kalkstein,1,N/A,N/A
 1410,L. Kalkstein,113,N/A,USA
 1411,Per Kållberg,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom
-1412,Patricia Kameri-Mbote,378,Strathmore University,Kenya
 1413,T. Kaminski,169,Max-Planck Institute for Meteorology,Germany
 1415,M. Kanakidou,1037,Environmental Chemical Processes Laboratory,Greece
 1416,M. Kanamitsu,1233,W/NMC2,USA
 1417,Milind Kandlikar,215,Harvard University,USA
 1417,Milind Kandlikar,1038,Carnegie Mellon University,USA
 1418,Sally Kane,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-1419,Krishna Kumar Kanikicharla,134,Indian Institute of Tropical Meteorology,India
 1421,Gorashi Mohammed Kanoan,945,University of Nizwa,Oman
-1422,Joseph Katongo Kanyanga,220,Zambia Meteorological Department,Zambia
-1423,Alexey Kaplan,185,Columbia University,USA
 1424,Manmohan Kapshe,44,N/A,India
 1424,Manmohan Kapshe,822,Maulana Azad National Institute of Technology,India
-1425,Baris Karapinar,126,University of Bern,Switzerland
 1426,Bernd Kärcher,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany
 1427,R. Karimanzira,123,N/A,Zimbabwe
 1428,Timo Karjalainen,946,Finnish Forest Research Institute,Finland
-1430,David Karl,113,N/A,USA
-1430,David Karl,237,University of Hawaii,USA
 1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 1432,S. Karlsdottir,424,University of Oslo,Norway
 1433,I. Karol,1396,Main Geophysical Observatory,USSR
@@ -1538,19 +1384,15 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1464,Gavin Kenny,825,Earthwise Consulting,New Zealand
 1465,Jesse Kenyon,652,Duke University,USA
 1466,Nathaniel Keohane,215,Harvard University,USA
-1467,Veli-Matti Kerminen,34,N/A,Finland
-1467,Veli-Matti Kerminen,223,Finnish Meteorological Institute,Finland
 1468,B. Keshavamurthy,254,Physical Research Laboratory,India
 1469,A. Kettle,1002,Max-Planck Institute for Chemistry,Germany
 1470,Jamie Kettleborough,707,British Atmospheric Data Centre,United Kingdom
 1471,L. Kettunen,34,N/A,Finland
 1475,Barney S. Kgope,95,N/A,South Africa
-1477,Mizan R. Khan,574,North South University,Bangladesh
 1478,P. Khanna,44,N/A,India
 1479,Viatcheslar Kharin,20,N/A,Canada
 1479,Viatcheslar Kharin,164,Environment Canada,Canada
 1480,N. Kharin,1309,National Institute of Deserts,Turkmenistan
-1481,Abdellatif Khattabi,379,Ecole Nationale Forestiere d'Ingenieurs,Morocco
 1482,Haroon Kheshgi,380,Exxon Mobil Corporation,USA
 1483,S. Khmelevtsov,1234,Institute of Experimental Meteorology,Russian Federation
 1484,Myriam Khodri,306,Institut de Recherche pour le Developpement (IRD),France
@@ -1571,27 +1413,21 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1500,Darren King,73,N/A,New Zealand
 1500,Darren King,280,National Institute of Water and Atmospheric Research,New Zealand
 1501,M.D. King,124,National Aeronautics and Space Administration (NASA),USA
-1502,Nicholas King,381,Independent Consultant,South Africa
 1503,B. Kininmonth,250,Bureau of Meteorology,Australia
 1504,Stefan Kinne,36,N/A,Germany
 1504,Stefan Kinne,169,Max-Planck Institute for Meteorology,Germany
-1505,Patrick Kinney,185,Columbia University,USA
 1506,D. Kinnison,201,Lawrence Livermore National Laboratory,USA
 1508,R. Kintanar,81,N/A,Philippines
 1509,J. Kinyamario,427,University of Nairobi,Kenya
 1511,Andrei Kirilenko,826,University of North Dakota,USA
 1512,Miko Kirschbaum,73,N/A,New Zealand
 1512,Miko Kirschbaum,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-1513,Paul Kirshen,382,University New Hampshire,USA
 1514,Ben Kirtman,135,University of Miami,USA
 1514,Ben Kirtman,224,George Mason University,USA
 1515,A. Kiselev,1396,Main Geophysical Observatory,USSR
-1517,Roger Kitching,6,N/A,Australia
-1517,Roger Kitching,311,Griffith University,Australia
 1518,Akio Kitoh,225,Meteorological Research Institute,Japan
 1518,Akio Kitoh,1052,Japan Meteorological Agency,Japan
 1519,T. Kittel,166,National Center for Atmospheric Research (NCAR),USA
-1520,Robert B.R. Kiunsi,383,Ardhi University,Tanzania
 1521,Peter Kjeldsen,506,Risoe National Laboratory,Denmark
 1522,Tord Kjellstrom,73,N/A,New Zealand
 1522,Tord Kjellstrom,482,University of Auckland,New Zealand
@@ -1634,18 +1470,14 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1554,K.P. Koltermann,36,N/A,Germany
 1555,Paul Komor,113,N/A,USA
 1556,Manaswita Konar,948,Global Change Programme Jadavpur University,India
-1557,Yutaka Kondo,148,University of Tokyo,Japan
 1558,G. Konnen,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands
 1559,N. Kononova,1235,Russian Federation Agricultural Academy,Russian Federation
 1560,Inga Konstantinaviciute,949,Lithuanian Energy Institute,Lithuania
 1561,Zurab Kopaliani,294,State Hydrological Institute,Russian Federation
 1562,Christian Korner,827,University of Basel,Switzerland
 1563,L. Korovkina,622,Institute of Global Climate and Ecology,Russian Federation
-1565,James Kossin,113,N/A,USA
-1565,James Kossin,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 1566,Randal Koster,124,National Aeronautics and Space Administration (NASA),USA
 1566,Randal Koster,414,University of Maryland,USA
-1567,Andrey Kostianoy,205,P.P. Shirshov Institute of Oceanography,Russian Federation
 1568,V.M. Kotlyakov,263,Russian Federation Academy of Sciences,Russian Federation
 1569,Christoph Kottmeier,710,Institut fur Meteorologie und Klimaforschung Universitat Karlsruhe,Germany
 1570,Paul Kovacs,385,Institute for Catastrophic Loss Reduction,Canada
@@ -1658,8 +1490,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1576,N. Krauchi,1306,Swiss Federal Institute for Forest Snow and Landscape Research,Switzerland
 1577,I. Krause,1375,International Project for Sustainable Energy Paths,USA
 1578,P.E. Kriedemann,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-1579,Gerhard Krinner,35,N/A,France
-1579,Gerhard Krinner,228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),France
 1580,Ramesh Kripalani,134,Indian Institute of Tropical Meteorology,India
 1581,Andrei Krovnin,1311,Russian Federal Research Institute of Fisheries and Oceanography,Russian Federation
 1582,Joseph A. Kruger,950,National Commission on Energy Policy,USA
@@ -1672,13 +1502,11 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1589,Shashi Kulshrestha,1312,Independent Consultant,India
 1590,K.R. Kumar,134,Indian Institute of Tropical Meteorology,India
 1591,Pushpam Kumar,952,University of Liverpool,United Kingdom
-1592,Surender Kumar,386,University of Delhi,India
 1593,Zbigniew Kundzewicz,1,N/A,N/A
 1593,Zbigniew Kundzewicz,387,Polish Academy of Sciences,Poland
 1593,Zbigniew Kundzewicz,700,World Meteorological Organization (WMO),Switzerland
 1594,Kenneth Kunkel,711,Illinois State Water Survey,USA
 1595,Kristin Kuntz-Duriseti,338,Stanford University,USA
-1596,D. Kupfer,36,N/A,Germany
 1597,M. Kuroda,851,Keio University,Japan
 1598,M. Kurylo,124,National Aeronautics and Space Administration (NASA),USA
 1599,Werner A. Kurz,790,Natural Resources Canada,Canada
@@ -1705,13 +1533,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1617,Rattan Lal,168,Ohio State University,USA
 1618,Chiu-Ying Lam,713,Hong Kong Observatory,China
 1619,Joseph Lam,830,City University of Hong Kong,China
-1620,Jean-Francois Lamarque,113,N/A,USA
-1620,Jean-Francois Lamarque,166,National Center for Atmospheric Research (NCAR),USA
 1621,P. Lamb,1238,University of Oklahoma,USA
 1622,Kurt Lambeck,230,Australian National University,Australia
 1623,S. Lambert,277,University of Victoria,Canada
 1624,F. Hugo Lambert,153,University of Oxford,United Kingdom
-1626,Annamaria Lammel,388,Universite Paris 8,France
 1627,G. Lammel,169,Max-Planck Institute for Meteorology,Germany
 1628,C. Land,169,Max-Planck Institute for Meteorology,Germany
 1629,J. Landsberg,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
@@ -1727,8 +1552,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1637,R. Lara,137,Alfred Wegener Institute for Polar and Marine Research,Germany
 1638,W.G. Large,166,National Center for Atmospheric Research (NCAR),USA
 1639,Hans Larsen,506,Risoe National Laboratory,Denmark
-1640,Joan Nymand Larsen,43,N/A,Iceland
-1640,Joan Nymand Larsen,390,Stefansson Arctic Institute,Iceland
 1641,D. Larson,1313,Northern Prairie Science Center,USA
 1642,Rodel Lasco,389,University of the Philippines Los Baños,Philippines
 1642,Rodel Lasco,391,World Agroforestry Center,Philippines
@@ -1754,17 +1577,13 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1661,C. Le Quiero,212,Max-Planck Institute for Biogeochemistry,Germany
 1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France
 1663,G. Leach,384,Stockholm Environment Institute,Sweden
-1664,Paul Leadley,35,N/A,France
-1664,Paul Leadley,392,Universite Paris-Sud 11,France
 1665,R. Leaitch,164,Environment Canada,Canada
-1666,Walter Leal,264,University of Hamburg,Germany
 1667,Judith Lean,715,Naval Research Laboratory,USA
 1668,Neil A. Leary,394,Dickinson College,USA
 1668,Neil A. Leary,1103,University Corporation for Atmospheric Research (UCAR),USA
 1669,G.H. Leavesley,312,U.S. Geological Survey,USA
 1670,Emilio Lebre La Rovere,342,Federal University of Rio de Janeiro,Brazil
 1671,Caroline Leck,701,Stockholm University,Sweden
-1672,Liza Leclerc,395,Independent Consultant,Canada
 1673,Franck Lecocq,456,Institut National de la Recherche Agronomique (INRA),France
 1673,Franck Lecocq,587,Centre international de recherche sur l'environnement et le développement (CIRED),France
 1675,David S. Lee,232,Manchester Metropolitan University,United Kingdom
@@ -1779,7 +1598,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1682,Nathalie Lefevre,306,Institut de Recherche pour le Developpement (IRD),France
 1683,Nicolas Lefevre,911,International Energy Agency,France
 1684,S. Legutke,668,Deutsches Klimarechenzentrum,Germany
-1685,Robin Leichenko,258,Rutgers University,USA
 1686,Pedro Leite da Silvia-Dias,158,University of Sao Paulo,Brazil
 1687,J.C. Leiva,748,"Instituto Argentino de Nivología,Glaciología y Ciencias Ambientales",Argentina
 1688,J. Lelieveld,396,Wageningen University,Netherlands
@@ -1791,7 +1609,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1693,T. Lenton,1041,Institute of Terrestrial Ecology,United Kingdom
 1694,C. Leovy,132,University of Washington,USA
 1695,Corinne Le Quéré,231,University of East Anglia,United Kingdom
-1696,Asuncion Lera St.Clair,241,Center for International Climate and Environment (CICERO),Norway
 1698,D.P. Lettenmaier,132,University of Washington,USA
 1699,Eric Leuliette,113,N/A,USA
 1699,Eric Leuliette,248,University of Colorado,USA
@@ -1805,16 +1622,12 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1707,Mark D. Levine,181,Lawrence Berkeley National Laboratory,USA
 1708,David Levinson,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 1709,Sydney Levitus,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-1710,Marc Levy,185,Columbia University,USA
 1711,T. Lewis,1241,Pacific Geoscience Centre,Canada
 1712,Nancy Lewis,237,University of Hawaii,USA
 1713,A.G. Lewkowicz,238,University of Ottawa,Canada
 1715,Congxian Li,800,Tongji University,China
 1717,Junfeng Li,525,Energy Research Institute,China
 1718,Shuangcheng Li,140,Peking University,China
-1719,Yue Li,351,Chinese Institute of Environment and Sustainable Development in Agriculture,China
-1719,Yue Li,1119,Agrometeorology Institute,China
-1720,Hong Liao,233,Chinese Academy of Sciences,China
 1721,Øyvind Lie,681,Bjerknes Centre for Climate Research,Norway
 1722,H.J. Liebscher,1,N/A,N/A
 1722,H.J. Liebscher,1302,Federal Institute of Hydrology,Germany
@@ -1832,7 +1645,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1733,K. Lindsay,166,National Center for Atmospheric Research (NCAR),USA
 1734,R.S. Lindzen,320,Massachusetts Institute of Technology,USA
 1735,D. Linforth,6,N/A,Australia
-1736,Chee Yoke Ling,590,Third World Network,Malaysia
 1737,C.S. Lingle,124,National Aeronautics and Space Administration (NASA),USA
 1738,A. Linkins,1406,Clarkson University,USA
 1739,H. Lins,312,U.S. Geological Survey,USA
@@ -1841,7 +1653,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1742,D. Lister,1316,DRA,United Kingdom
 1743,Chunzhen Liu,833,China Water Information Centre,China
 1743,Chunzhen Liu,1120,Hydrological Forecasting and Water Control Center,China
-1744,Qiyong Liu,401,Chinese Center for Disease Control and Prevention,China
 1745,Shiyin Liu,233,Chinese Academy of Sciences,China
 1747,Diana Liverman,153,University of Oxford,United Kingdom
 1748,D. Liverman,113,N/A,USA
@@ -1850,9 +1661,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1751,Juan F. Llanes-Regueiro,592,Havana University Centre for Environmental Studies,Cuba
 1754,J. Lloyd,230,Australian National University,Australia
 1755,Daniel Lluch-Belda,402,Centro de Investigaciones Biologicas del Noroeste,Mexico
-1756,Salvador Lluch-Cota,402,Centro de Investigaciones Biologicas del Noroeste,Mexico
-1757,David Lobell,113,N/A,USA
-1757,David Lobell,338,Stanford University,USA
 1759,Harald Loeng,75,N/A,Norway
 1759,Harald Loeng,341,Institute of Marine Research,Norway
 1760,J.A. Logan,215,Harvard University,USA
@@ -1866,7 +1674,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1766,L. Lorentsen,1188,Ministry of Finance,Norway
 1767,Irene Lorenzoni,231,University of East Anglia,United Kingdom
 1768,C. Lorius,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),France
-1769,Inigo J. Losada,403,Universidad de Cantabria,Spain
 1770,Janice Lough,1121,Australian Institute of Marine Science (AIMS),Australia
 1771,R. Loulou,735,McGill University,Canada
 1772,Marie-France Loutre,194,Université Catholique de Louvain,Belgium
@@ -1875,7 +1682,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1775,David C. Lowe,280,National Institute of Water and Atmospheric Research,New Zealand
 1776,Jason A. Lowe,182,Met Office,United Kingdom
 1777,Xianfu Lu,834,United Nations Development Programme (UNDP) - GEF,China
-1778,George Luber,404,Centers for Disease Control and Prevention,USA
 1779,Wolfgang Lucht,36,N/A,Germany
 1779,Wolfgang Lucht,200,Potsdam Institute for Climate Impact Research,Germany
 1780,K.M. Lugina,1042,St Petersburg University,Russian Federation
@@ -1884,16 +1690,12 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1784,Ji-Bin Luo,23,N/A,China
 1785,Yong Luo,187,China Meteorological Administration,China
 1786,A. Lupo,695,Purdue University,USA
-1787,Juerg Luterbacher,234,Justus-Liebig University Giessen,Germany
 1788,Jug Luterbacher,126,University of Bern,Switzerland
-1789,Wolfgang Lutz,376,International Institute for Applied Systems Analysis (IIASA),Austria
 1790,R.J. Luxmoore,271,Oak Ridge National Laboratory,USA
-1791,Omar Ly,405,Environment and Fisheries Department,Senegal
 1792,A. Lync,163,University of Tasmania,Australia
 1793,Amanda H. Lynch,216,Monash University,Australia
 1793,Amanda H. Lynch,248,University of Colorado,USA
 1794,C. Ma,544,University of California,USA
-1795,Shiming Ma,406,Institute of Environment and Sustainable Development in Agriculture,China
 1796,Zhuguo Ma,233,Chinese Academy of Sciences,China
 1797,I. Macadam,182,Met Office,United Kingdom
 1798,Douglas MacAyeal,661,University of Chicago,USA
@@ -1907,7 +1709,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1804,R.L. Madden,166,National Center for Atmospheric Research (NCAR),USA
 1805,G. Madec,167,Institut Pierre Simon Laplace (IPSL),France
 1806,Terry Mader,835,University of Nebraska,USA
-1807,K. Madhava Sarma,44,N/A,India
 1808,S. Madronich,166,National Center for Atmospheric Research (NCAR),USA
 1809,S. Maeda,225,Meteorological Research Institute,Japan
 1810,Christopher H.D. Magadza,517,University of Zimbabwe,Zimbabwe
@@ -1917,8 +1718,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1813,Victor Magaña Rueda,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
 1814,John J. Magnuson,731,University of Wisconsin,USA
 1815,Graciela Odilia Magrin,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina
-1816,Natalie Mahowald,113,N/A,USA
-1816,Natalie Mahowald,235,Cornell University,USA
 1818,E. Maier-Reimer,169,Max-Planck Institute for Meteorology,Germany
 1819,Gabriel M. Mailu,995,Ministry of Research Technical Training and Technology,Kenya
 1820,M. Maiss,1240,Universitat Heidelberg,Germany
@@ -1958,7 +1757,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1848,A. Markham,1319,WWF,USA
 1849,Gregg Marland,113,N/A,USA
 1849,Gregg Marland,271,Oak Ridge National Laboratory,USA
-1850,Jochem Marotzke,169,Max-Planck Institute for Meteorology,Germany
 1852,Robert Marsh,421,University of Southampton,United Kingdom
 1853,S. Marshall,132,University of Washington,USA
 1854,Gareth Marshall,117,N/A,United Kingdom
@@ -1977,7 +1775,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1867,Greg Masters,1123,Climate Change Research Initiative,United Kingdom
 1869,Michael D. Mastrandrea,113,N/A,USA
 1869,Michael D. Mastrandrea,338,Stanford University,USA
-1870,Toshihiko Masui,129,National Institute for Environmental Studies,Japan
 1871,Luis Jose Mata,120,N/A,Venezuela
 1871,Luis Jose Mata,838,Nord-Sud Zentrum fur Entwicklungsforschung,Germany
 1871,Luis Jose Mata,1059,Universidad Central Venezuela,Venezuela
@@ -2000,7 +1797,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1886,Barrie Maxwell,164,Environment Canada,Canada
 1887,W. May,179,Danish Meteorological Institute,Denmark
 1888,R.S. Maya,1190,Southern Center for Energy and Environment,Zimbabwe
-1890,Nancy Maynard,135,University of Miami,USA
 1891,Tim McAllister,941,Agriculture and Agri-Food Canada (AAFC),Canada
 1892,Bryant J. McAvaney,250,Bureau of Meteorology,Australia
 1893,Gordon McBean,164,Environment Canada,Canada
@@ -2037,8 +1833,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1922,Linda O. Mearns,166,National Center for Atmospheric Research (NCAR),USA
 1923,Carl A. Mears,113,N/A,USA
 1923,Carl A. Mears,722,Remote Sensing Systems,USA
-1924,Reinhard Mechler,36,N/A,Germany
-1924,Reinhard Mechler,376,International Institute for Applied Systems Analysis (IIASA),Austria
 1925,Mahmoud Medany,770,Central Laboratory for Agricultural Climate,Egypt
 1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA
 1928,M. Meier,1124,INSTAAR,USA
@@ -2054,8 +1848,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1935,J.M. Melillo,1039,Marine Biological Laboratory,USA
 1936,Humphrey Melling,676,Fisheries and Oceans Canada,Canada
 1937,L. Menchaca,64,N/A,Mexico
-1939,Blanca Mendoza,64,N/A,Mexico
-1939,Blanca Mendoza,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
 1940,G. Mendzhulin,114,N/A,USSR
 1941,Claudio Menendez,5,N/A,Argentina
 1941,Claudio Menendez,170,Universidad de Buenos Aires,Argentina
@@ -2065,18 +1857,15 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1944,Annette Menzel,36,N/A,Germany
 1944,Annette Menzel,799,Technical University of Munich,Germany
 1945,L. Merlivat,1409,University of Pans,France
-1946,Mark Merrifield,237,University of Hawaii,USA
 1947,Anna V. Mescherskaya,222,Voeikov Main Geophysical Observatory,Russian Federation
 1948,R. Methot,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 1949,Bert Metz,530,Netherlands Environmental Assessment Agency,Netherlands
 1949,Bert Metz,888,National Institute for Public Health and the Environment (RIVM),Netherlands
 1950,I. Meyer,200,Potsdam Institute for Climate Impact Research,Germany
 1951,Leo Meyer,530,Netherlands Environmental Assessment Agency,Netherlands
-1952,Lukas Meyer,601,University of Graz,Austria
 1953,R. Meyer,126,University of Bern,Switzerland
 1955,Klaus Michael Meyer-Abich,1191,Universitaet Essen,Germany
 1956,S. Meyers,181,Lawrence Berkeley National Laboratory,USA
-1957,Francisco Meza,410,Pontificia Universidad Catolica de Chile,Chile
 1958,Laurie Michaelis,331,Organization for Economic Cooperation and Development (OECD),France
 1958,Laurie Michaelis,1192,Oxford Centre for the Environment Ethics & Society (OCEES),United Kingdom
 1959,Axel Michaelowa,246,University of Zurich,Switzerland
@@ -2104,7 +1893,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 1984,Scott Mills,841,University of Montana,USA
 1985,D. Mills,850,University of Delaware,USA
 1986,Chris Milly,312,U.S. Geological Survey,USA
-1987,Glenn Milne,238,University of Ottawa,Canada
 1988,S. Milton,149,University of Cape Town,South Africa
 1989,Nobuo Mimura,51,N/A,Japan
 1989,Nobuo Mimura,412,Ibaraki University,Japan
@@ -2175,7 +1963,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2053,Daniel Muhs,312,U.S. Geological Survey,USA
 2055,Robert Muir-Wood,117,N/A,United Kingdom
 2055,Robert Muir-Wood,845,Risk Management Solutions,USA
-2056,Rupa Mukerji,415,HELVETAS Swiss Intercooperation,India
 2057,Patrick Mulholland,113,N/A,USA
 2058,A. Brett Mullan,280,National Institute of Water and Atmospheric Research,New Zealand
 2060,J. Muller,36,N/A,Germany
@@ -2186,31 +1973,23 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2064,Mohan Munasinghe,1197,University of Colombo,Sri Lanka
 2064,Mohan Munasinghe,1377,World Bank,Sri Lanka
 2065,M. Mund,212,Max-Planck Institute for Biogeochemistry,Germany
-2066,Luis Mundaca,425,Lund University,Sweden
 2067,Shinya Murase,964,Faculty of Law Sophia University,Japan
 2068,Daniel Murdiyarso,45,N/A,Indonesia
 2068,Daniel Murdiyarso,989,Ministry of Environment Indonesia,Indonesia
 2069,Yasunori Muromachi,965,Tokyo Institute of Technology,Japan
 2070,James M. Murphy,182,Met Office,United Kingdom
 2071,D. Murphy,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-2074,Tavi Murray,117,N/A,United Kingdom
-2074,Tavi Murray,240,Swansea University,United Kingdom
 2075,Raimund Muscheler,124,National Aeronautics and Space Administration (NASA),USA
 2076,R. Musselman,1294,U.S. Forest Service,USA
 2078,H. Muturi,995,Ministry of Research Technical Training and Technology,Kenya
-2079,Alick Muvundika,605,National Institute for Scientific and Industrial Research,Zambia
-2080,Maria Silvia Muylaert de Araujo,342,Federal University of Rio de Janeiro,Brazil
-2081,Shadrack S. Mwakalila,416,University of Dar-es-Salaam,Tanzania
 2082,M.J. Mwandosya,1198,"Center for Energy,Environment,Science and Technology",Tanzania
 2083,Gunnar Myhre,75,N/A,Norway
 2083,Gunnar Myhre,241,Center for International Climate and Environment (CICERO),Norway
 2083,Gunnar Myhre,424,University of Oslo,Norway
-2085,Ranga Myneni,242,Boston University,USA
 2086,L. Mysak,735,McGill University,Canada
 2087,Gert-Jan Nabuurs,966,ALTERRA Research Institute of the Green Environment,Netherlands
 2088,F. Nachtergaele,644,Food and Agriculture Organization (FAO),Italy
 2090,Gustavo Nagy,846,Universidad de la República,Uruguay
-2091,Tim Naish,196,Victoria University of Wellington,New Zealand
 2092,Adil Najam,242,Boston University,USA
 2093,Teruyuki Nakajima,148,University of Tokyo,Japan
 2094,Taito Nakalevu,847,South Pacific Regional Environment Programme,Fiji
@@ -2218,9 +1997,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2097,H. Nakane,129,National Institute for Environmental Studies,Japan
 2099,Nebojsa Nakicenovic,608,International Institute for Applied Systems Analysis (IIASA),Montenegro
 2101,P.M. Nastari,1378,Fundacao Getulio Vargas,Brazil
-2102,Stale Navrud,346,Norwegian University of Life Sciences,Norway
 2103,Susanne Nawrath,200,Potsdam Institute for Climate Impact Research,Germany
-2104,Johnson Ndi Nkem,417,United Nations Development Programme (UNDP),Cameroon
 2105,S. Neale,73,N/A,New Zealand
 2106,Mark Nearing,848,Southwest Watershed Research Center,USA
 2107,J. David Neelin,113,N/A,USA
@@ -2231,12 +2008,9 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2109,Frederick E. Nelson,850,University of Delaware,USA
 2111,J. Nemec,136,ETH Zurich,Switzerland
 2112,Peter Neofotis,185,Columbia University,USA
-2113,Daniel Nepstad,418,Instituto de Pesquisa Ambiental da Amazonia (IPAM),USA
 2114,Robert Nerem,243,Cooperative Institute for Research in Environmental Sciences (CIRES),USA
 2114,Robert Nerem,248,University of Colorado,USA
-2115,James Neumann,419,Industrial Economics Inc,USA
 2117,Mark New,153,University of Oxford,United Kingdom
-2118,Paul Newton,420,AgResearch,New Zealand
 2119,Peter J. Newton,967,Department for Business Enterprise and Regulatory Reform (BERR),United Kingdom
 2120,John Nganga,427,University of Nairobi,Kenya
 2121,M.T. Nhuan,343,Hanoi University of Science,Vietnam
@@ -2265,7 +2039,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2141,Yukihiro Nojiri,723,Secretariat of Council for Science and Technology Policy Cabinet Office,Japan
 2142,Richard J. Norby,113,N/A,USA
 2142,Richard J. Norby,271,Oak Ridge National Laboratory,USA
-2143,Richard B. Norgaard,298,University of California Berkeley,USA
 2144,Joel Norris,113,N/A,USA
 2144,Joel Norris,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 2144,Joel Norris,259,University of California San Diego,USA
@@ -2310,7 +2083,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2178,Y. Ogawa,51,N/A,Japan
 2179,Anthony Ogbonna,855,Heriot-Watt University,United Kingdom
 2180,Stephen Ogle,255,Colorado State University,USA
-2181,J. Oguntojinbo,74,N/A,Nigeria
 2182,J S. Oguntoyinbo,1411,University of Ibadan,Nigeria
 2183,Ryousauke Ohashi,51,N/A,Japan
 2184,Atsumu Ohmura,725,Swiss Federal Institute of Technology,Switzerland
@@ -2320,7 +2092,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2188,D. Ojima,255,Colorado State University,USA
 2189,Teruo Okazaki,969,Nippon Steel Corporation,Japan
 2190,Ezekiel Okemwa,1326,Kenya Marine and Fisheries Research Institute,Kenya
-2191,Chukwumerije Okereke,204,University of Reading,United Kingdom
 2192,Taikan Oki,51,N/A,Japan
 2192,Taikan Oki,148,University of Tokyo,Japan
 2193,T. Okita,1327,Obirin University,Japan
@@ -2332,13 +2103,8 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2200,Jørgen Olesen,856,Danish Institute of Agricultural Sciences,Denmark
 2201,Jos G.J. Olivier,530,Netherlands Environmental Assessment Agency,Netherlands
 2201,Jos G.J. Olivier,888,National Institute for Public Health and the Environment (RIVM),Netherlands
-2202,Lennart Olsson,101,N/A,Sweden
-2202,Lennart Olsson,425,Lund University,Sweden
-2205,Jane Mukarugwiza Olwoch,95,N/A,South Africa
-2205,Jane Mukarugwiza Olwoch,426,South African National Space Agency (SANSA) South Africa,South Africa
 2208,Jin-Eong Ong,60,N/A,Malaysia
 2209,Tsuneo Ono,726,Hokkaido National Fisheries Research Institute,Japan
-2212,Maggie Opondo,427,University of Nairobi,Kenya
 2213,J. Oppeneau,35,N/A,France
 2214,Michael Oppenheimer,113,N/A,USA
 2214,Michael Oppenheimer,428,Princeton University,USA
@@ -2356,12 +2122,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2221,Balgis Osman-Elasha,429,African Development Bank,Sudan
 2221,Balgis Osman-Elasha,857,High Council for Environment and Natural Resources (HCENR),Sudan
 2222,Tatyana Ososkova,1131,KazNIIMOSK,Uzbekistan
-2223,Ursula Oswald Spring,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
 2224,P. Ottesen,75,N/A,Norway
 2225,Bette Otto-Bliesner,166,National Center for Atmospheric Research (NCAR),USA
 2225,Bette Otto-Bliesner,1132,University of Texas,USA
 2226,Hubert N'Djafa Ouaga,858,Centre Régional AGRHYMET,Chad
-2227,James Overland,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 2228,Jonathan Overpeck,113,N/A,USA
 2228,Jonathan Overpeck,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 2228,Jonathan Overpeck,430,University of Arizona,USA
@@ -2371,7 +2135,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2233,Øyvind Paasche,681,Bjerknes Centre for Climate Research,Norway
 2234,R.K. Pachauri,915,Tata Energy Research Institute (TERI),India
 2235,M. Padgett,113,N/A,USA
-2236,Jonathan Padgham,431,International START Secretariat,USA
 2237,H. Paeth,1056,Universitat Bonn,Germany
 2238,S. Page,1,N/A,N/A
 2238,S. Page,1328,University of Leicester,United Kingdom
@@ -2418,7 +2181,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2273,Anand Patwardhan,432,Indian Institute of Technology Bombay,India
 2274,Jonathan Patz,731,University of Wisconsin,USA
 2274,Jonathan Patz,1134,Johns Hopkins School of Public Health,USA
-2275,Frank Paul,246,University of Zurich,Switzerland
 2276,L. Paul,1331,MAF Fisheries,New Zealand
 2277,K. Paustian,113,N/A,USA
 2278,Tatiana Pavlova,86,N/A,Russian Federation
@@ -2437,9 +2199,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2287,S.C. Peck,505,Electric Power Research Institute (EPRI),USA
 2288,T. Pederson,326,University of British Columbia,Canada
 2289,S.A. Pegov,263,Russian Federation Academy of Sciences,Russian Federation
-2290,Netatua Pelesikoti,433,Secretariat of the Pacific Regional Environment Programme,Samoa
-2291,Mark Pelling,117,N/A,United Kingdom
-2291,Mark Pelling,434,King's College London,United Kingdom
 2292,W. Richard Peltier,313,University of Toronto,Canada
 2293,M. Pena,197,Institute of Ocean Sciences,Canada
 2294,H. Peng,271,Oak Ridge National Laboratory,USA
@@ -2451,14 +2210,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2299,Guy Penny,280,National Institute of Water and Atmospheric Research,New Zealand
 2300,R. Pentland,20,N/A,Canada
 2302,Martha Perdomo,1332,UNFCCC Secretariat,Venezuela
-2303,Joy Jacqueline Pereira,269,National University of Malaysia,Malaysia
 2304,Rosa Perez,437,Manila Observatory,Philippines
 2304,Rosa Perez,863,Philippine Atmospheric Geophysical and Astronomical Services Administration,Philippines
 2305,H. Perez Nieto,120,N/A,Venezuela
 2306,T.H.R. Peries,98,N/A,Sri Lanka
-2307,Judith Perlwitz,113,N/A,USA
-2307,Judith Perlwitz,243,Cooperative Institute for Research in Environmental Sciences (CIRES),USA
-2308,E. Perrott,153,University of Oxford,United Kingdom
 2309,Allen Perry,1136,University of Wales Swansea,United Kingdom
 2310,Jonathan Pershing,589,World Resources Institute,USA
 2310,Jonathan Pershing,911,International Energy Agency,France
@@ -2471,22 +2226,18 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2317,Gerhard Petschel-Held,36,N/A,Germany
 2319,Philippe Peylin,35,N/A,France
 2319,Philippe Peylin,167,Institut Pierre Simon Laplace (IPSL),France
-2320,W. Tad Pfeffer,113,N/A,USA
-2320,W. Tad Pfeffer,248,University of Colorado,USA
 2321,Christopher Pfeiffer,195,Pennsylvania State University,USA
 2322,Christian Pfister,126,University of Bern,Switzerland
 2323,D. Phantumvanit,1333,Thailand Environment Institute,Thailand
 2324,M. Phillip,1413,Institute of Plant Ecology,Denmark
 2325,Thomas Phillips,201,Lawrence Livermore National Laboratory,USA
 2326,J. Philpott,1334,International Institute for Energy Conservation,USA
-2327,Shilong Piao,140,Peking University,China
 2328,T. Piatt,803,Bedford Institute of Oceanography,Canada
 2329,Ramon Pichs-Madruga,973,Centro de Investigaciones de Economia Mundial (CIEM),Cuba
 2330,K. Pickering,414,University of Maryland,USA
 2332,David Pierce,113,N/A,USA
 2332,David Pierce,259,University of California San Diego,USA
 2333,R.T. Pierrehumbert,661,University of Chicago,USA
-2334,Etienne Piguet,438,University of Neuchatel,Switzerland
 2335,Olga Pilifosova,1137,UNFCCC Secretariat,Kazakhstan
 2336,G.J. Pillet,1371,Paul Scherrer Institute,Switzerland
 2337,M. Pinard,113,N/A,USA
@@ -2519,16 +2270,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2363,D.F.W. Pollard,164,Environment Canada,Canada
 2364,Wayne Polley,1138,Agricultural Research Service,USA
 2365,S. Pollonais,1057,Environment Management Authority,Trinidad and Tobago
-2366,Elvira Poloczanska,6,N/A,Australia
-2366,Elvira Poloczanska,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-2367,Alexander Polonsky,439,National Academy of Sciences,Ukraine
 2368,I. Polyakov,428,Princeton University,USA
 2370,Michael Ponater,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany
 2371,V. Pope,182,Met Office,United Kingdom
 2372,David Popp,976,Syracuse University,USA
-2373,J.H. Porter,117,N/A,United Kingdom
-2374,John R. Porter,440,University of Copenhagen,Denmark
-2375,Hans-O. Portner,137,Alfred Wegener Institute for Polar and Marine Research,Germany
 2376,W. Post,271,Oak Ridge National Laboratory,USA
 2377,G.L. Potter,201,Lawrence Livermore National Laboratory,USA
 2378,German Poveda,1,N/A,N/A
@@ -2542,8 +2287,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2383,Michael Prather,251,University of California Irvine,USA
 2384,L.C. Prentice,425,Lund University,Sweden
 2385,I. Colin Prentice,212,Max-Planck Institute for Biogeochemistry,Germany
-2386,Benjamin Preston,271,Oak Ridge National Laboratory,USA
-2387,Pal Prestrud,241,Center for International Climate and Environment (CICERO),Norway
 2388,Jan Pretel,27,N/A,Czech Republic
 2389,Jeff Price,117,N/A,United Kingdom
 2389,Jeff Price,348,California State University,USA
@@ -2573,7 +2316,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2410,R. Quayle,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 2411,F. Quinn,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 2412,P. Quinn,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-2413,Terrence Quinn,252,University of Texas-Austin,USA
 2414,A. Qureshi,716,Climate Institute,USA
 2415,J. Rabinovitch,1336,United Nations Development Programme (UNDP),Brazil
 2417,Graciela Raga,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
@@ -2587,7 +2329,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2422,Jouni Raisanen,34,N/A,Finland
 2422,Jouni Raisanen,274,University of Helsinki,Finland
 2423,R.J. Raison,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-2424,Marie-Louise Rakotondrafara,441,Madagascar National Weather Service,Madagascar
 2425,Srikanthan Ramachandran,254,Physical Research Laboratory,India
 2426,P.S. Ramakrishnan,762,Jawaharlal Nehru University,India
 2427,Veerabhadran Ramanathan,259,University of California San Diego,USA
@@ -2617,7 +2358,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2450,Bruce H. Raup,687,National Snow and Ice Data Center,USA
 2451,Michael Raupach,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 2452,Nijavalli H. Ravindranath,159,Indian Institute of Science,India
-2453,A.R. Ravishankara,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 2454,Samuel Rawlins,867,Retired,Trinidad and Tobago
 2455,Charles Raymond,132,University of Washington,USA
 2456,Dominique Raynaud,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),France
@@ -2632,8 +2372,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2461,W. Razali Wan Mohd,1201,Forest Research Institute Malaysia (FRIM),Malaysia
 2462,V.N. Razuvaev,1060,Chief Climatology Department,Russian Federation
 2463,Peter Read,633,Massey University,New Zealand
-2464,Chris Reason,149,University of Cape Town,South Africa
-2465,Margaret Hiza Redsteer,312,U.S. Geological Survey,USA
 2466,Tim Reeder,868,Environment Agency of Thames,United Kingdom
 2467,H.A. Regier,20,N/A,Canada
 2468,Gregor Rehder,732,Leibniz Institute for MarineSciences,Germany
@@ -2641,21 +2379,15 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2470,John M. Reilly,320,Massachusetts Institute of Technology,USA
 2470,John M. Reilly,849,U.S. Department of Agriculture,USA
 2471,W. Reisen,544,University of California,USA
-2472,Andy Reisinger,73,N/A,New Zealand
-2472,Andy Reisinger,442,New Zealand Agricultural Greenhouse Gas Research Centre,New Zealand
-2472,Andy Reisinger,1141,Ministry for the Environment,New Zealand
 2473,James Reist,676,Fisheries and Oceans Canada,Canada
 2474,Guoyu Ren,187,China Meteorological Administration,China
 2475,Jiawen Ren,233,Chinese Academy of Sciences,China
 2476,Hans Renssen,302,"Vrije Universiteit,Amsterdam",Netherlands
 2478,James A. Renwick,196,Victoria University of Wellington,New Zealand
 2478,James A. Renwick,280,National Institute of Water and Atmospheric Research,New Zealand
-2480,Aromar Revi,44,N/A,India
-2480,Aromar Revi,443,Indian Institute for Human Settlements,India
 2481,Boris Revich,86,N/A,Russian Federation
 2481,Boris Revich,444,Institute of Forecasting Russian Academy of Science,Russian Federation
 2483,R.W. Reynolds,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-2484,Monika Rhein,143,University of Bremen,Germany
 2485,W.J. Rhodes,905,U.S. Environmental Protection Agency (EPA),USA
 2486,Keywan Riahi,376,International Institute for Applied Systems Analysis (IIASA),Austria
 2487,J. Ribalaygua,1061,Fundacion para la Investigacion del Clima,Spain
@@ -2680,13 +2412,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2504,Stephen Rintoul,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 2505,J. Risbey,1038,Carnegie Mellon University,USA
 2506,C. Ritz,257,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),France
-2508,Marta Rivera-Ferre,445,University of Vic,Spain
 2509,Michel Rixen,733,University of Liege,Belgium
 2510,Paola Rizzoli,320,Massachusetts Institute of Technology,USA
 2511,J. Roads,259,University of California San Diego,USA
 2512,D.L. Roberts,182,Met Office,United Kingdom
-2513,Debra Roberts,95,N/A,South Africa
-2513,Debra Roberts,446,Ethekwini Municipality,South Africa
 2514,Malcolm Roberts,182,Met Office,United Kingdom
 2515,Franklin R. Robertson,124,National Aeronautics and Space Administration (NASA),USA
 2516,J.S. Robertson,1340,ETSU,United Kingdom
@@ -2707,7 +2436,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2531,Erich Roeckner,169,Max-Planck Institute for Meteorology,Germany
 2532,R.A. Roehrl,376,International Institute for Applied Systems Analysis (IIASA),Austria
 2533,G.J. Roelofs,273,University of Utrecht,Netherlands
-2534,Dean Roemmich,259,University of California San Diego,USA
 2535,R. Roetter,1341,Department of Land Evaluation Methods,Germany
 2536,G. Roff,250,Bureau of Meteorology,Australia
 2537,J. Rogasik,1286,Agricultural Institute for Climate Research,Germany
@@ -2716,7 +2444,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2540,Hans-Holger Rogner,376,International Institute for Applied Systems Analysis (IIASA),Austria
 2540,Hans-Holger Rogner,980,International Atomic Energy Agency (IAEA),Austria
 2541,B. Rognerud,424,University of Oslo,Norway
-2542,Maisa Rojas,144,University of Chile,Chile
 2543,Vladimir Romanenkov,981,Russian Academy of Agricultural Sciences,Russian Federation
 2545,Patricia Romero Lankao,166,National Center for Atmospheric Research (NCAR),USA
 2546,Gina Roos,992,Eskom,South Africa
@@ -2752,14 +2479,11 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2570,Steve Running,841,University of Montana,USA
 2571,Kimmo Ruosteenoja,223,Finnish Meteorological Institute,Finland
 2572,Susanne Rupp-Armstrong,421,University of Southampton,United Kingdom
-2573,Oliver Ruppel,71,N/A,Namibia
-2573,Oliver Ruppel,447,University of Stellenbosch,Namibia
 2574,Gary L. Russell,124,National Aeronautics and Space Administration (NASA),USA
 2575,J.M. Russell,1063,Hampton University,USA
 2576,Matilde Rusticucci,5,N/A,Argentina
 2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina
 2577,D.G. Rutashobya,1343,Ministry of Water Energy and Minerals,Tanzania
-2578,Matthias Ruth,624,Center for Integrative Environmental Research,USA
 2579,M. Ryan,1031,Woods Hole Research Center,USA
 2580,Kirstin Rypdal,241,Center for International Climate and Environment (CICERO),Norway
 2582,Christopher Sabine,188,National Oceanographic and Atmospheric Administration (NOAA),USA
@@ -2783,9 +2507,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2599,M. Salby,248,University of Colorado,USA
 2601,Mohamed Salih,99,N/A,Sudan
 2602,"Michael James ""Jim"" Salinger",280,National Institute of Water and Atmospheric Research,New Zealand
-2603,Asbury Sallenger,312,U.S. Geological Survey,USA
 2604,N. Sampson,113,N/A,USA
-2607,Roberto A. Sanchez Rodriguez,449,El Colegio de la Frontera Norte,Mexico
 2608,Johan Sanders,396,Wageningen University,Netherlands
 2609,E. Sanhueza,1002,Max-Planck Institute for Chemistry,Germany
 2609,E. Sanhueza,1252,Instituto Venezolano de Investigaciones Cientificas,Venezuela
@@ -2793,7 +2515,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2611,Benjamin D. Santer,113,N/A,USA
 2611,Benjamin D. Santer,169,Max-Planck Institute for Meteorology,Germany
 2611,Benjamin D. Santer,201,Lawrence Livermore National Laboratory,USA
-2612,Filipe Santos,450,University of Lisbon,Portugal
 2613,María José Sanz Sanchez,983,Fundación CEAM,Spain
 2614,E. Sarachik,132,University of Washington,USA
 2615,Agus Sari,984,PT Ecosecurities,Indonesia
@@ -2804,12 +2525,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2622,W. Sassin,1380,Forschungszentrum Jülich,Germany
 2623,A. Sastri,44,N/A,India
 2624,Jayant Sathaye,181,Lawrence Berkeley National Laboratory,USA
-2625,S. K. Satheesh,159,Indian Institute of Science,India
 2626,N. Sato,1052,Japan Meteorological Agency,Japan
 2627,David Satterthwaite,117,N/A,United Kingdom
 2627,David Satterthwaite,451,International Institute for Environment and Development (IIED),United Kingdom
 2628,Dieter Sauerbeck,1346,Federal Ministry of Environment,Germany
-2629,Rainer Sauerbor,452,Umea University,Sweden
 2630,Mark Saunders,638,University College London,United Kingdom
 2631,A.R. Saunders,230,Australian National University,Australia
 2632,Robert Sausen,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany
@@ -2817,7 +2536,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2633,H.H.G. Savenije,107,N/A,Netherlands
 2634,K. Saviharju,34,N/A,Finland
 2635,D. Savoie,135,University of Miami,USA
-2637,Fabio Scarano,453,Conservation International,Brazil
 2638,P. Schaefer,264,University of Hamburg,Germany
 2639,Roberto Schaeffer,342,Federal University of Rio de Janeiro,Brazil
 2640,A. Schafer,320,Massachusetts Institute of Technology,USA
@@ -2843,8 +2561,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2660,Josef Schmidhuber,644,Food and Agriculture Organization (FAO),Italy
 2661,Hauke Schmidt,36,N/A,Germany
 2661,Hauke Schmidt,694,Deutscher Wetterdienst,Germany
-2662,Daniela Schmidt,117,N/A,United Kingdom
-2662,Daniela Schmidt,160,University of Bristol,United Kingdom
 2663,Gavin Schmidt,124,National Aeronautics and Space Administration (NASA),USA
 2664,R.W. Schmitt,461,Woods Hole Oceanographic Institution,USA
 2665,Andreas Schmittner,113,N/A,USA
@@ -2870,7 +2586,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2683,Roland Schulze,95,N/A,South Africa
 2683,Roland Schulze,872,University of KwaZulu-Natal,South Africa
 2684,U. Schumann,1011,Institute of Atmospheric Physics Germany,Germany
-2685,Sandra Schuster,422,Consultant,Australia
 2686,C.J.E. Schuurmans,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands
 2687,Stephen E. Schwartz,737,Brookhaven National Laboratory,USA
 2688,Dan Schwartzkopf,188,National Oceanographic and Atmospheric Administration (NOAA),USA
@@ -2882,7 +2597,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2693,Daniel Scott,164,Environment Canada,Canada
 2694,Michael J. Scott,256,Pacific Northwest National Laboratory,USA
 2695,T. Seastedt,113,N/A,USA
-2696,Rachid Sebbari,191,Direction de la Meteorologie Nationale Maroc,Morocco
 2697,Roger Sedjo,873,Resources for the Future,USA
 2698,Bernard Seguin,456,Institut National de la Recherche Agronomique (INRA),France
 2698,Bernard Seguin,874,National Institute for Agricultural Research,France
@@ -2904,8 +2618,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2712,Mohamed Senouci,877,Institut Hydrométéorologique de Formation et de Recherches (IHFR),Algeria
 2713,R. Seroa da Motta,628,Research Institute for Applied Economics (IPEA),Brazil
 2714,Mark C. Serreze,248,University of Colorado,USA
-2715,Josef Settele,36,N/A,Germany
-2715,Josef Settele,457,Helmholtz Zentrum Geesthacht,Germany
 2716,B. Sevruk,246,University of Zurich,Switzerland
 2717,David Sexton,117,N/A,United Kingdom
 2717,David Sexton,182,Met Office,United Kingdom
@@ -2922,13 +2634,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2730,J. Sharp,850,University of Delaware,USA
 2731,G. Sharp,1347,Cooperative Institute for Research in the Integrated Ocean Sciences,USA
 2732,G. Shaver,1031,Woods Hole Research Center,USA
-2734,Rebecca Shaw,113,N/A,USA
-2734,Rebecca Shaw,458,Environmental Defense Fund,USA
 2735,S.A. Shchuka,1,N/A,N/A
 2735,S.A. Shchuka,263,Russian Federation Academy of Sciences,Russian Federation
 2736,Dennis Shea,166,National Center for Atmospheric Research (NCAR),USA
 2738,Mordechai Shechter,1204,University of Haifa,Israel
-2739,Kamel Sheikho,630,King Abdulaziz City for Science and Technology,Saudi Arabia
 2740,Claudia Sheinbaum Pardo,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
 2742,Andrew Shepherd,211,University of Edinburgh,United Kingdom
 2743,J. Marshall Shepherd,738,University of Georgia,USA
@@ -2939,12 +2648,9 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2746,Steven Sherwood,629,Yale University,USA
 2747,G.Y. Shi,233,Chinese Academy of Sciences,China
 2748,Igor Shiklomanov,294,State Hydrological Institute,Russian Federation
-2749,Drew Shindell,124,National Aeronautics and Space Administration (NASA),USA
 2750,Keith P. Shine,204,University of Reading,United Kingdom
 2751,M. Shinoda,148,University of Tokyo,Japan
 2752,J. Shogren,1073,University of Wyoming,USA
-2753,Mxolisi Shongwe,100,N/A,Swaziland
-2753,Mxolisi Shongwe,262,South African Weather Service,South Africa
 2754,E. Shove,117,N/A,United Kingdom
 2755,Arun Shreshtha,879,Government of Nepal,Nepal
 2757,David Shriner,1090,Office of Science and Technology Policy (OSTP),USA
@@ -3003,7 +2709,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2804,Kirk Robert Smith,113,N/A,USA
 2804,Kirk Robert Smith,298,University of California Berkeley,USA
 2805,Michael H. Smith,130,University of Leeds,United Kingdom
-2806,Neville Smith,250,Bureau of Meteorology,Australia
 2807,Peter Smith,635,University of Aberdeen,United Kingdom
 2808,Raymond C. Smith,640,University of California Santa Barbara,USA
 2809,S. Smith,256,Pacific Northwest National Laboratory,USA
@@ -3066,20 +2771,13 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2861,Oedon Starosolszky,1354,Water Resource Research Center,Hungary
 2862,Robert N. Stavins,215,Harvard University,USA
 2863,P. Steele,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-2864,Koni Steffen,243,Cooperative Institute for Research in Environmental Sciences (CIRES),USA
 2865,Will Steffen,243,Cooperative Institute for Research in Environmental Sciences (CIRES),USA
 2866,Georgiy Stenchikov,258,Rutgers University,USA
 2867,M. Stendel,179,Danish Meteorological Institute,Denmark
 2868,D.J. Stensrud,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-2869,Graeme Stephens,113,N/A,USA
-2869,Graeme Stephens,124,National Aeronautics and Space Administration (NASA),USA
-2870,David B. Stephenson,131,University of Exeter,United Kingdom
-2870,David B. Stephenson,182,Met Office,United Kingdom
 2871,A. Sterin,1069,RIHMI-WDCB,Russian Federation
 2872,William Stern,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 2873,G. Stevens,331,Organization for Economic Cooperation and Development (OECD),France
-2874,Bjorn Stevens,36,N/A,Germany
-2874,Bjorn Stevens,169,Max-Planck Institute for Meteorology,Germany
 2875,David S. Stevenson,211,University of Edinburgh,United Kingdom
 2876,R.B. Stewart,20,N/A,Canada
 2878,J. Stiglitz,1383,Council of Economic Advisors,USA
@@ -3102,8 +2800,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2894,David G. Streets,113,N/A,USA
 2895,Bart Strengers,530,Netherlands Environmental Assessment Agency,Netherlands
 2896,C. Strzepek,248,University of Colorado,USA
-2897,Kenneth Strzepek,462,United Nations University,USA
-2898,Claudia Stubenrauch,167,Institut Pierre Simon Laplace (IPSL),France
 2899,Nicola Stuber,204,University of Reading,United Kingdom
 2900,Kate Studd,880,Catholic Agency for Overseas Development,United Kingdom
 2901,P. Sturm,331,Organization for Economic Cooperation and Development (OECD),France
@@ -3123,14 +2819,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2916,E. Sulzman,166,National Center for Atmospheric Research (NCAR),USA
 2917,Akimasa Sumi,148,University of Tokyo,Japan
 2918,B. Sun,1009,University of Massachusetts,USA
-2919,Svein Sundby,341,Institute of Marine Research,Norway
 2920,J. Sundet,424,University of Oslo,Norway
 2921,H. Sundquist,1062,University of Stockholm,Sweden
 2922,Ramasamy Suppiah,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
-2924,Akhilesh Surjan,464,Kyoto University,Japan
 2925,R.T.M. Sutamihardja,989,Ministry of Environment Indonesia,Indonesia
-2926,Rowan Sutton,117,N/A,United Kingdom
-2926,Rowan Sutton,266,University of Rowan,United Kingdom
 2928,T. Svejcar,113,N/A,USA
 2929,B.H. Svensson,1217,Swedish University of Agricultural Sciences,Sweden
 2929,B.H. Svensson,1315,University of Agricultural Sciences,Sweden
@@ -3143,22 +2835,17 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2936,K. Szesztay,1356,Consultant,Hungary
 2937,Jan Szolgay,1150,Slovak Technical University,Slovakia
 2938,Ramadjita Tabo,882,ICRISAT,Chad
-2939,Miguel Angel Taboada,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina
 2940,Mark Tadross,149,University of Cape Town,South Africa
 2941,S. Taguchi,1071,National Institute for Resources and Environment,Japan
-2942,Andrew Tait,280,National Institute of Water and Atmospheric Research,New Zealand
 2943,Kiyoshi Takahashi,129,National Institute for Environmental Studies,Japan
 2944,Hidekazu Takakura,985,Ministry of Economy Trade and Industry,Japan
 2945,Toshihiko Takemura,267,Kyushu University,Japan
-2946,Kazuhiko Takeuchi,465,United Nations University,Japan
-2947,Kuniyoshi Takeuchi,466,International Centre for Water Hazard and Risk Management,Japan
 2948,Lynne D. Talley,259,University of California San Diego,USA
 2948,Lynne D. Talley,268,Scripps Institute of Oceanography,USA
 2949,Mark Tamisiea,744,Harvard-Smithsonian Center for Astrophysics,USA
 2950,Kanako Tanaka,642,Japan Science and Technology Agency (JST),Japan
 2950,Kanako Tanaka,911,International Energy Agency,France
 2950,Kanako Tanaka,1206,Global Industrial and Social Progress Research Institute (GISPRI),Japan
-2953,Fredolin Tangang,269,National University of Malaysia,Malaysia
 2954,T. Taniguchi,1206,Global Industrial and Social Progress Research Institute (GISPRI),Japan
 2955,D. Tanro,1008,Laboratoire d'Optique Atmospherique,France
 2956,Pieter Tans,188,National Oceanographic and Atmospheric Administration (NOAA),USA
@@ -3197,15 +2884,12 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 2992,Peter Thorne,75,N/A,Norway
 2992,Peter Thorne,182,Met Office,United Kingdom
 2992,Peter Thorne,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-2993,Peter Thornton,271,Oak Ridge National Laboratory,USA
 2994,S. Thorpe,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
 2995,R. Thresher,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia
 2996,Wilfred Thuiller,883,Laboratoire d'Ecologie Alpine UMR-CNRS,France
-2997,James Thurlow,467,United Nations University's World Institute for Development Economics Research,South Africa
 2998,H.Q. Tian,1039,Marine Biological Laboratory,USA
 2999,Yuhong Tian,509,Georgia Institute of Technology,USA
 3000,S. Tibaidi,1258,University of Bologna,Italy
-3001,Lourdes Tibig,437,Manila Observatory,Philippines
 3002,X. Tie,166,National Center for Atmospheric Research (NCAR),USA
 3003,H. Tiessen,20,N/A,Canada
 3004,J. Tilley,6,N/A,Australia
@@ -3221,14 +2905,11 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3011,Richard S.J. Tol,468,University of Sussex,United Kingdom
 3011,Richard S.J. Tol,884,Economic and Social Research Institute,Ireland
 3013,M.T. Tolmasquim,342,Federal University of Rio de Janeiro,Brazil
-3015,Emma Tompkins,469,School of Geography & Environment University of Southampton,United Kingdom
 3016,Julio Torres-Martínez,643,Cuban Observatory for Science and Technology,Cuba
 3016,Julio Torres-Martínez,1207,Ministerio de Ciencia,Cuba
 3017,Ferenc L. Toth,200,Potsdam Institute for Climate Impact Research,Germany
 3017,Ferenc L. Toth,470,International Atomic Energy Agency (IAEA),Hungary
 3018,R. Toumi,697,Imperial College London,United Kingdom
-3019,Aissa Toure Sarr,89,N/A,Senegal
-3019,Aissa Toure Sarr,471,International Fund for Agricultural Development (IFAD),Senegal
 3020,Sirintornthep Towprayoon,545,King Mongkut's University of Technology,Thailand
 3021,Maria Isabel Travasso,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina
 3022,Kevin E. Trenberth,166,National Center for Atmospheric Research (NCAR),USA
@@ -3239,8 +2920,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3028,Ulric Trotz,885,Caribbean Community Climate Change Centre,Belize
 3030,Piotr Tryjanowski,886,Adam Mickiewicz University,Poland
 3031,C. Tsay,1259,Central Weather Bureau,Taiwan
-3032,Petra Tschakert,113,N/A,USA
-3032,Petra Tschakert,195,Pennsylvania State University,USA
 3033,George Tselioudis,124,National Aeronautics and Space Administration (NASA),USA
 3034,Michael Tsimplis,421,University of Southampton,United Kingdom
 3035,H. Tsuchiya,51,N/A,Japan
@@ -3264,14 +2943,9 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3053,Alakkat S. Unnikrishnan,272,National Institute of Oceanography,India
 3054,Sakari Uppala,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom
 3056,Diana Ürge-Vorsatz,647,Central European University,Hungary
-3057,Penny Urquhart,381,Independent Consultant,South Africa
 3059,C. Valentin,1293,ORSTOM,France
-3060,Riccardo Valentini,49,N/A,Italy
-3060,Riccardo Valentini,473,University of Tuscia and Euro-Mediterranean Center for Climate Change,Italy
 3061,G. Vali,1073,University of Wyoming,USA
-3062,V. Ramon Vallejo,474,University of Barcelona,Spain
 3063,L. Vallianos,1357,U.S. Army Corps of Engineers,USA
-3064,Maarten van Aalst,475,Red Cross / Red Crescent Climate Centre,Netherlands
 3065,S.C. Van de Geijn,1151,Landbouw Universiteit Wageningen,Netherlands
 3066,Nick van de Giesen,887,Delft University of Technology,Netherlands
 3067,Roderik Van de Wal,273,University of Utrecht,Netherlands
@@ -3293,25 +2967,17 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3081,M. Van Weele,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands
 3082,Jean-Pascal van Ypersele,194,Université Catholique de Louvain,Belgium
 3083,Jef Vandenberghe,302,"Vrije Universiteit,Amsterdam",Netherlands
-3084,Geert Jan van Oldenborgh,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands
 3085,G. Varallyay,42,N/A,Hungary
 3086,Walter Vargas,170,Universidad de Buenos Aires,Argentina
 3087,David Vaughan,146,British Antarctic Survey,United Kingdom
-3088,Robert Vautard,167,Institut Pierre Simon Laplace (IPSL),France
-3089,Gabriel Vecchi,113,N/A,USA
-3089,Gabriel Vecchi,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 3091,Andrei A. Velichko,1,N/A,N/A
 3091,Andrei A. Velichko,263,Russian Federation Academy of Sciences,Russian Federation
 3091,Andrei A. Velichko,1395,State Hydrological Institute,USSR
 3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands
 3095,Aviel Verbruggen,649,University of Antwerp,Belgium
-3096,Walter Vergara,476,Inter-American Development Bank,Colombia
-3099,Timo Vesala,274,University of Helsinki,Finland
 3100,Marta Vicarelli,185,Columbia University,USA
 3101,David G. Victor,544,University of California,USA
 3101,David G. Victor,1208,Council on Foreign Relations,USA
-3102,Sebastian Vicuna,410,Pontificia Universidad Catolica de Chile,Chile
-3103,Ernesto F. Viglizzo,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina
 3105,Hjalmar Vilhjálmsson,890,Marine Research Institute,Iceland
 3106,Ricardo Villalba,748,"Instituto Argentino de Nivología,Glaciología y Ciencias Ambientales",Argentina
 3107,Alicia Villamizar,120,N/A,Venezuela
@@ -3327,7 +2993,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3113,K.Ya. Vinnikov,1395,State Hydrological Institute,USSR
 3114,T. Vinson,180,Oregon State University,USA
 3115,M. Visbeck,185,Columbia University,USA
-3116,Pedro Viterbo,275,Instituto de Meteorologia,Portugal
 3117,P. Vitousek,338,Stanford University,USA
 3118,S. Vogel,113,N/A,USA
 3119,Coleen Vogel,381,Independent Consultant,South Africa
@@ -3368,8 +3033,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3148,K. Wang,1241,Pacific Geoscience Centre,Canada
 3150,Bin Wang,113,N/A,USA
 3150,Bin Wang,233,Chinese Academy of Sciences,China
-3151,Fan Wang,233,Chinese Academy of Sciences,China
-3152,Huijun Wang,233,Chinese Academy of Sciences,China
 3153,M. Wang,233,Chinese Academy of Sciences,China
 3154,Minghuai Wang,247,University of Michigan,USA
 3155,Ray Wang,509,Georgia Institute of Technology,USA
@@ -3377,14 +3040,11 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3157,W-C Wang,747,State University of New York Albany,USA
 3158,Y. Wang,509,Georgia Institute of Technology,USA
 3159,R. Wanick,316,University of Waikato,New Zealand
-3160,Heinz Wanner,126,University of Bern,Switzerland
 3161,Rik Wanninkhof,113,N/A,USA
 3161,Rik Wanninkhof,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 3162,N. Ward,1260,IMGA-CNR,Italy
 3163,G. Ward,255,Colorado State University,USA
 3164,R. Waring,180,Oregon State University,USA
-3165,Koko Warner,36,N/A,Germany
-3165,Koko Warner,305,United Nations University - Institute for Environment and Human Security,Germany
 3166,Stephen Warren,132,University of Washington,USA
 3167,Rachel Warren,117,N/A,United Kingdom
 3167,Rachel Warren,231,University of East Anglia,United Kingdom
@@ -3408,12 +3068,10 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3182,Andrew J. Weaver,277,University of Victoria,Canada
 3183,T. Webb,1261,Brown University,USA
 3184,D.J. Webb,1225,Institute of Oceanographic Sciences,United Kingdom
-3185,Arthur Webb,480,Secretariat of the Pacific Community - Applied Geoscience and Technology Division (SOPAC),Fiji
 3186,Mark Webb,117,N/A,United Kingdom
 3186,Mark Webb,182,Met Office,United Kingdom
 3187,M. Weber,36,N/A,Germany
 3189,J. Wegner,668,Deutsches Klimarechenzentrum,Germany
-3190,Michael Wehner,201,Lawrence Livermore National Laboratory,USA
 3191,A. Weidick,1358,Geological Survey of Greenland,Denmark
 3192,R. Wein,20,N/A,Canada
 3193,M.F. Weirig,137,Alfred Wegener Institute for Polar and Marine Research,Germany
@@ -3471,7 +3129,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3244,D.J. Wingham,638,University College London,United Kingdom
 3246,Harald Winkler,149,University of Cape Town,South Africa
 3247,P. Winkler,694,Deutscher Wetterdienst,Germany
-3249,Jan-Gunnar Winther,278,Norwegian Polar Institute,Norway
 3250,M. Winton,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 3251,J.J. Wise,380,Exxon Mobil Corporation,USA
 3252,Ron Wit,997,Stichting Natuur en Milieu,Netherlands
@@ -3504,7 +3161,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3272,Ernst Worrell,181,Lawrence Berkeley National Laboratory,USA
 3274,David Wratt,280,National Institute of Water and Atmospheric Research,New Zealand
 3274,David Wratt,750,National Climate Center,New Zealand
-3276,L.J. Wright,117,N/A,United Kingdom
 3277,Fred Wrona,20,N/A,Canada
 3277,Fred Wrona,164,Environment Canada,Canada
 3278,Qigang Wu,409,Texas A&M University,USA
@@ -3515,14 +3171,11 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3281,David Wuertz,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 3283,Andrew B. Wyatt,998,University of Sydney,Australia
 3284,Bruce L. Wyman,188,National Oceanographic and Atmospheric Administration (NOAA),USA
-3285,Cunde Xiao,233,Chinese Academy of Sciences,China
 3286,Youyu Xie,233,Chinese Academy of Sciences,China
-3287,Liyong Xie,483,Shenyang Agricultural University,China
 3288,P. Xie,188,National Oceanographic and Atmospheric Administration (NOAA),USA
 3289,Shang-Ping Xie,237,University of Hawaii,USA
 3289,Shang-Ping Xie,268,Scripps Institute of Oceanography,USA
 3290,Shao-Xiong Xie,23,N/A,China
-3291,He Xu,484,"Center for Strategic Environmental Assessment, Nankai University",China
 3292,Huaging Xu,233,Chinese Academy of Sciences,China
 3293,Huaqing Xu,525,Energy Research Institute,China
 3294,Li Xu,247,University of Michigan,USA
@@ -3538,7 +3191,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3304,Farhana Yamin,468,University of Sussex,United Kingdom
 3304,Farhana Yamin,1210,University of London,United Kingdom
 3304,Farhana Yamin,1387,Foundation for International Environmental Law and Development,United Kingdom
-3306,Denghua Yan,485,China Institute of Water Resources and Hydropower Research,China
 3307,Pius Yanda,416,University of Dar-es-Salaam,Tanzania
 3308,Z. Yang,430,University of Arizona,USA
 3309,Hongwei Yang,525,Energy Research Institute,China
@@ -3546,8 +3198,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3312,K.S. Yap,1081,Malaysian Meteorological Service,Malaysia
 3313,Igor Yashayaev,676,Fisheries and Oceans Canada,Canada
 3314,Ichiro Yasuda,148,University of Tokyo,Japan
-3315,Kazuya Yasuhara,412,Ibaraki University,Japan
-3316,T. Yasunan,1420,Institute of Geoscience,Japan
 3317,Tetsuzo Yasunari,282,Nagoya University,Japan
 3317,Tetsuzo Yasunari,366,University of Tsukuba,Japan
 3318,J.R. Ybema,1211,ECN Policy Studies,Netherlands
@@ -3567,9 +3217,7 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3334,James Zachos,113,N/A,USA
 3334,James Zachos,752,University of California Santa Cruz,USA
 3335,R. Zahn,1362,GEOMAR,Germany
-3336,Sumaya Zakieldeen,487,University of Khartoum,Sudan
 3338,Ricardo Zapata-Marti,895,UN Economic Commission for LatinAmerican and the Caribbean (ECLAC),Chile
-3339,Peter Zavialov,205,P.P. Shirshov Institute of Oceanography,Russian Federation
 3340,C. Zegras,1334,International Institute for Energy Conservation,USA
 3341,Q.-C. Zeng,233,Chinese Academy of Sciences,China
 3342,Z. Zeng,1034,Atmospheric & Environmental Research Inc.,USA
@@ -3579,7 +3227,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3347,Y. Zhang,233,Chinese Academy of Sciences,China
 3347,Y. Zhang,247,University of Michigan,USA
 3348,De'er Zhang,187,China Meteorological Administration,China
-3349,Hua Zhang,187,China Meteorological Administration,China
 3350,Jia-cheng Zhang,23,N/A,China
 3351,Jianyun Zhang,1154,Ministry of Water Resources,China
 3352,Qiaomin Zhang,896,South China Sea Institute of Oceanology,China
@@ -3602,7 +3249,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3369,Guangsheng Zhou,233,Chinese Academy of Sciences,China
 3370,Liming Zhou,509,Georgia Institute of Technology,USA
 3371,Peter P. Zhou,654,Energy Environment Computer and Geophysical Applications Group (EECG Consultants),Botswana
-3373,Tianjun Zhou,233,Chinese Academy of Sciences,China
 3375,Gina Ziervogel,149,University of Cape Town,South Africa
 3376,John Zillman,250,Bureau of Meteorology,Australia
 3377,M.C. Zinyowera,1363,Zimbabwe Meteorological Services,Zimbabwe
@@ -3767,9 +3413,6 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3545,A. Zangvil,1,N/A,N/A
 3546,N. Zeng,1,N/A,N/A
 3547,K. Zickfeld,1,N/A,N/A
-3548,Leisa Perch,435,International policy center for inclusive growth,Barbados
-3549,Susan Cutter,321,University of South Carolina,USA
-3550,Ama Essel,347,University of Ghana Medical School,Ghana
 3551,M. Ayers,1,N/A,N/A
 3552,G. Demarée,1,N/A,N/A
 3553,B. Foxworthy,1,N/A,N/A
@@ -3844,874 +3487,5 @@ author_id,Author (INFO),institution_id,Institution (INFO),Coutry (INFO)
 3622,I.M. Whillans,113,N/A,USA
 3623,R. Haugen,113,N/A,USA
 3624,F. Sayles,113,N/A,USA
-3625,Amr Abdel-Aziz,488,Integral Environmental Solutions,Egypt
-3629,Adolph Acquaye,490,"Centre for Energy,Environment and Sustainability / Univesity of Sheffield",United Kingdom
-3631,Helal Ahammad,491,Australian Bureau of Agricultural and Resource Economics (ABARE),Australia
-3632,Jiahua Ahenkorah Pan,492,Chinese Academy of Social Sciences (CASS),China
 3633,Hashem Akbari,113,N/A,USA
 3633,Hashem Akbari,494,Concordia University,Canada
-3634,Keigo Akimoto,495,Research Institute of Innovative Technology for the Earth (RITE),Japan
-3638,Julian Allwood,276,University of Cambridge,United Kingdom
-3646,Leonardo Barreto,497,Austrian Energy Agency (AEA),Austria
-3647,John Barrett,498,University of York / Stockholm Environment Institute (SEI),United Kingdom
-3649,Dipal Chandra Barua,499,Bright Green Energy Foundation,Bangladesh
-3650,Igor Bashmakov,500,Center for Energy Efficiency (CENEF),Russian Federation
-3653,Anthony Bigio,502,George Washington University,USA
-3654,Gabriel Blanco,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina
-3655,Hilda Blanco,504,University of Southern California,USA
-3656,Geoffrey Blanford,505,Electric Power Research Institute (EPRI),USA
-3659,Valentina Bosetti,507,Fondazione Eni Enrico Mattei (FEEM),Italy
-3664,Thomas Brewer,508,Georgetown University,USA
-3668,Thomas Bruckner,510,University of Leipzig,Germany
-3670,Mercedes Bustamante,512,University of Brasília,Brazil
-3671,Luisa F. Cabeza,513,University of Lleida,Spain
-3678,Robert Cervero,298,University of California Berkeley,USA
-3681,Wenying Chen,516,Tsinghua University,China
-3684,Donald Chimanikire,517,University of Zimbabwe,Zimbabwe
-3685,Lloyd Chingambo,518,Africa Carbon Credit Exchange,Zambia
-3687,Helena Chum,297,National Renewable Energy Laboratory (NREL),USA
-3689,Harry Clark,442,New Zealand Agricultural Greenhouse Gas Research Centre,New Zealand
-3692,Roland Clift,519,University of Surrey,United Kingdom
-3697,Mariana Conte Grand,520,"Universidad del CEMA,Buenos Aires",Argentina
-3698,Roger Cooke,887,Delft University of Technology,Netherlands
-3700,Thomas Cottier,126,University of Bern,Switzerland
-3701,Felix Creutzig,522,Mercator Research Institute on Global Commons and ClimateChange (MCC),Germany
-3702,Xochitl Cruz-Núñez,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
-3704,Marcio D'Agosto,342,Federal University of Rio de Janeiro,Brazil
-3706,Heleen de Coninck,526,University of Nijmegen,Netherlands
-3707,Angel De la Vega,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
-3708,Elizabeth Deakin,298,University of California Berkeley,USA
-3710,Gian Carlo Delgado,528,Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades,Mexico
-3711,Volodymyr Demkine,529,"United Nations Environment Programme (UNEP,Nairobi)",Ukraine
-3713,David Dewar,149,University of Cape Town,South Africa
-3714,Shobhakar Dhakal,531,Asian Institute of Technology,Thailand
-3716,Delia Dimitriu,232,Manchester Metropolitan University,United Kingdom
-3719,Hongmin Dong,406,Institute of Environment and Sustainable Development in Agriculture,China
-3721,Navroz Dubash,534,Centre for Policy Research,India
-3723,Varun Dutt,150,Indian Institute of Technology,India
-3725,Erik Echeverri Haites,535,Margaree Consultants Inc.,Canada
-3730,Joseph Kow Essandoh- Yeddu,537,Energy Commission,Ghana
-3731,Nicholas Eyre,153,University of Oxford,United Kingdom
-3737,Solomone Fifita,480,Secretariat of the Pacific Community - Applied Geoscience and Technology Division (SOPAC),Fiji
-3738,Maria Josefina Figueroa,540,Technical University of Denmark,Denmark
-3739,Michael Finus,541,University of Bath,United Kingdom
-3741,Manfred Fischedick,542,"Wuppertal Institute for Climate,Environment and Energy",Germany
-3742,Karen Fisher-Vanden,195,Pennsylvania State University,USA
-3747,Paul Frankel,543,California Clean Energy Fund Innovations (CalCEF),USA
-3752,Lew Fulton,544,University of California,USA
-3753,Bundit Fungtammasan,545,King Mongkut's University of Technology,Thailand
-3756,Ashok Gadgil,181,Lawrence Berkeley National Laboratory,USA
-3758,Alba Eritrea Gámez Vázquez,546,Universidad Autonoma de Baja California Sur (UABCS),Mexico
-3762,Raúl Jorge Garrido Vázquez,489,"Ministry of Science,Technology and Environment",Cuba
-3764,Yong Geng,233,Chinese Academy of Sciences,China
-3765,Reyer Gerlagh,549,Tilburg University,Netherlands
-3768,Marcos Gomes,551,Pontifical Catholic University of Rio de Janeiro,Brazil
-3769,Luis Gómez,552,International Institute for Applied Systems Analysis (IIASA),Colombia
-3771,Lawrence Goulder,338,Stanford University,USA
-3773,Dabo Guan,276,University of Cambridge,United Kingdom
-3780,Edgar E. Gutierrez-Espeleta,555,Universidad de Costa Rica,Costa Rica
-3783,Helmut Haberl,556,Alpen Adria University,Austria
-3789,Richard Harper,559,Murdoch University,Australia
-3791,L.D. Danny Harvey,313,University of Toronto,Canada
-3795,Hermann Held,264,University of Hamburg,Germany
-3797,Edgar Hertwich,561,Norwegian University of Science & Technology,Norway
-3799,Damon Honnery,216,Monash University,Australia
-3803,Luxin Huang,563,China Academy of Urban Planning and Design (CAUPD),China
-3804,Yongfu Huang,564,"United Nations University,World Institute for Development Economics Research",Finland
-3808,David Infield,566,University of Strathclyde,United Kingdom
-3810,Adam Jaffe,569,Motu Economic and Public Policy Research,New Zealand
-3813,Martin Jänicke,183,Freie Universität Berlin,Germany
-3817,Leiwen Jiang,166,National Center for Atmospheric Research (NCAR),USA
-3818,Yi Jiang,516,Tsinghua University,China
-3829,Arun Kansal,598,Energy & Resources Institute (TERI),India
-3832,Mohammed Said Karrouk,572,University Hassan II,Morocco
-3837,Smail Khennas,575,Senior Energy & Climate Change Expert,United Kingdom
-3839,Suduk Kim,577,Ajou University,South Korea
-3840,Yong Gun Kim,578,Korea Environment Institute,South Korea
-3844,Stephan Klasen,579,University of Göttingen,Germany
-3850,Raymond Kopp,873,Resources for the Future,USA
-3853,Volker Krey,582,International Institute for Applied Systems Analysis (IIASA),Germany
-3854,Elmar Kriegler,200,Potsdam Institute for Climate Impact Research,Germany
-3855,Thelma Krug,173,National Institute for Space Research (INPE),Brazil
-3856,Howard Kunreuther,113,N/A,USA
-3856,Howard Kunreuther,583,University of Pennsylvania,USA
-3860,Xavier Labandeira,585,University of Vigo,Spain
-3863,Alessandro Lanza,586,Euro Mediterranean Center on Climate Change (CMCC),Italy
-3865,Myung-Kyoon Lee,588,Keimyung University,South Korea
-3866,Benoit LeFevre,589,World Resources Institute,USA
-3869,Joanna Lewis,508,Georgetown University,USA
-3872,Joanne Linnerooth- Bayer,376,International Institute for Applied Systems Analysis (IIASA),Austria
-3873,Enoch Liphoto,992,Eskom,South Africa
-3875,Andreas Löschel,593,Centre for European Economic Research (ZEW),Germany
-3876,Oswaldo Lucon,594,São Paulo State Environment Secretariat,Brazil
-3878,Shuaib Lwasa,595,Makerere University,Uganda
-3879,Haroldo de Oliveira Machado-Filho,596,Ministry of Science and Technology,Brazil
-3881,Shunsuke Managi,597,"Graduate School of Environmental Studies,Tohoku University",Japan
-3885,Emanuele Massetti,507,Fondazione Eni Enrico Mattei (FEEM),Italy
-3886,Ritu Mathur,598,Energy & Resources Institute (TERI),India
-3888,Cheikh Mbow,336,University Cheikh Anta Diop of Dakar,Senegal
-3889,Alan McKinnon,599,Kühne Logistics University,Germany
-3890,James McMahon,181,Lawrence Berkeley National Laboratory,USA
-3893,Mohammed Messouli,600,Université Cadi Ayyad,Morocco
-3897,Catherine Mitchell,131,University of Exeter,United Kingdom
-3900,Juan-Pablo Montero,410,Pontificia Universidad Catolica de Chile,Chile
-3901,Jennifer Morgan,589,World Resources Institute,USA
-3903,Daniel Mueller,561,Norwegian University of Science & Technology,Norway
-3904,Yacob Mulugetta,519,University of Surrey,United Kingdom
-3906,Jin Murakami,603,City University,Hong Kong
-3907,Shuzo Murakami,604,Building Research Institute,Japan
-3913,Harini Nagendra,607,Ashoka Trust for Research in Ecology and the Environment (ATREE),India
-3916,Valentin Nenov,609,Burgas University,Bulgaria
-3918,Peter Newman,610,Curtin University,Australia
-3921,Emmanuel Nzunda,362,Sokoine University of Agriculture,Tanzania
-3922,Alfred Ofosu,537,Energy Commission,Ghana
-3927,Minggao Ouyang,516,Tsinghua University,China
-3930,Sergey Paltsev,320,Massachusetts Institute of Technology,USA
-3931,Tamás Pálvölgyi,611,Budapest University of Technology and Economics,Hungary
-3932,Matthew Paterson,238,University of Ottawa,Canada
-3933,Himanshu Pathak,613,Indian Agricultural Research Institute,India
-3938,Daniel Perczyk,614,Instituto Torcuato di Tella,Argentina
-3939,Ignacio Perez-Arriaga,615,Institute for Research in Technology,Spain
-3946,Christopher Pyke,616,US Green Building Council,USA
-3949,Kilaparti Ramakrishna,617,United Nations Environment Programme (UNEP),USA
-3950,Anuradha Ramaswami,362,Sokoine University of Agriculture,Tanzania
-3954,Michael Rauscher,618,Institut für Volkswirtschaftslehre/University Rostock,Germany
-3959,Jake Rice,620,"Ecosystem Sciences Branch,Department of Fisheries and Oceans",Canada
-3962,Carmenza Robledo Abad,621,Intercooperation,Switzerland
-3967,Anna Romanovskaya,622,Institute of Global Climate and Ecology,Russian Federation
-3974,Estela Santalla,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina
-3979,James Jay Schauer,627,University of Wisconsin-Madison,USA
-3982,Ronaldo Seroa da Motta,628,Research Institute for Applied Economics (IPEA),Brazil
-3983,Karen Seto,629,Yale University,USA
-3985,Claudia Sheinbaum,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico
-3988,Ekundayo Shittu,632,Tulane University,USA
-3993,Eswaran Somanathan,636,"Indian Statistical Institute,Delhi",India
-3995,Frank Sperling,637,World Wildlife Fund (WWF),Norway
-3999,David Stern,230,Australian National University,Australia
-4000,Thomas Sterner,177,University of Gothenburg,Sweden
-4002,Neil Strachan,638,University College London,United Kingdom
-4005,Sangwon Suh,640,University of California Santa Barbara,USA
-4006,Nadir Mohamed Awad Suliman,641,Private Sector Consultant,Sudan
-4012,Massimo Tavoni,507,Fondazione Eni Enrico Mattei (FEEM),Italy
-4014,Fei Teng,516,Tsinghua University,China
-4019,Geetam Tiwari,150,Indian Institute of Technology,India
-4021,Noim Uddin,645,Australian Centre for Sustainable Mining Practices (ACSMP),Australia
-4022,Kevin Chika Urama,646,African Technology Policy Studies (ATPS) Network,Kenya
-4024,Bob van der Zwaan,648,Energy research Centre of the Netherlands (ECN) / Columbia University,Netherlands
-4028,Anthony Venables,153,University of Oxford,United Kingdom
-4031,Maria Virginia Vilariño,650,Business Council for Sustainable Development Argentina,Argentina
-4037,Elke Weber,185,Columbia University,USA
-4039,Gang Wen,651,"China CDM Fund Management Center,Ministry of Finance",China
-4040,Jonathan Wiener,652,Duke University,USA
-4044,Ryan Wiser,181,Lawrence Berkeley National Laboratory,USA
-4051,Azni Zain Ahmed,653,Universiti Teknologi MARA,Malaysia
-4061,Tomasz Zylicz,82,N/A,Poland
-4061,Tomasz Zylicz,656,University of Warsaw,Poland
-4062,Borgar Aamaas,75,N/A,Norway
-4064,Lubi Abraham,77,N/A,Qatar
-4065,Helen Adams,117,N/A,United Kingdom
-4066,Ibidun Adelekan,74,N/A,Nigeria
-4068,Ashish Aggarwal,44,N/A,India
-4069,Anders Ahlstrom,101,N/A,Sweden
-4070,Elena M. Aizen,113,N/A,USA
-4071,Vladimir B. Aizen,113,N/A,USA
-4072,Magne Aldrin,75,N/A,Norway
-4074,Erik Alfaro,25,N/A,Costa Rica
-4075,Jurgen Alheit,36,N/A,Germany
-4077,Robert Allan,117,N/A,United Kingdom
-4078,Simon Allan,126,University of Bern,Switzerland
-4079,Craig Allen,113,N/A,USA
-4081,Tercio Ambrizzi,16,N/A,Brazil
-4082,Alessandro Anav,117,N/A,United Kingdom
-4083,Kevin Anchukaitis,113,N/A,USA
-4084,Bill Anderegg,113,N/A,USA
-4085,Bruce Anderson,113,N/A,USA
-4086,Oliver David Andrews,117,N/A,United Kingdom
-4087,Timothy Andrews,117,N/A,United Kingdom
-4088,Fabien Anthelme,35,N/A,France
-4089,Michio Aoyama,51,N/A,Japan
-4090,Osamu Arakawa,51,N/A,Japan
-4092,Anthony Arendt,113,N/A,USA
-4094,Javier Aristegui,97,N/A,Spain
-4095,Claire Armstrong,75,N/A,Norway
-4098,Jessica Ayers,117,N/A,United Kingdom
-4099,Kenshi Baba,51,N/A,Japan
-4100,Johanna Baehr,36,N/A,Germany
-4101,David Bahr,113,N/A,USA
-4103,Michael Balinga,19,N/A,Cameroon
-4104,Molly Baringer,113,N/A,USA
-4105,Matthew Barlow,113,N/A,USA
-4106,David Barriopedro,97,N/A,Spain
-4107,Vicente Barros,5,N/A,Argentina
-4108,Patrick J. Bartlein,113,N/A,USA
-4109,Jonathan Barton,117,N/A,United Kingdom
-4111,Jane Battersby,95,N/A,South Africa
-4112,Gregory Beaugrand,35,N/A,France
-4114,Nina Becker,36,N/A,Germany
-4115,Rawshan Ara Begum,8,N/A,Bangladesh
-4116,Vsevolod Belkovich,86,N/A,Russian Federation
-4117,Johann Bell,33,N/A,Fiji
-4118,Celine Bellard,35,N/A,France
-4119,Nicolas Bellouin,117,N/A,United Kingdom
-4120,Angela Benedetti,117,N/A,United Kingdom
-4124,Helen Berry,6,N/A,Australia
-4125,Arnaud Bertrand,35,N/A,France
-4126,Urs Beyerle,102,N/A,Switzerland
-4127,Michela Biasutti,113,N/A,USA
-4128,Sébastien Biner,20,N/A,Canada
-4129,Paula Blackett,73,N/A,New Zealand
-4130,Donald R. Blake,113,N/A,USA
-4131,Alejandro Bodas-Salcedo,117,N/A,United Kingdom
-4133,Ben Booth,117,N/A,United Kingdom
-4134,Alberto Vieira Borges,10,N/A,Belgium
-4135,Francesco Bosello,49,N/A,Italy
-4136,Wouter Botzen,107,N/A,Netherlands
-4138,Sarah Boulter,6,N/A,Australia
-4141,Lex Bouwman,107,N/A,Netherlands
-4142,Chris Bowler,35,N/A,France
-4143,Timothy Boyer,113,N/A,USA
-4145,Paulo Brando,16,N/A,Brazil
-4146,Achim Brauer,36,N/A,Germany
-4147,Hannah Brenkert-Smith,113,N/A,USA
-4149,Harold Brooks,113,N/A,USA
-4151,Christopher J. Brown,6,N/A,Australia
-4152,Josephine Brown,6,N/A,Australia
-4153,Ross Brown,20,N/A,Canada
-4154,Oliver Browne,117,N/A,United Kingdom
-4155,Lori M. Bruhwiler,113,N/A,USA
-4156,Claire Brutel-Vuilmet,35,N/A,France
-4157,Halvard Buhaug,75,N/A,Norway
-4159,Michael Burrows,117,N/A,United Kingdom
-4160,Colin Butler,6,N/A,Australia
-4161,Karl W. Butzer,113,N/A,USA
-4162,Robert Byrne,113,N/A,USA
-4165,Kenneth Caldeira,113,N/A,USA
-4166,Philip Cameron-Smith,113,N/A,USA
-4167,Andrew Campbell,6,N/A,Australia
-4168,Mark Cane,113,N/A,USA
-4169,Long Cao,23,N/A,China
-4170,Mark Carey,113,N/A,USA
-4171,Jessie Carr,113,N/A,USA
-4172,Mark Carson,36,N/A,Germany
-4173,Leila V. Carvalho,113,N/A,USA
-4174,Jennifer Catto,6,N/A,Australia
-4176,Robin Chadwick,117,N/A,United Kingdom
-4177,Mohammed Chahed,110,N/A,Tunisia
-4179,Ping Chang,113,N/A,USA
-4180,Jerome Chappellaz,35,N/A,France
-4181,Monalisa Chatterjee,44,N/A,India
-4182,Anthony Cheng,113,N/A,USA
-4183,So-Min Cheong,96,N/A,South Korea
-4184,Frederic Chevallier,35,N/A,France
-4186,Chineke Theo Chidiezie,74,N/A,Nigeria
-4187,Yoshimitsu Chikamoto,113,N/A,USA
-4188,Paul Chinowsky,113,N/A,USA
-4189,Maria Vincenza Chiriaco,49,N/A,Italy
-4190,Jung Choi,96,N/A,South Korea
-4191,Nikolaos Christidis,117,N/A,United Kingdom
-4194,Cory Cleveland,113,N/A,USA
-4195,Olivia Clifton,113,N/A,USA
-4197,Daniel Collins,73,N/A,New Zealand
-4198,Josefino Comiso,113,N/A,USA
-4200,Peter Convey,117,N/A,United Kingdom
-4202,Kerry H. Cook,113,N/A,USA
-4203,Sarah Cooley,113,N/A,USA
-4204,Owen Cooper,113,N/A,USA
-4205,Sarah Cornell,101,N/A,Sweden
-4206,Susanna Corti,49,N/A,Italy
-4207,Dim Coumou,36,N/A,Germany
-4208,Franck Courchamp,35,N/A,France
-4209,Thomas Crowley,117,N/A,United Kingdom
-4211,Tracy Cull,95,N/A,South Africa
-4212,Stuart Cunningham,117,N/A,United Kingdom
-4213,Philippe Cury,35,N/A,France
-4214,Lara Cushing,113,N/A,USA
-4215,Jo da Silva,117,N/A,United Kingdom
-4217,Stig B. Dalsoren,75,N/A,Norway
-4218,John Daniel,113,N/A,USA
-4221,Jocelyn Davies,6,N/A,Australia
-4222,Michael Davies,117,N/A,United Kingdom
-4223,Robert E. Davis,113,N/A,USA
-4224,Sean M. Davis,113,N/A,USA
-4225,Katharine Davis Reich,113,N/A,USA
-4226,Patrick de Deckker,6,N/A,Australia
-4227,Belen Rodriguez de Fonseca,97,N/A,Spain
-4228,Rob de Loe,20,N/A,Canada
-4229,Viviane Vasconcellos de Menezes,6,N/A,Australia
-4230,Anne de Vernal,20,N/A,Canada
-4231,Keith Dear,6,N/A,Australia
-4232,Anthony Del Genio,113,N/A,USA
-4233,Ana Pena del Valle,64,N/A,Mexico
-4234,Pablo Del-Monte,64,N/A,Mexico
-4235,Thierry Delcroix,35,N/A,France
-4236,Barbara Delmonte,49,N/A,Italy
-4237,Timothy DelSole,113,N/A,USA
-4238,Carlos Demiguel,97,N/A,Spain
-4241,Andrew Derocher,20,N/A,Canada
-4243,Thea Dickinson,20,N/A,Canada
-4244,Pedro DiNezio,113,N/A,USA
-4245,Houria Djoudi,3,N/A,Algeria
-4249,Catia M. Domingues,6,N/A,Australia
-4250,Markus G. Donat,6,N/A,Australia
-4251,Scott C. Doney,113,N/A,USA
-4252,Simon Donner,20,N/A,Canada
-4253,John Dore,113,N/A,USA
-4254,Ellen Douglas,113,N/A,USA
-4255,Stephen Dovers,6,N/A,Australia
-4257,Harry J. Dowsett,113,N/A,USA
-4258,Carlos Duarte,97,N/A,Spain
-4259,Patrice Dumas,35,N/A,France
-4260,Paul Durack,113,N/A,USA
-4261,C. Mark Eakin,113,N/A,USA
-4262,Hallie Eakin,113,N/A,USA
-4266,R. Lawrence Edwards,113,N/A,USA
-4267,Arne Eide,75,N/A,Norway
-4268,Alexey Eliseev,86,N/A,Russian Federation
-4271,Hirokazu Endo,51,N/A,Japan
-4272,David B. Enfield,113,N/A,USA
-4273,Jan Willem Erisman,107,N/A,Netherlands
-4274,Eugenie S. Euskirchen,113,N/A,USA
-4275,Amato Evan,113,N/A,USA
-4279,Lucy Faulkner,117,N/A,United Kingdom
-4282,Jose Gustavo Feres,16,N/A,Brazil
-4283,Xavier Fettweis,10,N/A,Belgium
-4285,Rana Fine,113,N/A,USA
-4286,Kyla Finlay,6,N/A,Australia
-4287,Vitali Fioletov,20,N/A,Canada
-4288,Erich M. Fischer,102,N/A,Switzerland
-4289,Hubertus Fischer,102,N/A,Switzerland
-4290,Thomas Fischer,36,N/A,Germany
-4291,Mark Flanner,113,N/A,USA
-4294,Michael Flint,86,N/A,Russian Federation
-4295,Wendy Foden,95,N/A,South Africa
-4296,Mick Follows,113,N/A,USA
-4297,Bruce C. Forbes,34,N/A,Finland
-4300,Gavin Foster,117,N/A,United Kingdom
-4304,Claus Frohlich,102,N/A,Switzerland
-4305,Thomas Frolicher,113,N/A,USA
-4306,Ricardo Fuentes,64,N/A,Mexico
-4308,Beth Fulton,6,N/A,Australia
-4310,Sumetee Pahwa Gajjar,44,N/A,India
-4312,Javier Garcia-Serrano,97,N/A,Spain
-4313,Alex Gardner,113,N/A,USA
-4314,Rebecca Garland,95,N/A,South Africa
-4315,Rene Garreaud,22,N/A,Chile
-4316,Karen Garrett,113,N/A,USA
-4317,Lydia Gates,36,N/A,Germany
-4319,Fatou Gaye,106,N/A,The Gambia
-4320,Emiloa Gbobaniyi,74,N/A,Nigeria
-4320,Emiloa Gbobaniyi,101,N/A,Sweden
-4321,Roland Gehrels,117,N/A,United Kingdom
-4322,Sebastian Gerland,75,N/A,Norway
-4323,Dieter Gerten,36,N/A,Germany
-4324,Steven Ghan,113,N/A,USA
-4325,Tran Van Giai Phong,121,N/A,Vietnam
-4326,Alessandra Giannini,113,N/A,USA
-4327,Rianne Giesen,107,N/A,Netherlands
-4328,Paul Ginoux,113,N/A,USA
-4329,Bruce Glavovic,73,N/A,New Zealand
-4331,Solveig Glomsrod,75,N/A,Norway
-4332,Daniel M. Gnatz,113,N/A,USA
-4333,Scott Goetz,113,N/A,USA
-4334,Kees Klein Goldewijk,107,N/A,Netherlands
-4335,Nicola Golding,117,N/A,United Kingdom
-4337,Peter Good,117,N/A,United Kingdom
-4338,Simon Good,117,N/A,United Kingdom
-4339,Clare Goodess,117,N/A,United Kingdom
-4341,Aline Govin,36,N/A,Germany
-4342,Claire Granier,35,N/A,France
-4343,Rune Grand Graverson,101,N/A,Sweden
-4344,Lesley Gray,117,N/A,United Kingdom
-4346,Stefan Greiving,36,N/A,Germany
-4347,Ralf Greve,51,N/A,Japan
-4348,Stephen Griffies,113,N/A,USA
-4350,Stephan Gruber,102,N/A,Switzerland
-4351,Virginie Guemas,97,N/A,Spain
-4352,Don Gunasekera,6,N/A,Australia
-4356,Jeremy Haggar,117,N/A,United Kingdom
-4358,Leopold Haimberger,7,N/A,Austria
-4362,Ben Halpern,113,N/A,USA
-4363,John Handmer,6,N/A,Australia
-4364,Edward Hanna,117,N/A,United Kingdom
-4365,Gerrit Hansen,36,N/A,Germany
-4366,Julia Hargreaves,51,N/A,Japan
-4367,Annamalai Hariharasubramanian,113,N/A,USA
-4368,Garth Harmsworth,73,N/A,New Zealand
-4369,Paula Harrison,117,N/A,United Kingdom
-4370,Sandy Harrison,6,N/A,Australia
-4372,Blane Harvey,117,N/A,United Kingdom
-4373,Masahiro Hashizume,51,N/A,Japan
-4374,Ed Hawkins,117,N/A,United Kingdom
-4375,Mary Hayden,113,N/A,USA
-4376,Alan Haywood,117,N/A,United Kingdom
-4378,Mark Hemer,6,N/A,Australia
-4379,Andreas Hemp,36,N/A,Germany
-4380,Paul J. Hezel,10,N/A,Belgium
-4381,Thomas Hickler,36,N/A,Germany
-4383,Shu-Peng Ho,113,N/A,USA
-4386,Jennifer Hodbod,117,N/A,United Kingdom
-4387,Dominic Hodgson,117,N/A,United Kingdom
-4388,Oivind Hodnebrog,75,N/A,Norway
-4390,Eileen Hofmann,113,N/A,USA
-4391,Simon J. Holgate,117,N/A,United Kingdom
-4392,David Holland,113,N/A,USA
-4394,Christopher Hollis,73,N/A,New Zealand
-4395,Christopher Holmes,113,N/A,USA
-4396,Corinna Hoose,36,N/A,Germany
-4397,Brett Hopwood,113,N/A,USA
-4398,Ben Horton,113,N/A,USA
-4400,Sander Houweling,107,N/A,Netherlands
-4402,Solomon Hsiang,113,N/A,USA
-4403,Ping Huang,23,N/A,China
-4404,Markus Huber,102,N/A,Switzerland
-4405,Graeme Hugo,6,N/A,Australia
-4407,Alistair Hunt,117,N/A,United Kingdom
-4408,John Hunter,6,N/A,Australia
-4409,Stephen Hunter,117,N/A,United Kingdom
-4410,George Hurtt,113,N/A,USA
-4411,Matthias Huss,102,N/A,Switzerland
-4412,George Hutchinson,117,N/A,United Kingdom
-4414,David Hydes,117,N/A,United Kingdom
-4415,Maria Eugenia Ibarraran Viniegra,64,N/A,Mexico
-4416,Tatiana Ilyina,36,N/A,Germany
-4417,Johnna Infanti,113,N/A,USA
-4418,John Ingram,117,N/A,United Kingdom
-4421,Masahiko Isobe,51,N/A,Japan
-4422,Detelina Ivanova,113,N/A,USA
-4423,Sue Jackson,6,N/A,Australia
-4425,Stanley Jacobs,113,N/A,USA
-4426,Andrew D. Jacobson,113,N/A,USA
-4427,Atul Jain,113,N/A,USA
-4428,Catherine Jampel,113,N/A,USA
-4430,Emily Janssen,113,N/A,USA
-4431,Guy Jobbins,117,N/A,United Kingdom
-4432,Jasmin John,113,N/A,USA
-4434,Matt Johnston,113,N/A,USA
-4435,David Jones,6,N/A,Australia
-4436,Olaf Jonkeren,49,N/A,Italy
-4438,Manoj Joshi,117,N/A,United Kingdom
-4441,Shinjiro Kanae,51,N/A,Japan
-4442,Torsten Kanzow,36,N/A,Germany
-4443,Jed O. Kaplan,102,N/A,Switzerland
-4446,Ashok Karumuri,44,N/A,India
-4448,Frank Kaspar,36,N/A,Germany
-4449,Etsushi Kato,51,N/A,Japan
-4450,Caroline Katsman,107,N/A,Netherlands
-4451,Jack Katzfey,6,N/A,Australia
-4452,Alexander Kazmin,86,N/A,Russian Federation
-4456,Elizabeth Kent,117,N/A,United Kingdom
-4457,Stuart Kent,6,N/A,Australia
-4459,Carina Keskitalo,101,N/A,Sweden
-4460,Robert Key,113,N/A,USA
-4461,Samar Khatiwala,113,N/A,USA
-4465,Stefanie Kirschke,35,N/A,France
-4468,Erik Kjellstrom,101,N/A,Sweden
-4471,Joan Kleypas,113,N/A,USA
-4472,Zbigniew Klimont,7,N/A,Austria
-4473,Silvia Kloster,36,N/A,Germany
-4474,Jeff Knight,117,N/A,United Kingdom
-4475,Andrew Knoll,113,N/A,USA
-4478,Mark Koetse,107,N/A,Netherlands
-4479,Makoto Koike,51,N/A,Japan
-4480,Leonard Konikow,113,N/A,USA
-4481,Robert Kopp,113,N/A,USA
-4482,Janina Korper,36,N/A,Germany
-4484,Andrey G. Kostianoy,86,N/A,Russian Federation
-4486,Charles Koven,113,N/A,USA
-4487,Werner Krauss,36,N/A,Germany
-4488,Ben Kravitz,113,N/A,USA
-4490,Carolien Kroeze,107,N/A,Netherlands
-4491,Ashwini Kulkarni,44,N/A,India
-4492,Koteswara Rao Kundeti,44,N/A,India
-4494,Yochanan Kushnir,113,N/A,USA
-4496,Benjamin Laken,97,N/A,Spain
-4498,Amaelle Landais,35,N/A,France
-4499,Felix Landerer,113,N/A,USA
-4500,Patricia Romero Lankao,64,N/A,Mexico
-4503,K. M. Lau,113,N/A,USA
-4504,Rachel M. Law,6,N/A,Australia
-4505,Josh Lawler,113,N/A,USA
-4508,Matthew Lebsock,113,N/A,USA
-4509,Kitack Lee,96,N/A,South Korea
-4510,Robert W. Lee,117,N/A,United Kingdom
-4511,Tong Lee,113,N/A,USA
-4513,Jan Lenaerts,107,N/A,Netherlands
-4514,Geert Lenderink,107,N/A,Netherlands
-4515,Chris Lennard,95,N/A,South Africa
-4516,Andrew Lenton,6,N/A,Australia
-4518,Lisa Levin,113,N/A,USA
-4519,Camille Li,75,N/A,Norway
-4520,Hongmei Li,36,N/A,Germany
-4521,Rachel Licker,113,N/A,USA
-4522,Spencer Liddicoat,117,N/A,United Kingdom
-4523,Stefan Ligtenberg,107,N/A,Netherlands
-4525,Renping Lin,23,N/A,China
-4526,Markus Lindner,34,N/A,Finland
-4527,Graeme Lindsay,73,N/A,New Zealand
-4528,Erin Lipp,113,N/A,USA
-4529,Leslie Lipper,49,N/A,Italy
-4530,Heike Lischke,102,N/A,Switzerland
-4531,Christopher Little,113,N/A,USA
-4532,Gita L. Ljubicic,20,N/A,Canada
-4534,Bruno Locatelli,35,N/A,France
-4535,Mike Lockwood,117,N/A,United Kingdom
-4536,Norman Loeb,113,N/A,USA
-4539,Mark R. Lomas,117,N/A,United Kingdom
-4540,Feliu Lopez-i-Gelats,97,N/A,Spain
-4541,Teresa Losada,97,N/A,Spain
-4542,Fraser Lott,117,N/A,United Kingdom
-4543,Jian Lu,113,N/A,USA
-4544,Xixi Lu,92,N/A,Singapore
-4545,Christopher Lucas,6,N/A,Australia
-4547,Jo Luck,6,N/A,Australia
-4548,Eva Ludi,117,N/A,United Kingdom
-4549,Daniel Lunt,117,N/A,United Kingdom
-4550,Yiqi Luo,113,N/A,USA
-4551,Georgina Mace,117,N/A,United Kingdom
-4552,Katharine Mach,113,N/A,USA
-4553,Neil Mackellar,95,N/A,South Africa
-4555,Graciela Magrin,5,N/A,Argentina
-4556,Shobha Maharaj,109,N/A,Trinidad and Tobago
-4557,Irina Mahlstein,102,N/A,Switzerland
-4559,Takashi Maki,51,N/A,Japan
-4560,Valentina Mara,85,N/A,Romania
-4561,Sarshen Marais,95,N/A,South Africa
-4563,Andrei Marin,75,N/A,Norway
-4565,Thorsten Markus,113,N/A,USA
-4569,George Marston,117,N/A,United Kingdom
-4570,Yiheyis Maru,6,N/A,Australia
-4571,Ben Marzeion,7,N/A,Austria
-4572,Andrew Maskrey,117,N/A,United Kingdom
-4573,Rob Massom,6,N/A,Australia
-4574,Francois Massonnet,10,N/A,Belgium
-4577,Andreas Matzarakis,36,N/A,Germany
-4578,Emilio Mayorga,113,N/A,USA
-4580,Nancy McCarthy,113,N/A,USA
-4581,Chuck McClain,113,N/A,USA
-4582,Jan McDonald,6,N/A,Australia
-4583,Melanie McField,113,N/A,USA
-4584,Melodie McGeoch,6,N/A,Australia
-4585,Justin McGrath,113,N/A,USA
-4586,Shayne McGregor,6,N/A,Australia
-4589,Skip McKinnell,20,N/A,Canada
-4591,Tony McMichael,6,N/A,Australia
-4592,Carol McSweeney,117,N/A,United Kingdom
-4595,Joe R. Melton,20,N/A,Canada
-4598,Melisa Menendez,97,N/A,Spain
-4599,Matthew Menne,113,N/A,USA
-4601,Christopher Merchant,117,N/A,United Kingdom
-4602,Sebastian H. Mernild,113,N/A,USA
-4603,Marc Metzger,117,N/A,United Kingdom
-4604,Nicolas Metzl,35,N/A,France
-4605,Jack Middelburg,107,N/A,Netherlands
-4607,Megan Mills-Novoa,113,N/A,USA
-4609,Seung-Ki Min,96,N/A,South Korea
-4610,Jan Minx,36,N/A,Germany
-4611,Daniel Mitchell,117,N/A,United Kingdom
-4612,Jerry X. Mitrovica,113,N/A,USA
-4613,Anders Moberg,101,N/A,Sweden
-4614,Geir Moholdt,113,N/A,USA
-4616,Thomas Molg,36,N/A,Germany
-4617,Coleen Moloney,95,N/A,South Africa
-4618,Didier Monselesan,6,N/A,Australia
-4619,Luca Montanarella,49,N/A,Italy
-4620,Stephen Montzka,113,N/A,USA
-4621,Simone Morak,117,N/A,United Kingdom
-4622,Calvin Mordy,113,N/A,USA
-4623,Colin Morice,117,N/A,United Kingdom
-4625,Ruth Mottram,28,N/A,Denmark
-4626,Rym Msadek,113,N/A,USA
-4627,Manfred Mudelsee,36,N/A,Germany
-4629,Stefan Mulitza,36,N/A,Germany
-4630,Stefanie Muller,36,N/A,Germany
-4631,Guy Munhoven,10,N/A,Belgium
-4632,Hiroyuki Murakami,113,N/A,USA
-4633,Daniel Murphy,113,N/A,USA
-4634,Eugene Murphy,117,N/A,United Kingdom
-4636,Virginia Murray,117,N/A,United Kingdom
-4637,Johanna Mustelin,34,N/A,Finland
-4638,Catherine Lund Myhre,75,N/A,Norway
-4640,Lars Otto Naess,117,N/A,United Kingdom
-4641,Vaishali Naik,113,N/A,USA
-4642,Sreeja Nair,44,N/A,India
-4643,Mary Jo Nath,113,N/A,USA
-4644,Antonio Navarra,49,N/A,Italy
-4645,Nandan Nawn,44,N/A,India
-4646,Mzime R. Ndebele-Murisa,123,N/A,Zimbabwe
-4647,Aminata Ndiaye,89,N/A,Senegal
-4650,Andrew Newsham,117,N/A,United Kingdom
-4651,Catherine Ngo,113,N/A,USA
-4652,J. P. Nicholas,113,N/A,USA
-4653,Faezeh Nick,75,N/A,Norway
-4654,Steve Nicol,6,N/A,Australia
-4655,Claus J. Nielsen,75,N/A,Norway
-4656,Yosuke Niwa,51,N/A,Japan
-4657,Sirra Njai,106,N/A,The Gambia
-4660,Amrutasri Nori-Sarma,44,N/A,India
-4661,Barbara Norman,6,N/A,Australia
-4662,Catherine Norman,113,N/A,USA
-4665,Fiona O'Connor,117,N/A,United Kingdom
-4666,Mary O'Connor,20,N/A,Canada
-4667,Colin O'Dowd,47,N/A,Ireland
-4668,Marie O'Neill,113,N/A,USA
-4670,Jon Olafsson,43,N/A,Iceland
-4671,Martin Olesen,28,N/A,Denmark
-4676,Alejandro Orsi,113,N/A,USA
-4678,Anders Oskal,75,N/A,Norway
-4679,Alexander Otto,117,N/A,United Kingdom
-4680,Friederike Otto,117,N/A,United Kingdom
-4681,Greg Oulahen,20,N/A,Canada
-4682,Pier Paul Overduin,36,N/A,Germany
-4684,Claudia Pahl-Wostl,36,N/A,Germany
-4685,Jeff Painter,113,N/A,USA
-4686,Diana Pape,113,N/A,USA
-4687,Geun-Ha Park,96,N/A,South Korea
-4689,Prabir Patra,51,N/A,Japan
-4690,Christina M. Patricola,113,N/A,USA
-4691,Pieter Pauw,107,N/A,Netherlands
-4694,Grant Pearce,73,N/A,New Zealand
-4695,Paul N. Pearson,117,N/A,United Kingdom
-4696,Richard Pearson,113,N/A,USA
-4698,Edmund Penning-Rowsell,117,N/A,United Kingdom
-4699,Susan Peoples,73,N/A,New Zealand
-4700,Anna Peregon,35,N/A,France
-4701,Joy Pereira,60,N/A,Malaysia
-4702,Amanda Pereira de Souza,16,N/A,Brazil
-4703,Carlos Peres,117,N/A,United Kingdom
-4705,Ian Perry,20,N/A,Canada
-4706,Glen Peters,75,N/A,Norway
-4707,Wouter Peters,107,N/A,Netherlands
-4708,Jean-Yves Peterschmitt,35,N/A,France
-4709,Juliane Peterson,36,N/A,Germany
-4712,Gwenaelle Philippon-Berthier,35,N/A,France
-4717,Jan Polcher,35,N/A,France
-4718,David Pollard,113,N/A,USA
-4720,Debbie Polson,117,N/A,United Kingdom
-4721,Igor Polyakov,113,N/A,USA
-4722,Julia Pongratz,36,N/A,Germany
-4723,Hans Otto Portner,36,N/A,Germany
-4724,Benjamin Poulter,35,N/A,France
-4725,SVRK Prabhakar,44,N/A,India
-4726,Emilia Pramova,17,N/A,Bulgaria
-4728,Riccardo Pravettoni,75,N/A,Norway
-4729,Ben Preston,113,N/A,USA
-4731,Martin Price,117,N/A,United Kingdom
-4733,Sarah G. Purkey,113,N/A,USA
-4734,Yun Qian,113,N/A,USA
-4737,Ashlinn Quinn,113,N/A,USA
-4738,Jara Imbers Quintana,117,N/A,United Kingdom
-4739,Valentina Radic,20,N/A,Canada
-4740,Jamie Rae,117,N/A,United Kingdom
-4742,Clionadh Raleigh,47,N/A,Ireland
-4744,William J. Randel,113,N/A,USA
-4745,Florian Rauser,36,N/A,Germany
-4746,Suchanda Ray,44,N/A,India
-4747,Peter A. Raymond,113,N/A,USA
-4748,Grace Redmond,117,N/A,United Kingdom
-4749,Hannah Reid,117,N/A,United Kingdom
-4750,Jeffrey Reid,113,N/A,USA
-4752,Joseph Reser,6,N/A,Australia
-4753,Gilles Reverdin,35,N/A,France
-4756,Penny Reyenga,6,N/A,Australia
-4758,Aurélien Ribes,35,N/A,France
-4759,Anthony J. Richardson,6,N/A,Australia
-4760,Andreas Richter,36,N/A,Germany
-4761,Carolin Richter,102,N/A,Switzerland
-4762,Lauren Rickards,6,N/A,Australia
-4763,Andy Ridgwell,117,N/A,United Kingdom
-4764,Piet Rietveld,107,N/A,Netherlands
-4765,Matthew Rigby,117,N/A,United Kingdom
-4766,William Riley,113,N/A,USA
-4767,Bruno Ringeval,107,N/A,Netherlands
-4770,J. Murray Roberts,117,N/A,United Kingdom
-4773,Luis Ricardo Lage Rodrigues,97,N/A,Spain
-4774,Beatriz Rodriguez-Labajos,97,N/A,Spain
-4775,Mark Rodwell,117,N/A,United Kingdom
-4776,Joeri Rogelj,102,N/A,Switzerland
-4777,Eelco Rohling,6,N/A,Australia
-4779,Anastasia Romanou,113,N/A,USA
-4780,Carla Roncoli,113,N/A,USA
-4781,Bjorn Rost,36,N/A,Germany
-4782,Raphael Roth,102,N/A,Switzerland
-4783,Lai-Leung Ruby Leung,113,N/A,USA
-4787,Paolo Michele Ruti,49,N/A,Italy
-4788,Cristina Sabbioni,49,N/A,Italy
-4790,Oleg Saenko,20,N/A,Canada
-4791,Paulo Saldiva,16,N/A,Brazil
-4792,Ulrich Salzmann,117,N/A,United Kingdom
-4793,Jose Luis Samaniego,64,N/A,Mexico
-4794,Bjorn Samset,75,N/A,Norway
-4795,Landy Sanchez Pena,64,N/A,Mexico
-4796,Osman Sankoh,91,N/A,Sierra Leone
-4798,Yannis Sarafidis,38,N/A,Greece
-4799,Jorge Sarmiento,113,N/A,USA
-4800,Beena Balan Sarojini,117,N/A,United Kingdom
-4802,Marielle Saunois,35,N/A,France
-4803,Joel Savarino,35,N/A,France
-4804,Adam Scaife,117,N/A,United Kingdom
-4805,Andreas Schaffer,92,N/A,Singapore
-4806,Andreas Scheba,7,N/A,Austria
-4807,Wolfram Schlenker,113,N/A,USA
-4808,Michael Henry Schleyer,95,N/A,South Africa
-4809,Philipp Schmidt-Thome,34,N/A,Finland
-4810,Sunke Schmidtko,117,N/A,United Kingdom
-4811,Raymond Schmitt,113,N/A,USA
-4813,David Schoeman,6,N/A,Australia
-4814,Christian Schoof,20,N/A,Canada
-4815,Lena Schulte-Uebbing,36,N/A,Germany
-4818,Uwe Schulzweida,36,N/A,Germany
-4819,Andrew Schurer,117,N/A,United Kingdom
-4820,Edward Schuur,113,N/A,USA
-4821,Vanessa Schweizer,113,N/A,USA
-4824,James Screen,117,N/A,United Kingdom
-4825,Richard Seager,113,N/A,USA
-4826,Jan Sedlacek,102,N/A,Switzerland
-4827,Hussen Seid,32,N/A,Ethiopia
-4828,Dian Seidel,113,N/A,USA
-4829,Sybil Seitzinger,101,N/A,Sweden
-4830,Vladimir Semenov,86,N/A,Russian Federation
-4833,Kristin Seyboth,113,N/A,USA
-4834,Sheona Shackleton,95,N/A,South Africa
-4835,Len C. Shaffrey,117,N/A,United Kingdom
-4836,Jeremy Shakun,113,N/A,USA
-4837,Martin Sharp,20,N/A,Canada
-4838,Rajib Shaw,51,N/A,Japan
-4840,Nicolay Shiklomanov,113,N/A,USA
-4841,Koji Shimada,51,N/A,Japan
-4843,Hideo Shiogama,51,N/A,Japan
-4845,Seth Shonkoff,113,N/A,USA
-4846,Sergio Signorini,113,N/A,USA
-4847,Jana Sillmann,20,N/A,Canada
-4849,Stephen Sitch,117,N/A,United Kingdom
-4850,Vegard Skirbekk,7,N/A,Austria
-4851,William Skirving,113,N/A,USA
-4852,Aime Slangen,107,N/A,Netherlands
-4853,Jason Smerdon,113,N/A,USA
-4854,Dmitry Smirnov,86,N/A,Russian Federation
-4855,Daniel Smith,117,N/A,United Kingdom
-4856,Steven Smith,113,N/A,USA
-4857,Thomas M. Smith,113,N/A,USA
-4858,Tim F. Smith,6,N/A,Australia
-4861,Fabiola S. Sosa Rodrigquez,64,N/A,Mexico
-4863,Donatella Spano,49,N/A,Italy
-4864,Kenneth Sperber,113,N/A,USA
-4865,Asuncion St. Clair,75,N/A,Norway
-4866,Mark Stafford-Smith,6,N/A,Australia
-4867,Sharon Stammerjohn,113,N/A,USA
-4868,Martin Stendel,28,N/A,Denmark
-4870,John Richard Stepp,113,N/A,USA
-4872,Philip Stier,117,N/A,United Kingdom
-4873,Marcel Stive,107,N/A,Netherlands
-4874,Uwe Stober,36,N/A,Germany
-4875,Benjamin Stocker,102,N/A,Switzerland
-4876,Trude Storelvmo,113,N/A,USA
-4877,Lothar Stramma,36,N/A,Germany
-4878,Siri Strandenes,75,N/A,Norway
-4879,Buda Su,23,N/A,China
-4881,Andy Sumner,117,N/A,United Kingdom
-4884,Neil Swart,20,N/A,Canada
-4885,William Sydeman,113,N/A,USA
-4886,Taro Takahashi,113,N/A,USA
-4887,Izuru Takayabu,51,N/A,Japan
-4888,Tetsuji Tanaka,51,N/A,Japan
-4889,Toste Tanhua,36,N/A,Germany
-4890,Albert Klein Tank,107,N/A,Netherlands
-4891,Pavel Tarasov,36,N/A,Germany
-4892,Marcela Tarazona,24,N/A,Colombia
-4893,Adriaan J. Teuling,107,N/A,Netherlands
-4894,David Thomas,117,N/A,United Kingdom
-4895,Rona Thompson,75,N/A,Norway
-4897,Philip Thornton,117,N/A,United Kingdom
-4898,Kathleen Tierney,113,N/A,USA
-4899,Jerry Tjiputra,75,N/A,Norway
-4900,Klement Tockner,36,N/A,Germany
-4901,Richard Tol,117,N/A,United Kingdom
-4903,Phil Trathan,117,N/A,United Kingdom
-4904,Mara Travasso,5,N/A,Argentina
-4905,Murat Turkes,111,N/A,Turkey
-4906,John Turner,117,N/A,United Kingdom
-4907,Bradley H. Udall,113,N/A,USA
-4908,Okoro Ugochukwu,74,N/A,Nigeria
-4909,Caroline Ummenhofer,113,N/A,USA
-4910,Athanasios Vafeidis,38,N/A,Greece
-4912,Jan H. van Angelen,107,N/A,Netherlands
-4913,Willem Jan van de Berg,107,N/A,Netherlands
-4914,Michiel van den Broeke,107,N/A,Netherlands
-4915,Bart van den Hurk,107,N/A,Netherlands
-4916,Guido van der Werf,107,N/A,Netherlands
-4917,Ruben van Hooidonk,113,N/A,USA
-4918,Detlef van Vuuren,107,N/A,Netherlands
-4920,Steve Vavrus,113,N/A,USA
-4922,Isabella Velicogna,113,N/A,USA
-4923,Jan E. Vermaat,107,N/A,Netherlands
-4924,Jean-Paul Vernier,113,N/A,USA
-4925,Dike Victor,74,N/A,Nigeria
-4927,Bo M. Vinther,28,N/A,Denmark
-4928,Miren Vizcaino,107,N/A,Netherlands
-4929,Jason Vogel,113,N/A,USA
-4930,Karina von Schuckmann,35,N/A,France
-4931,Christoph von Stechow,36,N/A,Germany
-4933,Apostolos Voulgarakis,117,N/A,United Kingdom
-4934,Yoshihide Wada,107,N/A,Netherlands
-4937,Kevin Walsh,6,N/A,Australia
-4939,Chunzai Wang,113,N/A,USA
-4940,Junhong Wang,113,N/A,USA
-4941,Muyin Wang,113,N/A,USA
-4942,Xiaolan Wang,20,N/A,Canada
-4943,Xiaoming Wang,6,N/A,Australia
-4944,Rita Wania,7,N/A,Austria
-4946,Daniel S. Ward,113,N/A,USA
-4947,Philip Ward,107,N/A,Netherlands
-4949,Fiona Warren,20,N/A,Canada
-4951,Reiner Wassman,81,N/A,Philippines
-4953,James Watson,117,N/A,United Kingdom
-4954,Leanne Webb,6,N/A,Australia
-4956,Robert Webb,113,N/A,USA
-4957,Kate Weinberger,113,N/A,USA
-4958,Barbara Weinecke,6,N/A,Australia
-4960,Ray F. Weiss,113,N/A,USA
-4961,Neil White,6,N/A,Australia
-4962,Matthew Widlansky,113,N/A,USA
-4963,Christian Wiencke,36,N/A,Germany
-4964,Susan Wijffels,6,N/A,Australia
-4967,Olga Wilhelmi,113,N/A,USA
-4968,Kate Willett,117,N/A,United Kingdom
-4969,Eric Williams,113,N/A,USA
-4970,Keith Williams,117,N/A,United Kingdom
-4971,Meriwether Wilson,117,N/A,United Kingdom
-4972,Ricarda Winkelmann,36,N/A,Germany
-4973,David Winker,113,N/A,USA
-4974,Marten Winter,36,N/A,Germany
-4975,Andrew Wittenberg,113,N/A,USA
-4976,Astrid Wittmann,36,N/A,Germany
-4978,Dieter Wolf-Gladrow,36,N/A,Germany
-4980,Simon N. Wood,117,N/A,United Kingdom
-4981,Richard Woodward,113,N/A,USA
-4983,Tim Woollings,117,N/A,United Kingdom
-4987,Matthew Wyant,113,N/A,USA
-4989,Sidat Yaffa,106,N/A,The Gambia
-4990,Shelby Yamamoto,36,N/A,Germany
-4991,Sang-Wook Yeh,96,N/A,South Korea
-4992,Jianjun Yin,113,N/A,USA
-4994,Yusuke Yokoyama,51,N/A,Japan
-4995,Masakazu Yoshimori,51,N/A,Japan
-4996,Paul Young,117,N/A,United Kingdom
-4998,Sonke Zaehle,36,N/A,Germany
-4999,Giuseppe Zappa,117,N/A,United Kingdom
-5000,Ning Zeng,113,N/A,USA
-5001,Chidong Zhang,113,N/A,USA
-5002,Jianglong Zhang,113,N/A,USA
-5003,Lixia Zhang,23,N/A,China
-5004,Rong Zhang,113,N/A,USA
-5005,Rui Zhang,23,N/A,China
-5006,Xiangdong Zhang,113,N/A,USA
-5008,Xiaotong Zheng,23,N/A,China
-5009,Kirsten Zickfeld,20,N/A,Canada
-5010,David Zilberman,113,N/A,USA
-5011,Lewis Ziska,113,N/A,USA
-5012,Liwei Zou,23,N/A,China
-5013,Dan Zwartz,73,N/A,New Zealand
-5014,Ole Bossing Christensen,28,N/A,Denmark
-5015,Matthew Church,113,N/A,USA
-5016,NULL,113,N/A,USA
-5017,Samantha Stevenson,113,N/A,USA
