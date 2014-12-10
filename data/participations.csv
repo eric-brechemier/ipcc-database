@@ -623,7 +623,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 972,2,1,2,CA,1146,J. Haywood,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 980,2,1,2,CA,1166,J. Heintzenberg,1227,Institut fur Tropospharenforschung,Germany,NULL,NULL
 1049,2,1,2,CA,1315,Daniel Jacob,215,Harvard University,USA,135,Department of Earth and Planetary Sciences
-1053,2,1,2,CA,1324,A.K. Jain,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
+1053,2,1,2,CA,1324,Atul K. Jain,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
 1097,2,1,2,CA,1452,C. David Keeling,259,University of California San Diego,USA,174,Scripps Institution of Oceanography
 1104,2,1,2,CA,1483,S. Khmelevtsov,1234,Institute of Experimental Meteorology,Russian Federation,NULL,NULL
 1178,2,1,2,CA,1662,Hervé Le Treut,167,Institut Pierre Simon Laplace (IPSL),France,64,Laboratoire de Météorologie Dynamique (LMD)
@@ -2277,7 +2277,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3051,3,1,3,CA,1244,J.T. Houghton,117,N/A,United Kingdom,NULL,NULL
 3045,3,1,3,CA,1248,Joanna I. House,212,Max-Planck Institute for Biogeochemistry,Germany,NULL,NULL
 3022,3,1,3,CA,1303,A. Ishida,1033,Research Institute for Global Change,Japan,NULL,NULL
-3008,3,1,3,CA,1324,A.K. Jain,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
+3008,3,1,3,CA,1324,Atul K. Jain,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
 3003,3,1,3,CA,1332,I.A. Janssens,1036,Universiteit Antwerpen,Belgium,NULL,NULL
 2968,3,1,3,CA,1386,Fortunat Joos,126,University of Bern,Switzerland,NULL,NULL
 2961,3,1,3,CA,1413,T. Kaminski,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
@@ -2345,7 +2345,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3014,3,1,4,CA,1314,C. Jackman,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
 3013,3,1,4,CA,1315,Daniel Jacob,215,Harvard University,USA,135,Department of Earth and Planetary Sciences
 3011,3,1,4,CA,1319,L. Jaeglo,215,Harvard University,USA,NULL,NULL
-3009,3,1,4,CA,1324,A.K. Jain,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
+3009,3,1,4,CA,1324,Atul K. Jain,1016,University of Illinois at Urbana-Champaign,USA,NULL,NULL
 2960,3,1,4,CA,1415,M. Kanakidou,1037,Environmental Chemical Processes Laboratory,Greece,NULL,NULL
 2955,3,1,4,CA,1432,S. Karlsdottir,424,University of Oslo,Norway,NULL,NULL
 2908,3,1,4,CA,1536,M. Ko,1034,Atmospheric & Environmental Research Inc.,USA,NULL,NULL
