@@ -297,7 +297,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 118,1,1,ANX,CA,1130,K. Hasselmann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 126,1,1,ANX,CA,1160,Martin Heimann,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 7443,1,1,ANX,CA,1301,I.S.A Isaksen,424,University of Oslo,Norway,NULL,NULL
-142,1,1,ANX,CA,1329,Anthony Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
+142,1,1,ANX,CA,1329,Anthony C. Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
 7497,1,1,ANX,CA,1367,E Johnson,1399,Harwell Laboratory,United Kingdom,NULL,NULL
 149,1,1,ANX,CA,1382,Philip D. Jones,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 7483,1,1,ANX,CA,1433,I. Karol,1396,Main Geophysical Observatory,USSR,NULL,NULL
@@ -361,7 +361,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 406,1,2,2,CA,3350,Jia-cheng Zhang,23,N/A,China,NULL,NULL
 16,1,2,3,CLA,186,M. Bardecki,20,N/A,Canada,NULL,NULL
 36,1,2,3,CLA,319,H. Boyd,20,N/A,Canada,NULL,NULL
-7473,1,2,3,CLA,1329,Anthony Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
+7473,1,2,3,CLA,1329,Anthony C. Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
 7420,1,2,3,CLA,1765,N. Lopoukhine,20,N/A,Canada,NULL,NULL
 251,1,2,3,CLA,2239,J. Pagnan,20,N/A,Canada,NULL,NULL
 263,1,2,3,CLA,2312,R. Peters,113,N/A,USA,NULL,NULL
@@ -5095,7 +5095,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3620,4,2,20,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3814,4,2,20,LA,539,Stewart J. Cohen,164,Environment Canada,Canada,NULL,NULL
 4180,4,2,20,LA,1236,Christopher Hope,276,University of Cambridge,United Kingdom,NULL,NULL
-4214,4,2,20,LA,1329,Anthony Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
+4214,4,2,20,LA,1329,Anthony C. Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
 4750,4,2,20,LA,2304,Rosa Perez,863,Philippine Atmospheric Geophysical and Astronomical Services Administration,Philippines,NULL,NULL
 4284,4,2,20,RE,1438,Robert Kates,823,Independent Consultant,USA,NULL,NULL
 4920,4,2,20,RE,2601,Mohamed Salih,99,N/A,Sudan,NULL,NULL
