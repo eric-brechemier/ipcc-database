@@ -2956,7 +2956,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2598,3,2,2,LA,2264,Camille Parmesan,1132,University of Texas,USA,NULL,NULL
 2401,3,2,2,LA,2669,T.L. Schneider,1066,Institute for World Forestry and Ecology,Germany,NULL,NULL
 2258,3,2,2,LA,3017,Ferenc L. Toth,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
-2126,3,2,2,LA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
+2126,3,2,2,LA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 3390,3,2,2,RE,397,Ian Burton,313,University of Toronto,Canada,NULL,NULL
 2949,3,2,2,RE,1438,Robert Kates,823,Independent Consultant,USA,NULL,NULL
 2104,3,2,2,CA,3392,A.U. Ahmed,1,N/A,N/A,NULL,NULL
@@ -3370,7 +3370,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3369,3,2,18,LA,466,Brian Challenger,1096,Antigua Public Utilities Authority (APUA),Antigua and Barbuda,NULL,NULL
 3031,3,2,18,LA,1277,Saleemul Huq,369,International Institute for Environment and Development (IIED),Bangladesh,NULL,NULL
 2916,3,2,18,LA,1523,Richard J.T. Klein,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
-2127,3,2,18,LA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
+2127,3,2,18,LA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 2591,3,2,18,RE,2273,Anand Patwardhan,432,Indian Institute of Technology Bombay,India,NULL,NULL
 2326,3,2,18,RE,2839,Jean-Francois Soussana,456,Institut National de la Recherche Agronomique (INRA),France,NULL,NULL
 3533,3,2,18,CA,27,Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
@@ -3394,7 +3394,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2432,3,2,19,LA,2588,Uriel N. Safriel,870,Blaustein Institute for Desert Research,Israel,NULL,NULL
 2264,3,2,19,LA,3011,Richard S.J. Tol,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 2183,3,2,19,LA,3205,John P. Weyant,338,Stanford University,USA,202,Energy Modeling Forum
-2128,3,2,19,LA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
+2128,3,2,19,LA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 3054,3,2,19,RE,1236,Christopher Hope,276,University of Cambridge,United Kingdom,NULL,NULL
 2356,3,2,19,RE,2779,S.K. Sinha,613,Indian Agricultural Research Institute,India,NULL,NULL
 1903,3,2,19,CA,297,William J. Bond,1,N/A,N/A,NULL,NULL
@@ -3529,7 +3529,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2492,3,3,1,LA,2458,N. Rayner,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 2434,3,3,1,LA,2583,W. Sachs,542,"Wuppertal Institute for Climate,Environment and Energy",Germany,NULL,NULL
 2055,3,3,1,LA,3516,K.P. Sharma,1,N/A,N/A,NULL,NULL
-2129,3,3,1,LA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
+2129,3,3,1,LA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 2623,3,3,1,RE,2215,Hans Opschoor,302,"Vrije Universiteit,Amsterdam",Netherlands,185,Insititute of Social Studies
 2608,3,3,1,RE,2255,Jyoti K. Parikh,1157,Indira Gandhi Institute of Development Research,India,NULL,NULL
 3530,3,3,1,CA,32,Anil Agarwal,625,Indian Institute of Technology Delhi,India,NULL,NULL
@@ -5090,7 +5090,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4498,4,2,19,CA,1869,Michael D. Mastrandrea,338,Stanford University,USA,NULL,NULL
 5126,4,2,19,CA,3009,Alexander Todorov,428,Princeton University,USA,NULL,NULL
 4377,4,2,20,CLA,1642,Rodel Lasco,389,University of the Philippines Los Baños,Philippines,NULL,NULL
-5290,4,2,20,CLA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
+5290,4,2,20,CLA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 3569,4,2,20,LA,42,Qazi Z. Ahmad,761,Bangladesh Unnayan Parishad (BUP),Bangladesh,NULL,NULL
 3620,4,2,20,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3814,4,2,20,LA,539,Stewart J. Cohen,164,Environment Canada,Canada,NULL,NULL
@@ -5168,7 +5168,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5236,4,2,TS,LA,3225,Thomas J. Wilbanks,271,Oak Ridge National Laboratory,USA,NULL,NULL
 5255,4,2,TS,LA,3258,Poh Poh Wong,894,National University of Singapore,Singapore,NULL,NULL
 5274,4,2,TS,LA,3279,Shaohong Wu,233,Chinese Academy of Sciences,China,NULL,NULL
-5292,4,2,TS,LA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
+5292,4,2,TS,LA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 3844,4,2,TS,RE,577,Wolfgang P. Cramer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
 4614,4,2,TS,RE,2068,Daniel Murdiyarso,45,N/A,Indonesia,NULL,NULL
 3951,4,2,TS,CA,808,Pete Falloon,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
@@ -5235,7 +5235,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5235,4,2,SPM,LA,3225,Thomas J. Wilbanks,271,Oak Ridge National Laboratory,USA,NULL,NULL
 5254,4,2,SPM,LA,3258,Poh Poh Wong,894,National University of Singapore,Singapore,NULL,NULL
 5273,4,2,SPM,LA,3279,Shaohong Wu,233,Chinese Academy of Sciences,China,NULL,NULL
-5291,4,2,SPM,LA,3324,Gary Yohe,486,Wesleyan University,USA,NULL,NULL
+5291,4,2,SPM,LA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 5313,4,3,1,CLA,3367,Zhou Dadi,525,Energy Research Institute,China,NULL,NULL
 4874,4,3,1,CLA,2540,Hans-Holger Rogner,980,International Atomic Energy Agency (IAEA),Austria,NULL,NULL
 3717,4,3,1,LA,325,Richard Bradley,916,International Energy Agency,USA,NULL,NULL
