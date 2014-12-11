@@ -615,7 +615,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 672,2,1,2,CA,401,J. Butler,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
 748,2,1,2,CA,596,D. Cunnold,509,Georgia Institute of Technology,USA,NULL,NULL
 783,2,1,2,CA,688,J. Dignon,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
-785,2,1,2,CA,698,E. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+785,2,1,2,CA,698,Edward J. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
 816,2,1,2,CA,775,James W. Elkins,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
 873,2,1,2,CA,905,Inez Fung,277,University of Victoria,Canada,NULL,NULL
 885,2,1,2,CA,948,Marvin Geller,674,State University of New York Stony Brook,USA,NULL,NULL
@@ -2312,7 +2312,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2537,3,1,4,CLA,2383,Michael Prather,251,University of California Irvine,USA,NULL,NULL
 3291,3,1,4,LA,659,Frank Dentener,679,European Commission Joint Research Centre,Italy,249,Environment Institute
 3288,3,1,4,LA,663,R.G. Derwent,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
-3272,3,1,4,LA,698,E. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
+3272,3,1,4,LA,698,Edward J. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,104,Climate Monitoring & Diagnostics Lab
 3062,3,1,4,LA,1220,E.A. Holland,212,Max-Planck Institute for Biogeochemistry,Germany,NULL,NULL
 3023,3,1,4,LA,1301,I.S.A Isaksen,424,University of Oslo,Norway,NULL,NULL
 2948,3,1,4,LA,1439,J. Katima,416,University of Dar-es-Salaam,Tanzania,NULL,NULL
@@ -3861,7 +3861,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3710,4,1,2,CA,310,Olivier Boucher,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 3819,4,1,2,CA,547,William D. Collins,166,National Center for Atmospheric Research (NCAR),USA,109,Climate and Global Dynamics Division
 3830,4,1,2,CA,555,Thomas J. Conway,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
-3894,4,1,2,CA,698,E. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3894,4,1,2,CA,698,Edward J. Dlugokencky,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
 3934,4,1,2,CA,775,James W. Elkins,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
 3944,4,1,2,CA,795,David Etheridge,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 3996,4,1,2,CA,867,Peter Foukal,686,Heliophysics Inc.,USA,NULL,NULL
