@@ -879,7 +879,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 608,2,1,6,CA,231,Martin Beniston,136,ETH Zurich,Switzerland,169,Institute of Geography
 626,2,1,6,CA,283,George J. Boer,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
 665,2,1,6,CA,387,T.A. Buishand,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
-709,2,1,6,CA,503,Jens Hesselbjerg Krishna Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+709,2,1,6,CA,503,Jens Hesselbjerg Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
 726,2,1,6,CA,549,Robert Colman,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
 729,2,1,6,CA,559,J. Copeland,255,Colorado State University,USA,NULL,NULL
 734,2,1,6,CA,573,Peter M. Cox,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
@@ -1688,7 +1688,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1770,2,2,27,CLA,3007,Dennis A. Tirpak,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 529,2,2,27,LA,30,Michael Adler,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
 623,2,2,27,LA,275,D. Bleviss,113,N/A,USA,NULL,NULL
-710,2,2,27,LA,503,Jens Hesselbjerg Krishna Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+710,2,2,27,LA,503,Jens Hesselbjerg Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
 754,2,2,27,LA,617,Ogunlade R. Davidson,920,University of Sierra Leone,Sierra Leone,NULL,NULL
 1463,2,2,27,LA,2323,D. Phantumvanit,1333,Thailand Environment Institute,Thailand,NULL,NULL
 1506,2,2,27,LA,2415,J. Rabinovitch,1336,United Nations Development Programme (UNDP),Brazil,NULL,NULL
@@ -4468,7 +4468,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5293,4,1,10,CA,3327,Jun Yoshimura,225,Meteorological Research Institute,Japan,NULL,NULL
 5295,4,1,10,CA,3332,Rucong Yu,187,China Meteorological Administration,China,NULL,NULL
 5296,4,1,10,CA,3333,Seiji Yukimoto,225,Meteorological Research Institute,Japan,NULL,NULL
-3793,4,1,11,CLA,503,Jens Hesselbjerg Krishna Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+3793,4,1,11,CLA,503,Jens Hesselbjerg Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
 4160,4,1,11,CLA,1188,Bruce Charles Hewitson,149,University of Cape Town,South Africa,42,Department of Environmental and Geographical Sciences
 3751,4,1,11,LA,400,Aristita Busuioc,671,National Meteorological Administration,Romania,NULL,NULL
 3785,4,1,11,LA,485,A. Anthony Chen,675,University of the West Indies,Jamaica,246,Department of Physics
@@ -4563,7 +4563,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4733,4,1,TS,RE,1327,Bubu Pateh Jallow,704,Department of Water Resources,The Gambia,257,Department of Water Resources
 3616,4,1,TS,CA,118,Julie Arblaster,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 3723,4,1,TS,CA,331,Guy Brasseur,166,National Center for Atmospheric Research (NCAR),USA,60,Earth and Sun Systems Laboratory
-3795,4,1,TS,CA,503,Jens Hesselbjerg Krishna Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+3795,4,1,TS,CA,503,Jens Hesselbjerg Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
 3876,4,1,TS,CA,657,Kenneth L. Denman,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
 3950,4,1,TS,CA,806,David W. Fahey,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
 3995,4,1,TS,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
@@ -4614,7 +4614,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5268,4,1,SPM,LA,3274,David Wratt,750,National Climate Center,New Zealand,NULL,NULL
 3615,4,1,SPM,CA,118,Julie Arblaster,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 3722,4,1,SPM,CA,331,Guy Brasseur,166,National Center for Atmospheric Research (NCAR),USA,60,Earth and Sun Systems Laboratory
-3794,4,1,SPM,CA,503,Jens Hesselbjerg Krishna Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+3794,4,1,SPM,CA,503,Jens Hesselbjerg Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
 3875,4,1,SPM,CA,657,Kenneth L. Denman,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
 3949,4,1,SPM,CA,806,David W. Fahey,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
 3994,4,1,SPM,CA,864,Piers Forster,130,University of Leeds,United Kingdom,16,School of Earth and Environment
