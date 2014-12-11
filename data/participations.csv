@@ -3129,7 +3129,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1934,3,2,10,CA,819,Johannes Feddema,1,N/A,N/A,NULL,NULL
 1954,3,2,10,CA,1196,Karim Hilmi,1,N/A,N/A,NULL,NULL
 2807,3,2,10,CA,1819,Gabriel M. Mailu,995,Ministry of Research Technical Training and Technology,Kenya,NULL,NULL
-2008,3,2,10,CA,1965,Guy Midgley,1,N/A,N/A,NULL,NULL
+2008,3,2,10,CA,1965,Guy F. Midgley,1,N/A,N/A,NULL,NULL
 2022,3,2,10,CA,3493,T. Ngara,1,N/A,N/A,NULL,NULL
 2024,3,2,10,CA,2125,S. Nicholson,1,N/A,N/A,NULL,NULL
 2028,3,2,10,CA,2196,Daniel Olago,1,N/A,N/A,NULL,NULL
@@ -4725,7 +4725,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5233,4,2,3,CA,3225,Thomas J. Wilbanks,271,Oak Ridge National Laboratory,USA,NULL,NULL
 5238,4,2,3,CA,3226,Robert Wilby,756,Environment Agency of England and Wales,United Kingdom,NULL,NULL
 3965,4,2,4,CLA,838,Andreas Fischlin,136,ETH Zurich,Switzerland,33,Terrestrial Systems Ecology Group
-4555,4,2,4,CLA,1965,Guy Midgley,840,National Botanical Institute,South Africa,NULL,NULL
+4555,4,2,4,CLA,1965,Guy F. Midgley,840,National Botanical Institute,South Africa,NULL,NULL
 3907,4,2,4,LA,732,Pauline O. Dube,151,University of Botswana,Botswana,NULL,NULL
 4054,4,2,4,LA,999,Brij Gopal,762,Jawaharlal Nehru University,India,NULL,NULL
 4405,4,2,4,LA,1680,Rik Leemans,396,Wageningen University,Netherlands,NULL,NULL
@@ -5144,7 +5144,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4469,4,2,TS,LA,1815,Graciela Odilia Magrin,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina,NULL,NULL
 4502,4,2,TS,LA,1871,Luis Jose Mata,838,Nord-Sud Zentrum fur Entwicklungsforschung,Germany,NULL,NULL
 4545,4,2,TS,LA,1942,Bettina Menne,839,World Health Organization (WHO),Germany,269,Regional Office for Europe
-4557,4,2,TS,LA,1965,Guy Midgley,840,National Botanical Institute,South Africa,NULL,NULL
+4557,4,2,TS,LA,1965,Guy F. Midgley,840,National Botanical Institute,South Africa,NULL,NULL
 4567,4,2,TS,LA,1989,Nobuo Mimura,412,Ibaraki University,Japan,NULL,NULL
 4573,4,2,TS,LA,1998,M. Monirul Qader Mirza,164,Environment Canada,Canada,NULL,NULL
 4594,4,2,TS,LA,2030,José Moreno,184,University of Castilla - La Mancha,Spain,NULL,NULL
@@ -5209,7 +5209,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4501,4,2,SPM,LA,1871,Luis Jose Mata,838,Nord-Sud Zentrum fur Entwicklungsforschung,Germany,NULL,NULL
 4527,4,2,SPM,LA,1914,Roger McLean,125,University of New South Wales,Australia,NULL,NULL
 4544,4,2,SPM,LA,1942,Bettina Menne,839,World Health Organization (WHO),Germany,269,Regional Office for Europe
-4556,4,2,SPM,LA,1965,Guy Midgley,840,National Botanical Institute,South Africa,NULL,NULL
+4556,4,2,SPM,LA,1965,Guy F. Midgley,840,National Botanical Institute,South Africa,NULL,NULL
 4566,4,2,SPM,LA,1989,Nobuo Mimura,412,Ibaraki University,Japan,NULL,NULL
 4572,4,2,SPM,LA,1998,M. Monirul Qader Mirza,164,Environment Canada,Canada,NULL,NULL
 4593,4,2,SPM,LA,2030,José Moreno,184,University of Castilla - La Mancha,Spain,NULL,NULL
