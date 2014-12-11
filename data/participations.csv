@@ -684,7 +684,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 793,2,1,3,CA,728,W. Drosdowsky,250,Bureau of Meteorology,Australia,162,The Centre for Australian Weather and Climate Research (Bureau of Meteorology Research Centre)
 794,2,1,3,CA,731,M. Duarte,170,Universidad de Buenos Aires,Argentina,NULL,NULL
 798,2,1,3,CA,744,Jean-Claude Duplessy,1223,Centre des Faibles Radioactivites,France,NULL,NULL
-804,2,1,3,CA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+804,2,1,3,CA,754,David R. Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
 813,2,1,3,CA,771,J. Eischeid,248,University of Colorado,USA,NULL,NULL
 817,2,1,3,CA,776,W. Elliott,188,National Oceanographic and Atmospheric Administration (NOAA),USA,114,Environmental Research Laboratories
 837,2,1,3,CA,830,B.F. Findlay,164,Environment Canada,Canada,NULL,NULL
@@ -3002,7 +3002,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1924,3,2,4,CA,3421,P. Doll,1,N/A,N/A,NULL,NULL
 2249,3,2,4,CA,3038,Alla Tsyban,622,Institute of Global Climate and Ecology,Russian Federation,NULL,NULL
 3405,3,2,5,CLA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
-3254,3,2,5,CLA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3254,3,2,5,CLA,754,David R. Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
 3162,3,2,5,CLA,977,Habiba Gitay,230,Australian National University,Australia,NULL,NULL
 3004,3,2,5,CLA,1327,Bubu Pateh Jallow,704,Department of Water Resources,The Gambia,NULL,NULL
 3506,3,2,5,LA,107,John Antle,767,Montana State University,USA,NULL,NULL
@@ -3415,7 +3415,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3342,3,2,TS,LA,539,Stewart J. Cohen,326,University of British Columbia,Canada,195,"Environmental Adaptation Research Group,"
 3286,3,2,TS,LA,667,Paul Desanker,199,University of Virginia,USA,NULL,NULL
 3269,3,2,TS,LA,704,David J. Dokken,1103,University Corporation for Atmospheric Research (UCAR),USA,NULL,NULL
-3255,3,2,TS,LA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3255,3,2,TS,LA,754,David R. Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
 3220,3,2,TS,LA,844,B. Blair Fitzharris,350,University of Otago,New Zealand,NULL,NULL
 3164,3,2,TS,LA,977,Habiba Gitay,230,Australian National University,Australia,NULL,NULL
 3160,3,2,TS,LA,978,Andrew Githeko,805,Kenya Medical Research Institute,Kenya,NULL,NULL
@@ -3467,7 +3467,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3378,3,2,SPM,LA,449,Timothy Carter,322,Finnish Environment Institute,Finland,NULL,NULL
 3343,3,2,SPM,LA,539,Stewart J. Cohen,326,University of British Columbia,Canada,195,"Environmental Adaptation Research Group,"
 3287,3,2,SPM,LA,667,Paul Desanker,199,University of Virginia,USA,NULL,NULL
-3256,3,2,SPM,LA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
+3256,3,2,SPM,LA,754,David R. Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
 3221,3,2,SPM,LA,844,B. Blair Fitzharris,350,University of Otago,New Zealand,NULL,NULL
 3208,3,2,SPM,LA,860,Donald L. Forbes,803,Bedford Institute of Oceanography,Canada,NULL,NULL
 3165,3,2,SPM,LA,977,Habiba Gitay,230,Australian National University,Australia,NULL,NULL
@@ -3898,7 +3898,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5136,4,1,3,CLA,3022,Kevin E. Trenberth,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 3597,4,1,3,LA,82,Peter Ambenjie,659,Kenya Meteorological Department,Kenya,NULL,NULL
 3696,4,1,3,LA,289,Roxana Bojariu,165,National Institute of Meteorology and Hydrology (NIMH),Romania,NULL,NULL
-3917,4,1,3,LA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3917,4,1,3,LA,754,David R. Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
 4321,4,1,3,LA,1526,Albert Klein Tank,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 4729,4,1,3,LA,2262,David E. Parker,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 4806,4,1,3,LA,2419,Fatemeh Rahimzadeh,253,Iranian Meteorological Organization,Iran,164,Atmospheric Science & Meteorological Research Center (ASMERC)
@@ -4182,7 +4182,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3803,4,1,7,CA,519,Deborah A. Clark,678,University of Missouri-St. Louis,USA,NULL,NULL
 3855,4,1,7,CA,606,Martin Dameris,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,NULL,NULL
 3877,4,1,7,CA,659,Frank Dentener,679,European Commission Joint Research Centre,Italy,NULL,NULL
-3918,4,1,7,CA,754,David Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
+3918,4,1,7,CA,754,David R. Easterling,188,National Oceanographic and Atmospheric Administration (NOAA),USA,101,Earth System Research Laboratory
 3945,4,1,7,CA,802,Veronika Eyring,192,Deutsches Zentrum fur Luft und Raumfahrt,Germany,122,Institut of Atmospheric Physics
 3958,4,1,7,CA,822,Johann Feichter,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 4004,4,1,7,CA,892,Pierre Friedlingstein,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
