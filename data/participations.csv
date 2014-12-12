@@ -1375,7 +1375,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1792,2,2,9,CA,3063,L. Vallianos,1357,U.S. Army Corps of Engineers,USA,NULL,NULL
 1843,2,2,9,CA,3211,W.R. White,313,University of Toronto,Canada,NULL,NULL
 1861,2,2,9,CA,3270,Philip Woodworth,217,Permanent Service for Mean Sea Level (PSMSL),United Kingdom,NULL,NULL
-569,2,2,10,CLA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+569,2,2,10,CLA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 605,2,2,10,CLA,211,Bryson C. Bates,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
 1167,2,2,10,CLA,1632,Herbert Lang,136,ETH Zurich,Switzerland,NULL,NULL
 1238,2,2,10,CLA,1814,John J. Magnuson,731,University of Wisconsin,USA,NULL,NULL
@@ -1833,7 +1833,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7583,2,2,SPM,LA,93,Mitsuru Ando,51,N/A,Japan,NULL,NULL
 7584,2,2,SPM,LA,96,Rigoberto Andressen,1272,University of Merida,Venezuela,NULL,NULL
 7585,2,2,SPM,LA,99,B.W. Ang,894,National University of Singapore,Singapore,NULL,NULL
-7586,2,2,SPM,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+7586,2,2,SPM,LA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 7587,2,2,SPM,LA,128,Anne Arquit-Niederberger,1273,ProClim,Switzerland,NULL,NULL
 7588,2,2,SPM,LA,166,Walter Baethgen,1463,International Fertilizer Development Center (IFDC),Uruguay,NULL,NULL
 7674,2,2,SPM,LA,211,Bryson C. Bates,6,N/A,Australia,NULL,NULL
@@ -2988,7 +2988,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2040,3,2,3,CA,3507,M. Posch,1,N/A,N/A,NULL,NULL
 2079,3,2,3,CA,3091,Andrei A. Velichko,1,N/A,N/A,NULL,NULL
 2094,3,2,3,CA,3546,N. Zeng,1,N/A,N/A,NULL,NULL
-3496,3,2,4,CLA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+3496,3,2,4,CLA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 1910,3,2,4,CLA,1743,Chunzhen Liu,1120,Hydrological Forecasting and Water Control Center,China,NULL,NULL
 3333,3,2,4,LA,551,Rosa Hilda Compagnucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
 3309,3,2,4,LA,600,Luis Veiga da Cunha,1099,Universidade Nova de Lisboa,Portugal,NULL,NULL
@@ -3240,7 +3240,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2287,3,2,13,LA,2937,Jan Szolgay,1150,Slovak Technical University,Slovakia,NULL,NULL
 3302,3,2,13,RE,636,Julia de Seixas,1099,Universidade Nova de Lisboa,Portugal,NULL,NULL
 2933,3,2,13,RE,1458,Seppo Kellomaki,824,University of Joensuu,Finland,NULL,NULL
-3497,3,2,13,CA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+3497,3,2,13,CA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 1897,3,2,13,CA,3401,G. Balint,1,N/A,N/A,NULL,NULL
 1900,3,2,13,CA,231,Martin Beniston,1,N/A,N/A,NULL,NULL
 3449,3,2,13,CA,251,Gerhard Berz,349,Munich Reinsurance Company,Germany,NULL,NULL
@@ -3408,7 +3408,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2095,3,2,19,CA,3547,Kirsten Zickfeld,1,N/A,N/A,NULL,NULL
 3527,3,2,TS,LA,42,Qazi Z. Ahmad,761,Bangladesh Unnayan Parishad (BUP),Bangladesh,NULL,NULL
 3546,3,2,TS,LA,102,Oleg A. Anisimov,294,State Hydrological Institute,Russian Federation,NULL,NULL
-3498,3,2,TS,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+3498,3,2,TS,LA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3406,3,2,TS,LA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
 3385,3,2,TS,LA,430,Maximiliano Campos,783,National Meteorological Institute,Costa Rica,NULL,NULL
 3377,3,2,TS,LA,449,Timothy Carter,322,Finnish Environment Institute,Finland,NULL,NULL
@@ -3459,7 +3459,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2651,3,2,TS,RE,2137,Carlos A. Nobre,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
 3528,3,2,SPM,LA,42,Qazi Z. Ahmad,761,Bangladesh Unnayan Parishad (BUP),Bangladesh,NULL,NULL
 3547,3,2,SPM,LA,102,Oleg A. Anisimov,294,State Hydrological Institute,Russian Federation,NULL,NULL
-3499,3,2,SPM,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+3499,3,2,SPM,LA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3407,3,2,SPM,LA,363,Ross D. Brown,164,Environment Canada,Canada,56,Atmospheric Environment Canada
 3392,3,2,SPM,LA,397,Ian Burton,313,University of Toronto,Canada,NULL,NULL
 3386,3,2,SPM,LA,430,Maximiliano Campos,783,National Meteorological Institute,Costa Rica,NULL,NULL
@@ -4701,7 +4701,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5162,4,2,2,CA,3080,Detlef P. Van Vuuren,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 4351,4,2,3,CLA,1593,Zbigniew Kundzewicz,387,Polish Academy of Sciences,Poland,NULL,NULL
 4500,4,2,3,CLA,1871,Luis Jose Mata,838,Nord-Sud Zentrum fur Entwicklungsforschung,Germany,NULL,NULL
-3619,4,2,3,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+3619,4,2,3,LA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3897,4,2,3,LA,703,Petra Doll,285,Goethe University Frankfurt,Germany,NULL,NULL
 4226,4,2,3,LA,1357,Blanca Elena Jimenez Cisneros,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
 4261,4,2,3,LA,1402,Pavel Kabat,821,International Secretariat for Dialogue on Water and Climate,Netherlands,NULL,NULL
@@ -5092,7 +5092,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4377,4,2,20,CLA,1642,Rodel Lasco,389,University of the Philippines Los Baños,Philippines,NULL,NULL
 5290,4,2,20,CLA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 3569,4,2,20,LA,42,Qazi Z. Ahmad,761,Bangladesh Unnayan Parishad (BUP),Bangladesh,NULL,NULL
-3620,4,2,20,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+3620,4,2,20,LA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3814,4,2,20,LA,539,Stewart J. Cohen,164,Environment Canada,Canada,NULL,NULL
 4180,4,2,20,LA,1236,Christopher Hope,276,University of Cambridge,United Kingdom,NULL,NULL
 4214,4,2,20,LA,1329,Anthony C. Janetos,816,H. John Heinz III Center for Science Economics and the Environment,USA,NULL,NULL
@@ -5117,7 +5117,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3577,4,2,TS,LA,56,Joseph M. Alcamo,764,University of Kassel,Germany,NULL,NULL
 3585,4,2,TS,LA,65,Abdelkader Allali,765,Ministry of Agriculture Rural Development and Fishing,Morocco,NULL,NULL
 3607,4,2,TS,LA,102,Oleg A. Anisimov,294,State Hydrological Institute,Russian Federation,NULL,NULL
-3622,4,2,TS,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+3622,4,2,TS,LA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3699,4,2,TS,LA,290,Michel Boko,776,Universite de Bourgogne,France,NULL,NULL
 3769,4,2,TS,LA,449,Timothy Carter,322,Finnish Environment Institute,Finland,NULL,NULL
 3772,4,2,TS,LA,450,Gino Casassa,672,Centro de Estudios Cientificos (CECS),Chile,NULL,NULL
@@ -5179,7 +5179,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3576,4,2,SPM,LA,56,Joseph M. Alcamo,764,University of Kassel,Germany,NULL,NULL
 3584,4,2,SPM,LA,65,Abdelkader Allali,765,Ministry of Agriculture Rural Development and Fishing,Morocco,NULL,NULL
 3606,4,2,SPM,LA,102,Oleg A. Anisimov,294,State Hydrological Institute,Russian Federation,NULL,NULL
-3621,4,2,SPM,LA,124,Nigel Arnell,421,University of Southampton,United Kingdom,NULL,NULL
+3621,4,2,SPM,LA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 3698,4,2,SPM,LA,290,Michel Boko,776,Universite de Bourgogne,France,NULL,NULL
 3764,4,2,SPM,LA,436,Osvaldo F. Canziani,170,Universidad de Buenos Aires,Argentina,NULL,NULL
 3768,4,2,SPM,LA,449,Timothy Carter,322,Finnish Environment Institute,Finland,NULL,NULL
