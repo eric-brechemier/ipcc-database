@@ -722,7 +722,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1208,2,1,3,CA,1739,H. Lins,312,U.S. Geological Survey,USA,NULL,NULL
 1223,2,1,3,CA,1770,Janice Lough,1121,Australian Institute of Marine Science (AIMS),Australia,NULL,NULL
 1253,2,1,3,CA,1828,L. Malone,164,Environment Canada,Canada,NULL,NULL
-1255,2,1,3,CA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+1255,2,1,3,CA,1844,José Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
 1284,2,1,3,CA,1915,T. Mcmahon,300,University of Melbourne,Australia,NULL,NULL
 1302,2,1,3,CA,1933,E. Mekis,164,Environment Canada,Canada,NULL,NULL
 1306,2,1,3,CA,1947,Anna V. Mescherskaya,222,Voeikov Main Geophysical Observatory,Russian Federation,NULL,NULL
@@ -2179,7 +2179,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2820,3,1,2,CA,1797,I. Macadam,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 2805,3,1,2,CA,1824,J.A. Majorowicz,1043,Northern Geothermal,Canada,NULL,NULL
 2801,3,1,2,CA,1833,B. Manighetti,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
-2789,3,1,2,CA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+2789,3,1,2,CA,1844,José Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
 2738,3,1,2,CA,1933,E. Mekis,164,Environment Canada,Canada,NULL,NULL
 2725,3,1,2,CA,1971,M.W. Miles,682,Nansen Environmental and Remote Sensing Center,Norway,NULL,NULL
 2702,3,1,2,CA,2005,Anders Moberg,701,Stockholm University,Sweden,NULL,NULL
@@ -2766,7 +2766,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2704,3,1,12,CLA,2001,John F. B. Mitchell,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 3514,3,1,12,LA,67,Myles R. Allen,1001,Rutherford Appleton Laboratory,United Kingdom,NULL,NULL
 3079,3,1,12,LA,1156,Gabriele C. Hegerl,409,Texas A&M University,USA,NULL,NULL
-2790,3,1,12,LA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+2790,3,1,12,LA,1844,José Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
 2107,3,1,12,LA,3385,Francis W. Zwiers,164,Environment Canada,Canada,54,Canadian Centre for Climate Modelling and Analysis
 2378,3,1,12,RE,2706,Frederick H.M. Semazzi,1014,Southampton Oceanography Centre,United Kingdom,NULL,NULL
 2193,3,1,12,RE,3178,Robert T. Watson,1077,World Bank,USA,NULL,NULL
@@ -3282,7 +3282,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3334,3,2,14,LA,551,Rosa Hilda Compagnucci,170,Universidad de Buenos Aires,Argentina,71,"Departamento de Ciencias de la Atmósfera y los Océanos,Facultad de Ciencias Exactas y Naturales"
 3235,3,2,14,LA,818,Philip M. Fearnside,802,Instituto Nacional de Pesquisas da Amazonia,Brazil,NULL,NULL
 2809,3,2,14,LA,1815,Graciela Odilia Magrin,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina,NULL,NULL
-2791,3,2,14,LA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+2791,3,2,14,LA,1844,José Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
 2689,3,2,14,LA,2029,Ana Rosa Moreno,1126,North American Center for Environmental Information and Communication,Mexico,NULL,NULL
 2330,3,2,14,LA,2823,Silvina Solman,170,Universidad de Buenos Aires,Argentina,70,Centro de Investigaciones del Mar y de la Atmosfera (CIMA)
 2295,3,2,14,LA,2903,Avelino G. Suarez,463,Cuban Environment Agency,Cuba,NULL,NULL
@@ -4323,7 +4323,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3716,4,1,9,LA,323,Pascale Braconnot,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 4037,4,1,9,LA,968,Nathan P. Gillett,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 4454,4,1,9,LA,1785,Yong Luo,187,China Meteorological Administration,China,97,National Climate Centre
-4481,4,1,9,LA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+4481,4,1,9,LA,1844,José Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
 4646,4,1,9,LA,2123,Neville Nicholls,216,Monash University,Australia,NULL,NULL
 4748,4,1,9,LA,2298,Joyce E. Penner,247,University of Michigan,USA,158,Department of Atmospheric Oceanic and Space Sciences
 5065,4,1,9,LA,2889,Peter A. Stott,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
@@ -4960,7 +4960,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3861,4,2,13,RE,624,Edmundo De Alba Alcaraz,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
 3955,4,2,13,RE,818,Philip M. Fearnside,802,Instituto Nacional de Pesquisas da Amazonia,Brazil,NULL,NULL
 3942,4,2,13,CA,793,Francisco Estrada Porrúa,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
-4482,4,2,13,CA,1844,Jose Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
+4482,4,2,13,CA,1844,José Marengo,173,National Institute for Space Research (INPE),Brazil,181,Centro de Previsão de Tempo e Estudos Climáticos (CPTEC)
 4871,4,2,13,CA,2530,Rafael Rodriguez Acevedo,477,Universidad Simon Bolivar,Venezuela,NULL,NULL
 5134,4,2,13,CA,3021,Maria Isabel Travasso,407,Instituto Nacional de Tecnologia Agropecuaria (INTA),Argentina,NULL,NULL
 5299,4,2,13,CA,3338,Ricardo Zapata-Marti,895,UN Economic Commission for LatinAmerican and the Caribbean (ECLAC),Chile,NULL,NULL
