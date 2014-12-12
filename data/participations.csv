@@ -2265,7 +2265,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3456,3,1,3,CA,228,M. Bender,428,Princeton University,USA,NULL,NULL
 3425,3,1,3,CA,304,Laurent Bopp,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
 3418,3,1,3,CA,314,Philippe Bousquet,167,Institut Pierre Simon Laplace (IPSL),France,63,Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
-3388,3,1,3,CA,411,K. Caldeira,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+3388,3,1,3,CA,411,Ken Caldeira,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 3351,3,1,3,CA,512,Philippe Ciais,1018,CEA,France,277,LMCE/DSM
 3326,3,1,3,CA,573,Peter M. Cox,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 3321,3,1,3,CA,577,Wolfgang P. Cramer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
