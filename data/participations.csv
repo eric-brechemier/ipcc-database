@@ -941,7 +941,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1755,2,1,6,CA,2965,Karl E. Taylor,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
 1762,2,1,6,CA,2977,Simon Tett,182,Met Office,United Kingdom,NULL,NULL
 1806,2,1,6,CA,3126,Hans von Storch,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
-1808,2,1,6,CA,3142,K. Walsh,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
+1808,2,1,6,CA,3142,Kevin Walsh,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
 1842,2,1,6,CA,3210,Penny Whetton,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 1851,2,1,6,CA,3231,D. Wilks,235,Cornell University,USA,NULL,NULL
 1858,2,1,6,CA,3267,I. Woodward,1262,University of Sheffield,United Kingdom,NULL,NULL
@@ -2239,7 +2239,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2215,3,1,2,CA,3129,M. Vuille,1009,University of Massachusetts,USA,NULL,NULL
 2214,3,1,2,CA,3132,Peter Wadhams,1076,Scott Polar Research Institute,United Kingdom,NULL,NULL
 2211,3,1,2,CA,3137,D.W.R. Wallace,1005,Universitat Kiel,Germany,NULL,NULL
-2206,3,1,2,CA,3142,K. Walsh,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2206,3,1,2,CA,3142,Kevin Walsh,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 2199,3,1,2,CA,3166,Stephen Warren,132,University of Washington,USA,NULL,NULL
 2088,3,1,2,CA,3540,D. White,1,N/A,N/A,NULL,NULL
 1894,3,1,2,CA,3288,P. Xie,188,National Oceanographic and Atmospheric Administration (NOAA),USA,118,National Centers for Environmental Prediction
@@ -2619,7 +2619,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2296,3,1,8,CA,2890,Ronald J. Stouffer,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 2277,3,1,8,CA,2967,T. Taylor,541,University of Bath,United Kingdom,NULL,NULL
 2255,3,1,8,CA,3022,Kevin E. Trenberth,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
-2207,3,1,8,CA,3142,K. Walsh,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
+2207,3,1,8,CA,3142,Kevin Walsh,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 2161,3,1,8,CA,3229,Oliver Wild,660,Frontier Research Center for Global Change,Japan,NULL,NULL
 2089,3,1,8,CA,3541,T. Williamson,1,N/A,N/A,NULL,NULL
 2142,3,1,8,CA,3289,Shang-Ping Xie,237,University of Hawaii,USA,NULL,NULL
