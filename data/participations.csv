@@ -910,7 +910,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1133,2,1,6,CA,1558,G. Konnen,226,Royal Netherlands Meteorological Institute (KNMI),Netherlands,NULL,NULL
 1162,2,1,6,CA,1617,Rattan Lal,168,Ohio State University,USA,NULL,NULL
 1169,2,1,6,CA,1636,René Laprise,714,University of Quebec at Montreal,Canada,259,Departement des Sciences de la Terra et de l'Atmosphere
-1193,2,1,6,CA,1700,Ruby Leung,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+1193,2,1,6,CA,1700,Lai-yung Ruby Leung,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 1225,2,1,6,CA,1786,A. Lupo,695,Purdue University,USA,NULL,NULL
 1228,2,1,6,CA,1792,A. Lync,163,University of Tasmania,Australia,NULL,NULL
 1229,2,1,6,CA,1794,C. Ma,544,University of California,USA,NULL,NULL
@@ -4506,7 +4506,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4288,4,1,11,CA,1443,Richard W. Katz,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 4313,4,1,11,CA,1518,Akio Kitoh,225,Meteorological Research Institute,Japan,142,First Research Laboratory Climate ResearchDepartment
 4325,4,1,11,CA,1535,Reto Knutti,188,National Oceanographic and Atmospheric Administration (NOAA),USA,109,Climate and Global Dynamics Division
-4415,4,1,11,CA,1700,Ruby Leung,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+4415,4,1,11,CA,1700,Lai-yung Ruby Leung,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 4447,4,1,11,CA,1776,Jason A. Lowe,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 4456,4,1,11,CA,1793,Amanda H. Lynch,216,Monash University,Australia,138,School of Geography and Environmental Science
 4511,4,1,11,CA,1881,Christoph Matulla,164,Environment Canada,Canada,NULL,NULL
