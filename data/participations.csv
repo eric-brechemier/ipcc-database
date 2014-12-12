@@ -4925,7 +4925,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4749,4,2,11,CA,2299,Guy Penny,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
 5262,4,2,11,CA,3264,Rosalie Woodruff,230,Australian National University,Australia,NULL,NULL
 3575,4,2,12,CLA,56,Joseph M. Alcamo,764,University of Kassel,Germany,NULL,NULL
-4592,4,2,12,CLA,2030,José Moreno,184,University of Castilla - La Mancha,Spain,NULL,NULL
+4592,4,2,12,CLA,2030,José M. Moreno,184,University of Castilla - La Mancha,Spain,NULL,NULL
 4663,4,2,12,CLA,2146,Belá Nováky,852,Szent István University,Hungary,NULL,NULL
 3681,4,2,12,LA,261,Marco Bindi,304,University of Florence,Italy,186,Department of Agronomy and Land Management (DISAT)
 3835,4,2,12,LA,565,Roman Corobov,786,Regionica,Moldova,NULL,NULL
@@ -5147,7 +5147,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4557,4,2,TS,LA,1965,Guy F. Midgley,840,National Botanical Institute,South Africa,NULL,NULL
 4567,4,2,TS,LA,1989,Nobuo Mimura,412,Ibaraki University,Japan,NULL,NULL
 4573,4,2,TS,LA,1998,M. Monirul Qader Mirza,164,Environment Canada,Canada,NULL,NULL
-4594,4,2,TS,LA,2030,José Moreno,184,University of Castilla - La Mancha,Spain,NULL,NULL
+4594,4,2,TS,LA,2030,José M. Moreno,184,University of Castilla - La Mancha,Spain,NULL,NULL
 4599,4,2,TS,LA,2039,Linda Mortsch,164,Environment Canada,Canada,NULL,NULL
 4644,4,2,TS,LA,2122,Isabelle Niang-Diop,336,University Cheikh Anta Diop of Dakar,Senegal,NULL,NULL
 4652,4,2,TS,LA,2124,Robert J. Nicholls,421,University of Southampton,United Kingdom,NULL,NULL
@@ -5212,7 +5212,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4556,4,2,SPM,LA,1965,Guy F. Midgley,840,National Botanical Institute,South Africa,NULL,NULL
 4566,4,2,SPM,LA,1989,Nobuo Mimura,412,Ibaraki University,Japan,NULL,NULL
 4572,4,2,SPM,LA,1998,M. Monirul Qader Mirza,164,Environment Canada,Canada,NULL,NULL
-4593,4,2,SPM,LA,2030,José Moreno,184,University of Castilla - La Mancha,Spain,NULL,NULL
+4593,4,2,SPM,LA,2030,José M. Moreno,184,University of Castilla - La Mancha,Spain,NULL,NULL
 4598,4,2,SPM,LA,2039,Linda Mortsch,164,Environment Canada,Canada,NULL,NULL
 4643,4,2,SPM,LA,2122,Isabelle Niang-Diop,336,University Cheikh Anta Diop of Dakar,Senegal,NULL,NULL
 4651,4,2,SPM,LA,2124,Robert J. Nicholls,421,University of Southampton,United Kingdom,NULL,NULL
