@@ -19,6 +19,16 @@ CREATE TABLE IF NOT EXISTS `author_aliases` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
+CREATE TABLE IF NOT EXISTS `author_institution_aliases` (
+  `alias` varchar(255) NOT NULL
+    COMMENT 'alternate form of author full name, including misspellings',
+  `institution` varchar(255) NOT NULL
+    COMMENT 'name of institution to disambiguate homonyms',
+  PRIMARY KEY (`alias`,`institution`),
+  `author_id` int(10) REFERENCES `authors` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+;
+
 CREATE TABLE IF NOT EXISTS `institution_types` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,

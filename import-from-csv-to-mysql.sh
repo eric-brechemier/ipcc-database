@@ -68,6 +68,7 @@ echo 'Import CSV from data folder to database tables'
 
 import authors id,first_name,last_name
 import author_aliases alias,author_id,@skip
+import author_institution_aliases alias,institution,author_id,@skip
 
 import institution_types id,name,symbol
 import institutions id,name,institution_type_id,@skip

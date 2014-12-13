@@ -32,6 +32,13 @@ author_id {label:"int(10)"}
 
 authors 1--* author_aliases {label:"author_id"}
 
+[author_institution_aliases]
+* alias {label:"varchar(255)"}
+* institution {label:"varchar(255)"}
+author_id {label:"int(10)"}
+
+authors 1--* author_institution_aliases {label:"author_id"}
+
 [chairman_offices]
 *id {label:"int(10)"}
 +ar {label:"int(11)"}
