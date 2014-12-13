@@ -2458,7 +2458,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3205,3,1,6,CA,864,Piers Forster,216,Monash University,Australia,NULL,NULL
 3194,3,1,6,CA,900,Jan Fuglestvedt,241,Center for International Climate and Environment (CICERO),Norway,NULL,NULL
 3171,3,1,6,CA,960,S.J. Ghan,256,Pacific Northwest National Laboratory,USA,NULL,NULL
-2976,3,1,6,CA,1384,Richard Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+2976,3,1,6,CA,1384,Richard G. Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 2923,3,1,6,CA,1487,J.T. Kiehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 2907,3,1,6,CA,1538,Dorothy Koch,166,National Center for Atmospheric Research (NCAR),USA,62,Goddard Laboratory of the Atmosphere
 2874,3,1,6,CA,1628,C. Land,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
@@ -4474,7 +4474,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3785,4,1,11,LA,485,A. Anthony Chen,675,University of the West Indies,Jamaica,246,Department of Physics
 4020,4,1,11,LA,927,Xuejie Gao,187,China Meteorological Administration,China,97,National Climate Centre
 4149,4,1,11,LA,1168,Isaac Held,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
-4239,4,1,11,LA,1384,Richard Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
+4239,4,1,11,LA,1384,Richard G. Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 4333,4,1,11,LA,1551,Rupa Kumar Kolli,134,Indian Institute of Tropical Meteorology,India,29,Climatology and Hydrometeorology Division
 4359,4,1,11,LA,1607,Won-Tae Kwon,712,"Meteorological Research Institute (METRI),Korean Meteorological Administration",South Korea,258,Climate Research Laboratory
 4375,4,1,11,LA,1636,René Laprise,714,University of Quebec at Montreal,Canada,259,Departement des Sciences de la Terra et de l'Atmosphere
