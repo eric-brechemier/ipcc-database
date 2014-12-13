@@ -1356,7 +1356,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1713,2,2,9,LA,2856,Eugene Z. Stakhiv,1148,U.S. Army Institute for Water Resources,USA,NULL,NULL
 1789,2,2,9,LA,3045,R.K. Turner,231,University of East Anglia,United Kingdom,NULL,NULL
 1818,2,2,9,LA,3170,Richard A. Warrick,316,University of Waikato,New Zealand,NULL,NULL
-526,2,2,9,CA,27,Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
+526,2,2,9,CA,27,W. Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
 617,2,2,9,CA,260,Du Bilan,1276,China Institute for Marine Development Strategy,China,NULL,NULL
 654,2,2,9,CA,366,Barbara Brown,1093,University of Newcastle upon Tyne,United Kingdom,NULL,NULL
 815,2,2,9,CA,773,D.L. Elder,1292,World Conservation Union,Switzerland,NULL,NULL
@@ -3140,7 +3140,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3095,3,2,11,CLA,1108,Hideo Harasawa,129,National Institute for Environmental Studies,Japan,15,Social and Environmental Systems Division
 2881,3,2,11,CLA,1616,Murari Lal,432,Indian Institute of Technology Bombay,India,NULL,NULL
 2673,3,2,11,CLA,2068,Daniel Murdiyarso,989,Ministry of Environment Indonesia,Indonesia,NULL,NULL
-3532,3,2,11,LA,27,Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
+3532,3,2,11,LA,27,W. Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
 3531,3,2,11,LA,28,Sharad P. Adhikary,1084,Water and Energy Commission Secretariat,Nepal,NULL,NULL
 3509,3,2,11,LA,93,Mitsuru Ando,129,National Institute for Environmental Studies,Japan,NULL,NULL
 3507,3,2,11,LA,106,Yurij Anokhin,622,Institute of Global Climate and Ecology,Russian Federation,NULL,NULL
@@ -3373,7 +3373,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2127,3,2,18,LA,3324,Gary W. Yohe,486,Wesleyan University,USA,NULL,NULL
 2591,3,2,18,RE,2273,Anand Patwardhan,432,Indian Institute of Technology Bombay,India,NULL,NULL
 2326,3,2,18,RE,2839,Jean-Francois Soussana,456,Institut National de la Recherche Agronomique (INRA),France,NULL,NULL
-3533,3,2,18,CA,27,Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
+3533,3,2,18,CA,27,W. Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
 3264,3,2,18,CA,719,Thomas E. Downing,153,University of Oxford,United Kingdom,47,Environmental Change Institute
 1953,3,2,18,CA,3438,E. Harvey,1,N/A,N/A,NULL,NULL
 2958,3,2,18,CA,1418,Sally Kane,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
@@ -5023,7 +5023,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3985,4,2,16,CA,860,Donald L. Forbes,803,Bedford Institute of Oceanography,Canada,NULL,NULL
 4133,4,2,16,CA,1141,John Hay,316,University of Waikato,New Zealand,NULL,NULL
 4628,4,2,16,CA,2094,Taito Nakalevu,847,South Pacific Regional Environment Programme,Fiji,NULL,NULL
-3555,4,2,17,CLA,27,Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
+3555,4,2,17,CLA,27,W. Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
 3565,4,2,17,CLA,37,Shardul Agrawala,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
 4571,4,2,17,CLA,1998,M. Monirul Qader Mirza,164,Environment Canada,Canada,NULL,NULL
 3826,4,2,17,LA,552,Cecilia Conde,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
@@ -5111,7 +5111,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3765,4,2,TS,CLA,436,Osvaldo F. Canziani,170,Universidad de Buenos Aires,Argentina,NULL,NULL
 4724,4,2,TS,CLA,2248,Jean P. Palutikof,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 4732,4,2,TS,CLA,2266,Martin Parry,182,Met Office,United Kingdom,88,Hadley Centre Centre for Environmental Policy
-3557,4,2,TS,LA,27,Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
+3557,4,2,TS,LA,27,W. Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
 3562,4,2,TS,LA,33,Pramod Aggarwal,613,Indian Agricultural Research Institute,India,NULL,NULL
 3567,4,2,TS,LA,37,Shardul Agrawala,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
 3577,4,2,TS,LA,56,Joseph M. Alcamo,764,University of Kassel,Germany,NULL,NULL
@@ -5173,7 +5173,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4614,4,2,TS,RE,2068,Daniel Murdiyarso,45,N/A,Indonesia,NULL,NULL
 3951,4,2,TS,CA,808,Pete Falloon,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 4151,4,2,TS,CA,1172,Deborah Hemming,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
-3556,4,2,SPM,LA,27,Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
+3556,4,2,SPM,LA,27,W. Neil Adger,231,University of East Anglia,United Kingdom,NULL,NULL
 3561,4,2,SPM,LA,33,Pramod Aggarwal,613,Indian Agricultural Research Institute,India,NULL,NULL
 3566,4,2,SPM,LA,37,Shardul Agrawala,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
 3576,4,2,SPM,LA,56,Joseph M. Alcamo,764,University of Kassel,Germany,NULL,NULL
