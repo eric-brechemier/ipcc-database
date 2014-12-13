@@ -890,7 +890,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 871,2,1,6,CA,899,Congbin Fu,233,Chinese Academy of Sciences,China,147,Institute of Atmospheric Physics
 874,2,1,6,CA,905,Inez Fung,277,University of Victoria,Canada,NULL,NULL
 878,2,1,6,CA,3386,J. Gaitatt,1,N/A,N/A,NULL,NULL
-889,2,1,6,CA,960,S.J. Ghan,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+889,2,1,6,CA,960,Steven Ghan,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 906,2,1,6,CA,1000,H. Gordon,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
 921,2,1,6,CA,1024,Jonathan M. Gregory,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 941,2,1,6,CA,1065,P. Guttorp,132,University of Washington,USA,NULL,NULL
@@ -2406,7 +2406,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3231,3,1,5,CA,826,Y. Feng,247,University of Michigan,USA,NULL,NULL
 3226,3,1,5,CA,836,H. Fischer,268,Scripps Institute of Oceanography,USA,NULL,NULL
 3190,3,1,5,CA,905,Inez Fung,298,University of California Berkeley,USA,NULL,NULL
-3170,3,1,5,CA,960,S.J. Ghan,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+3170,3,1,5,CA,960,Steven Ghan,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 3168,3,1,5,CA,971,Paul Ginoux,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
 3154,3,1,5,CA,994,Sunling Gong,164,Environment Canada,Canada,56,Atmospheric Environment Canada
 3128,3,1,5,CA,1048,Alex Guenther,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
@@ -2457,7 +2457,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 3234,3,1,6,CA,822,Johann Feichter,169,Max-Planck Institute for Meteorology,Germany,NULL,NULL
 3205,3,1,6,CA,864,Piers Forster,216,Monash University,Australia,NULL,NULL
 3194,3,1,6,CA,900,Jan Fuglestvedt,241,Center for International Climate and Environment (CICERO),Norway,NULL,NULL
-3171,3,1,6,CA,960,S.J. Ghan,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+3171,3,1,6,CA,960,Steven Ghan,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 2976,3,1,6,CA,1384,Richard G. Jones,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 2923,3,1,6,CA,1487,J.T. Kiehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 2907,3,1,6,CA,1538,Dorothy Koch,166,National Center for Atmospheric Research (NCAR),USA,62,Goddard Laboratory of the Atmosphere
