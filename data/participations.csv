@@ -2365,7 +2365,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2457,3,1,4,CA,2539,H. Rogers,276,University of Cambridge,United Kingdom,NULL,NULL
 2454,3,1,4,CA,2541,B. Rognerud,424,University of Oslo,Norway,NULL,NULL
 2339,3,1,4,CA,2803,Joel B. Smith,459,Stratus Consulting Inc.,USA,NULL,NULL
-1895,3,1,4,CA,2809,S. Smith,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+1895,3,1,4,CA,2809,Steven J. Smith,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 2327,3,1,4,CA,2827,Susan Solomon,188,National Oceanographic and Atmospheric Administration (NOAA),USA,112,Aeronomy Laboratory
 2319,3,1,4,CA,2852,J. Staehelin,725,Swiss Federal Institute of Technology,Switzerland,NULL,NULL
 2315,3,1,4,CA,2863,P. Steele,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,76,CSIRO Marine and Atmospheric Research
@@ -2476,7 +2476,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2390,3,1,6,CA,2688,Dan Schwartzkopf,188,National Oceanographic and Atmospheric Administration (NOAA),USA,103,Geophysical Fluid Dynamics Laboratory
 2362,3,1,6,CA,2750,Keith P. Shine,204,University of Reading,United Kingdom,NULL,NULL
 2340,3,1,6,CA,2803,Joel B. Smith,459,Stratus Consulting Inc.,USA,NULL,NULL
-1896,3,1,6,CA,2809,S. Smith,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+1896,3,1,6,CA,2809,Steven J. Smith,256,Pacific Northwest National Laboratory,USA,NULL,NULL
 2066,3,1,6,CA,2875,David S. Stevenson,211,University of Edinburgh,United Kingdom,NULL,NULL
 2302,3,1,6,CA,2885,F. Stordal,1070,Norwegian Institute for Air Research,Norway,NULL,NULL
 2275,3,1,6,CA,2969,I. Tegen,212,Max-Planck Institute for Biogeochemistry,Germany,NULL,NULL
