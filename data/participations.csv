@@ -243,7 +243,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7502,1,1,9,LA,1768,C. Lorius,228,Laboratoire de Glaciologie et Geophysique de l'Environement (LGGE),France,NULL,NULL
 279,1,1,9,LA,2441,Sarah C.B. Raper,231,University of East Anglia,United Kingdom,143,Climatic Research Unit
 386,1,1,9,LA,3254,B. Wold,1344,Norwegian Water Resources and Energy Administration,Norway,NULL,NULL
-391,1,1,9,LA,3270,Philip Woodworth,279,Proudman Oceanographic Laboratory,United Kingdom,NULL,NULL
+391,1,1,9,LA,3270,Philip L. Woodworth,279,Proudman Oceanographic Laboratory,United Kingdom,NULL,NULL
 7510,1,1,10,CLA,414,Terry V. Callaghan,1041,Institute of Terrestrial Ecology,United Kingdom,NULL,NULL
 7476,1,1,10,CLA,1935,J.M. Melillo,1039,Marine Biological Laboratory,USA,NULL,NULL
 296,1,1,10,CLA,2598,E. Salati,1414,Universidade do Estado de Sao Paulo,Brazil,NULL,NULL
@@ -950,7 +950,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1177,2,1,7,LA,1659,C. Le Provost,1239,Institut de Mecanique de Grenoble,France,NULL,NULL
 1298,2,1,7,LA,1928,M. Meier,1124,INSTAAR,USA,NULL,NULL
 1402,2,1,7,LA,2173,Johannes Oerlemans,273,University of Utrecht,Netherlands,176,Institute for Marine and Atmospheric Research
-1860,2,1,7,LA,3270,Philip Woodworth,217,Permanent Service for Mean Sea Level (PSMSL),United Kingdom,NULL,NULL
+1860,2,1,7,LA,3270,Philip L. Woodworth,217,Permanent Service for Mean Sea Level (PSMSL),United Kingdom,NULL,NULL
 544,2,1,7,CA,70,Richard B. Alley,195,Pennsylvania State University,USA,218,Department of Geosciences
 612,2,1,7,CA,237,C. Bentley,731,University of Wisconsin,USA,NULL,NULL
 618,2,1,7,CA,264,R. Bindschadler,124,National Aeronautics and Space Administration (NASA),USA,1,Goddard Space Flight Center
@@ -1374,7 +1374,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 1739,2,2,9,CA,2914,M. Sullivan,1355,Huonbrook Environment and Heritage,Australia,NULL,NULL
 1792,2,2,9,CA,3063,L. Vallianos,1357,U.S. Army Corps of Engineers,USA,NULL,NULL
 1843,2,2,9,CA,3211,W.R. White,313,University of Toronto,Canada,NULL,NULL
-1861,2,2,9,CA,3270,Philip Woodworth,217,Permanent Service for Mean Sea Level (PSMSL),United Kingdom,NULL,NULL
+1861,2,2,9,CA,3270,Philip L. Woodworth,217,Permanent Service for Mean Sea Level (PSMSL),United Kingdom,NULL,NULL
 569,2,2,10,CLA,124,Nigel W. Arnell,421,University of Southampton,United Kingdom,NULL,NULL
 605,2,2,10,CLA,211,Bryson C. Bates,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,75,CSIRO Land and Water
 1167,2,2,10,CLA,1632,Herbert Lang,136,ETH Zurich,Switzerland,NULL,NULL
@@ -2730,7 +2730,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 2877,3,1,11,LA,1622,Kurt Lambeck,230,Australian National University,Australia,NULL,NULL
 2657,3,1,11,LA,2121,M.T. Nhuan,343,Hanoi University of Science,Vietnam,NULL,NULL
 2518,3,1,11,LA,2405,Dahe Qin,233,Chinese Academy of Sciences,China,NULL,NULL
-2148,3,1,11,LA,3270,Philip Woodworth,1080,Bidston Observatory,United Kingdom,NULL,NULL
+2148,3,1,11,LA,3270,Philip L. Woodworth,1080,Bidston Observatory,United Kingdom,NULL,NULL
 3267,3,1,11,RE,711,B.C. Douglas,414,University of Maryland,USA,NULL,NULL
 2507,3,1,11,RE,2433,A. Ramirez-Rojas,1059,Universidad Central Venezuela,Venezuela,NULL,NULL
 3544,3,1,11,CA,102,Oleg A. Anisimov,294,State Hydrological Institute,Russian Federation,NULL,NULL
@@ -4097,7 +4097,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5205,4,1,5,CA,3161,Rik Wanninkhof,188,National Oceanographic and Atmospheric Administration (NOAA),USA,111,Atlantic Oceanographic and Meteorological Laboratory
 5246,4,1,5,CA,3240,Josh Willis,124,National Aeronautics and Space Administration (NASA),USA,2,Jet Propulsion Laboratory
 5252,4,1,5,CA,3257,A.P.S. Wong,132,University of Washington,USA,21,School of Oceanography
-5264,4,1,5,CA,3270,Philip Woodworth,279,Proudman Oceanographic Laboratory,United Kingdom,NULL,NULL
+5264,4,1,5,CA,3270,Philip L. Woodworth,279,Proudman Oceanographic Laboratory,United Kingdom,NULL,NULL
 5288,4,1,5,CA,3313,Igor Yashayaev,676,Fisheries and Oceans Canada,Canada,247,Maritimes Region of the Department of Fisheries and Oceans
 5289,4,1,5,CA,3314,Ichiro Yasuda,148,University of Tokyo,Japan,NULL,NULL
 4215,4,1,6,CLA,1331,Eystein Jansen,133,University of Bergen,Norway,28,Department of Earth Sciences and Bjerknes Centre for Climate Research
