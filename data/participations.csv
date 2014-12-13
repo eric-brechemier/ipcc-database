@@ -3936,7 +3936,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4082,4,1,3,CA,1052,Sergey Gulev,205,P.P. Shirshov Institute of Oceanography,Russian Federation,NULL,NULL
 4197,4,1,3,CA,1278,James W. Hurrell,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
 4208,4,1,3,CA,1304,Masayoshi Ishii,660,Frontier Research Center for Global Change,Japan,NULL,NULL
-4252,4,1,3,CA,1388,Simon Josey,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
+4252,4,1,3,CA,1388,Simon A. Josey,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
 4271,4,1,3,CA,1411,Per Kållberg,245,European Centre for Medium-Range Weather Forecasts (ECMWF),United Kingdom,NULL,NULL
 4294,4,1,3,CA,1462,John Kennedy,182,Met Office,United Kingdom,132,Hadley Centre for Climate Prediction and Research
 4303,4,1,3,CA,1488,George Kiladis,188,National Oceanographic and Atmospheric Administration (NOAA),USA,NULL,NULL
@@ -4059,7 +4059,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 4021,4,1,5,CA,928,Hernan Garcia,188,National Oceanographic and Atmospheric Administration (NOAA),USA,107,National Oceanographic Data Center
 4050,4,1,5,CA,996,Melchor Gonzalez-Davila,658,University of Las Palmas de Gran Canaria,Spain,NULL,NULL
 4074,4,1,5,CA,1041,Nicolas Gruber,209,University of California Los Angeles,USA,130,Institute of Geophysics and Planetary Physics
-4253,4,1,5,CA,1388,Simon Josey,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
+4253,4,1,5,CA,1388,Simon A. Josey,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
 4258,4,1,5,CA,1395,Terrence Joyce,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
 4305,4,1,5,CA,1493,Kuh Kim,708,Seoul National University,South Korea,NULL,NULL
 4307,4,1,5,CA,1499,Brian King,421,University of Southampton,United Kingdom,216,National Oceanography Centre Southampton
