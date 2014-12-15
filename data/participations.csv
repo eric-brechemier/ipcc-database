@@ -510,7 +510,7 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7533,1,3,5,LA,424,John R. Campbell,73,N/A,New Zealand,NULL,NULL
 7525,1,3,5,LA,5046,J.J. Carey,113,N/A,USA,NULL,NULL
 7534,1,3,5,LA,727,Job Dronkers,107,N/A,Netherlands,NULL,NULL
-7536,1,3,5,LA,966,J. Gilbert,73,N/A,New Zealand,NULL,NULL
+7536,1,3,5,CLA,966,J. Gilbert,73,N/A,New Zealand,NULL,NULL
 7532,1,3,5,LA,5053,E. James,6,N/A,Australia,NULL,NULL
 7531,1,3,5,LA,5052,C. McKenzie,6,N/A,Australia,NULL,NULL
 7523,1,3,5,LA,5044,R. Misdorp,107,N/A,Netherlands,NULL,NULL
