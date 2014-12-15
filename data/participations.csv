@@ -333,7 +333,6 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7436,1,2,2,CA,1451,T. Keane,47,N/A,Ireland,NULL,NULL
 7426,1,2,2,CA,1471,L. Kettunen,34,N/A,Finland,NULL,NULL
 162,1,2,2,CA,1498,J. Kindler,82,N/A,Poland,NULL,NULL
-7446,1,2,2,CA,1498,J. Kindler,82,N/A,Poland,NULL,NULL
 7445,1,2,2,CA,1508,R. Kintanar,81,N/A,Philippines,NULL,NULL
 7412,1,2,2,CA,1735,D. Linforth,6,N/A,Australia,NULL,NULL
 7437,1,2,2,CA,1762,J. Lomas,48,N/A,Israel,NULL,NULL
@@ -506,7 +505,6 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 395,1,3,3,CLA,3290,Shao-Xiong Xie,23,N/A,China,NULL,NULL
 402,1,3,3,CLA,3325,K. Yokobori,51,N/A,Japan,NULL,NULL
 154,1,3,4,CLA,1431,Thomas R. Karl,188,National Oceanographic and Atmospheric Administration (NOAA),USA,108,National Climatic Data Center
-91,1,3,5,CLA,966,J. Gilbert,73,N/A,New Zealand,NULL,NULL
 356,1,3,5,CLA,3092,Pier Vellinga,302,"Vrije Universiteit,Amsterdam",Netherlands,NULL,NULL
 7527,1,3,5,LA,5048,L.W. Butler,113,N/A,USA,NULL,NULL
 7533,1,3,5,LA,424,John R. Campbell,73,N/A,New Zealand,NULL,NULL
@@ -523,11 +521,8 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 7539,1,3,5,LA,5030,J. Titus,113,N/A,USA,NULL,NULL
 7522,1,3,5,LA,3063,L. Vallianos,113,N/A,USA,NULL,NULL
 7529,1,3,5,LA,5050,J. von Dadelszen,73,N/A,New Zealand,NULL,NULL
-3,1,3,6,CLA,12,I. Abrol,44,N/A,India,NULL,NULL
 7571,1,3,6,CLA,12,I. Abrol,1266,Indian Council of Agriculture Research,India,NULL,NULL
-261,1,3,6,CLA,2300,R. Pentland,20,N/A,Canada,NULL,NULL
 7538,1,3,6,CLA,2300,R. Pentland,164,Environment Canada,Canada,NULL,NULL
-341,1,3,6,CLA,2982,J. Theys,35,N/A,France,NULL,NULL
 7576,1,3,6,CLA,2982,J. Theys,1430,French Ministry of Environment,France,NULL,NULL
 7551,1,3,6,LA,28,Sharad P. Adhikary,1434,Nepalese Department of Hydrology & Meteorology,Nepal,NULL,NULL
 7549,1,3,6,LA,94,Kenneth Andrasko,905,U.S. Environmental Protection Agency (EPA),USA,NULL,NULL
