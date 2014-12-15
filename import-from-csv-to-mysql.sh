@@ -16,13 +16,13 @@ password=${3:-'no password'}
 
 if [ "$password" = 'no password' ]
 then
-  passwordParam=''
+  passwordParam='--password'
 else
-  passwordParam="--password $password"
+  passwordParam="--password=$password"
 fi
 
 database=ipcc
-auth="--host $host --user $user $passwordParam"
+auth="--host=$host --user=$user $passwordParam"
 
 # Function: import()
 # Import a CSV file into a table of the same name (removing extension)
