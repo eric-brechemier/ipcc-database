@@ -16,13 +16,13 @@ password=${3:-'no password'}
 
 if [ "$password" = 'no password' ]
 then
-  passwordParam=''
+  passwordParam='--password'
 else
-  passwordParam="--password $password"
+  passwordParam="--password=$password"
 fi
 
 database=ipcc
-query="mysql --host $host --user $user $passwordParam"
+query="mysql --host=$host --user=$user $passwordParam"
 
 table2csv()
 {
