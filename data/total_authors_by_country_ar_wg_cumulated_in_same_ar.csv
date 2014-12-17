@@ -143,6 +143,30 @@ Austria,4,WG1+3,0,0.0000,1
 Austria,4,WG2,2,0.5333,375
 Austria,4,WG2+3,1,5.8824,17
 Austria,4,WG3,9,3.5294,255
+Bahamas,1,WG1,0,0.0000,233
+Bahamas,1,WG1+2,0,0.0000,11
+Bahamas,1,WG1+3,0,0.0000,4
+Bahamas,1,WG2,0,0.0000,153
+Bahamas,1,WG2+3,0,0.0000,5
+Bahamas,1,WG3,0,0.0000,60
+Bahamas,2,WG1,0,0.0000,384
+Bahamas,2,WG1+2,0,0.0000,25
+Bahamas,2,WG1+3,0,0.0000,2
+Bahamas,2,WG2,0,0.0000,513
+Bahamas,2,WG2+3,0,0.0000,10
+Bahamas,2,WG3,0,0.0000,81
+Bahamas,3,WG1,0,0.0000,569
+Bahamas,3,WG1+2,0,0.0000,29
+Bahamas,3,WG1+3,0,0.0000,7
+Bahamas,3,WG2,0,0.0000,361
+Bahamas,3,WG2+3,0,0.0000,11
+Bahamas,3,WG3,0,0.0000,201
+Bahamas,4,WG1,0,0.0000,583
+Bahamas,4,WG1+2,0,0.0000,31
+Bahamas,4,WG1+3,0,0.0000,1
+Bahamas,4,WG2,0,0.0000,375
+Bahamas,4,WG2+3,0,0.0000,17
+Bahamas,4,WG3,0,0.0000,255
 Bangladesh,1,WG1,0,0.0000,233
 Bangladesh,1,WG1+2,0,0.0000,11
 Bangladesh,1,WG1+3,0,0.0000,4
@@ -1751,6 +1775,30 @@ Netherlands,4,WG1+3,0,0.0000,1
 Netherlands,4,WG2,10,2.6667,375
 Netherlands,4,WG2+3,1,5.8824,17
 Netherlands,4,WG3,23,9.0196,255
+New Caledonia,1,WG1,0,0.0000,233
+New Caledonia,1,WG1+2,0,0.0000,11
+New Caledonia,1,WG1+3,0,0.0000,4
+New Caledonia,1,WG2,0,0.0000,153
+New Caledonia,1,WG2+3,0,0.0000,5
+New Caledonia,1,WG3,0,0.0000,60
+New Caledonia,2,WG1,0,0.0000,384
+New Caledonia,2,WG1+2,0,0.0000,25
+New Caledonia,2,WG1+3,0,0.0000,2
+New Caledonia,2,WG2,0,0.0000,513
+New Caledonia,2,WG2+3,0,0.0000,10
+New Caledonia,2,WG3,0,0.0000,81
+New Caledonia,3,WG1,0,0.0000,569
+New Caledonia,3,WG1+2,0,0.0000,29
+New Caledonia,3,WG1+3,0,0.0000,7
+New Caledonia,3,WG2,0,0.0000,361
+New Caledonia,3,WG2+3,0,0.0000,11
+New Caledonia,3,WG3,0,0.0000,201
+New Caledonia,4,WG1,0,0.0000,583
+New Caledonia,4,WG1+2,0,0.0000,31
+New Caledonia,4,WG1+3,0,0.0000,1
+New Caledonia,4,WG2,0,0.0000,375
+New Caledonia,4,WG2+3,0,0.0000,17
+New Caledonia,4,WG3,0,0.0000,255
 New Zealand,1,WG1,0,0.0000,233
 New Zealand,1,WG1+2,0,0.0000,11
 New Zealand,1,WG1+3,0,0.0000,4
@@ -1775,6 +1823,30 @@ New Zealand,4,WG1+3,0,0.0000,1
 New Zealand,4,WG2,13,3.4667,375
 New Zealand,4,WG2+3,0,0.0000,17
 New Zealand,4,WG3,3,1.1765,255
+Niger,1,WG1,0,0.0000,233
+Niger,1,WG1+2,0,0.0000,11
+Niger,1,WG1+3,0,0.0000,4
+Niger,1,WG2,0,0.0000,153
+Niger,1,WG2+3,0,0.0000,5
+Niger,1,WG3,0,0.0000,60
+Niger,2,WG1,0,0.0000,384
+Niger,2,WG1+2,0,0.0000,25
+Niger,2,WG1+3,0,0.0000,2
+Niger,2,WG2,0,0.0000,513
+Niger,2,WG2+3,0,0.0000,10
+Niger,2,WG3,0,0.0000,81
+Niger,3,WG1,0,0.0000,569
+Niger,3,WG1+2,0,0.0000,29
+Niger,3,WG1+3,0,0.0000,7
+Niger,3,WG2,0,0.0000,361
+Niger,3,WG2+3,0,0.0000,11
+Niger,3,WG3,0,0.0000,201
+Niger,4,WG1,0,0.0000,583
+Niger,4,WG1+2,0,0.0000,31
+Niger,4,WG1+3,0,0.0000,1
+Niger,4,WG2,0,0.0000,375
+Niger,4,WG2+3,0,0.0000,17
+Niger,4,WG3,0,0.0000,255
 Nigeria,1,WG1,1,0.4292,233
 Nigeria,1,WG1+2,1,9.0909,11
 Nigeria,1,WG1+3,0,0.0000,4
