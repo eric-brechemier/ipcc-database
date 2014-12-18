@@ -2,11 +2,16 @@ First Name,Last Name,AR,WG,Chapter,Role,Institution,Institution Type,Country
 Shardul,Agrawala,4,2,17,CLA,Organization for Economic Cooperation and Development (OECD),International Institution,France
 Shardul,Agrawala,4,2,SPM,LA,Organization for Economic Cooperation and Development (OECD),International Institution,France
 Shardul,Agrawala,4,2,TS,LA,Organization for Economic Cooperation and Development (OECD),International Institution,France
+Shardul,Agrawala,5,3,14,CLA,Organization for Economic Cooperation and Development (OECD),International Institution,France
+Shardul,Agrawala,5,3,SPM,LA,Organization for Economic Cooperation and Development (OECD),International Institution,France
+Shardul,Agrawala,5,3,TS,LA,Organization for Economic Cooperation and Development (OECD),International Institution,France
 Philippe,Ambrosi,4,3,3,CA,World Bank,International Institution,France
+Fabien,Anthelme,5,2,27,CA,N/A,Non Available,France
 H.,Audus,2,2,19,LA,International Energy Agency,International Institution,France
 O.,Aumont,3,1,3,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 D.,Bachelet,2,2,13,CA,Center d'Etude Spatiale du Rayonnement,Public Research Organisation,France
 Jean-Marc,Barnola,4,1,6,CA,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),Public Research Organisation,France
+Arnaud,Bertrand,5,2,27,CA,N/A,Non Available,France
 D.,Binet,2,2,16,CA,IFREMER,Public Research Organisation,France
 D.,Binet,2,2,8,CA,IFREMER,Public Research Organisation,France
 Fatih,Birol,4,3,3,CA,International Energy Agency,International Institution,France
@@ -42,8 +47,10 @@ Jan,Corfee-Morlot,4,3,12,CA,Organization for Economic Cooperation and Developmen
 Jan,Corfee-Morlot,4,3,3,LA,Organization for Economic Cooperation and Development (OECD),International Institution,France
 Elsa,Cortijo,4,1,6,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 P.,Criqui,3,3,9,LA,Institut d'Economie et de Politique de l'Energie,Higher Education Institution,France
+Philippe,Cury,5,2,23,CA,N/A,Non Available,France
 F.,David,2,2,5,CA,St. Jerome Institut Mediterranean,Higher Education Institution,France
 Pascale,Delecluse,3,1,8,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
+Pascale,Delecluse,5,1,11,RE,Météo-France,Government Agency,France
 M.,Deque,2,1,6,CA,Centre National de Recherches Meteorologiques,Public Research Organisation,France
 Ghislain,Dubois,4,2,9,CA,Environnement Conseil (TEC),Consultants / Individuals,France
 Jean-Louis,Dufresne,4,1,10,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
@@ -64,6 +71,9 @@ Pierre,Friedlingstein,4,1,7,CA,Institut Pierre Simon Laplace (IPSL),Public Resea
 Pierre,Friedlingstein,4,1,SPM,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 G.,Froger,2,3,2,CA,Universite de Versailles,Higher Education Institution,France
 P.,Garin,2,2,23,CA,N/A,Non Available,France
+Jean-Pierre,Gattuso,5,2,5,LA,Centre National de la Recherche Scientifique (CNRS),Public Research Organisation,France
+Jean-Pierre,Gattuso,5,2,6,CA,Centre National de la Recherche Scientifique (CNRS),Public Research Organisation,France
+Jean-Pierre,Gattuso,5,2,TS,LA,Centre National de la Recherche Scientifique (CNRS),Public Research Organisation,France
 C.,Genthon,2,1,7,CA,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),Public Research Organisation,France
 C.,Genthon,3,1,8,CA,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),Public Research Organisation,France
 Dolf,Gielen,4,3,7,CA,International Energy Agency,International Institution,France
@@ -71,6 +81,7 @@ P.-N.,Giraud,2,2,20,LA,N/A,Non Available,France
 Christian,Gollier,4,3,2,LA,University of Toulouse,Higher Education Institution,France
 Eric,Guilyardi,3,1,8,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Minh,Ha Duong,4,3,2,LA,Centre international de recherche sur l'environnement et le développement (CIRED),Public Research Organisation,France
+Minh,Ha Duong,5,3,2,LA,N/A,Non Available,France
 Stephane,Hallegatte,4,1,8,CA,Centre international de recherche sur l'environnement et le développement (CIRED),Public Research Organisation,France
 Stephane,Hallegatte,4,2,2,CA,Centre international de recherche sur l'environnement et le développement (CIRED),Public Research Organisation,France
 Didier,Hauglustaine,2,1,2,CA,Centre National de la Recherche Scientifique (CNRS),Public Research Organisation,France
@@ -98,6 +109,7 @@ Myriam,Khodri,4,1,6,CA,Institut de Recherche pour le Developpement (IRD),Public 
 Laurent,Labeyrie,4,1,5,RE,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Laurent,Labeyrie,4,1,6,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Alexandre,Laine,4,1,6,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
+Annamaria,Lammel,5,2,2,LA,Universite Paris 8,Higher Education Institution,France
 Alessandro,Lanza,3,3,7,LA,International Energy Agency,International Institution,France
 Katia,Laval,4,1,5,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Henri,Le Houerou,2,2,4,CLA,CEFE,Higher Education Institution,France
@@ -139,13 +151,16 @@ Grzegorz,Peszko,3,3,5,LA,Organization for Economic Cooperation and Development (
 Michel,Petit,2,2,SPM,LA,IPCC,International Institution,France
 Philippe,Peylin,4,1,7,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Serge,Planton,4,1,9,RE,Météo-France,Government Agency,France
+Serge,Planton,5,1,9,RE,Météo-France,Government Agency,France
 J.,Polcher,2,1,5,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 J.,Polcher,3,1,7,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 J.,Polcher,3,1,8,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
+Roberta,Quadrelli,5,3,TS,RE,International Energy Agency,International Institution,France
 Dominique,Raynaud,1,1,1,LA,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),Public Research Organisation,France
 Dominique,Raynaud,2,1,2,LA,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),Public Research Organisation,France
 Dominique,Raynaud,4,1,6,LA,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),Public Research Organisation,France
 Peter J.,Rayner,4,1,7,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
+Aurélien,Ribes,5,1,10,CA,Météo-France,Government Agency,France
 Arthur,Riedacker,2,2,11,LA,Institut National de la Recherche Agronomique (INRA),Public Research Organisation,France
 Arthur,Riedacker,2,2,19,LA,Institut National de la Recherche Agronomique (INRA),Public Research Organisation,France
 Arthur,Riedacker,2,2,SPM,LA,Institut National de la Recherche Agronomique (INRA),Public Research Organisation,France
@@ -153,6 +168,7 @@ Arthur,Riedacker,2,2,TS,LA,Institut National de la Recherche Agronomique (INRA),
 Jacques,Rilling,4,3,6,LA,CSTB Building Research Center,Public Research Organisation,France
 C.,Ritz,3,1,11,CA,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE),Public Research Organisation,France
 David,Salas Y MéLia,4,1,10,CA,Météo-France,Government Agency,France
+Victoria,Schreitter,5,3,14,CA,Organization for Economic Cooperation and Development (OECD),International Institution,France
 Michael,Schulz,4,1,2,LA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Michael,Schulz,4,1,7,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
 Bernard,Seguin,4,2,1,LA,National Institute for Agricultural Research,Public Research Organisation,France
@@ -170,8 +186,8 @@ Lucien,Tessier,2,2,5,LA,N/A,Non Available,France
 Lucien,Tessier,2,2,SPM,LA,N/A,Non Available,France
 Lucien,Tessier,2,2,TS,LA,N/A,Non Available,France
 Christiane,Textor,4,1,2,CA,Institut Pierre Simon Laplace (IPSL),Public Research Organisation,France
-J.,Theys,1,3,6,CLA,French Ministry of Environment,Government Agency,France
 J.,Theys,1,3,6,CLA,N/A,Non Available,France
+J.,Theys,1,3,6,CLA,French Ministry of Environment,Government Agency,France
 M.,Thinon,2,2,5,CA,St. Jerome Institut Mediterranean,Higher Education Institution,France
 Wilfred,Thuiller,4,2,4,CA,Laboratoire d'Ecologie Alpine UMR-CNRS,Public Research Organisation,France
 Jean-Paul,Troadec,2,2,16,LA,N/A,Non Available,France

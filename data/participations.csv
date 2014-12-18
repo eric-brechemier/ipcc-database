@@ -5583,3 +5583,2609 @@ id,ar,wg,chapter,role,author_id,Author (INFO),institution_country_id,Institution
 5086,4,3,SPM,LA,2931,Rob J. Swart,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
 5124,4,3,SPM,LA,3007,Dennis A. Tirpak,990,UNFCCC Secretariat,USA,NULL,NULL
 5152,4,3,SPM,LA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,239,Dept. of  Environmental Sciences and Policy
+7928,5,1,1,CLA,593,Ulrich Cubasch,183,Freie Universität Berlin,Germany,NULL,NULL
+8677,5,1,1,CLA,3280,Donald J. Wuebbles,NULL,NULL,NULL,NULL,NULL
+7893,5,1,1,LA,486,Deliang Chen,177,University of Gothenburg,Sweden,NULL,NULL
+7977,5,1,1,LA,5133,Maria Cristina Facchini,193,Institute of Atmospheric Sciences and Climate,Italy,NULL,NULL
+8011,5,1,1,LA,5134,David Frame,196,Victoria University of Wellington,New Zealand,NULL,NULL
+8277,5,1,1,LA,5135,Natalie Mahowald,235,Cornell University,USA,NULL,NULL
+8668,5,1,1,LA,5136,Jan-Gunnar Winther,278,Norwegian Polar Institute,Norway,NULL,NULL
+7949,5,1,1,RE,692,Yihui Ding,NULL,NULL,NULL,NULL,NULL
+8306,5,1,1,RE,1922,Linda O. Mearns,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8640,5,1,1,RE,3132,Peter Wadhams,276,University of Cambridge,United Kingdom,NULL,NULL
+7856,5,1,1,CA,5137,Achim Brauer,NULL,NULL,NULL,NULL,NULL
+8026,5,1,1,CA,5138,Lydia Gates,183,Freie Universität Berlin,Germany,NULL,NULL
+8140,5,1,1,CA,5139,Emily Janssen,NULL,NULL,NULL,NULL,NULL
+8172,5,1,1,CA,5140,Frank Kaspar,694,Deutscher Wetterdienst,Germany,NULL,NULL
+8216,5,1,1,CA,5141,Janina Körper,183,Freie Universität Berlin,Germany,NULL,NULL
+8294,5,1,1,CA,1866,Valerie Masson-Delmotte,NULL,NULL,NULL,NULL,NULL
+8313,5,1,1,CA,1930,Malte Meinshausen,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8320,5,1,1,CA,5142,Matthew Menne,NULL,NULL,NULL,NULL,NULL
+8460,5,1,1,CA,5143,Carolin Richter,NULL,NULL,NULL,NULL,NULL
+7768,5,1,1,CA,5130,Michael Schulz,NULL,NULL,NULL,NULL,NULL
+8507,5,1,1,CA,5144,Uwe Schulzweida,NULL,NULL,NULL,NULL,NULL
+9747,5,1,1,CA,5145,Bjorn Stevens,NULL,NULL,NULL,NULL,NULL
+8580,5,1,1,CA,5146,Rowan Sutton,204,University of Reading,United Kingdom,NULL,NULL
+8608,5,1,1,CA,3022,Kevin E. Trenberth,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+10230,5,1,1,CA,5147,Murat Türkeş,111,N/A,Turkey,NULL,NULL
+8652,5,1,1,CA,5148,Daniel S. Ward,235,Cornell University,USA,NULL,NULL
+8082,5,1,2,CLA,5149,Dennis L. Hartmann,132,University of Washington,USA,NULL,NULL
+8195,5,1,2,CLA,1526,Albert Klein Tank,NULL,NULL,NULL,NULL,NULL
+8486,5,1,2,CLA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,NULL,NULL
+7785,5,1,2,LA,59,Lisa V. Alexander,125,University of New South Wales,Australia,NULL,NULL
+7862,5,1,2,LA,5150,Stefan Brönnimann,126,University of Bern,Switzerland,NULL,NULL
+7892,5,1,2,LA,5151,Yassine Abdul-Rahman Charabi,176,Sultan Qaboos University,Oman,NULL,NULL
+9696,5,1,2,LA,659,Frank Dentener,NULL,NULL,NULL,NULL,NULL
+7950,5,1,2,LA,698,Edward J. Dlugokencky,NULL,NULL,NULL,NULL,NULL
+7961,5,1,2,LA,754,David R. Easterling,NULL,NULL,NULL,NULL,NULL
+8167,5,1,2,LA,5152,Alexey Kaplan,185,Columbia University,USA,NULL,NULL
+8551,5,1,2,LA,2813,Brian Soden,135,University of Miami,USA,NULL,NULL
+8601,5,1,2,LA,2992,Peter Thorne,682,Nansen Environmental and Remote Sensing Center,Norway,NULL,NULL
+8661,5,1,2,LA,3228,Martin Wild,136,ETH Zurich,Switzerland,NULL,NULL
+8699,5,1,2,LA,3344,Panmao Zhai,NULL,NULL,NULL,NULL,NULL
+8116,5,1,2,RE,1278,James W. Hurrell,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8282,5,1,2,RE,1844,José Marengo,NULL,NULL,NULL,NULL,NULL
+8593,5,1,2,RE,5177,Fredolin Tangang,269,National University of Malaysia,Malaysia,NULL,NULL
+8635,5,1,2,RE,5178,Pedro Viterbo,275,Instituto de Meteorologia,Portugal,NULL,NULL
+10231,5,1,2,CA,29,Robert F. Adler,113,N/A,USA,NULL,NULL
+10335,5,1,2,CA,66,Richard Allan,117,N/A,United Kingdom,NULL,NULL
+7788,5,1,2,CA,5153,Robert Allan,NULL,NULL,NULL,NULL,NULL
+10232,5,1,2,CA,5154,Donald Blake,113,N/A,USA,NULL,NULL
+10233,5,1,2,CA,5155,Owen Cooper,113,N/A,USA,NULL,NULL
+7932,5,1,2,CA,604,Aiguo Dai,NULL,NULL,NULL,NULL,NULL
+10234,5,1,2,CA,5156,Robert Davis,113,N/A,USA,NULL,NULL
+10235,5,1,2,CA,5157,Sean Davis,113,N/A,USA,NULL,NULL
+10074,5,1,2,CA,5158,Markus Donat,6,N/A,Australia,NULL,NULL
+7992,5,1,2,CA,5159,Vitali Fioletov,164,Environment Canada,Canada,NULL,NULL
+10212,5,1,2,CA,5105,Erich M. Fischer,102,N/A,Switzerland,NULL,NULL
+8073,5,1,2,CA,5160,Leopold Haimberger,1027,University of Vienna,Austria,NULL,NULL
+10236,5,1,2,CA,5161,Ben Ho,113,N/A,USA,NULL,NULL
+10336,5,1,2,CA,1462,John Kennedy,117,N/A,United Kingdom,NULL,NULL
+10337,5,1,2,CA,5162,Elizabeth Kent,117,N/A,United Kingdom,NULL,NULL
+8187,5,1,2,CA,1504,Stefan Kinne,NULL,NULL,NULL,NULL,NULL
+10237,5,1,2,CA,5163,James Kossin,113,N/A,USA,NULL,NULL
+10238,5,1,2,CA,5164,Norman Loeb,113,N/A,USA,NULL,NULL
+10239,5,1,2,CA,1923,Carl Mears,113,N/A,USA,NULL,NULL
+10338,5,1,2,CA,5165,Christopher Merchant,117,N/A,United Kingdom,NULL,NULL
+10240,5,1,2,CA,2020,Steve Montzka,113,N/A,USA,NULL,NULL
+10339,5,1,2,CA,5166,Colin Morice,117,N/A,United Kingdom,NULL,NULL
+8346,5,1,2,CA,5167,Cathrine Lund Myhre,1070,Norwegian Institute for Air Research,Norway,NULL,NULL
+10241,5,1,2,CA,2144,Joel Norris,113,N/A,USA,NULL,NULL
+10340,5,1,2,CA,2262,David E. Parker,117,N/A,United Kingdom,NULL,NULL
+10242,5,1,2,CA,5168,Bill Randel,113,N/A,USA,NULL,NULL
+8459,5,1,2,CA,5169,Andreas Richter,143,University of Bremen,Germany,NULL,NULL
+8462,5,1,2,CA,5170,Matthew Rigby,160,University of Bristol,United Kingdom,NULL,NULL
+10243,5,1,2,CA,2611,Benjamin D. Santer,113,N/A,USA,NULL,NULL
+10244,5,1,2,CA,5171,Dian Seidel,113,N/A,USA,NULL,NULL
+10245,5,1,2,CA,5125,Thomas M. Smith,113,N/A,USA,NULL,NULL
+10341,5,1,2,CA,5126,David B. Stephenson,117,N/A,United Kingdom,NULL,NULL
+10217,5,1,2,CA,5172,Ryan Teuling,107,N/A,Netherlands,NULL,NULL
+8648,5,1,2,CA,5173,Junhong Wang,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+10109,5,1,2,CA,5174,Xiaolan Wang,20,N/A,Canada,NULL,NULL
+10246,5,1,2,CA,3196,Ray Weiss,113,N/A,USA,NULL,NULL
+10342,5,1,2,CA,5175,Kate Willett,117,N/A,United Kingdom,NULL,NULL
+10343,5,1,2,CA,5176,Simon Wood,117,N/A,United Kingdom,NULL,NULL
+8455,5,1,3,CLA,5179,Monika Rhein,143,University of Bremen,Germany,NULL,NULL
+8465,5,1,3,CLA,2504,Stephen R. Rintoul,NULL,NULL,NULL,NULL,NULL
+7802,5,1,3,LA,5180,Shigeru Aoki,156,Hokkaido University,Japan,NULL,NULL
+7875,5,1,3,LA,5181,Edmo Campos,158,University of Sao Paulo,Brazil,NULL,NULL
+7884,5,1,3,LA,468,Don Chambers,175,University of South Florida,USA,NULL,NULL
+7980,5,1,3,LA,820,Richard A. Feely,NULL,NULL,NULL,NULL,NULL
+8066,5,1,3,LA,1052,Sergey Gulev,NULL,NULL,NULL,NULL,NULL
+8144,5,1,3,LA,5111,Gregory C. Johnson,NULL,NULL,NULL,NULL,NULL
+8151,5,1,3,LA,1388,Simon A. Josey,219,National Oceanography Centre,United Kingdom,NULL,NULL
+8218,5,1,3,LA,5113,Andrey G. Kostianoy,NULL,NULL,NULL,NULL,NULL
+8302,5,1,3,LA,1884,Cecilie Mauritzen,NULL,NULL,NULL,NULL,NULL
+8476,5,1,3,LA,5182,Dean Roemmich,NULL,NULL,NULL,NULL,NULL
+8590,5,1,3,LA,2948,Lynne D. Talley,NULL,NULL,NULL,NULL,NULL
+8646,5,1,3,LA,5183,Fan Wang,NULL,NULL,NULL,NULL,NULL
+8013,5,1,3,RE,5220,Howard Freeland,676,Fisheries and Oceans Canada,Canada,NULL,NULL
+8025,5,1,3,RE,5221,Silvia Garzoli,NULL,NULL,NULL,NULL,NULL
+8364,5,1,3,RE,2141,Yukihiro Nojiri,129,National Institute for Environmental Studies,Japan,NULL,NULL
+7793,5,1,3,CA,71,Ian Allison,154,Antarctic Climate and Ecosystems Cooperative Research Centre,Australia,NULL,NULL
+7803,5,1,3,CA,5184,Michio Aoyama,225,Meteorological Research Institute,Japan,NULL,NULL
+7818,5,1,3,CA,5185,Molly Baringer,NULL,NULL,NULL,NULL,NULL
+7823,5,1,3,CA,213,Nicholas R. Bates,NULL,NULL,NULL,NULL,NULL
+7853,5,1,3,CA,321,Tim Boyer,NULL,NULL,NULL,NULL,NULL
+7871,5,1,3,CA,5186,Robert H. Byrne,175,University of South Florida,USA,NULL,NULL
+7923,5,1,3,CA,5101,Sarah R. Cooley,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
+7931,5,1,3,CA,5187,Stuart Cunningham,NULL,NULL,NULL,NULL,NULL
+7942,5,1,3,CA,5188,Thierry Delcroix,NULL,NULL,NULL,NULL,NULL
+7954,5,1,3,CA,5189,Catia M. Domingues,154,Antarctic Climate and Ecosystems Cooperative Research Centre,Australia,NULL,NULL
+10247,5,1,3,CA,5104,Scott C. Doney,113,N/A,USA,NULL,NULL
+7957,5,1,3,CA,5190,John Dore,767,Montana State University,USA,NULL,NULL
+9699,5,1,3,CA,5191,Paul J. Durack,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+7991,5,1,3,CA,5192,Rana Fine,135,University of Miami,USA,NULL,NULL
+8042,5,1,3,CA,996,Melchor Gonzalez-Davila,NULL,NULL,NULL,NULL,NULL
+8045,5,1,3,CA,5193,Simon Good,NULL,NULL,NULL,NULL,NULL
+8062,5,1,3,CA,1041,Nicolas Gruber,136,ETH Zurich,Switzerland,NULL,NULL
+8092,5,1,3,CA,5194,Mark Hemer,NULL,NULL,NULL,NULL,NULL
+8122,5,1,3,CA,5195,David Hydes,219,National Oceanography Centre,United Kingdom,NULL,NULL
+8127,5,1,3,CA,1304,Masayoshi Ishii,225,Meteorological Research Institute,Japan,NULL,NULL
+8132,5,1,3,CA,5196,Stanley Jacobs,185,Columbia University,USA,NULL,NULL
+8166,5,1,3,CA,5197,Torsten Kanzow,NULL,NULL,NULL,NULL,NULL
+8168,5,1,3,CA,5112,David M. Karl,237,University of Hawaii,USA,NULL,NULL
+9716,5,1,3,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,NULL,NULL
+8178,5,1,3,CA,5198,Alexander Kazmin,NULL,NULL,NULL,NULL,NULL
+10248,5,1,3,CA,5199,Robert Key,113,N/A,USA,NULL,NULL
+8184,5,1,3,CA,5200,Samar Khatiwala,185,Columbia University,USA,NULL,NULL
+8198,5,1,3,CA,5201,Joan Kleypas,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8228,5,1,3,CA,1606,Ronald Kwok,NULL,NULL,NULL,NULL,NULL
+8246,5,1,3,CA,5202,Kitack Lee,NULL,NULL,NULL,NULL,NULL
+8256,5,1,3,CA,1699,Eric Leuliette,NULL,NULL,NULL,NULL,NULL
+8319,5,1,3,CA,5203,Melisa Menéndez,403,Universidad de Cantabria,Spain,NULL,NULL
+8335,5,1,3,CA,5204,Calvin Mordy,NULL,NULL,NULL,NULL,NULL
+8369,5,1,3,CA,5205,Jon Olafsson,NULL,NULL,NULL,NULL,NULL
+8371,5,1,3,CA,2219,James Orr,NULL,NULL,NULL,NULL,NULL
+8373,5,1,3,CA,5206,Alejandro Orsi,409,Texas A&M University,USA,NULL,NULL
+7766,5,1,3,CA,5131,Geun-Ha Park,NULL,NULL,NULL,NULL,NULL
+8416,5,1,3,CA,5207,Igor Polyakov,NULL,NULL,NULL,NULL,NULL
+8426,5,1,3,CA,5208,Sarah G. Purkey,132,University of Washington,USA,NULL,NULL
+8428,5,1,3,CA,2406,Bo Qiu,237,University of Hawaii,USA,NULL,NULL
+8454,5,1,3,CA,5209,Gilles Reverdin,NULL,NULL,NULL,NULL,NULL
+8481,5,1,3,CA,5210,Anastasia Romanou,185,Columbia University,USA,NULL,NULL
+8503,5,1,3,CA,5211,Sunke Schmidtko,231,University of East Anglia,United Kingdom,NULL,NULL
+8504,5,1,3,CA,2664,Raymond Schmitt,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
+8529,5,1,3,CA,5212,Koji Shimada,NULL,NULL,NULL,NULL,NULL
+8546,5,1,3,CA,2802,Doug M. Smith,NULL,NULL,NULL,NULL,NULL
+8550,5,1,3,CA,5125,Thomas M. Smith,NULL,NULL,NULL,NULL,NULL
+8569,5,1,3,CA,5213,Uwe Stöber,143,University of Bremen,Germany,NULL,NULL
+8577,5,1,3,CA,5214,Lothar Stramma,NULL,NULL,NULL,NULL,NULL
+8579,5,1,3,CA,2908,Toshio Suga,NULL,NULL,NULL,NULL,NULL
+8585,5,1,3,CA,5215,Neil Swart,277,University of Victoria,Canada,NULL,NULL
+8586,5,1,3,CA,5216,Taro Takahashi,185,Columbia University,USA,NULL,NULL
+8595,5,1,3,CA,5217,Toste Tanhua,NULL,NULL,NULL,NULL,NULL
+8637,5,1,3,CA,5218,Karina von Schuckmann,NULL,NULL,NULL,NULL,NULL
+8638,5,1,3,CA,3126,Hans von Storch,264,University of Hamburg,Germany,NULL,NULL
+10110,5,1,3,CA,5174,Xiaolan Wang,20,N/A,Canada,NULL,NULL
+8651,5,1,3,CA,3161,Rik Wanninkhof,NULL,NULL,NULL,NULL,NULL
+8660,5,1,3,CA,3224,Susan Wijffels,NULL,NULL,NULL,NULL,NULL
+10344,5,1,3,CA,3270,Philip L. Woodworth,117,N/A,United Kingdom,NULL,NULL
+8686,5,1,3,CA,3313,Igor Yashayaev,803,Bedford Institute of Oceanography,Canada,NULL,NULL
+8695,5,1,3,CA,5219,Lisan Yu,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
+7918,5,1,4,CLA,5222,Josefino C. Comiso,NULL,NULL,NULL,NULL,NULL
+8625,5,1,4,CLA,3087,David Vaughan,146,British Antarctic Survey,United Kingdom,NULL,NULL
+7794,5,1,4,LA,71,Ian Allison,154,Antarctic Climate and Ecosystems Cooperative Research Centre,Australia,NULL,NULL
+7879,5,1,4,LA,446,Jorge Carrasco,172,Direccion Meteorologica de Chile,Chile,NULL,NULL
+9717,5,1,4,LA,1436,Georg Kaser,221,University of Innsbruck,Austria,NULL,NULL
+8229,5,1,4,LA,1606,Ronald Kwok,NULL,NULL,NULL,NULL,NULL
+8336,5,1,4,LA,2045,Philip Mote,180,Oregon State University,USA,NULL,NULL
+8344,5,1,4,LA,5223,Tavi Murray,240,Swansea University,United Kingdom,NULL,NULL
+9736,5,1,4,LA,5224,Frank Paul,246,University of Zurich,Switzerland,NULL,NULL
+8452,5,1,4,LA,2475,Jiawen Ren,NULL,NULL,NULL,NULL,NULL
+8463,5,1,4,LA,2498,Eric Rignot,NULL,NULL,NULL,NULL,NULL
+8553,5,1,4,LA,2824,Olga Solomina,NULL,NULL,NULL,NULL,NULL
+8559,5,1,4,LA,5225,Konrad Steffen,NULL,NULL,NULL,NULL,NULL
+9755,5,1,4,LA,3354,Tingjun Zhang,NULL,NULL,NULL,NULL,NULL
+7817,5,1,4,RE,5243,Jonathan Bamber,160,University of Bristol,United Kingdom,NULL,NULL
+8119,5,1,4,RE,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,NULL,NULL
+8249,5,1,4,RE,1689,Peter Lemke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,NULL,NULL
+7808,5,1,4,CA,5226,Anthony A. Arendt,NULL,NULL,NULL,NULL,NULL
+7813,5,1,4,CA,5093,David B. Bahr,NULL,NULL,NULL,NULL,NULL
+7866,5,1,4,CA,363,Ross D. Brown,164,Environment Canada,Canada,NULL,NULL
+7914,5,1,4,CA,538,J. Graham Cogley,328,Trent University,Canada,NULL,NULL
+8024,5,1,4,CA,5106,Alex S. Gardner,NULL,NULL,NULL,NULL,NULL
+8028,5,1,4,CA,5228,Sebastian Gerland,278,Norwegian Polar Institute,Norway,NULL,NULL
+8064,5,1,4,CA,5229,Stephan Gruber,246,University of Zurich,Switzerland,NULL,NULL
+8070,5,1,4,CA,1071,Christian Haas,NULL,NULL,NULL,NULL,NULL
+8071,5,1,4,CA,1076,Jon Ove Hagen,424,University of Oslo,Norway,NULL,NULL
+8094,5,1,4,CA,1204,Regine Hock,NULL,NULL,NULL,NULL,NULL
+8099,5,1,4,CA,5230,David Holland,1404,New York University,USA,NULL,NULL
+8118,5,1,4,CA,5231,Matthias Huss,NULL,NULL,NULL,NULL,NULL
+8283,5,1,4,CA,5232,Thorsten Markus,NULL,NULL,NULL,NULL,NULL
+8291,5,1,4,CA,5233,Ben Marzeion,221,University of Innsbruck,Austria,NULL,NULL
+8293,5,1,4,CA,5234,Rob Massom,330,Australian Antarctic Division,Australia,NULL,NULL
+8328,5,1,4,CA,5235,Geir Moholdt,NULL,NULL,NULL,NULL,NULL
+8381,5,1,4,CA,5236,Pier Paul Overduin,137,Alfred Wegener Institute for Polar and Marine Research,Germany,NULL,NULL
+10345,5,1,4,CA,2280,Antony J. Payne,117,N/A,United Kingdom,NULL,NULL
+8425,5,1,4,CA,2397,Terry D. Prowse,164,Environment Canada,Canada,NULL,NULL
+10111,5,1,4,CA,5238,Valentina Radić,20,N/A,Canada,NULL,NULL
+8468,5,1,4,CA,2517,David Robinson,258,Rutgers University,USA,NULL,NULL
+8525,5,1,4,CA,5239,Martin Sharp,335,University of Alberta,Canada,NULL,NULL
+8528,5,1,4,CA,5240,Nikolay Shiklomanov,502,George Washington University,USA,NULL,NULL
+8548,5,1,4,CA,2810,Sharon Smith,790,Natural Resources Canada,Canada,NULL,NULL
+8558,5,1,4,CA,5241,Sharon Stammerjohn,NULL,NULL,NULL,NULL,NULL
+8401,5,1,4,CA,5237,W. Tad Pfeffer,NULL,NULL,NULL,NULL,NULL
+8616,5,1,4,CA,5227,Michiel van den Broeke,NULL,NULL,NULL,NULL,NULL
+8632,5,1,4,CA,5242,Isabella Velicogna,251,University of California Irvine,USA,NULL,NULL
+8641,5,1,4,CA,3132,Peter Wadhams,276,University of Cambridge,United Kingdom,NULL,NULL
+8675,5,1,4,CA,3271,Anthony Worby,NULL,NULL,NULL,NULL,NULL
+8707,5,1,4,CA,3363,Lin Zhao,NULL,NULL,NULL,NULL,NULL
+8295,5,1,5,CLA,1866,Valerie Masson-Delmotte,NULL,NULL,NULL,NULL,NULL
+7769,5,1,5,CLA,5130,Michael Schulz,NULL,NULL,NULL,NULL,NULL
+7777,5,1,5,LA,6,Ayako Abe-Ouchi,148,University of Tokyo,Japan,NULL,NULL
+7824,5,1,5,LA,5244,Jürg Beer,NULL,NULL,NULL,NULL,NULL
+8021,5,1,5,LA,923,Andrey Ganopolski,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8137,5,1,5,LA,1331,Eystein Jansen,133,University of Bergen,Norway,NULL,NULL
+8233,5,1,5,LA,1622,Kurt Lambeck,230,Australian National University,Australia,NULL,NULL
+8273,5,1,5,LA,1788,Jürg Luterbacher,234,Justus-Liebig University Giessen,Germany,NULL,NULL
+8354,5,1,5,LA,5246,Tim Naish,196,Victoria University of Wellington,New Zealand,NULL,NULL
+8374,5,1,5,LA,2220,Timothy Osborn,231,University of East Anglia,United Kingdom,NULL,NULL
+8380,5,1,5,LA,2225,Bette Otto-Bliesner,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8429,5,1,5,LA,5247,Terrence Quinn,1132,University of Texas,USA,NULL,NULL
+8438,5,1,5,LA,2431,Rengaswamy Ramesh,254,Physical Research Laboratory,India,NULL,NULL
+8478,5,1,5,LA,5248,Maisa Rojas,NULL,NULL,NULL,NULL,NULL
+8039,5,1,5,LA,5245,Jesus Fidel González Rouco,202,Universidad Complutense de Madrid,Spain,NULL,NULL
+8524,5,1,5,LA,2723,Xuemei Shao,NULL,NULL,NULL,NULL,NULL
+8607,5,1,5,LA,3005,Axel Timmermann,237,University of Hawaii,USA,NULL,NULL
+8067,5,1,5,RE,5291,Anil K. Gupta,206,Wadia Institute of Himalayan Geology,India,NULL,NULL
+8431,5,1,5,RE,2419,Fatemeh Rahimzadeh,NULL,NULL,NULL,NULL,NULL
+8447,5,1,5,RE,2456,Dominique Raynaud,NULL,NULL,NULL,NULL,NULL
+8650,5,1,5,RE,5292,Heinz Wanner,126,University of Bern,Switzerland,NULL,NULL
+7798,5,1,5,CA,5249,Kevin Anchukaitis,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
+7805,5,1,5,CA,118,Julie Arblaster,250,Bureau of Meteorology,Australia,NULL,NULL
+7822,5,1,5,CA,5250,Patrick J. Bartlein,1215,University of Oregon,USA,NULL,NULL
+7828,5,1,5,CA,5251,Gerardo Benito,NULL,NULL,NULL,NULL,NULL
+10249,5,1,5,CA,5100,Peter U. Clark,113,N/A,USA,NULL,NULL
+7919,5,1,5,CA,5222,Josefino C. Comiso,NULL,NULL,NULL,NULL,NULL
+7927,5,1,5,CA,590,Thomas Crowley,NULL,NULL,NULL,NULL,NULL
+7937,5,1,5,CA,5252,Patrick De Deckker,230,Australian National University,Australia,NULL,NULL
+7939,5,1,5,CA,5253,Anne de Vernal,705,Université du Quebec a Montreal,Canada,NULL,NULL
+7944,5,1,5,CA,5254,Barbara Delmonte,NULL,NULL,NULL,NULL,NULL
+7948,5,1,5,CA,5255,Pedro DiNezio,237,University of Hawaii,USA,NULL,NULL
+7953,5,1,5,CA,705,Trond Dokken,NULL,NULL,NULL,NULL,NULL
+7958,5,1,5,CA,5256,Harry J. Dowsett,312,U.S. Geological Survey,USA,NULL,NULL
+7996,5,1,5,CA,5258,Hubertus Fischer,126,University of Bern,Switzerland,NULL,NULL
+8001,5,1,5,CA,847,Dominik Fleitmann,204,University of Reading,United Kingdom,NULL,NULL
+8010,5,1,5,CA,5259,Gavin Foster,421,University of Southampton,United Kingdom,NULL,NULL
+8014,5,1,5,CA,5260,Claus Fröhlich,NULL,NULL,NULL,NULL,NULL
+8050,5,1,5,CA,5261,Aline Govin,NULL,NULL,NULL,NULL,NULL
+8074,5,1,5,CA,1084,Alex Hall,209,University of California Los Angeles,USA,NULL,NULL
+8079,5,1,5,CA,5262,Julia Hargreaves,NULL,NULL,NULL,NULL,NULL
+8087,5,1,5,CA,5263,Alan Haywood,130,University of Leeds,United Kingdom,NULL,NULL
+8102,5,1,5,CA,5264,Chris Hollis,NULL,NULL,NULL,NULL,NULL
+8106,5,1,5,CA,5265,Ben Horton,258,Rutgers University,USA,NULL,NULL
+8160,5,1,5,CA,1405,Masa Kageyama,NULL,NULL,NULL,NULL,NULL
+8205,5,1,5,CA,1535,Reto Knutti,136,ETH Zurich,Switzerland,NULL,NULL
+8215,5,1,5,CA,5266,Robert Kopp,258,Rutgers University,USA,NULL,NULL
+8221,5,1,5,CA,5267,Gerhard Krinner,NULL,NULL,NULL,NULL,NULL
+8234,5,1,5,CA,5268,Amaelle Landais,NULL,NULL,NULL,NULL,NULL
+7964,5,1,5,CA,5257,R. Lawrence Edwards,718,University of Minnesota,USA,NULL,NULL
+9724,5,1,5,CA,5269,Camille Li,133,University of Bergen,Norway,NULL,NULL
+10346,5,1,5,CA,5270,Dan Lunt,117,N/A,United Kingdom,NULL,NULL
+8278,5,1,5,CA,5135,Natalie Mahowald,235,Cornell University,USA,NULL,NULL
+8304,5,1,5,CA,5271,Shayne McGregor,125,University of New South Wales,Australia,NULL,NULL
+8308,5,1,5,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+9728,5,1,5,CA,5272,Jerry X. Mitrovica,215,Harvard University,USA,NULL,NULL
+8327,5,1,5,CA,2005,Anders Moberg,701,Stockholm University,Sweden,NULL,NULL
+8339,5,1,5,CA,5273,Manfred Mudelsee,137,Alfred Wegener Institute for Polar and Marine Research,Germany,NULL,NULL
+8341,5,1,5,CA,2053,Daniel Muhs,312,U.S. Geological Survey,USA,NULL,NULL
+8342,5,1,5,CA,5274,Stefan Mulitza,NULL,NULL,NULL,NULL,NULL
+8340,5,1,5,CA,5275,Stefanie Müller,183,Freie Universität Berlin,Germany,NULL,NULL
+8382,5,1,5,CA,5276,James Overland,NULL,NULL,NULL,NULL,NULL
+8386,5,1,5,CA,2265,Frederic Parrenin,NULL,NULL,NULL,NULL,NULL
+10347,5,1,5,CA,5277,Paul Pearson,117,N/A,United Kingdom,NULL,NULL
+8469,5,1,5,CA,2521,Alan Robock,258,Rutgers University,USA,NULL,NULL
+8477,5,1,5,CA,5278,Eelco Rohling,230,Australian National University,Australia,NULL,NULL
+8494,5,1,5,CA,5279,Ulrich Salzmann,NULL,NULL,NULL,NULL,NULL
+8499,5,1,5,CA,5280,Joel Savarino,NULL,NULL,NULL,NULL,NULL
+8514,5,1,5,CA,5281,Jan Sedláček,136,ETH Zurich,Switzerland,NULL,NULL
+8523,5,1,5,CA,5282,Jeremy Shakun,NULL,NULL,NULL,NULL,NULL
+8530,5,1,5,CA,5283,Drew Shindell,NULL,NULL,NULL,NULL,NULL
+8544,5,1,5,CA,5284,Jason Smerdon,185,Columbia University,USA,NULL,NULL
+8554,5,1,5,CA,2824,Olga Solomina,NULL,NULL,NULL,NULL,NULL
+8597,5,1,5,CA,5285,Pavel Tarasov,183,Freie Universität Berlin,Germany,NULL,NULL
+10132,5,1,5,CA,5286,Bo Vinther,28,N/A,Denmark,NULL,NULL
+8642,5,1,5,CA,3133,Claire Waelbroeck,NULL,NULL,NULL,NULL,NULL
+8670,5,1,5,CA,5287,Dieter Wolf-Gladrow,137,Alfred Wegener Institute for Polar and Marine Research,Germany,NULL,NULL
+8690,5,1,5,CA,5288,Yusuke Yokoyama,148,University of Tokyo,Japan,NULL,NULL
+8691,5,1,5,CA,5289,Masakazu Yoshimori,148,University of Tokyo,Japan,NULL,NULL
+8696,5,1,5,CA,3334,James Zachos,752,University of California Santa Cruz,USA,NULL,NULL
+8713,5,1,5,CA,5290,Dan Zwartz,196,Victoria University of Wellington,New Zealand,NULL,NULL
+7906,5,1,6,CLA,512,Philippe Ciais,NULL,NULL,NULL,NULL,NULL
+8490,5,1,6,CLA,2582,Christopher Sabine,NULL,NULL,NULL,NULL,NULL
+7814,5,1,6,LA,5293,Govindasamy Bala,159,Indian Institute of Science,India,NULL,NULL
+7845,5,1,6,LA,304,Laurent Bopp,NULL,NULL,NULL,NULL,NULL
+9688,5,1,6,LA,360,Victor Brovkin,NULL,NULL,NULL,NULL,NULL
+7876,5,1,6,LA,431,Josep Canadell,NULL,NULL,NULL,NULL,NULL
+7895,5,1,6,LA,5294,Abha Chhabra,178,Indian Space Research Organisation,India,NULL,NULL
+7940,5,1,6,LA,5295,Ruth DeFries,185,Columbia University,USA,NULL,NULL
+8020,5,1,6,LA,5296,James Galloway,199,University of Virginia,USA,NULL,NULL
+8088,5,1,6,LA,1160,Martin Heimann,NULL,NULL,NULL,NULL,NULL
+8148,5,1,6,LA,1377,Christopher Jones,NULL,NULL,NULL,NULL,NULL
+8242,5,1,6,LA,1695,Corinne Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
+8353,5,1,6,LA,5297,Ranga B. Myneni,242,Boston University,USA,NULL,NULL
+8404,5,1,6,LA,5298,Shilong Piao,140,Peking University,China,NULL,NULL
+8606,5,1,6,LA,5299,Peter Thornton,271,Oak Ridge National Laboratory,USA,NULL,NULL
+8089,5,1,6,RE,1167,Christoph Heinze,133,University of Bergen,Norway,NULL,NULL
+8596,5,1,6,RE,2956,Pieter Tans,NULL,NULL,NULL,NULL,NULL
+8634,5,1,6,RE,5352,Timo Vesala,274,University of Helsinki,Finland,NULL,NULL
+7782,5,1,6,CA,5300,Anders Ahlström,425,Lund University,Sweden,NULL,NULL
+9684,5,1,6,CA,5301,Alessandro Anav,131,University of Exeter,United Kingdom,NULL,NULL
+7800,5,1,6,CA,5302,Oliver Andrews,231,University of East Anglia,United Kingdom,NULL,NULL
+7807,5,1,6,CA,119,David Archer,661,University of Chicago,USA,NULL,NULL
+7809,5,1,6,CA,127,Vivek Arora,164,Environment Canada,Canada,NULL,NULL
+7841,5,1,6,CA,295,Gordon B. Bonan,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+9686,5,1,6,CA,5303,Alberto Vieira Borges,NULL,NULL,NULL,NULL,NULL
+7851,5,1,6,CA,314,Philippe Bousquet,NULL,NULL,NULL,NULL,NULL
+7852,5,1,6,CA,5304,Lex Bouwman,NULL,NULL,NULL,NULL,NULL
+7869,5,1,6,CA,5305,Lori M. Bruhwiler,NULL,NULL,NULL,NULL,NULL
+7873,5,1,6,CA,411,Ken Caldeira,NULL,NULL,NULL,NULL,NULL
+7878,5,1,6,CA,5306,Long Cao,NULL,NULL,NULL,NULL,NULL
+7891,5,1,6,CA,5307,Jérôme Chappellaz,NULL,NULL,NULL,NULL,NULL
+7894,5,1,6,CA,5308,Frédéric Chevallier,NULL,NULL,NULL,NULL,NULL
+7912,5,1,6,CA,5309,Cory Cleveland,841,University of Montana,USA,NULL,NULL
+7925,5,1,6,CA,573,Peter M. Cox,131,University of Exeter,United Kingdom,NULL,NULL
+9697,5,1,6,CA,659,Frank Dentener,NULL,NULL,NULL,NULL,NULL
+7955,5,1,6,CA,5104,Scott C. Doney,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
+7973,5,1,6,CA,5310,Jan Willem Erisman,NULL,NULL,NULL,NULL,NULL
+7974,5,1,6,CA,5311,Eugenie S. Euskirchen,NULL,NULL,NULL,NULL,NULL
+9703,5,1,6,CA,892,Pierre Friedlingstein,131,University of Exeter,United Kingdom,NULL,NULL
+8194,5,1,6,CA,5320,Kees Klein Goldewijk,NULL,NULL,NULL,NULL,NULL
+8063,5,1,6,CA,1041,Nicolas Gruber,136,ETH Zurich,Switzerland,NULL,NULL
+8068,5,1,6,CA,1062,Kevin Gurney,784,Arizona State University,USA,NULL,NULL
+9713,5,1,6,CA,1221,Elisabeth A. Holland,NULL,NULL,NULL,NULL,NULL
+8105,5,1,6,CA,5312,Brett Hopwood,271,Oak Ridge National Laboratory,USA,NULL,NULL
+8107,5,1,6,CA,1245,Richard A. Houghton,1031,Woods Hole Research Center,USA,NULL,NULL
+8108,5,1,6,CA,1248,Joanna I. House,160,University of Bristol,United Kingdom,NULL,NULL
+8109,5,1,6,CA,5313,Sander Houweling,NULL,NULL,NULL,NULL,NULL
+8115,5,1,6,CA,5314,Stephen Hunter,130,University of Leeds,United Kingdom,NULL,NULL
+8117,5,1,6,CA,5315,George Hurtt,414,University of Maryland,USA,NULL,NULL
+8133,5,1,6,CA,5316,Andrew D. Jacobson,NULL,NULL,NULL,NULL,NULL
+8134,5,1,6,CA,1324,Atul K. Jain,NULL,NULL,NULL,NULL,NULL
+8150,5,1,6,CA,1386,Fortunat Joos,126,University of Bern,Switzerland,NULL,NULL
+8158,5,1,6,CA,1400,Johann H. Jungclaus,NULL,NULL,NULL,NULL,NULL
+9714,5,1,6,CA,5317,Jed O. Kaplan,NULL,NULL,NULL,NULL,NULL
+8173,5,1,6,CA,5318,Etsushi Kato,129,National Institute for Environmental Studies,Japan,NULL,NULL
+8179,5,1,6,CA,1453,Ralph Keeling,NULL,NULL,NULL,NULL,NULL
+8185,5,1,6,CA,5200,Samar Khatiwala,185,Columbia University,USA,NULL,NULL
+9720,5,1,6,CA,5319,Stefanie Kirschke,NULL,NULL,NULL,NULL,NULL
+8199,5,1,6,CA,5321,Silvia Kloster,NULL,NULL,NULL,NULL,NULL
+8219,5,1,6,CA,5322,Charles Koven,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+8224,5,1,6,CA,5323,Carolien Kroeze,NULL,NULL,NULL,NULL,NULL
+9723,5,1,6,CA,5324,Jean-François Lamarque,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8236,5,1,6,CA,1643,Keith Lassey,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
+8239,5,1,6,CA,5325,Rachel M. Law,NULL,NULL,NULL,NULL,NULL
+8255,5,1,6,CA,5326,Andrew Lenton,NULL,NULL,NULL,NULL,NULL
+8267,5,1,6,CA,5327,Mark R. Lomas,1262,University of Sheffield,United Kingdom,NULL,NULL
+8272,5,1,6,CA,1784,Ji-Bin Luo,1238,University of Oklahoma,USA,NULL,NULL
+8281,5,1,6,CA,5328,Takashi Maki,225,Meteorological Research Institute,Japan,NULL,NULL
+8284,5,1,6,CA,1849,Gregg Marland,NULL,NULL,NULL,NULL,NULL
+8300,5,1,6,CA,1879,H. Damon Matthews,494,Concordia University,Canada,NULL,NULL
+8303,5,1,6,CA,5329,Emilio Mayorga,132,University of Washington,USA,NULL,NULL
+8315,5,1,6,CA,5330,Joe R. Melton,164,Environment Canada,Canada,NULL,NULL
+8323,5,1,6,CA,5331,Nicolas Metzl,NULL,NULL,NULL,NULL,NULL
+9730,5,1,6,CA,5332,Guy Munhoven,NULL,NULL,NULL,NULL,NULL
+8363,5,1,6,CA,5333,Yosuke Niwa,225,Meteorological Research Institute,Japan,NULL,NULL
+8365,5,1,6,CA,2142,Richard J. Norby,271,Oak Ridge National Laboratory,USA,NULL,NULL
+8372,5,1,6,CA,2219,James Orr,NULL,NULL,NULL,NULL,NULL
+9733,5,1,6,CA,5334,Fiona O’Connor,NULL,NULL,NULL,NULL,NULL
+7767,5,1,6,CA,5132,Geun-Ha Park,NULL,NULL,NULL,NULL,NULL
+9735,5,1,6,CA,5335,Prabir Patra,NULL,NULL,NULL,NULL,NULL
+9737,5,1,6,CA,5336,Anna Peregon,NULL,NULL,NULL,NULL,NULL
+8398,5,1,6,CA,5337,Wouter Peters,396,Wageningen University,Netherlands,NULL,NULL
+8400,5,1,6,CA,2319,Philippe Peylin,NULL,NULL,NULL,NULL,NULL
+8408,5,1,6,CA,2344,Stephen Piper,NULL,NULL,NULL,NULL,NULL
+8417,5,1,6,CA,5338,Julia Pongratz,NULL,NULL,NULL,NULL,NULL
+10250,5,1,6,CA,5121,Benjamin Poulter,113,N/A,USA,NULL,NULL
+8446,5,1,6,CA,5339,Peter A. Raymond,629,Yale University,USA,NULL,NULL
+8448,5,1,6,CA,2459,Peter J. Rayner,300,University of Melbourne,Australia,NULL,NULL
+8461,5,1,6,CA,5340,Andy Ridgwell,160,University of Bristol,United Kingdom,NULL,NULL
+9738,5,1,6,CA,5341,Bruno Ringeval,NULL,NULL,NULL,NULL,NULL
+8473,5,1,6,CA,2525,Christian Rodenbeck,NULL,NULL,NULL,NULL,NULL
+8498,5,1,6,CA,5342,Marielle Saunois,NULL,NULL,NULL,NULL,NULL
+9743,5,1,6,CA,2665,Andreas Schmittner,180,Oregon State University,USA,NULL,NULL
+8509,5,1,6,CA,5343,Edward Schuur,NULL,NULL,NULL,NULL,NULL
+8543,5,1,6,CA,5344,Stephen Sitch,131,University of Exeter,United Kingdom,NULL,NULL
+8555,5,1,6,CA,2840,Renato Spahni,126,University of Bern,Switzerland,NULL,NULL
+10213,5,1,6,CA,5345,Benjamin Stocker,102,N/A,Switzerland,NULL,NULL
+8587,5,1,6,CA,5216,Taro Takahashi,185,Columbia University,USA,NULL,NULL
+9749,5,1,6,CA,5346,Rona L. Thompson,1070,Norwegian Institute for Air Research,Norway,NULL,NULL
+9750,5,1,6,CA,5347,Jerry Tjiputra,NULL,NULL,NULL,NULL,NULL
+8619,5,1,6,CA,5348,Guido van der Werf,NULL,NULL,NULL,NULL,NULL
+8624,5,1,6,CA,3080,Detlef P. Van Vuuren,NULL,NULL,NULL,NULL,NULL
+9751,5,1,6,CA,5349,Apostolos Voulgarakis,697,Imperial College London,United Kingdom,NULL,NULL
+10093,5,1,6,CA,5350,Rita Wania,7,N/A,Austria,NULL,NULL
+8697,5,1,6,CA,5351,Sönke Zaehle,NULL,NULL,NULL,NULL,NULL
+8698,5,1,6,CA,3546,Ning Zeng,414,University of Maryland,USA,NULL,NULL
+7846,5,1,7,CLA,310,Olivier Boucher,NULL,NULL,NULL,NULL,NULL
+8439,5,1,7,CLA,2436,David A. Randall,255,Colorado State University,USA,NULL,NULL
+7811,5,1,7,LA,133,Paulo Artaxo,158,University of Sao Paulo,Brazil,NULL,NULL
+7860,5,1,7,LA,338,Christopher Bretherton,132,University of Washington,USA,NULL,NULL
+7983,5,1,7,LA,5353,Graham Feingold,NULL,NULL,NULL,NULL,NULL
+8003,5,1,7,LA,864,Piers Forster,130,University of Leeds,United Kingdom,NULL,NULL
+8180,5,1,7,LA,5354,Veli-Matti Kerminen,223,Finnish Meteorological Institute,Finland,NULL,NULL
+8213,5,1,7,LA,5355,Yutaka Kondo,148,University of Tokyo,Japan,NULL,NULL
+8259,5,1,7,LA,5356,Hong Liao,NULL,NULL,NULL,NULL,NULL
+8265,5,1,7,LA,1761,Ulrike Lohmann,136,ETH Zurich,Switzerland,NULL,NULL
+8442,5,1,7,LA,2442,Philip Rasch,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+8497,5,1,7,LA,5357,S.K. Satheesh,159,Indian Institute of Science,India,NULL,NULL
+8527,5,1,7,LA,2746,Steven Sherwood,125,University of New South Wales,Australia,NULL,NULL
+8564,5,1,7,LA,5145,Bjorn Stevens,NULL,NULL,NULL,NULL,NULL
+8705,5,1,7,LA,3356,Xiaoye Zhang,NULL,NULL,NULL,NULL,NULL
+8017,5,1,7,RE,911,Sandro Fuzzi,193,Institute of Atmospheric Sciences and Climate,Italy,NULL,NULL
+8391,5,1,7,RE,2298,Joyce E. Penner,247,University of Michigan,USA,NULL,NULL
+8434,5,1,7,RE,2430,Venkatachalam Ramaswamy,NULL,NULL,NULL,NULL,NULL
+8578,5,1,7,RE,5375,Claudia Stubenrauch,NULL,NULL,NULL,NULL,NULL
+7815,5,1,7,CA,5293,Govindasamy Bala,159,Indian Institute of Science,India,NULL,NULL
+7826,5,1,7,CA,5358,Nicolas Bellouin,204,University of Reading,United Kingdom,NULL,NULL
+7827,5,1,7,CA,5359,Angela Benedetti,NULL,NULL,NULL,NULL,NULL
+7842,5,1,7,CA,300,Sandrine Bony,NULL,NULL,NULL,NULL,NULL
+10251,5,1,7,CA,411,Ken Caldeira,113,N/A,USA,NULL,NULL
+7978,5,1,7,CA,5133,Maria Cristina Facchini,193,Institute of Atmospheric Sciences and Climate,Italy,NULL,NULL
+7997,5,1,7,CA,5361,Mark Flanner,247,University of Michigan,USA,NULL,NULL
+7941,5,1,7,CA,5360,Anthony Del Genio,NULL,NULL,NULL,NULL,NULL
+8029,5,1,7,CA,960,Steven Ghan,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+8051,5,1,7,CA,5362,Claire Granier,NULL,NULL,NULL,NULL,NULL
+8104,5,1,7,CA,5363,Corinna Hoose,NULL,NULL,NULL,NULL,NULL
+8147,5,1,7,CA,1375,Andy Jones,NULL,NULL,NULL,NULL,NULL
+8212,5,1,7,CA,5364,Makoto Koike,148,University of Tokyo,Japan,NULL,NULL
+8220,5,1,7,CA,5365,Ben Kravitz,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+8231,5,1,7,CA,5366,Benjamin Laken,NULL,NULL,NULL,NULL,NULL
+8244,5,1,7,CA,5367,Matthew Lebsock,NULL,NULL,NULL,NULL,NULL
+8279,5,1,7,CA,5135,Natalie Mahowald,235,Cornell University,USA,NULL,NULL
+8347,5,1,7,CA,2083,Gunnar Myhre,NULL,NULL,NULL,NULL,NULL
+8367,5,1,7,CA,5368,Colin O’Dowd,NULL,NULL,NULL,NULL,NULL
+8470,5,1,7,CA,2521,Alan Robock,258,Rutgers University,USA,NULL,NULL
+8495,5,1,7,CA,5369,Bjørn Samset,NULL,NULL,NULL,NULL,NULL
+8502,5,1,7,CA,2661,Hauke Schmidt,NULL,NULL,NULL,NULL,NULL
+7772,5,1,7,CA,2681,Michael Schulz,666,Norwegian Meteorological Institute,Norway,NULL,NULL
+8561,5,1,7,CA,5370,Graeme Stephens,NULL,NULL,NULL,NULL,NULL
+8568,5,1,7,CA,5371,Philip Stier,153,University of Oxford,United Kingdom,NULL,NULL
+8572,5,1,7,CA,5372,Trude Storelvmo,629,Yale University,USA,NULL,NULL
+8667,5,1,7,CA,5373,David Winker,NULL,NULL,NULL,NULL,NULL
+8680,5,1,7,CA,5374,Matthew Wyant,132,University of Washington,USA,NULL,NULL
+8348,5,1,8,CLA,2083,Gunnar Myhre,NULL,NULL,NULL,NULL,NULL
+8531,5,1,8,CLA,5283,Drew Shindell,NULL,NULL,NULL,NULL,NULL
+7857,5,1,8,LA,5376,François-Marie Bréon,NULL,NULL,NULL,NULL,NULL
+7774,5,1,8,LA,548,Williams J. Collins,204,University of Reading,United Kingdom,NULL,NULL
+8015,5,1,8,LA,900,Jan Fuglestvedt,NULL,NULL,NULL,NULL,NULL
+8111,5,1,8,LA,5378,Jianping Huang,213,Lanzhou University,China,NULL,NULL
+8211,5,1,8,LA,1538,Dorothy Koch,227,U.S. Department of Energy,USA,NULL,NULL
+8232,5,1,8,LA,5324,Jean-François Lamarque,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8245,5,1,8,LA,1675,David S. Lee,232,Manchester Metropolitan University,United Kingdom,NULL,NULL
+8316,5,1,8,LA,5379,Blanca Mendoza,NULL,NULL,NULL,NULL,NULL
+8355,5,1,8,LA,2093,Teruyuki Nakajima,148,University of Tokyo,Japan,NULL,NULL
+8471,5,1,8,LA,2521,Alan Robock,258,Rutgers University,USA,NULL,NULL
+8562,5,1,8,LA,5370,Graeme Stephens,NULL,NULL,NULL,NULL,NULL
+8589,5,1,8,LA,2945,Toshihiko Takemura,267,Kyushu University,Japan,NULL,NULL
+8701,5,1,8,LA,5380,Hua Zhang,NULL,NULL,NULL,NULL,NULL
+8130,5,1,8,RE,1315,Daniel Jacob,215,Harvard University,USA,NULL,NULL
+8444,5,1,8,RE,5391,A.R. Ravishankara,NULL,NULL,NULL,NULL,NULL
+8537,5,1,8,RE,2750,Keith P. Shine,204,University of Reading,United Kingdom,NULL,NULL
+7776,5,1,8,CA,5381,Borgar Aamaas,NULL,NULL,NULL,NULL,NULL
+7847,5,1,8,CA,310,Olivier Boucher,NULL,NULL,NULL,NULL,NULL
+7934,5,1,8,CA,5382,Stig B. Dalsøren,NULL,NULL,NULL,NULL,NULL
+7935,5,1,8,CA,5383,John S. Daniel,NULL,NULL,NULL,NULL,NULL
+8004,5,1,8,CA,864,Piers Forster,130,University of Leeds,United Kingdom,NULL,NULL
+8052,5,1,8,CA,5362,Claire Granier,NULL,NULL,NULL,NULL,NULL
+8072,5,1,8,CA,1077,Joanna Haigh,697,Imperial College London,United Kingdom,NULL,NULL
+8097,5,1,8,CA,5384,Øivind Hodnebrog,NULL,NULL,NULL,NULL,NULL
+9715,5,1,8,CA,5317,Jed O. Kaplan,NULL,NULL,NULL,NULL,NULL
+8290,5,1,8,CA,5385,George Marston,204,University of Reading,United Kingdom,NULL,NULL
+8362,5,1,8,CA,5386,Claus J. Nielsen,424,University of Oslo,Norway,NULL,NULL
+8368,5,1,8,CA,5119,Brian C. O’Neill,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8397,5,1,8,CA,5387,Glen P. Peters,NULL,NULL,NULL,NULL,NULL
+8418,5,1,8,CA,5338,Julia Pongratz,NULL,NULL,NULL,NULL,NULL
+8422,5,1,8,CA,2383,Michael Prather,251,University of California Irvine,USA,NULL,NULL
+8435,5,1,8,CA,2430,Venkatachalam Ramaswamy,NULL,NULL,NULL,NULL,NULL
+8482,5,1,8,CA,5388,Raphael Roth,126,University of Bern,Switzerland,NULL,NULL
+8483,5,1,8,CA,2562,Leon D. Rotstayn,NULL,NULL,NULL,NULL,NULL
+8549,5,1,8,CA,2809,Steven J. Smith,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+10348,5,1,8,CA,2875,David S. Stevenson,117,N/A,United Kingdom,NULL,NULL
+8633,5,1,8,CA,5389,Jean-Paul Vernier,NULL,NULL,NULL,NULL,NULL
+8663,5,1,8,CA,3229,Oliver Wild,NULL,NULL,NULL,NULL,NULL
+8693,5,1,8,CA,5390,Paul Young,NULL,NULL,NULL,NULL,NULL
+7998,5,1,9,CLA,846,Gregory Flato,164,Environment Canada,Canada,NULL,NULL
+8285,5,1,9,CLA,5392,Jochem Marotzke,NULL,NULL,NULL,NULL,NULL
+7778,5,1,9,LA,5393,Babatunde Abiodun,149,University of Cape Town,South Africa,NULL,NULL
+7854,5,1,9,LA,323,Pascale Braconnot,NULL,NULL,NULL,NULL,NULL
+7897,5,1,9,LA,5394,Sin Chan Chou,NULL,NULL,NULL,NULL,NULL
+7773,5,1,9,LA,547,William D. Collins,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+7926,5,1,9,LA,573,Peter M. Cox,131,University of Exeter,United Kingdom,NULL,NULL
+7959,5,1,9,LA,5395,Fatima Driouech,NULL,NULL,NULL,NULL,NULL
+7968,5,1,9,LA,784,Seita Emori,129,National Institute for Environmental Studies,Japan,NULL,NULL
+7976,5,1,9,LA,802,Veronika Eyring,NULL,NULL,NULL,NULL,NULL
+10252,5,1,9,LA,863,Chris E. Forest,113,N/A,USA,NULL,NULL
+10253,5,1,9,LA,982,Peter Gleckler,113,N/A,USA,NULL,NULL
+8065,5,1,9,LA,1050,Eric Guilyardi,NULL,NULL,NULL,NULL,NULL
+8136,5,1,9,LA,5396,Christian Jakob,216,Monash University,Australia,NULL,NULL
+8175,5,1,9,LA,1442,Vladimir M. Kattsov,222,Voeikov Main Geophysical Observatory,Russian Federation,NULL,NULL
+8449,5,1,9,LA,5397,Chris Reason,149,University of Cape Town,South Africa,NULL,NULL
+8484,5,1,9,LA,2569,Markku Rummukainen,260,Swedish Meteorological and Hydrological Institute,Sweden,NULL,NULL
+8090,5,1,9,RE,1168,Isaac Held,NULL,NULL,NULL,NULL,NULL
+8409,5,1,9,RE,2349,Andy Pitman,125,University of New South Wales,Australia,NULL,NULL
+8410,5,1,9,RE,2353,Serge Planton,249,Météo-France,France,NULL,NULL
+8708,5,1,9,RE,3364,Zong-Ci Zhao,NULL,NULL,NULL,NULL,NULL
+10158,5,1,9,CA,17,Krishna AchutaRao,44,N/A,India,NULL,NULL
+7797,5,1,9,CA,5301,Alessandro Anav,131,University of Exeter,United Kingdom,NULL,NULL
+7801,5,1,9,CA,5092,Timothy Andrews,NULL,NULL,NULL,NULL,NULL
+7812,5,1,9,CA,5398,Johanna Baehr,264,University of Hamburg,Germany,NULL,NULL
+7831,5,1,9,CA,262,Nathaniel L. Bindoff,163,University of Tasmania,Australia,NULL,NULL
+7838,5,1,9,CA,5399,Alejandro Bodas-Salcedo,NULL,NULL,NULL,NULL,NULL
+7881,5,1,9,CA,5400,Jennifer Catto,216,Monash University,Australia,NULL,NULL
+7885,5,1,9,CA,468,Don Chambers,175,University of South Florida,USA,NULL,NULL
+7888,5,1,9,CA,5401,Ping Chang,409,Texas A&M University,USA,NULL,NULL
+7933,5,1,9,CA,604,Aiguo Dai,NULL,NULL,NULL,NULL,NULL
+7938,5,1,9,CA,627,Ramon de Elia,NULL,NULL,NULL,NULL,NULL
+7946,5,1,9,CA,669,Clara Deser,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+7951,5,1,9,CA,5402,Francisco Doblas-Reyes,NULL,NULL,NULL,NULL,NULL
+9700,5,1,9,CA,5191,Paul J. Durack,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+7962,5,1,9,CA,757,Michael Eby,277,University of Victoria,Canada,NULL,NULL
+7986,5,1,9,CA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8005,5,1,9,CA,864,Piers Forster,130,University of Leeds,United Kingdom,NULL,NULL
+8012,5,1,9,CA,5134,David Frame,196,Victoria University of Wellington,New Zealand,NULL,NULL
+8018,5,1,9,CA,912,John Fyfe,164,Environment Canada,Canada,NULL,NULL
+9707,5,1,9,CA,5107,Emiola Gbobaniyi,260,Swedish Meteorological and Hydrological Institute,Sweden,NULL,NULL
+8032,5,1,9,CA,968,Nathan P. Gillett,164,Environment Canada,Canada,NULL,NULL
+10203,5,1,9,CA,997,Jesus Fidel Gonzalez-Rouco,97,N/A,Spain,NULL,NULL
+8046,5,1,9,CA,5403,Clare Goodess,231,University of East Anglia,United Kingdom,NULL,NULL
+8060,5,1,9,CA,1029,Stephen Griffies,NULL,NULL,NULL,NULL,NULL
+8075,5,1,9,CA,1084,Alex Hall,209,University of California Los Angeles,USA,NULL,NULL
+8081,5,1,9,CA,5404,Sandy Harrison,368,Macquarie University,Australia,NULL,NULL
+10139,5,1,9,CA,5405,Andeas Hense,36,N/A,Germany,NULL,NULL
+8114,5,1,9,CA,1274,Elizabeth Hunke,703,Los Alamos National Laboratory,USA,NULL,NULL
+8123,5,1,9,CA,5406,Tatiana Ilyina,NULL,NULL,NULL,NULL,NULL
+8129,5,1,9,CA,5407,Detelina Ivanova,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+10254,5,1,9,CA,5111,Gregory C. Johnson,113,N/A,USA,NULL,NULL
+8161,5,1,9,CA,1405,Masa Kageyama,NULL,NULL,NULL,NULL,NULL
+8182,5,1,9,CA,1479,Viatcheslar Kharin,164,Environment Canada,Canada,NULL,NULL
+8193,5,1,9,CA,1524,Stephen A. Klein,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+8200,5,1,9,CA,5408,Jeff Knight,NULL,NULL,NULL,NULL,NULL
+8206,5,1,9,CA,1535,Reto Knutti,136,ETH Zurich,Switzerland,NULL,NULL
+8235,5,1,9,CA,5409,Felix Landerer,NULL,NULL,NULL,NULL,NULL
+8248,5,1,9,CA,5410,Tong Lee,NULL,NULL,NULL,NULL,NULL
+9725,5,1,9,CA,5411,Hongmei Li,NULL,NULL,NULL,NULL,NULL
+8280,5,1,9,CA,5135,Natalie Mahowald,235,Cornell University,USA,NULL,NULL
+10255,5,1,9,CA,1923,Carl Mears,113,N/A,USA,NULL,NULL
+8309,5,1,9,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+10349,5,1,9,CA,5166,Colin Morice,117,N/A,United Kingdom,NULL,NULL
+8338,5,1,9,CA,5412,Rym Msadek,NULL,NULL,NULL,NULL,NULL
+8349,5,1,9,CA,2083,Gunnar Myhre,NULL,NULL,NULL,NULL,NULL
+8357,5,1,9,CA,2107,J. David Neelin,209,University of California Los Angeles,USA,NULL,NULL
+8384,5,1,9,CA,5413,Jeff Painter,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+8388,5,1,9,CA,2278,Tatiana Pavlova,222,Voeikov Main Geophysical Observatory,Russian Federation,NULL,NULL
+8393,5,1,9,CA,5414,Judith Perlwitz,NULL,NULL,NULL,NULL,NULL
+8399,5,1,9,CA,5415,Jean-Yves Peterschmitt,NULL,NULL,NULL,NULL,NULL
+8433,5,1,9,CA,2422,Jouni Raisanen,274,University of Helsinki,Finland,NULL,NULL
+8443,5,1,9,CA,5416,Florian Rauser,NULL,NULL,NULL,NULL,NULL
+8451,5,1,9,CA,5417,Jeffrey Reid,NULL,NULL,NULL,NULL,NULL
+8475,5,1,9,CA,5418,Mark Rodwell,NULL,NULL,NULL,NULL,NULL
+10256,5,1,9,CA,2611,Benjamin D. Santer,113,N/A,USA,NULL,NULL
+8500,5,1,9,CA,5419,Adam A. Scaife,NULL,NULL,NULL,NULL,NULL
+8506,5,1,9,CA,5420,Jörg Schulz,NULL,NULL,NULL,NULL,NULL
+8510,5,1,9,CA,2690,John Scinocca,164,Environment Canada,Canada,NULL,NULL
+8521,5,1,9,CA,2717,David Sexton,NULL,NULL,NULL,NULL,NULL
+8532,5,1,9,CA,5283,Drew Shindell,NULL,NULL,NULL,NULL,NULL
+8538,5,1,9,CA,5421,Hideo Shiogama,129,National Institute for Environmental Studies,Japan,NULL,NULL
+8540,5,1,9,CA,5422,Jana Sillmann,164,Environment Canada,Canada,NULL,NULL
+8542,5,1,9,CA,2771,Adrian Simmons,NULL,NULL,NULL,NULL,NULL
+8556,5,1,9,CA,5423,Kenneth Sperber,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+10350,5,1,9,CA,5126,David B. Stephenson,117,N/A,United Kingdom,NULL,NULL
+8565,5,1,9,CA,5145,Bjorn Stevens,NULL,NULL,NULL,NULL,NULL
+10351,5,1,9,CA,2889,Peter A. Stott,117,N/A,United Kingdom,NULL,NULL
+8581,5,1,9,CA,5146,Rowan Sutton,204,University of Reading,United Kingdom,NULL,NULL
+8602,5,1,9,CA,2992,Peter Thorne,682,Nansen Environmental and Remote Sensing Center,Norway,NULL,NULL
+8621,5,1,9,CA,5424,Geert Jan van Oldenborgh,NULL,NULL,NULL,NULL,NULL
+8630,5,1,9,CA,5425,Gabriel Vecchi,NULL,NULL,NULL,NULL,NULL
+8655,5,1,9,CA,3186,Mark Webb,NULL,NULL,NULL,NULL,NULL
+8665,5,1,9,CA,5426,Keith Williams,NULL,NULL,NULL,NULL,NULL
+8672,5,1,9,CA,5427,Tim Woollings,204,University of Reading,United Kingdom,NULL,NULL
+8682,5,1,9,CA,3289,Shang-Ping Xie,NULL,NULL,NULL,NULL,NULL
+8702,5,1,9,CA,5428,Jianglong Zhang,826,University of North Dakota,USA,NULL,NULL
+7832,5,1,10,CLA,262,Nathaniel L. Bindoff,163,University of Tasmania,Australia,NULL,NULL
+8573,5,1,10,CLA,2889,Peter A. Stott,NULL,NULL,NULL,NULL,NULL
+7780,5,1,10,LA,5429,Krishna Mirle AchutaRao,150,Indian Institute of Technology,India,NULL,NULL
+7789,5,1,10,LA,67,Myles R. Allen,153,University of Oxford,United Kingdom,NULL,NULL
+8033,5,1,10,LA,968,Nathan P. Gillett,164,Environment Canada,Canada,NULL,NULL
+8069,5,1,10,LA,5430,David Gutzler,208,University of New Mexico,USA,NULL,NULL
+8078,5,1,10,LA,5431,Kabumbwe Hansingo,210,University of Zambia,Zambia,NULL,NULL
+10140,5,1,10,LA,1156,Gabriele C. Hegerl,36,N/A,Germany,NULL,NULL
+8110,5,1,10,LA,5432,Yongyun Hu,140,Peking University,China,NULL,NULL
+8135,5,1,10,LA,5433,Suman Jain,210,University of Zambia,Zambia,NULL,NULL
+8329,5,1,10,LA,2007,Igor Mokhov,139,A.M. Obukhov Institute of Atmospheric Physics,Russian Federation,NULL,NULL
+8383,5,1,10,LA,5276,James Overland,NULL,NULL,NULL,NULL,NULL
+8394,5,1,10,LA,5414,Judith Perlwitz,NULL,NULL,NULL,NULL,NULL
+8513,5,1,10,LA,5434,Rachid Sebbari,NULL,NULL,NULL,NULL,NULL
+8706,5,1,10,LA,3359,Xuebin Zhang,164,Environment Canada,Canada,NULL,NULL
+7821,5,1,10,RE,5462,Judit Bartholy,161,Eotvos Lorand University,Hungary,NULL,NULL
+8628,5,1,10,RE,5463,Robert Vautard,NULL,NULL,NULL,NULL,NULL
+8687,5,1,10,RE,3317,Tetsuzo Yasunari,282,Nagoya University,Japan,NULL,NULL
+7784,5,1,10,CA,5435,Magne Aldrin,NULL,NULL,NULL,NULL,NULL
+7825,5,1,10,CA,5244,Jürg Beer,NULL,NULL,NULL,NULL,NULL
+7848,5,1,10,CA,310,Olivier Boucher,NULL,NULL,NULL,NULL,NULL
+7855,5,1,10,CA,323,Pascale Braconnot,NULL,NULL,NULL,NULL,NULL
+7867,5,1,10,CA,5437,Oliver Browne,211,University of Edinburgh,United Kingdom,NULL,NULL
+7889,5,1,10,CA,5401,Ping Chang,409,Texas A&M University,USA,NULL,NULL
+7902,5,1,10,CA,5438,Nikolaos Christidis,NULL,NULL,NULL,NULL,NULL
+9693,5,1,10,CA,5447,Viviane Vasconcellos de Menezes,163,University of Tasmania,Australia,NULL,NULL
+7945,5,1,10,CA,5439,Tim DelSole,224,George Mason University,USA,NULL,NULL
+9698,5,1,10,CA,5189,Catia M. Domingues,154,Antarctic Climate and Ecosystems Cooperative Research Centre,Australia,NULL,NULL
+9701,5,1,10,CA,5191,Paul J. Durack,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+7965,5,1,10,CA,5440,Alexey Eliseev,NULL,NULL,NULL,NULL,NULL
+7966,5,1,10,CA,782,Kerry Emanuel,320,Massachusetts Institute of Technology,USA,NULL,NULL
+7984,5,1,10,CA,5353,Graham Feingold,NULL,NULL,NULL,NULL,NULL
+10257,5,1,10,CA,863,Chris E. Forest,113,N/A,USA,NULL,NULL
+8047,5,1,10,CA,998,Hugues Goosse,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8053,5,1,10,CA,5441,Lesley Gray,153,University of Oxford,United Kingdom,NULL,NULL
+10352,5,1,10,CA,1024,Jonathan M. Gregory,117,N/A,United Kingdom,NULL,NULL
+8091,5,1,10,CA,1168,Isaac Held,NULL,NULL,NULL,NULL,NULL
+8100,5,1,10,CA,1219,Greg Holland,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8126,5,1,10,CA,1295,William Ingram,153,University of Oxford,United Kingdom,NULL,NULL
+8159,5,1,10,CA,1400,Johann H. Jungclaus,NULL,NULL,NULL,NULL,NULL
+8170,5,1,10,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,NULL,NULL
+8181,5,1,10,CA,5354,Veli-Matti Kerminen,223,Finnish Meteorological Institute,Finland,NULL,NULL
+8202,5,1,10,CA,1534,Thomas Knutson,NULL,NULL,NULL,NULL,NULL
+8207,5,1,10,CA,1535,Reto Knutti,136,ETH Zurich,Switzerland,NULL,NULL
+10258,5,1,10,CA,5163,James Kossin,113,N/A,USA,NULL,NULL
+8264,5,1,10,CA,5443,Mike Lockwood,204,University of Reading,United Kingdom,NULL,NULL
+8266,5,1,10,CA,1761,Ulrike Lohmann,136,ETH Zurich,Switzerland,NULL,NULL
+8269,5,1,10,CA,5444,Fraser Lott,NULL,NULL,NULL,NULL,NULL
+9726,5,1,10,CA,5445,Jian Lu,224,George Mason University,USA,NULL,NULL
+8276,5,1,10,CA,5446,Irina Mahlstein,NULL,NULL,NULL,NULL,NULL
+8296,5,1,10,CA,1866,Valerie Masson-Delmotte,NULL,NULL,NULL,NULL,NULL
+10112,5,1,10,CA,1879,H. Damon Matthews,20,N/A,Canada,NULL,NULL
+8310,5,1,10,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8317,5,1,10,CA,5379,Blanca Mendoza,NULL,NULL,NULL,NULL,NULL
+8325,5,1,10,CA,5448,Seung-Ki Min,NULL,NULL,NULL,NULL,NULL
+8326,5,1,10,CA,5449,Daniel Mitchell,153,University of Oxford,United Kingdom,NULL,NULL
+9729,5,1,10,CA,5450,Thomas Mölg,NULL,NULL,NULL,NULL,NULL
+8334,5,1,10,CA,5451,Simone Morak,204,University of Reading,United Kingdom,NULL,NULL
+8375,5,1,10,CA,2220,Timothy Osborn,231,University of East Anglia,United Kingdom,NULL,NULL
+8378,5,1,10,CA,5452,Alexander Otto,153,University of Oxford,United Kingdom,NULL,NULL
+8379,5,1,10,CA,5453,Friederike Otto,153,University of Oxford,United Kingdom,NULL,NULL
+8407,5,1,10,CA,2332,David Pierce,NULL,NULL,NULL,NULL,NULL
+8415,5,1,10,CA,5454,Debbie Polson,211,University of Edinburgh,United Kingdom,NULL,NULL
+8124,5,1,10,CA,5442,Jara Imbers Quintana,153,University of Oxford,United Kingdom,NULL,NULL
+8458,5,1,10,CA,5455,Aurélien Ribes,249,Météo-France,France,NULL,NULL
+9739,5,1,10,CA,5456,Joeri Rogelj,136,ETH Zurich,Switzerland,NULL,NULL
+8040,5,1,10,CA,5245,Jesus Fidel González Rouco,202,Universidad Complutense de Madrid,Spain,NULL,NULL
+9685,5,1,10,CA,5436,Beena Balan Sarojini,204,University of Reading,United Kingdom,NULL,NULL
+8508,5,1,10,CA,5457,Andrew Schurer,211,University of Edinburgh,United Kingdom,NULL,NULL
+8520,5,1,10,CA,5458,Vladimir Semenov,NULL,NULL,NULL,NULL,NULL
+8533,5,1,10,CA,5283,Drew Shindell,NULL,NULL,NULL,NULL,NULL
+8545,5,1,10,CA,5459,Dmitry Smirnov,NULL,NULL,NULL,NULL,NULL
+8603,5,1,10,CA,2992,Peter Thorne,682,Nansen Environmental and Remote Sensing Center,Norway,NULL,NULL
+8649,5,1,10,CA,5460,Muyin Wang,NULL,NULL,NULL,NULL,NULL
+8662,5,1,10,CA,3228,Martin Wild,136,ETH Zurich,Switzerland,NULL,NULL
+8704,5,1,10,CA,5461,Rong Zhang,NULL,NULL,NULL,NULL,NULL
+8188,5,1,11,CLA,1514,Ben Kirtman,135,University of Miami,USA,NULL,NULL
+8419,5,1,11,CLA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,NULL,NULL
+7781,5,1,11,LA,5464,Akintayo John Adedoyin,151,University of Botswana,Botswana,NULL,NULL
+7839,5,1,11,LA,283,George J. Boer,164,Environment Canada,Canada,NULL,NULL
+7840,5,1,11,LA,289,Roxana Bojariu,671,National Meteorological Administration,Romania,NULL,NULL
+7874,5,1,11,LA,421,Inés Camilloni,170,Universidad de Buenos Aires,Argentina,NULL,NULL
+7952,5,1,11,LA,5402,Francisco Doblas-Reyes,NULL,NULL,NULL,NULL,NULL
+7993,5,1,11,LA,5465,Arlene M. Fiore,NULL,NULL,NULL,NULL,NULL
+8186,5,1,11,LA,1497,Masahide Kimoto,148,University of Tokyo,Japan,NULL,NULL
+8311,5,1,11,LA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8423,5,1,11,LA,2383,Michael Prather,251,University of California Irvine,USA,NULL,NULL
+8496,5,1,11,LA,2617,Abdoulaye Sarr,NULL,NULL,NULL,NULL,NULL
+8501,5,1,11,LA,2643,Christoph Schar,136,ETH Zurich,Switzerland,NULL,NULL
+8582,5,1,11,LA,5146,Rowan Sutton,204,University of Reading,United Kingdom,NULL,NULL
+8622,5,1,11,LA,5424,Geert Jan van Oldenborgh,NULL,NULL,NULL,NULL,NULL
+8631,5,1,11,LA,5425,Gabriel Vecchi,NULL,NULL,NULL,NULL,NULL
+8647,5,1,11,LA,5466,Hui-Jun Wang,NULL,NULL,NULL,NULL,NULL
+7943,5,1,11,RE,647,Pascale Delecluse,249,Météo-France,France,NULL,NULL
+8385,5,1,11,RE,5482,Tim Palmer,153,University of Oxford,United Kingdom,NULL,NULL
+8526,5,1,11,RE,2744,Theodore G. Shepherd,204,University of Reading,United Kingdom,NULL,NULL
+8714,5,1,11,RE,3385,Francis W. Zwiers,277,University of Victoria,Canada,NULL,NULL
+7833,5,1,11,CA,262,Nathaniel L. Bindoff,163,University of Tasmania,Australia,NULL,NULL
+9689,5,1,11,CA,5467,Philip Cameron-Smith,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+9692,5,1,11,CA,5468,Yoshimitsu Chikamoto,237,University of Hawaii,USA,NULL,NULL
+7913,5,1,11,CA,5469,Olivia Clifton,185,Columbia University,USA,NULL,NULL
+7924,5,1,11,CA,5470,Susanna Corti,193,Institute of Atmospheric Sciences and Climate,Italy,NULL,NULL
+9702,5,1,11,CA,5191,Paul J. Durack,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+7987,5,1,11,CA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8023,5,1,11,CA,5471,Javier García-Serrano,NULL,NULL,NULL,NULL,NULL
+8037,5,1,11,CA,971,Paul Ginoux,NULL,NULL,NULL,NULL,NULL
+8054,5,1,11,CA,5441,Lesley Gray,153,University of Oxford,United Kingdom,NULL,NULL
+9708,5,1,11,CA,5472,Virginie Guemas,NULL,NULL,NULL,NULL,NULL
+8085,5,1,11,CA,5473,Ed Hawkins,204,University of Reading,United Kingdom,NULL,NULL
+10259,5,1,11,CA,1223,Marika M. Holland,113,N/A,USA,NULL,NULL
+8103,5,1,11,CA,5474,Christopher Holmes,251,University of California Irvine,USA,NULL,NULL
+8125,5,1,11,CA,5475,Johnna Infanti,135,University of Miami,USA,NULL,NULL
+8128,5,1,11,CA,1304,Masayoshi Ishii,225,Meteorological Research Institute,Japan,NULL,NULL
+8131,5,1,11,CA,1315,Daniel Jacob,215,Harvard University,USA,NULL,NULL
+8142,5,1,11,CA,5476,Jasmin John,NULL,NULL,NULL,NULL,NULL
+9721,5,1,11,CA,5477,Zbigniew Klimont,NULL,NULL,NULL,NULL,NULL
+8203,5,1,11,CA,1534,Thomas Knutson,NULL,NULL,NULL,NULL,NULL
+8222,5,1,11,CA,5267,Gerhard Krinner,NULL,NULL,NULL,NULL,NULL
+10260,5,1,11,CA,1652,David M. Lawrence,113,N/A,USA,NULL,NULL
+9727,5,1,11,CA,5445,Jian Lu,224,George Mason University,USA,NULL,NULL
+8343,5,1,11,CA,5478,Daniel Murphy,NULL,NULL,NULL,NULL,NULL
+9732,5,1,11,CA,5479,Vaishali Naik,NULL,NULL,NULL,NULL,NULL
+8472,5,1,11,CA,2521,Alan Robock,258,Rutgers University,USA,NULL,NULL
+10098,5,1,11,CA,5480,Luis Rodrigues,16,N/A,Brazil,NULL,NULL
+8515,5,1,11,CA,5281,Jan Sedláček,136,ETH Zurich,Switzerland,NULL,NULL
+9745,5,1,11,CA,2792,Andrew G. Slater,687,National Snow and Ice Data Center,USA,NULL,NULL
+8547,5,1,11,CA,2802,Doug M. Smith,NULL,NULL,NULL,NULL,NULL
+8566,5,1,11,CA,2875,David S. Stevenson,211,University of Edinburgh,United Kingdom,NULL,NULL
+8618,5,1,11,CA,5128,Bart van den Hurk,NULL,NULL,NULL,NULL,NULL
+8620,5,1,11,CA,3074,Twan van Noije,NULL,NULL,NULL,NULL,NULL
+8629,5,1,11,CA,5481,Steve Vavrus,731,University of Wisconsin,USA,NULL,NULL
+9752,5,1,11,CA,5349,Apostolos Voulgarakis,697,Imperial College London,United Kingdom,NULL,NULL
+9753,5,1,11,CA,3195,Antje Weisheimer,153,University of Oxford,United Kingdom,NULL,NULL
+8664,5,1,11,CA,3229,Oliver Wild,NULL,NULL,NULL,NULL,NULL
+8673,5,1,11,CA,5427,Tim Woollings,204,University of Reading,United Kingdom,NULL,NULL
+8694,5,1,11,CA,5390,Paul Young,NULL,NULL,NULL,NULL,NULL
+7915,5,1,12,CLA,546,Matthew Collins,131,University of Exeter,United Kingdom,NULL,NULL
+8208,5,1,12,CLA,1535,Reto Knutti,136,ETH Zurich,Switzerland,NULL,NULL
+7806,5,1,12,LA,118,Julie Arblaster,250,Bureau of Meteorology,Australia,NULL,NULL
+7960,5,1,12,LA,737,Jean-Louis Dufresne,NULL,NULL,NULL,NULL,NULL
+7988,5,1,12,LA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,NULL,NULL
+9704,5,1,12,LA,892,Pierre Friedlingstein,131,University of Exeter,United Kingdom,NULL,NULL
+8022,5,1,12,LA,927,Xuejie Gao,NULL,NULL,NULL,NULL,NULL
+10261,5,1,12,LA,1064,William Gutowski,113,N/A,USA,NULL,NULL
+8143,5,1,12,LA,1365,Tim Johns,NULL,NULL,NULL,NULL,NULL
+9722,5,1,12,LA,5267,Gerhard Krinner,NULL,NULL,NULL,NULL,NULL
+8539,5,1,12,LA,5483,Mxolisi Shongwe,262,South African Weather Service,South Africa,NULL,NULL
+8599,5,1,12,LA,2968,Claudia Tebaldi,NULL,NULL,NULL,NULL,NULL
+8654,5,1,12,LA,3182,Andrew J. Weaver,277,University of Victoria,Canada,NULL,NULL
+8657,5,1,12,LA,5484,Michael Wehner,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+8155,5,1,12,RE,1391,Sylvie Joussaume,NULL,NULL,NULL,NULL,NULL
+8332,5,1,12,RE,2008,Abdalah Mokssit,NULL,NULL,NULL,NULL,NULL
+8598,5,1,12,RE,2965,Karl E. Taylor,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+8600,5,1,12,RE,2977,Simon Tett,211,University of Edinburgh,United Kingdom,NULL,NULL
+7790,5,1,12,CA,67,Myles R. Allen,153,University of Oxford,United Kingdom,NULL,NULL
+10353,5,1,12,CA,5092,Timothy Andrews,117,N/A,United Kingdom,NULL,NULL
+7829,5,1,12,CA,5485,Urs Beyerle,136,ETH Zurich,Switzerland,NULL,NULL
+7837,5,1,12,CA,269,Cecilia M. Bitz,132,University of Washington,USA,NULL,NULL
+7843,5,1,12,CA,300,Sandrine Bony,NULL,NULL,NULL,NULL,NULL
+7844,5,1,12,CA,5486,Ben B.B. Booth,NULL,NULL,NULL,NULL,NULL
+7863,5,1,12,CA,356,Harold E. Brooks,NULL,NULL,NULL,NULL,NULL
+7864,5,1,12,CA,360,Victor Brovkin,NULL,NULL,NULL,NULL,NULL
+7868,5,1,12,CA,5437,Oliver Browne,211,University of Edinburgh,United Kingdom,NULL,NULL
+7870,5,1,12,CA,5487,Claire Brutel-Vuilmet,NULL,NULL,NULL,NULL,NULL
+7877,5,1,12,CA,5488,Mark Cane,185,Columbia University,USA,NULL,NULL
+7883,5,1,12,CA,5489,Robin Chadwick,NULL,NULL,NULL,NULL,NULL
+10262,5,1,12,CA,556,Edward Cook,113,N/A,USA,NULL,NULL
+7922,5,1,12,CA,5490,Kerry H. Cook,1132,University of Texas,USA,NULL,NULL
+7963,5,1,12,CA,757,Michael Eby,277,University of Victoria,Canada,NULL,NULL
+7979,5,1,12,CA,815,John Fasullo,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+7995,5,1,12,CA,5105,Erich M. Fischer,136,ETH Zurich,Switzerland,NULL,NULL
+8002,5,1,12,CA,863,Chris E. Forest,195,Pennsylvania State University,USA,NULL,NULL
+8006,5,1,12,CA,864,Piers Forster,130,University of Leeds,United Kingdom,NULL,NULL
+8043,5,1,12,CA,5491,Peter Good,NULL,NULL,NULL,NULL,NULL
+8048,5,1,12,CA,998,Hugues Goosse,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8055,5,1,12,CA,1024,Jonathan M. Gregory,NULL,NULL,NULL,NULL,NULL
+9709,5,1,12,CA,1156,Gabriele C. Hegerl,211,University of Edinburgh,United Kingdom,NULL,NULL
+9710,5,1,12,CA,5492,Paul J. Hezel,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8096,5,1,12,CA,1205,Kevin Hodges,204,University of Reading,United Kingdom,NULL,NULL
+8101,5,1,12,CA,1223,Marika M. Holland,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8113,5,1,12,CA,5493,Markus Huber,136,ETH Zurich,Switzerland,NULL,NULL
+8120,5,1,12,CA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,NULL,NULL
+8153,5,1,12,CA,5494,Manoj Joshi,231,University of East Anglia,United Kingdom,NULL,NULL
+8183,5,1,12,CA,1479,Viatcheslar Kharin,164,Environment Canada,Canada,NULL,NULL
+8227,5,1,12,CA,1603,Yochanan Kushnir,185,Columbia University,USA,NULL,NULL
+8240,5,1,12,CA,1652,David M. Lawrence,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8247,5,1,12,CA,5495,Robert W. Lee,204,University of Reading,United Kingdom,NULL,NULL
+8260,5,1,12,CA,5496,Spencer Liddicoat,NULL,NULL,NULL,NULL,NULL
+8270,5,1,12,CA,5497,Christopher Lucas,250,Bureau of Meteorology,Australia,NULL,NULL
+8271,5,1,12,CA,1779,Wolfgang Lucht,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8286,5,1,12,CA,5392,Jochem Marotzke,NULL,NULL,NULL,NULL,NULL
+8299,5,1,12,CA,5498,François Massonnet,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8301,5,1,12,CA,1879,H. Damon Matthews,494,Concordia University,Canada,NULL,NULL
+8314,5,1,12,CA,1930,Malte Meinshausen,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10354,5,1,12,CA,5166,Colin Morice,117,N/A,United Kingdom,NULL,NULL
+9734,5,1,12,CA,5452,Alexander Otto,153,University of Oxford,United Kingdom,NULL,NULL
+8387,5,1,12,CA,5499,Christina M. Patricola,409,Texas A&M University,USA,NULL,NULL
+8403,5,1,12,CA,5500,Gwenaëlle Philippon-Berthier,NULL,NULL,NULL,NULL,NULL
+10263,5,1,12,CA,5501,NULL,113,N/A,USA,NULL,NULL
+8432,5,1,12,CA,2421,Stefan Rahmstorf,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8464,5,1,12,CA,5502,William J. Riley,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+9740,5,1,12,CA,5456,Joeri Rogelj,136,ETH Zurich,Switzerland,NULL,NULL
+8493,5,1,12,CA,5503,Oleg Saenko,164,Environment Canada,Canada,NULL,NULL
+8512,5,1,12,CA,5504,Richard Seager,185,Columbia University,USA,NULL,NULL
+8516,5,1,12,CA,5281,Jan Sedláček,136,ETH Zurich,Switzerland,NULL,NULL
+8522,5,1,12,CA,5505,Len C. Shaffrey,204,University of Reading,United Kingdom,NULL,NULL
+8534,5,1,12,CA,5283,Drew Shindell,NULL,NULL,NULL,NULL,NULL
+8541,5,1,12,CA,5422,Jana Sillmann,164,Environment Canada,Canada,NULL,NULL
+9746,5,1,12,CA,2792,Andrew G. Slater,687,National Snow and Ice Data Center,USA,NULL,NULL
+9748,5,1,12,CA,5145,Bjorn Stevens,NULL,NULL,NULL,NULL,NULL
+8574,5,1,12,CA,2889,Peter A. Stott,NULL,NULL,NULL,NULL,NULL
+8656,5,1,12,CA,5506,Robert Webb,NULL,NULL,NULL,NULL,NULL
+9754,5,1,12,CA,5507,Giuseppe Zappa,204,University of Reading,United Kingdom,NULL,NULL
+9756,5,1,12,CA,3547,Kirsten Zickfeld,787,Simon Fraser University,Canada,NULL,NULL
+7903,5,1,13,CLA,510,John A. Church,NULL,NULL,NULL,NULL,NULL
+7909,5,1,13,CLA,5100,Peter U. Clark,180,Oregon State University,USA,NULL,NULL
+7882,5,1,13,LA,458,Anny Cazenave,NULL,NULL,NULL,NULL,NULL
+8056,5,1,13,LA,1024,Jonathan M. Gregory,NULL,NULL,NULL,NULL,NULL
+8141,5,1,13,LA,5508,Svetlana Jevrejeva,219,National Oceanography Centre,United Kingdom,NULL,NULL
+8258,5,1,13,LA,1704,Anders Levermann,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8322,5,1,13,LA,5509,Mark A. Merrifield,237,University of Hawaii,USA,NULL,NULL
+8324,5,1,13,LA,5510,Glenn A. Milne,238,University of Ottawa,Canada,NULL,NULL
+8359,5,1,13,LA,2114,R. Steven Nerem,NULL,NULL,NULL,NULL,NULL
+8366,5,1,13,LA,2151,Patrick D. Nunn,244,University of New England,Australia,NULL,NULL
+8389,5,1,13,LA,2280,Antony J. Payne,160,University of Bristol,United Kingdom,NULL,NULL
+8557,5,1,13,LA,2857,Detlef Stammer,264,University of Hamburg,Germany,NULL,NULL
+8402,5,1,13,LA,5237,W. Tad Pfeffer,NULL,NULL,NULL,NULL,NULL
+8612,5,1,13,LA,3053,Alakkat S. Unnikrishnan,272,National Institute of Oceanography,India,NULL,NULL
+8157,5,1,13,RE,1392,Jean Jouzel,NULL,NULL,NULL,NULL,NULL
+8615,5,1,13,RE,3067,Roderik Van de Wal,NULL,NULL,NULL,NULL,NULL
+8671,5,1,13,RE,3270,Philip L. Woodworth,219,National Oceanography Centre,United Kingdom,NULL,NULL
+8681,5,1,13,RE,5542,Cunde Xiao,NULL,NULL,NULL,NULL,NULL
+10264,5,1,13,CA,5093,David B. Bahr,113,N/A,USA,NULL,NULL
+9687,5,1,13,CA,318,Jason E. Box,NULL,NULL,NULL,NULL,NULL
+7861,5,1,13,CA,353,David H. Bromwich,168,Ohio State University,USA,NULL,NULL
+7880,5,1,13,CA,5511,Mark Carson,264,University of Hamburg,Germany,NULL,NULL
+7775,5,1,13,CA,548,Williams J. Collins,204,University of Reading,United Kingdom,NULL,NULL
+7985,5,1,13,CA,5512,Xavier Fettweis,NULL,NULL,NULL,NULL,NULL
+8007,5,1,13,CA,864,Piers Forster,130,University of Leeds,United Kingdom,NULL,NULL
+10265,5,1,13,CA,5106,Alex S. Gardner,113,N/A,USA,NULL,NULL
+8031,5,1,13,CA,5514,Rianne Giesen,NULL,NULL,NULL,NULL,NULL
+8038,5,1,13,CA,982,Peter Gleckler,201,Lawrence Livermore National Laboratory,USA,NULL,NULL
+8044,5,1,13,CA,5491,Peter Good,NULL,NULL,NULL,NULL,NULL
+10210,5,1,13,CA,5515,Rune Grand Graversen,101,N/A,Sweden,NULL,NULL
+8059,5,1,13,CA,5516,Ralf Greve,156,Hokkaido University,Japan,NULL,NULL
+8061,5,1,13,CA,1029,Stephen Griffies,NULL,NULL,NULL,NULL,NULL
+8077,5,1,13,CA,5517,Edward Hanna,1262,University of Sheffield,United Kingdom,NULL,NULL
+8093,5,1,13,CA,5194,Mark Hemer,NULL,NULL,NULL,NULL,NULL
+8095,5,1,13,CA,1204,Regine Hock,NULL,NULL,NULL,NULL,NULL
+8098,5,1,13,CA,5518,Simon J. Holgate,NULL,NULL,NULL,NULL,NULL
+10075,5,1,13,CA,5519,John Hunter,6,N/A,Australia,NULL,NULL
+8121,5,1,13,CA,1283,Philippe Huybrechts,214,Vrije Universiteit Brussel,Belgium,NULL,NULL
+10266,5,1,13,CA,5111,Gregory C. Johnson,113,N/A,USA,NULL,NULL
+8154,5,1,13,CA,1390,Ian Joughin,132,University of Washington,USA,NULL,NULL
+8171,5,1,13,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,NULL,NULL
+8174,5,1,13,CA,5520,Caroline Katsman,NULL,NULL,NULL,NULL,NULL
+8214,5,1,13,CA,5521,Leonard Konikow,312,U.S. Geological Survey,USA,NULL,NULL
+8223,5,1,13,CA,5267,Gerhard Krinner,NULL,NULL,NULL,NULL,NULL
+8241,5,1,13,CA,1657,Anne Le Brocq,131,University of Exeter,United Kingdom,NULL,NULL
+8252,5,1,13,CA,5522,Jan Lenaerts,NULL,NULL,NULL,NULL,NULL
+8261,5,1,13,CA,5523,Stefan Ligtenberg,NULL,NULL,NULL,NULL,NULL
+8263,5,1,13,CA,5524,Christopher M. Little,428,Princeton University,USA,NULL,NULL
+8292,5,1,13,CA,5233,Ben Marzeion,221,University of Innsbruck,Austria,NULL,NULL
+8305,5,1,13,CA,1911,Kathleen McInnes,NULL,NULL,NULL,NULL,NULL
+8321,5,1,13,CA,5525,Sebastian H. Mernild,703,Los Alamos National Laboratory,USA,NULL,NULL
+8333,5,1,13,CA,5526,Didier Monselesan,NULL,NULL,NULL,NULL,NULL
+8337,5,1,13,CA,5527,Ruth Mottram,179,Danish Meteorological Institute,Denmark,NULL,NULL
+8345,5,1,13,CA,5223,Tavi Murray,240,Swansea University,United Kingdom,NULL,NULL
+8350,5,1,13,CA,2083,Gunnar Myhre,NULL,NULL,NULL,NULL,NULL
+8360,5,1,13,CA,5528,J.P. Nicholas,168,Ohio State University,USA,NULL,NULL
+8361,5,1,13,CA,5529,Faezeh Nick,NULL,NULL,NULL,NULL,NULL
+8396,5,1,13,CA,5530,Mahé Perrette,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8414,5,1,13,CA,5531,David Pollard,195,Pennsylvania State University,USA,NULL,NULL
+10113,5,1,13,CA,5238,Valentina Radić,20,N/A,Canada,NULL,NULL
+8430,5,1,13,CA,5532,Jamie Rae,NULL,NULL,NULL,NULL,NULL
+8027,5,1,13,CA,5513,W. Roland Gehrels,NULL,NULL,NULL,NULL,NULL
+8485,5,1,13,CA,2569,Markku Rummukainen,260,Swedish Meteorological and Hydrological Institute,Sweden,NULL,NULL
+8505,5,1,13,CA,5533,Christian Schoof,326,University of British Columbia,Canada,NULL,NULL
+9744,5,1,13,CA,5534,Aimée Slangen,NULL,NULL,NULL,NULL,NULL
+8613,5,1,13,CA,5535,Jan H. van Angelen,NULL,NULL,NULL,NULL,NULL
+8614,5,1,13,CA,5536,Willem Jan van de Berg,NULL,NULL,NULL,NULL,NULL
+8617,5,1,13,CA,5227,Michiel van den Broeke,NULL,NULL,NULL,NULL,NULL
+8636,5,1,13,CA,5537,Miren Vizcaíno,887,Delft University of Technology,Netherlands,NULL,NULL
+8639,5,1,13,CA,5538,Yoshihide Wada,NULL,NULL,NULL,NULL,NULL
+8658,5,1,13,CA,5539,Neil J. White,NULL,NULL,NULL,NULL,NULL
+8666,5,1,13,CA,5540,Ricarda Winkelmann,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8689,5,1,13,CA,5541,Jianjun Yin,430,University of Arizona,USA,NULL,NULL
+8692,5,1,13,CA,5289,Masakazu Yoshimori,148,University of Tokyo,Japan,NULL,NULL
+8711,5,1,13,CA,3547,Kirsten Zickfeld,787,Simon Fraser University,Canada,NULL,NULL
+7898,5,1,14,CLA,503,Jens Hesselbjerg Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+8162,5,1,14,CLA,5543,Krishna Kumar Kanikicharla,134,Indian Institute of Tropical Meteorology,India,NULL,NULL
+7783,5,1,14,LA,5544,Edvin Aldrian,NULL,NULL,NULL,NULL,NULL
+7796,5,1,14,LA,5545,Soon-Il An,155,Yonsei University,South Korea,NULL,NULL
+10099,5,1,14,LA,5546,Iracema Fonseca Albuquerque Cavalcanti,16,N/A,Brazil,NULL,NULL
+7936,5,1,14,LA,453,Manuel de Castro,NULL,NULL,NULL,NULL,NULL
+7956,5,1,14,LA,5547,Wenjie Dong,190,Beijing Normal University,China,NULL,NULL
+8049,5,1,14,LA,5548,Prashant Goswami,NULL,NULL,NULL,NULL,NULL
+8076,5,1,14,LA,1084,Alex Hall,209,University of California Los Angeles,USA,NULL,NULL
+8165,5,1,14,LA,5549,Joseph Katongo Kanyanga,220,Zambia Meteorological Department,Zambia,NULL,NULL
+8191,5,1,14,LA,1518,Akio Kitoh,366,University of Tsukuba,Japan,NULL,NULL
+10267,5,1,14,LA,5163,James Kossin,113,N/A,USA,NULL,NULL
+8237,5,1,14,LA,1647,Ngar-Cheung Lau,NULL,NULL,NULL,NULL,NULL
+8453,5,1,14,LA,2478,James A. Renwick,196,Victoria University of Wellington,New Zealand,NULL,NULL
+8563,5,1,14,LA,5126,David B. Stephenson,131,University of Exeter,United Kingdom,NULL,NULL
+8683,5,1,14,LA,3289,Shang-Ping Xie,NULL,NULL,NULL,NULL,NULL
+8710,5,1,14,LA,5550,Tianjun Zhou,NULL,NULL,NULL,NULL,NULL
+8019,5,1,14,RE,912,John Fyfe,164,Environment Canada,Canada,NULL,NULL
+8230,5,1,14,RE,1607,Won-Tae Kwon,229,National Institute of Meteorological Research,South Korea,NULL,NULL
+8609,5,1,14,RE,3022,Kevin E. Trenberth,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8676,5,1,14,RE,3274,David Wratt,280,National Institute of Water and Atmospheric Research,New Zealand,NULL,NULL
+7779,5,1,14,CA,5551,Libu Abraham,NULL,NULL,NULL,NULL,NULL
+7795,5,1,14,CA,5552,Tércio Ambrizzi,158,University of Sao Paulo,Brazil,NULL,NULL
+7799,5,1,14,CA,5553,Bruce Anderson,242,Boston University,USA,NULL,NULL
+7804,5,1,14,CA,5554,Osamu Arakawa,366,University of Tsukuba,Japan,NULL,NULL
+7810,5,1,14,CA,130,Raymond Arritt,207,Iowa State University,USA,NULL,NULL
+7816,5,1,14,CA,173,Mark P. Baldwin,131,University of Exeter,United Kingdom,NULL,NULL
+7819,5,1,14,CA,5555,Mathew Barlow,1009,University of Massachusetts,USA,NULL,NULL
+7820,5,1,14,CA,5556,David Barriopedro,202,Universidad Complutense de Madrid,Spain,NULL,NULL
+7830,5,1,14,CA,5557,Michela Biasutti,185,Columbia University,USA,NULL,NULL
+7836,5,1,14,CA,5558,Sébastien Biner,NULL,NULL,NULL,NULL,NULL
+10268,5,1,14,CA,353,David H. Bromwich,113,N/A,USA,NULL,NULL
+7865,5,1,14,CA,5559,Josephine Brown,250,Bureau of Meteorology,Australia,NULL,NULL
+7872,5,1,14,CA,408,Wenju Cai,NULL,NULL,NULL,NULL,NULL
+9690,5,1,14,CA,5560,Leila V. Carvalho,640,University of California Santa Barbara,USA,NULL,NULL
+7890,5,1,14,CA,5401,Ping Chang,409,Texas A&M University,USA,NULL,NULL
+9691,5,1,14,CA,5561,Xiaolong Chen,NULL,NULL,NULL,NULL,NULL
+7896,5,1,14,CA,5562,Jung Choi,708,Seoul National University,South Korea,NULL,NULL
+7901,5,1,14,CA,5563,Ole Bøssing Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+8474,5,1,14,CA,5588,Belén Rodriguez de Fonseca,202,Universidad Complutense de Madrid,Spain,NULL,NULL
+7947,5,1,14,CA,669,Clara Deser,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+7967,5,1,14,CA,782,Kerry Emanuel,320,Massachusetts Institute of Technology,USA,NULL,NULL
+7971,5,1,14,CA,5564,Hirokazu Endo,225,Meteorological Research Institute,Japan,NULL,NULL
+7972,5,1,14,CA,5565,David B. Enfield,135,University of Miami,USA,NULL,NULL
+7975,5,1,14,CA,5566,Amato Evan,NULL,NULL,NULL,NULL,NULL
+8030,5,1,14,CA,5567,Alessandra Giannini,185,Columbia University,USA,NULL,NULL
+8034,5,1,14,CA,968,Nathan P. Gillett,164,Environment Canada,Canada,NULL,NULL
+8080,5,1,14,CA,5568,Annamalai Hariharasubramanian,237,University of Hawaii,USA,NULL,NULL
+8112,5,1,14,CA,5569,Ping Huang,NULL,NULL,NULL,NULL,NULL
+8149,5,1,14,CA,1381,Julie Jones,1262,University of Sheffield,United Kingdom,NULL,NULL
+8169,5,1,14,CA,5570,Ashok Karumuri,134,Indian Institute of Tropical Meteorology,India,NULL,NULL
+8177,5,1,14,CA,5571,Jack Katzfey,NULL,NULL,NULL,NULL,NULL
+8192,5,1,14,CA,5572,Erik Kjellström,260,Swedish Meteorological and Hydrological Institute,Sweden,NULL,NULL
+8201,5,1,14,CA,5408,Jeff Knight,NULL,NULL,NULL,NULL,NULL
+8204,5,1,14,CA,1534,Thomas Knutson,NULL,NULL,NULL,NULL,NULL
+8225,5,1,14,CA,5573,Ashwini Kulkarni,134,Indian Institute of Tropical Meteorology,India,NULL,NULL
+8226,5,1,14,CA,5574,Koteswara Rao Kundeti,134,Indian Institute of Tropical Meteorology,India,NULL,NULL
+8238,5,1,14,CA,5575,William K. Lau,NULL,NULL,NULL,NULL,NULL
+8253,5,1,14,CA,5576,Geert Lenderink,NULL,NULL,NULL,NULL,NULL
+8254,5,1,14,CA,5577,Chris Lennard,149,University of Cape Town,South Africa,NULL,NULL
+8257,5,1,14,CA,1700,Lai-yung Ruby Leung,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+8262,5,1,14,CA,5578,Renping Lin,NULL,NULL,NULL,NULL,NULL
+8268,5,1,14,CA,5579,Teresa Losada,NULL,NULL,NULL,NULL,NULL
+8274,5,1,14,CA,5580,Neil C. Mackellar,149,University of Cape Town,South Africa,NULL,NULL
+8275,5,1,14,CA,1812,Victor Magana,NULL,NULL,NULL,NULL,NULL
+8289,5,1,14,CA,1854,Gareth Marshall,146,British Antarctic Survey,United Kingdom,NULL,NULL
+8307,5,1,14,CA,1922,Linda O. Mearns,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8312,5,1,14,CA,1927,Gerald A. Meehl,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+8318,5,1,14,CA,1941,Claudio Menendez,170,Universidad de Buenos Aires,Argentina,NULL,NULL
+9731,5,1,14,CA,5581,Hiroyuki Murakami,237,University of Hawaii,USA,NULL,NULL
+8356,5,1,14,CA,5582,Mary Jo Nath,NULL,NULL,NULL,NULL,NULL
+8358,5,1,14,CA,2107,J. David Neelin,209,University of California Los Angeles,USA,NULL,NULL
+8370,5,1,14,CA,5583,Martin Olesen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+8413,5,1,14,CA,5584,Jan Polcher,NULL,NULL,NULL,NULL,NULL
+8427,5,1,14,CA,5585,Yun Qian,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+8445,5,1,14,CA,5586,Suchanda Ray,NULL,NULL,NULL,NULL,NULL
+8450,5,1,14,CA,5587,Katharine Davis Reich,209,University of California Los Angeles,USA,NULL,NULL
+8489,5,1,14,CA,5589,Paolo Ruti,NULL,NULL,NULL,NULL,NULL
+8511,5,1,14,CA,5590,James Screen,131,University of Exeter,United Kingdom,NULL,NULL
+8517,5,1,14,CA,5281,Jan Sedláček,136,ETH Zurich,Switzerland,NULL,NULL
+8552,5,1,14,CA,2823,Silvina Solman,170,Universidad de Buenos Aires,Argentina,NULL,NULL
+8560,5,1,14,CA,2867,Martin Stendel,179,Danish Meteorological Institute,Denmark,NULL,NULL
+8567,5,1,14,CA,5591,Samantha Stevenson,237,University of Hawaii,USA,NULL,NULL
+8588,5,1,14,CA,5592,Izuru Takayabu,225,Meteorological Research Institute,Japan,NULL,NULL
+8610,5,1,14,CA,5593,John Turner,146,British Antarctic Survey,United Kingdom,NULL,NULL
+8611,5,1,14,CA,5594,Caroline Ummenhofer,461,Woods Hole Oceanographic Institution,USA,NULL,NULL
+8623,5,1,14,CA,5424,Geert Jan van Oldenborgh,NULL,NULL,NULL,NULL,NULL
+8643,5,1,14,CA,3142,Kevin Walsh,300,University of Melbourne,Australia,NULL,NULL
+8644,5,1,14,CA,3150,Bin Wang,237,University of Hawaii,USA,NULL,NULL
+8645,5,1,14,CA,5595,Chunzai Wang,NULL,NULL,NULL,NULL,NULL
+8653,5,1,14,CA,3180,Ian G. Watterson,NULL,NULL,NULL,NULL,NULL
+8659,5,1,14,CA,5596,Matthew Widlansky,237,University of Hawaii,USA,NULL,NULL
+8669,5,1,14,CA,5597,Andrew Wittenberg,NULL,NULL,NULL,NULL,NULL
+8674,5,1,14,CA,5427,Tim Woollings,204,University of Reading,United Kingdom,NULL,NULL
+8688,5,1,14,CA,5598,Sang-Wook Yeh,NULL,NULL,NULL,NULL,NULL
+8700,5,1,14,CA,5599,Chidong Zhang,135,University of Miami,USA,NULL,NULL
+8703,5,1,14,CA,5600,Lixia Zhang,NULL,NULL,NULL,NULL,NULL
+8709,5,1,14,CA,5601,Xiaotong Zheng,NULL,NULL,NULL,NULL,NULL
+8712,5,1,14,CA,5602,Liwei Zou,NULL,NULL,NULL,NULL,NULL
+8412,5,1,TS,CLA,2354,Gian-Kasper Plattner,NULL,NULL,NULL,NULL,NULL
+10124,5,1,TS,CLA,2405,Dahe Qin,23,N/A,China,NULL,NULL
+8571,5,1,TS,CLA,2880,Thomas F. Stocker,NULL,NULL,NULL,NULL,NULL
+7787,5,1,TS,LA,59,Lisa V. Alexander,125,University of New South Wales,Australia,NULL,NULL
+9683,5,1,TS,LA,5603,Simon K. Allen,NULL,NULL,NULL,NULL,NULL
+7835,5,1,TS,LA,262,Nathaniel L. Bindoff,163,University of Tasmania,Australia,NULL,NULL
+7859,5,1,TS,LA,5376,François-Marie Bréon,NULL,NULL,NULL,NULL,NULL
+7905,5,1,TS,LA,510,John A. Church,NULL,NULL,NULL,NULL,NULL
+7930,5,1,TS,LA,593,Ulrich Cubasch,183,Freie Universität Berlin,Germany,NULL,NULL
+7970,5,1,TS,LA,784,Seita Emori,129,National Institute for Environmental Studies,Japan,NULL,NULL
+8009,5,1,TS,LA,864,Piers Forster,130,University of Leeds,United Kingdom,NULL,NULL
+9706,5,1,TS,LA,892,Pierre Friedlingstein,131,University of Exeter,United Kingdom,NULL,NULL
+8036,5,1,TS,LA,968,Nathan P. Gillett,164,Environment Canada,Canada,NULL,NULL
+8058,5,1,TS,LA,1024,Jonathan M. Gregory,NULL,NULL,NULL,NULL,NULL
+8084,5,1,TS,LA,5149,Dennis L. Hartmann,132,University of Washington,USA,NULL,NULL
+8139,5,1,TS,LA,1331,Eystein Jansen,133,University of Bergen,Norway,NULL,NULL
+8164,5,1,TS,LA,5543,Krishna Kumar Kanikicharla,134,Indian Institute of Tropical Meteorology,India,NULL,NULL
+8190,5,1,TS,LA,1514,Ben Kirtman,135,University of Miami,USA,NULL,NULL
+8210,5,1,TS,LA,1535,Reto Knutti,136,ETH Zurich,Switzerland,NULL,NULL
+8251,5,1,TS,LA,1689,Peter Lemke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,NULL,NULL
+8288,5,1,TS,LA,5392,Jochem Marotzke,NULL,NULL,NULL,NULL,NULL
+8298,5,1,TS,LA,1866,Valerie Masson-Delmotte,NULL,NULL,NULL,NULL,NULL
+10270,5,1,TS,LA,1927,Gerald A. Meehl,113,N/A,USA,NULL,NULL
+8331,5,1,TS,LA,2007,Igor Mokhov,139,A.M. Obukhov Institute of Atmospheric Physics,Russian Federation,NULL,NULL
+8406,5,1,TS,LA,5298,Shilong Piao,140,Peking University,China,NULL,NULL
+8437,5,1,TS,LA,2430,Venkatachalam Ramaswamy,NULL,NULL,NULL,NULL,NULL
+8441,5,1,TS,LA,2436,David A. Randall,255,Colorado State University,USA,NULL,NULL
+8457,5,1,TS,LA,5179,Monika Rhein,143,University of Bremen,Germany,NULL,NULL
+8480,5,1,TS,LA,5248,Maisa Rojas,NULL,NULL,NULL,NULL,NULL
+8492,5,1,TS,LA,2582,Christopher Sabine,NULL,NULL,NULL,NULL,NULL
+8536,5,1,TS,LA,5283,Drew Shindell,NULL,NULL,NULL,NULL,NULL
+8592,5,1,TS,LA,2948,Lynne D. Talley,NULL,NULL,NULL,NULL,NULL
+8627,5,1,TS,LA,3087,David Vaughan,146,British Antarctic Survey,United Kingdom,NULL,NULL
+8685,5,1,TS,LA,3289,Shang-Ping Xie,NULL,NULL,NULL,NULL,NULL
+8156,5,1,TS,RE,1391,Sylvie Joussaume,NULL,NULL,NULL,NULL,NULL
+8392,5,1,TS,RE,2298,Joyce E. Penner,247,University of Michigan,USA,NULL,NULL
+8594,5,1,TS,RE,5177,Fredolin Tangang,269,National University of Malaysia,Malaysia,NULL,NULL
+7792,5,1,TS,CA,67,Myles R. Allen,153,University of Oxford,United Kingdom,NULL,NULL
+7850,5,1,TS,CA,310,Olivier Boucher,NULL,NULL,NULL,NULL,NULL
+7887,5,1,TS,CA,468,Don Chambers,175,University of South Florida,USA,NULL,NULL
+7900,5,1,TS,CA,503,Jens Hesselbjerg Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+7908,5,1,TS,CA,512,Philippe Ciais,NULL,NULL,NULL,NULL,NULL
+7911,5,1,TS,CA,5100,Peter U. Clark,180,Oregon State University,USA,NULL,NULL
+7917,5,1,TS,CA,546,Matthew Collins,131,University of Exeter,United Kingdom,NULL,NULL
+7921,5,1,TS,CA,5222,Josefino C. Comiso,NULL,NULL,NULL,NULL,NULL
+9695,5,1,TS,CA,5447,Viviane Vasconcellos de Menezes,163,University of Tasmania,Australia,NULL,NULL
+7982,5,1,TS,CA,820,Richard A. Feely,NULL,NULL,NULL,NULL,NULL
+7990,5,1,TS,CA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8000,5,1,TS,CA,846,Gregory Flato,164,Environment Canada,Canada,NULL,NULL
+8086,5,1,TS,CA,5473,Ed Hawkins,204,University of Reading,United Kingdom,NULL,NULL
+9712,5,1,TS,CA,5492,Paul J. Hezel,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8146,5,1,TS,CA,5111,Gregory C. Johnson,NULL,NULL,NULL,NULL,NULL
+8152,5,1,TS,CA,1388,Simon A. Josey,219,National Oceanography Centre,United Kingdom,NULL,NULL
+9719,5,1,TS,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,NULL,NULL
+8197,5,1,TS,CA,1526,Albert Klein Tank,NULL,NULL,NULL,NULL,NULL
+8217,5,1,TS,CA,5141,Janina Körper,183,Freie Universität Berlin,Germany,NULL,NULL
+8352,5,1,TS,CA,2083,Gunnar Myhre,NULL,NULL,NULL,NULL,NULL
+8377,5,1,TS,CA,2220,Timothy Osborn,231,University of East Anglia,United Kingdom,NULL,NULL
+8421,5,1,TS,CA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,NULL,NULL
+8467,5,1,TS,CA,2504,Stephen R. Rintoul,NULL,NULL,NULL,NULL,NULL
+9742,5,1,TS,CA,5456,Joeri Rogelj,136,ETH Zurich,Switzerland,NULL,NULL
+8041,5,1,TS,CA,5245,Jesus Fidel González Rouco,202,Universidad Complutense de Madrid,Spain,NULL,NULL
+8488,5,1,TS,CA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,NULL,NULL
+7771,5,1,TS,CA,5130,Michael Schulz,NULL,NULL,NULL,NULL,NULL
+8519,5,1,TS,CA,5281,Jan Sedláček,136,ETH Zurich,Switzerland,NULL,NULL
+8576,5,1,TS,CA,2889,Peter A. Stott,NULL,NULL,NULL,NULL,NULL
+8584,5,1,TS,CA,5146,Rowan Sutton,204,University of Reading,United Kingdom,NULL,NULL
+8605,5,1,TS,CA,2992,Peter Thorne,682,Nansen Environmental and Remote Sensing Center,Norway,NULL,NULL
+8679,5,1,TS,CA,3280,Donald J. Wuebbles,NULL,NULL,NULL,NULL,NULL
+7786,5,1,SPM,LA,59,Lisa V. Alexander,125,University of New South Wales,Australia,NULL,NULL
+9682,5,1,SPM,LA,5603,Simon K. Allen,NULL,NULL,NULL,NULL,NULL
+7834,5,1,SPM,LA,262,Nathaniel L. Bindoff,163,University of Tasmania,Australia,NULL,NULL
+7858,5,1,SPM,LA,5376,François-Marie Bréon,NULL,NULL,NULL,NULL,NULL
+7904,5,1,SPM,LA,510,John A. Church,NULL,NULL,NULL,NULL,NULL
+7929,5,1,SPM,LA,593,Ulrich Cubasch,183,Freie Universität Berlin,Germany,NULL,NULL
+7969,5,1,SPM,LA,784,Seita Emori,129,National Institute for Environmental Studies,Japan,NULL,NULL
+8008,5,1,SPM,LA,864,Piers Forster,130,University of Leeds,United Kingdom,NULL,NULL
+9705,5,1,SPM,LA,892,Pierre Friedlingstein,131,University of Exeter,United Kingdom,NULL,NULL
+8035,5,1,SPM,LA,968,Nathan P. Gillett,164,Environment Canada,Canada,NULL,NULL
+8057,5,1,SPM,LA,1024,Jonathan M. Gregory,NULL,NULL,NULL,NULL,NULL
+8083,5,1,SPM,LA,5149,Dennis L. Hartmann,132,University of Washington,USA,NULL,NULL
+8138,5,1,SPM,LA,1331,Eystein Jansen,133,University of Bergen,Norway,NULL,NULL
+8163,5,1,SPM,LA,5543,Krishna Kumar Kanikicharla,134,Indian Institute of Tropical Meteorology,India,NULL,NULL
+8189,5,1,SPM,LA,1514,Ben Kirtman,135,University of Miami,USA,NULL,NULL
+8209,5,1,SPM,LA,1535,Reto Knutti,136,ETH Zurich,Switzerland,NULL,NULL
+8250,5,1,SPM,LA,1689,Peter Lemke,137,Alfred Wegener Institute for Polar and Marine Research,Germany,NULL,NULL
+8287,5,1,SPM,LA,5392,Jochem Marotzke,NULL,NULL,NULL,NULL,NULL
+8297,5,1,SPM,LA,1866,Valerie Masson-Delmotte,NULL,NULL,NULL,NULL,NULL
+10269,5,1,SPM,LA,1927,Gerald A. Meehl,113,N/A,USA,NULL,NULL
+8330,5,1,SPM,LA,2007,Igor Mokhov,139,A.M. Obukhov Institute of Atmospheric Physics,Russian Federation,NULL,NULL
+8405,5,1,SPM,LA,5298,Shilong Piao,140,Peking University,China,NULL,NULL
+8411,5,1,SPM,LA,2354,Gian-Kasper Plattner,NULL,NULL,NULL,NULL,NULL
+10123,5,1,SPM,LA,2405,Dahe Qin,23,N/A,China,NULL,NULL
+8436,5,1,SPM,LA,2430,Venkatachalam Ramaswamy,NULL,NULL,NULL,NULL,NULL
+8440,5,1,SPM,LA,2436,David A. Randall,255,Colorado State University,USA,NULL,NULL
+8456,5,1,SPM,LA,5179,Monika Rhein,143,University of Bremen,Germany,NULL,NULL
+8479,5,1,SPM,LA,5248,Maisa Rojas,NULL,NULL,NULL,NULL,NULL
+8491,5,1,SPM,LA,2582,Christopher Sabine,NULL,NULL,NULL,NULL,NULL
+8535,5,1,SPM,LA,5283,Drew Shindell,NULL,NULL,NULL,NULL,NULL
+8570,5,1,SPM,LA,2880,Thomas F. Stocker,NULL,NULL,NULL,NULL,NULL
+8591,5,1,SPM,LA,2948,Lynne D. Talley,NULL,NULL,NULL,NULL,NULL
+8626,5,1,SPM,LA,3087,David Vaughan,146,British Antarctic Survey,United Kingdom,NULL,NULL
+8684,5,1,SPM,LA,3289,Shang-Ping Xie,NULL,NULL,NULL,NULL,NULL
+7791,5,1,SPM,CA,67,Myles R. Allen,153,University of Oxford,United Kingdom,NULL,NULL
+7849,5,1,SPM,CA,310,Olivier Boucher,NULL,NULL,NULL,NULL,NULL
+7886,5,1,SPM,CA,468,Don Chambers,175,University of South Florida,USA,NULL,NULL
+7899,5,1,SPM,CA,503,Jens Hesselbjerg Christensen,179,Danish Meteorological Institute,Denmark,NULL,NULL
+7907,5,1,SPM,CA,512,Philippe Ciais,NULL,NULL,NULL,NULL,NULL
+7910,5,1,SPM,CA,5100,Peter U. Clark,180,Oregon State University,USA,NULL,NULL
+7916,5,1,SPM,CA,546,Matthew Collins,131,University of Exeter,United Kingdom,NULL,NULL
+7920,5,1,SPM,CA,5222,Josefino C. Comiso,NULL,NULL,NULL,NULL,NULL
+9694,5,1,SPM,CA,5447,Viviane Vasconcellos de Menezes,163,University of Tasmania,Australia,NULL,NULL
+7981,5,1,SPM,CA,820,Richard A. Feely,NULL,NULL,NULL,NULL,NULL
+7989,5,1,SPM,CA,828,Thierry Fichefet,194,Université Catholique de Louvain,Belgium,NULL,NULL
+7994,5,1,SPM,CA,5465,Arlene M. Fiore,NULL,NULL,NULL,NULL,NULL
+7999,5,1,SPM,CA,846,Gregory Flato,164,Environment Canada,Canada,NULL,NULL
+8016,5,1,SPM,CA,900,Jan Fuglestvedt,NULL,NULL,NULL,NULL,NULL
+10141,5,1,SPM,CA,1156,Gabriele C. Hegerl,36,N/A,Germany,NULL,NULL
+9711,5,1,SPM,CA,5492,Paul J. Hezel,194,Université Catholique de Louvain,Belgium,NULL,NULL
+8145,5,1,SPM,CA,5111,Gregory C. Johnson,NULL,NULL,NULL,NULL,NULL
+9718,5,1,SPM,CA,1436,Georg Kaser,221,University of Innsbruck,Austria,NULL,NULL
+8176,5,1,SPM,CA,1442,Vladimir M. Kattsov,222,Voeikov Main Geophysical Observatory,Russian Federation,NULL,NULL
+10355,5,1,SPM,CA,1462,John Kennedy,117,N/A,United Kingdom,NULL,NULL
+8196,5,1,SPM,CA,1526,Albert Klein Tank,NULL,NULL,NULL,NULL,NULL
+8243,5,1,SPM,CA,1695,Corinne Le Quéré,231,University of East Anglia,United Kingdom,NULL,NULL
+8351,5,1,SPM,CA,2083,Gunnar Myhre,NULL,NULL,NULL,NULL,NULL
+8376,5,1,SPM,CA,2220,Timothy Osborn,231,University of East Anglia,United Kingdom,NULL,NULL
+8390,5,1,SPM,CA,2280,Antony J. Payne,160,University of Bristol,United Kingdom,NULL,NULL
+8395,5,1,SPM,CA,5414,Judith Perlwitz,NULL,NULL,NULL,NULL,NULL
+8420,5,1,SPM,CA,2379,Scott B. Power,250,Bureau of Meteorology,Australia,NULL,NULL
+8424,5,1,SPM,CA,2383,Michael Prather,251,University of California Irvine,USA,NULL,NULL
+8466,5,1,SPM,CA,2504,Stephen R. Rintoul,NULL,NULL,NULL,NULL,NULL
+9741,5,1,SPM,CA,5456,Joeri Rogelj,136,ETH Zurich,Switzerland,NULL,NULL
+8487,5,1,SPM,CA,2576,Matilde Rusticucci,170,Universidad de Buenos Aires,Argentina,NULL,NULL
+7770,5,1,SPM,CA,5130,Michael Schulz,NULL,NULL,NULL,NULL,NULL
+8518,5,1,SPM,CA,5281,Jan Sedláček,136,ETH Zurich,Switzerland,NULL,NULL
+8575,5,1,SPM,CA,2889,Peter A. Stott,NULL,NULL,NULL,NULL,NULL
+8583,5,1,SPM,CA,5146,Rowan Sutton,204,University of Reading,United Kingdom,NULL,NULL
+8604,5,1,SPM,CA,2992,Peter Thorne,682,Nansen Environmental and Remote Sensing Center,Norway,NULL,NULL
+8678,5,1,SPM,CA,3280,Donald J. Wuebbles,NULL,NULL,NULL,NULL,NULL
+9884,5,2,1,CLA,395,Virginia Burkett,NULL,NULL,NULL,NULL,NULL
+8849,5,2,1,CLA,2903,Avelino G. Suarez,NULL,NULL,NULL,NULL,NULL
+8947,5,2,1,LA,261,Marco Bindi,304,University of Florence,Italy,NULL,NULL
+9041,5,2,1,LA,5605,Asuncion Lera St. Clair,NULL,NULL,NULL,NULL,NULL
+8992,5,2,1,LA,552,Cecilia Conde,NULL,NULL,NULL,NULL,NULL
+8936,5,2,1,LA,5604,Rupa Mukerji,415,HELVETAS Swiss Intercooperation,India,NULL,NULL
+10271,5,2,1,LA,2383,Michael Prather,113,N/A,USA,NULL,NULL
+10272,5,2,1,LA,3324,Gary W. Yohe,113,N/A,USA,NULL,NULL
+8872,5,2,1,RE,1662,Hervé Le Treut,NULL,NULL,NULL,NULL,NULL
+8761,5,2,1,RE,2248,Jean P. Palutikof,311,Griffith University,Australia,NULL,NULL
+9808,5,2,1,CA,5606,Sarah Cornell,NULL,NULL,NULL,NULL,NULL
+10273,5,2,1,CA,5607,Katharine J. Mach,113,N/A,USA,NULL,NULL
+10274,5,2,1,CA,1869,Michael D. Mastrandrea,113,N/A,USA,NULL,NULL
+8905,5,2,1,CA,5116,Jan Christoph Minx,NULL,NULL,NULL,NULL,NULL
+9039,5,2,1,CA,5608,Riccardo Pravettoni,NULL,NULL,NULL,NULL,NULL
+9987,5,2,1,CA,5609,Kristin Seyboth,NULL,NULL,NULL,NULL,NULL
+8916,5,2,1,CA,5610,Christoph von Stechow,NULL,NULL,NULL,NULL,NULL
+8749,5,2,2,CLA,1385,Roger N. Jones,374,Victoria University,Australia,NULL,NULL
+8941,5,2,2,CLA,2273,Anand Patwardhan,432,Indian Institute of Technology Bombay,India,NULL,NULL
+10114,5,2,2,LA,539,Stewart J. Cohen,20,N/A,Canada,NULL,NULL
+9811,5,2,2,LA,5611,Suraje Dessai,130,University of Leeds,United Kingdom,NULL,NULL
+8871,5,2,2,LA,5612,Annamaria Lammel,388,Universite Paris 8,France,NULL,NULL
+10275,5,2,2,LA,1691,Robert Lempert,113,N/A,USA,NULL,NULL
+9759,5,2,2,LA,1998,M. Monirul Qader Mirza,NULL,NULL,NULL,NULL,NULL
+8917,5,2,2,LA,3126,Hans von Storch,NULL,NULL,NULL,NULL,NULL
+9879,5,2,2,RE,257,Rosina Bierbaum,NULL,NULL,NULL,NULL,NULL
+9088,5,2,2,RE,5615,Nicholas King,NULL,NULL,NULL,NULL,NULL
+8901,5,2,2,CA,5613,Werner Krauss,NULL,NULL,NULL,NULL,NULL
+9771,5,2,2,CA,3255,Johanna Wolf,NULL,NULL,NULL,NULL,NULL
+8773,5,2,2,CA,5614,Celeste Young,NULL,NULL,NULL,NULL,NULL
+8994,5,2,3,CLA,1357,Blanca Elena Jimenez Cisneros,NULL,NULL,NULL,NULL,NULL
+8971,5,2,3,CLA,2192,Taikan Oki,148,University of Tokyo,Japan,NULL,NULL
+9800,5,2,3,LA,124,Nigel W. Arnell,NULL,NULL,NULL,NULL,NULL
+9105,5,2,3,LA,5251,Gerardo Benito,301,Spanish Council for Scientific Research,Spain,NULL,NULL
+8800,5,2,3,LA,538,J. Graham Cogley,328,Trent University,Canada,NULL,NULL
+8885,5,2,3,LA,703,Petra Doll,285,Goethe University Frankfurt,Germany,NULL,NULL
+8834,5,2,3,LA,5616,Tong Jiang,187,China Meteorological Administration,China,NULL,NULL
+9130,5,2,3,LA,5617,Shadrack S. Mwakalila,NULL,NULL,NULL,NULL,NULL
+9051,5,2,3,RE,1593,Zbigniew Kundzewicz,387,Polish Academy of Sciences,Poland,NULL,NULL
+8889,5,2,3,CA,5618,Thomas Fischer,NULL,NULL,NULL,NULL,NULL
+8893,5,2,3,CA,5619,Dieter Gerten,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8807,5,2,3,CA,1204,Regine Hock,NULL,NULL,NULL,NULL,NULL
+8967,5,2,3,CA,5620,Shinjiro Kanae,965,Tokyo Institute of Technology,Japan,NULL,NULL
+9076,5,2,3,CA,5621,Xixi Lu,NULL,NULL,NULL,NULL,NULL
+9138,5,2,3,CA,1871,Luis Jose Mata,NULL,NULL,NULL,NULL,NULL
+8906,5,2,3,CA,5622,Claudia Pahl-Wostl,NULL,NULL,NULL,NULL,NULL
+9999,5,2,3,CA,5623,Kenneth M. Strzepek,NULL,NULL,NULL,NULL,NULL
+8839,5,2,3,CA,5624,Buda Su,187,China Meteorological Administration,China,NULL,NULL
+9790,5,2,3,CA,5128,Bart van den Hurk,NULL,NULL,NULL,NULL,NULL
+9095,5,2,4,CLA,2674,Robert (Bob) J. Scholes,NULL,NULL,NULL,NULL,NULL
+8913,5,2,4,CLA,5625,Josef Settele,NULL,NULL,NULL,NULL,NULL
+9802,5,2,4,LA,252,Richard A. Betts,NULL,NULL,NULL,NULL,NULL
+8724,5,2,4,LA,5626,Stuart Bunn,311,Griffith University,Australia,NULL,NULL
+8873,5,2,4,LA,5627,Paul Leadley,NULL,NULL,NULL,NULL,NULL
+9966,5,2,4,LA,5628,Daniel Nepstad,NULL,NULL,NULL,NULL,NULL
+10276,5,2,4,LA,2228,Jonathan Overpeck,113,N/A,USA,NULL,NULL
+8717,5,2,4,LA,5629,Miguel Angel Taboada,NULL,NULL,NULL,NULL,NULL
+9124,5,2,4,RE,838,Andreas Fischlin,NULL,NULL,NULL,NULL,NULL
+9111,5,2,4,RE,2030,José M. Moreno,NULL,NULL,NULL,NULL,NULL
+9981,5,2,4,RE,2547,Terry L. Root,NULL,NULL,NULL,NULL,NULL
+8879,5,2,4,CA,5630,Rita Adrian,NULL,NULL,NULL,NULL,NULL
+9874,5,2,4,CA,5631,Craig Allen,NULL,NULL,NULL,NULL,NULL
+9875,5,2,4,CA,5632,William Anderegg,NULL,NULL,NULL,NULL,NULL
+8859,5,2,4,CA,5633,Celine Bellard,NULL,NULL,NULL,NULL,NULL
+8786,5,2,4,CA,5634,Paulo Brando,NULL,NULL,NULL,NULL,NULL
+10175,5,2,4,CA,5635,Louise P. Chini,73,N/A,New Zealand,NULL,NULL
+8862,5,2,4,CA,5636,Franck Courchamp,NULL,NULL,NULL,NULL,NULL
+10194,5,2,4,CA,5637,Wendy  Foden,95,N/A,South Africa,NULL,NULL
+8894,5,2,4,CA,5619,Dieter Gerten,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9922,5,2,4,CA,5638,Scott Goetz,NULL,NULL,NULL,NULL,NULL
+9816,5,2,4,CA,5639,Nicola Golding,NULL,NULL,NULL,NULL,NULL
+9923,5,2,4,CA,995,Patrick Gonzalez,NULL,NULL,NULL,NULL,NULL
+9820,5,2,4,CA,5473,Ed Hawkins,204,University of Reading,United Kingdom,NULL,NULL
+8898,5,2,4,CA,5640,Thomas Hickler,NULL,NULL,NULL,NULL,NULL
+9934,5,2,4,CA,5315,George Hurtt,NULL,NULL,NULL,NULL,NULL
+9945,5,2,4,CA,5322,Charles Koven,NULL,NULL,NULL,NULL,NULL
+9947,5,2,4,CA,5641,Josh Lawler,NULL,NULL,NULL,NULL,NULL
+9127,5,2,4,CA,5642,Heike Lischke,NULL,NULL,NULL,NULL,NULL
+9831,5,2,4,CA,5643,Georgina M. Mace,638,University College London,United Kingdom,NULL,NULL
+8756,5,2,4,CA,5644,Melodie McGeoch,216,Monash University,Australia,NULL,NULL
+9974,5,2,4,CA,2264,Camille Parmesan,NULL,NULL,NULL,NULL,NULL
+9839,5,2,4,CA,5645,Richard Pearson,638,University College London,United Kingdom,NULL,NULL
+9113,5,2,4,CA,5646,Beatriz Rodriguez-Labajos,NULL,NULL,NULL,NULL,NULL
+8954,5,2,4,CA,5647,Carlo Rondinini,NULL,NULL,NULL,NULL,NULL
+10277,5,2,4,CA,5648,Rebecca Shaw,113,N/A,USA,NULL,NULL
+9851,5,2,4,CA,5344,Stephen Sitch,131,University of Exeter,United Kingdom,NULL,NULL
+8915,5,2,4,CA,5649,Klement Tockner,NULL,NULL,NULL,NULL,NULL
+9863,5,2,4,CA,5650,Piero Visconti,NULL,NULL,NULL,NULL,NULL
+8921,5,2,4,CA,5651,Marten Winter,NULL,NULL,NULL,NULL,NULL
+9108,5,2,5,CLA,5115,Iñigo J. Losada,NULL,NULL,NULL,NULL,NULL
+9078,5,2,5,CLA,3258,Poh Poh Wong,NULL,NULL,NULL,NULL,NULL
+8866,5,2,5,LA,5652,Jean-Pierre Gattuso,352,Centre National de la Recherche Scientifique (CNRS),France,NULL,NULL
+8899,5,2,5,LA,5653,Jochen Hinkel,NULL,NULL,NULL,NULL,NULL
+9006,5,2,5,LA,5654,Abdellatif Khattabi,NULL,NULL,NULL,NULL,NULL
+10076,5,2,5,LA,1911,Kathleen McInnes,6,N/A,Australia,NULL,NULL
+8973,5,2,5,LA,2594,Yoshiki Saito,448,National Institute of Advanced Industrial Science and Technology,Japan,NULL,NULL
+9983,5,2,5,LA,5655,Asbury Sallenger,NULL,NULL,NULL,NULL,NULL
+10356,5,2,5,RE,2124,Robert J. Nicholls,117,N/A,United Kingdom,NULL,NULL
+9053,5,2,5,RE,5667,Filipe Santos,450,University of Lisbon,Portugal,NULL,NULL
+9054,5,2,5,CA,5656,So-Min Cheong,NULL,NULL,NULL,NULL,NULL
+9908,5,2,5,CA,5657,Kirstin Dow,NULL,NULL,NULL,NULL,NULL
+9757,5,2,5,CA,5658,Carlos M. Duarte,NULL,NULL,NULL,NULL,NULL
+9915,5,2,5,CA,756,Kristie L. Ebi,NULL,NULL,NULL,NULL,NULL
+9814,5,2,5,CA,5659,Lucy Faulkner,NULL,NULL,NULL,NULL,NULL
+8966,5,2,5,CA,5660,Masahiko Isobe,148,University of Tokyo,Japan,NULL,NULL
+9785,5,2,5,CA,5661,Jack Middelburg,NULL,NULL,NULL,NULL,NULL
+9964,5,2,5,CA,2040,Susanne C. Moser,NULL,NULL,NULL,NULL,NULL
+9840,5,2,5,CA,5662,Mark Pelling,NULL,NULL,NULL,NULL,NULL
+9842,5,2,5,CA,5663,Edmund Penning-Rowsell,1127,Middlesex University,United Kingdom,NULL,NULL
+9986,5,2,5,CA,5664,Sybil Seitzinger,NULL,NULL,NULL,NULL,NULL
+9788,5,2,5,CA,5665,Marcel Stive,NULL,NULL,NULL,NULL,NULL
+9857,5,2,5,CA,3011,Richard S.J. Tol,468,University of Sussex,United Kingdom,NULL,NULL
+9774,5,2,5,CA,5666,Athanasios Vafeidis,NULL,NULL,NULL,NULL,NULL
+10278,5,2,6,CLA,5112,David M. Karl,113,N/A,USA,NULL,NULL
+8908,5,2,6,CLA,5668,Hans-O. Pörtner,NULL,NULL,NULL,NULL,NULL
+10077,5,2,6,LA,5669,Phil W. Boyd,6,N/A,Australia,NULL,NULL
+10115,5,2,6,LA,5670,William W.L. Cheung,20,N/A,Canada,NULL,NULL
+8996,5,2,6,LA,5671,Salvador E. Lluch-Cota,NULL,NULL,NULL,NULL,NULL
+8970,5,2,6,LA,2141,Yukihiro Nojiri,NULL,NULL,NULL,NULL,NULL
+10357,5,2,6,LA,5672,Daniela N. Schmidt,117,N/A,United Kingdom,NULL,NULL
+10189,5,2,6,LA,5673,Peter O. Zavialov,86,N/A,Russian Federation,NULL,NULL
+10182,5,2,6,RE,5697,Kenneth F. Drinkwater,75,N/A,Norway,NULL,NULL
+9137,5,2,6,RE,5698,Alexander Polonsky,NULL,NULL,NULL,NULL,NULL
+10142,5,2,6,CA,5674,Jürgen Alheit,36,N/A,Germany,NULL,NULL
+9104,5,2,6,CA,5675,Javier Aristegui,NULL,NULL,NULL,NULL,NULL
+9029,5,2,6,CA,5676,Claire Armstrong,NULL,NULL,NULL,NULL,NULL
+8858,5,2,6,CA,5677,Gregory Beaugrand,NULL,NULL,NULL,NULL,NULL
+9061,5,2,6,CA,5678,Vsevolod Belkovich,NULL,NULL,NULL,NULL,NULL
+8861,5,2,6,CA,5679,Chris Bowler,NULL,NULL,NULL,NULL,NULL
+10279,5,2,6,CA,5096,Peter G. Brewer,113,N/A,USA,NULL,NULL
+9900,5,2,6,CA,5680,Matthew Church,NULL,NULL,NULL,NULL,NULL
+10280,5,2,6,CA,5101,Sarah R. Cooley,113,N/A,USA,NULL,NULL
+9812,5,2,6,CA,763,Martin Edwards,798,Sir Alister Hardy Foundation for Ocean Science,United Kingdom,NULL,NULL
+9062,5,2,6,CA,5682,Mikhail Flint,NULL,NULL,NULL,NULL,NULL
+10281,5,2,6,CA,5683,Michael J. Follows,113,N/A,USA,NULL,NULL
+9125,5,2,6,CA,5684,Thomas Frölicher,NULL,NULL,NULL,NULL,NULL
+8733,5,2,6,CA,5685,Elizabeth A. Fulton,NULL,NULL,NULL,NULL,NULL
+8867,5,2,6,CA,5652,Jean-Pierre Gattuso,352,Centre National de la Recherche Scientifique (CNRS),France,NULL,NULL
+8739,5,2,6,CA,1206,Ove Hoegh-Guldberg,365,University of Queensland,Australia,NULL,NULL
+10282,5,2,6,CA,5109,Eileen E. Hofmann,113,N/A,USA,NULL,NULL
+8816,5,2,6,CA,5690,R. Ian Perry,676,Fisheries and Oceans Canada,Canada,NULL,NULL
+10283,5,2,6,CA,5686,Andrew H. Knoll,113,N/A,USA,NULL,NULL
+10284,5,2,6,CA,5687,Lisa A. Levin,113,N/A,USA,NULL,NULL
+8903,5,2,6,CA,5688,Lena Menzel,NULL,NULL,NULL,NULL,NULL
+10195,5,2,6,CA,5689,Coleen L. Moloney,95,N/A,South Africa,NULL,NULL
+8993,5,2,6,CA,5681,Pablo del Monte-Luna,NULL,NULL,NULL,NULL,NULL
+9848,5,2,6,CA,5691,J. Murray Roberts,855,Heriot-Watt University,United Kingdom,NULL,NULL
+10078,5,2,6,CA,5120,Elvira S. Poloczanska,6,N/A,Australia,NULL,NULL
+8910,5,2,6,CA,5692,Björn Rost,NULL,NULL,NULL,NULL,NULL
+10285,5,2,6,CA,5693,Jorge L. Sarmiento,113,N/A,USA,NULL,NULL
+9129,5,2,6,CA,5281,Jan Sedláček,NULL,NULL,NULL,NULL,NULL
+8914,5,2,6,CA,5694,Daniela Storch,NULL,NULL,NULL,NULL,NULL
+8920,5,2,6,CA,5695,Christian Wiencke,NULL,NULL,NULL,NULL,NULL
+10143,5,2,6,CA,5696,Astrid C. Wittman,36,N/A,Germany,NULL,NULL
+9765,5,2,7,CLA,5699,John R. Porter,440,University of Copenhagen,Denmark,NULL,NULL
+8841,5,2,7,CLA,5700,Liyong Xie,483,Shenyang Agricultural University,China,NULL,NULL
+10358,5,2,7,LA,5701,Andrew J. Challinor,117,N/A,United Kingdom,NULL,NULL
+9083,5,2,7,LA,5702,Kevern Cochrane,327,Rhodes University,South Africa,NULL,NULL
+10079,5,2,7,LA,1253,Mark Howden,6,N/A,Australia,NULL,NULL
+9044,5,2,7,LA,5703,Muhammad Mohsin Iqbal,NULL,NULL,NULL,NULL,NULL
+10286,5,2,7,LA,5114,David B. Lobell,113,N/A,USA,NULL,NULL
+8718,5,2,7,LA,3021,María Isabel Travasso,NULL,NULL,NULL,NULL,NULL
+8930,5,2,7,RE,33,Pramod Aggarwal,NULL,NULL,NULL,NULL,NULL
+8856,5,2,7,RE,5713,Kaija Hakala,359,MTT Agrifood Research Finland,Finland,NULL,NULL
+9898,5,2,7,CA,495,Netra Chhetri,NULL,NULL,NULL,NULL,NULL
+9920,5,2,7,CA,5704,Karen Garrett,NULL,NULL,NULL,NULL,NULL
+9825,5,2,7,CA,5705,John Ingram,NULL,NULL,NULL,NULL,NULL
+8951,5,2,7,CA,5706,Leslie Lipper,NULL,NULL,NULL,NULL,NULL
+10287,5,2,7,CA,5707,Nancy McCarthy,113,N/A,USA,NULL,NULL
+9959,5,2,7,CA,5708,Justin McGrath,NULL,NULL,NULL,NULL,NULL
+9852,5,2,7,CA,5709,Daniel Smith,NULL,NULL,NULL,NULL,NULL
+9856,5,2,7,CA,5710,Philip Thornton,NULL,NULL,NULL,NULL,NULL
+9869,5,2,7,CA,5711,James Watson,130,University of Leeds,United Kingdom,NULL,NULL
+10008,5,2,7,CA,5711,James Watson,NULL,NULL,NULL,NULL,NULL
+10288,5,2,7,CA,5712,Lewis Ziska,113,N/A,USA,NULL,NULL
+8943,5,2,8,CLA,5714,Aromar Revi,443,Indian Institute for Human Settlements,India,NULL,NULL
+10359,5,2,8,CLA,2627,David Satterthwaite,117,N/A,United Kingdom,NULL,NULL
+8990,5,2,8,LA,5715,Fernando Aragón-Durand,NULL,NULL,NULL,NULL,NULL
+9901,5,2,8,LA,563,Jan Corfee-Morlot,NULL,NULL,NULL,NULL,NULL
+10371,5,2,8,LA,5716,Robert B.R. Kiunsi,104,N/A,Tanzania,NULL,NULL
+9841,5,2,8,LA,5662,Mark Pelling,NULL,NULL,NULL,NULL,NULL
+10196,5,2,8,LA,5123,Debra C. Roberts,95,N/A,South Africa,NULL,NULL
+9995,5,2,8,LA,2821,William Solecki,NULL,NULL,NULL,NULL,NULL
+9878,5,2,8,RE,5722,John Balbus,NULL,NULL,NULL,NULL,NULL
+8845,5,2,8,RE,5723,Omar-Dario Cardona,NULL,NULL,NULL,NULL,NULL
+8959,5,2,8,CA,5718,David Dodman,NULL,NULL,NULL,NULL,NULL
+8940,5,2,8,CA,5720,Sumetee Pahwa Gajjar,NULL,NULL,NULL,NULL,NULL
+9832,5,2,8,CA,5719,Andrew Maskrey,NULL,NULL,NULL,NULL,NULL
+9809,5,2,8,CA,5717,Jo da Silva,NULL,NULL,NULL,NULL,NULL
+10097,5,2,8,CA,5721,Raf Tuts,10,N/A,Belgium,NULL,NULL
+8933,5,2,9,CLA,5724,Purnamita Dasgupta,NULL,NULL,NULL,NULL,NULL
+10360,5,2,9,CLA,2038,John F. Morton,117,N/A,United Kingdom,NULL,NULL
+8960,5,2,9,LA,5718,David Dodman,NULL,NULL,NULL,NULL,NULL
+9796,5,2,9,LA,5725,Barış Karapinar,NULL,NULL,NULL,NULL,NULL
+8825,5,2,9,LA,5726,Francisco Meza,410,Pontificia Universidad Catolica de Chile,Chile,NULL,NULL
+9112,5,2,9,LA,5727,Marta G. Rivera-Ferre,NULL,NULL,NULL,NULL,NULL
+9071,5,2,9,LA,5728,Aissa Toure Sarr,471,International Fund for Agricultural Development (IFAD),Senegal,NULL,NULL
+10197,5,2,9,LA,3110,Katharine Vincent,95,N/A,South Africa,NULL,NULL
+9890,5,2,9,RE,5740,Edward R. Carr,NULL,NULL,NULL,NULL,NULL
+8984,5,2,9,RE,5741,Nirivololona Raholijao,NULL,NULL,NULL,NULL,NULL
+8931,5,2,9,CA,5729,Ashish Aggarwal,NULL,NULL,NULL,NULL,NULL
+9899,5,2,9,CA,495,Netra Chhetri,NULL,NULL,NULL,NULL,NULL
+9084,5,2,9,CA,5730,Tracy Cull,NULL,NULL,NULL,NULL,NULL
+8789,5,2,9,CA,5731,Jose Gustavo Feres,NULL,NULL,NULL,NULL,NULL
+9817,5,2,9,CA,5732,Jeremy Haggar,NULL,NULL,NULL,NULL,NULL
+9824,5,2,9,CA,5733,George Hutchinson,NULL,NULL,NULL,NULL,NULL
+9107,5,2,9,CA,5734,Feliu López-i-Gelats,NULL,NULL,NULL,NULL,NULL
+9963,5,2,9,CA,5735,Megan Mills-Novoa,NULL,NULL,NULL,NULL,NULL
+8938,5,2,9,CA,5736,Nandan Nawn,NULL,NULL,NULL,NULL,NULL
+9968,5,2,9,CA,5737,Catherine Norman,NULL,NULL,NULL,NULL,NULL
+8778,5,2,9,CA,5738,Andreas Scheba,NULL,NULL,NULL,NULL,NULL
+8979,5,2,9,CA,5739,Tetsuji Tanaka,NULL,NULL,NULL,NULL,NULL
+10289,5,2,10,CLA,5742,Douglas J. Arent,113,N/A,USA,NULL,NULL
+9858,5,2,10,CLA,3011,Richard S.J. Tol,468,University of Sussex,United Kingdom,NULL,NULL
+8886,5,2,10,LA,5743,Eberhard Faust,349,Munich Reinsurance Company,Germany,NULL,NULL
+10214,5,2,10,LA,5744,Joseph P.  Hella,104,N/A,Tanzania,NULL,NULL
+8935,5,2,10,LA,5745,Surender Kumar,386,University of Delhi,India,NULL,NULL
+10000,5,2,10,LA,5623,Kenneth M. Strzepek,NULL,NULL,NULL,NULL,NULL
+8927,5,2,10,LA,3017,Ferenc L. Toth,NULL,NULL,NULL,NULL,NULL
+8843,5,2,10,LA,5746,Denghua Yan,485,China Institute of Water Resources and Hydropower Research,China,NULL,NULL
+8988,5,2,10,RE,5753,Amjad Abdulla,NULL,NULL,NULL,NULL,NULL
+9940,5,2,10,RE,1482,Haroon Kheshgi,NULL,NULL,NULL,NULL,NULL
+8842,5,2,10,RE,5754,He Xu,NULL,NULL,NULL,NULL,NULL
+8948,5,2,10,CA,5747,Francesco Bosello,NULL,NULL,NULL,NULL,NULL
+10290,5,2,10,CA,5748,Paul Chinowsky,113,N/A,USA,NULL,NULL
+9916,5,2,10,CA,756,Kristie L. Ebi,NULL,NULL,NULL,NULL,NULL
+8888,5,2,10,CA,5749,Simone Ruiz Fernandez,NULL,NULL,NULL,NULL,NULL
+8869,5,2,10,CA,1090,Stephane Hallegatte,NULL,NULL,NULL,NULL,NULL
+9943,5,2,10,CA,5266,Robert Kopp,NULL,NULL,NULL,NULL,NULL
+8911,5,2,10,CA,5750,Armin Sandhoevel,NULL,NULL,NULL,NULL,NULL
+9794,5,2,10,CA,5751,Philip Ward,NULL,NULL,NULL,NULL,NULL
+10291,5,2,10,CA,5752,Eric Williams,113,N/A,USA,NULL,NULL
+9994,5,2,11,CLA,2804,Kirk Robert Smith,NULL,NULL,NULL,NULL,NULL
+9026,5,2,11,CLA,3268,Alistair Woodward,482,University of Auckland,New Zealand,NULL,NULL
+9806,5,2,11,LA,5755,Diarmid Campbell-Lendrum,NULL,NULL,NULL,NULL,NULL
+10227,5,2,11,LA,5098,Dave D. Chadee,109,N/A,Trinidad and Tobago,NULL,NULL
+8965,5,2,11,LA,1232,Yasushi Honda,366,University of Tsukuba,Japan,NULL,NULL
+8837,5,2,11,LA,5756,Qiyong Liu,NULL,NULL,NULL,NULL,NULL
+10198,5,2,11,LA,5757,Jane M. Olwoch,95,N/A,South Africa,NULL,NULL
+9064,5,2,11,LA,2481,Boris Revich,NULL,NULL,NULL,NULL,NULL
+9120,5,2,11,LA,5758,Rainer Sauerborn,452,Umea University,Sweden,NULL,NULL
+10100,5,2,11,RE,553,Ulisses Confalonieri,16,N/A,Brazil,NULL,NULL
+9818,5,2,11,RE,1078,Andrew Haines,358,London School of Hygiene and Tropical Medicine,United Kingdom,NULL,NULL
+8991,5,2,11,CA,5759,Clara Aranda,NULL,NULL,NULL,NULL,NULL
+8721,5,2,11,CA,5760,Helen Berry,NULL,NULL,NULL,NULL,NULL
+8725,5,2,11,CA,5761,Colin Butler,NULL,NULL,NULL,NULL,NULL
+9892,5,2,11,CA,5762,Zoë Chafe,NULL,NULL,NULL,NULL,NULL
+9902,5,2,11,CA,5763,Lara Cushing,NULL,NULL,NULL,NULL,NULL
+9917,5,2,11,CA,756,Kristie L. Ebi,NULL,NULL,NULL,NULL,NULL
+9018,5,2,11,CA,1522,Tord Kjellstrom,NULL,NULL,NULL,NULL,NULL
+9828,5,2,11,CA,1571,Sari Kovats,358,London School of Hygiene and Tropical Medicine,United Kingdom,NULL,NULL
+9019,5,2,11,CA,5764,Graeme Lindsay,NULL,NULL,NULL,NULL,NULL
+9953,5,2,11,CA,5765,Erin Lipp,NULL,NULL,NULL,NULL,NULL
+10080,5,2,11,CA,1916,Anthony J. McMichael,6,N/A,Australia,NULL,NULL
+9837,5,2,11,CA,5766,Virginia Murray,NULL,NULL,NULL,NULL,NULL
+9970,5,2,11,CA,5768,Marie O’Neill,NULL,NULL,NULL,NULL,NULL
+9074,5,2,11,CA,5767,Osman Sankoh,NULL,NULL,NULL,NULL,NULL
+9990,5,2,11,CA,5769,Seth B. Shonkoff,NULL,NULL,NULL,NULL,NULL
+9136,5,2,11,CA,5770,Joan Sutherland,NULL,NULL,NULL,NULL,NULL
+8922,5,2,11,CA,5771,Shelby Yamamoto,NULL,NULL,NULL,NULL,NULL
+9798,5,2,12,CLA,27,W. Neil Adger,131,University of Exeter,United Kingdom,NULL,NULL
+10188,5,2,12,CLA,2400,Juan Pulhin,81,N/A,Philippines,NULL,NULL
+10081,5,2,12,LA,5094,Jonathon Barnett,6,N/A,Australia,NULL,NULL
+9904,5,2,12,LA,5772,Geoffrey D. Dabelko,NULL,NULL,NULL,NULL,NULL
+9033,5,2,12,LA,5773,Grete K. Hovelsrud,367,Nordland Research Institute,Norway,NULL,NULL
+9951,5,2,12,LA,5774,Marc Levy,NULL,NULL,NULL,NULL,NULL
+8998,5,2,12,LA,5775,Úrsula Oswald Spring,NULL,NULL,NULL,NULL,NULL
+10199,5,2,12,LA,3119,Coleen Vogel,95,N/A,South Africa,NULL,NULL
+8823,5,2,12,RE,5780,Paulina Aldunce,144,University of Chile,Chile,NULL,NULL
+9949,5,2,12,RE,5781,Robin Leichenko,NULL,NULL,NULL,NULL,NULL
+9797,5,2,12,CA,5776,Helen Adams,131,University of Exeter,United Kingdom,NULL,NULL
+9821,5,2,12,CA,5777,Jennifer Hodbod,NULL,NULL,NULL,NULL,NULL
+8752,5,2,12,CA,5778,Stuart Kent,300,University of Melbourne,Australia,NULL,NULL
+8847,5,2,12,CA,5779,Marcela Tarazona,NULL,NULL,NULL,NULL,NULL
+9119,5,2,13,CLA,5782,Lennart Olsson,425,Lund University,Sweden,NULL,NULL
+8982,5,2,13,CLA,5783,Maggie Opondo,427,University of Nairobi,Kenya,NULL,NULL
+10004,5,2,13,CLA,5784,Petra Tschakert,NULL,NULL,NULL,NULL,NULL
+9872,5,2,13,LA,5785,Arun Agrawal,NULL,NULL,NULL,NULL,NULL
+10183,5,2,13,LA,5786,Siri H. Eriksen,75,N/A,Norway,NULL,NULL
+8838,5,2,13,LA,5787,Shiming Ma,406,Institute of Environment and Sustainable Development in Agriculture,China,NULL,NULL
+10095,5,2,13,LA,5788,Leisa N. Perch,9,N/A,Barbados,NULL,NULL
+10208,5,2,13,LA,5789,Sumaya A. Zakieldeen,99,N/A,Sudan,NULL,NULL
+9903,5,2,13,RE,5795,Susan Cutter,NULL,NULL,NULL,NULL,NULL
+9128,5,2,13,RE,5796,Etienne Piguet,438,University of Neuchatel,Switzerland,NULL,NULL
+9042,5,2,13,CA,5605,Asuncion Lera St. Clair,NULL,NULL,NULL,NULL,NULL
+9935,5,2,13,CA,5790,Catherine Jampel,NULL,NULL,NULL,NULL,NULL
+9942,5,2,13,CA,5791,Eric Kissel,NULL,NULL,NULL,NULL,NULL
+9057,5,2,13,CA,5792,Valentina Mara,NULL,NULL,NULL,NULL,NULL
+9036,5,2,13,CA,5793,Andrei Marin,346,Norwegian University of Life Sciences,Norway,NULL,NULL
+9850,5,2,13,CA,2627,David Satterthwaite,NULL,NULL,NULL,NULL,NULL
+9854,5,2,13,CA,5794,Andy Sumner,NULL,NULL,NULL,NULL,NULL
+9758,5,2,14,CLA,1277,Saleemul Huq,NULL,NULL,NULL,NULL,NULL
+10082,5,2,14,CLA,2136,Ian R. Noble,6,N/A,Australia,NULL,NULL
+10190,5,2,14,LA,106,Yurij Anokhin,86,N/A,Russian Federation,NULL,NULL
+9888,5,2,14,LA,5797,JoAnn Carmin,NULL,NULL,NULL,NULL,NULL
+9027,5,2,14,LA,5798,Dieudonne Goudou,NULL,NULL,NULL,NULL,NULL
+9046,5,2,14,LA,1633,Felino Lansigan,389,University of the Philippines Los Baños,Philippines,NULL,NULL
+9115,5,2,14,LA,2221,Balgis Osman-Elasha,429,African Development Bank,Sudan,NULL,NULL
+9140,5,2,14,LA,3107,Alicia Villamizar,477,Universidad Simon Bolivar,Venezuela,NULL,NULL
+8777,5,2,14,RE,2271,Anthony Patt,NULL,NULL,NULL,NULL,NULL
+8977,5,2,14,RE,5802,Kuniyoshi Takeuchi,NULL,NULL,NULL,NULL,NULL
+9801,5,2,14,CA,5799,Jessica Ayers,NULL,NULL,NULL,NULL,NULL
+10218,5,2,14,CA,241,Frans Berkhout,107,N/A,Netherlands,NULL,NULL
+9909,5,2,14,CA,5657,Kirstin Dow,NULL,NULL,NULL,NULL,NULL
+8890,5,2,14,CA,910,Hans-Martin Fussel,NULL,NULL,NULL,NULL,NULL
+10292,5,2,14,CA,2803,Joel B. Smith,113,N/A,USA,NULL,NULL
+10003,5,2,14,CA,5800,Kathleen Tierney,NULL,NULL,NULL,NULL,NULL
+9871,5,2,14,CA,5801,Helena Wright,697,Imperial College London,United Kingdom,NULL,NULL
+8969,5,2,15,CLA,1989,Nobuo Mimura,412,Ibaraki University,Japan,NULL,NULL
+10293,5,2,15,CLA,2401,Roger Pulwarty,113,N/A,USA,NULL,NULL
+9143,5,2,15,LA,5803,Do Minh Duc,343,Hanoi University of Science,Vietnam,NULL,NULL
+8851,5,2,15,LA,5804,Ibrahim Elshinnawy,345,National Water Research Center,Egypt,NULL,NULL
+10125,5,2,15,LA,5806,He-Qing Huang,23,N/A,China,NULL,NULL
+8797,5,2,15,LA,5117,Johnson Ndi Nkem,NULL,NULL,NULL,NULL,NULL
+9929,5,2,15,LA,5805,Margaret Hiza Redsteer,NULL,NULL,NULL,NULL,NULL
+9001,5,2,15,LA,5807,Roberto A. Sanchez Rodriguez,449,El Colegio de la Frontera Norte,Mexico,NULL,NULL
+9965,5,2,15,RE,2044,Richard H. Moss,NULL,NULL,NULL,NULL,NULL
+9764,5,2,15,RE,5812,Walter Vergara,NULL,NULL,NULL,NULL,NULL
+9906,5,2,15,CA,5808,Joseph Donahue,NULL,NULL,NULL,NULL,NULL
+9139,5,2,15,CA,5809,Fernando Miralles-Wilhelm,NULL,NULL,NULL,NULL,NULL
+9122,5,2,15,CA,5810,Sofie Storbjörk,NULL,NULL,NULL,NULL,NULL
+9770,5,2,15,CA,5811,Swenja Surminski,NULL,NULL,NULL,NULL,NULL
+9789,5,2,15,CA,5127,Maarten K. van Aalst,475,Red Cross / Red Crescent Climate Centre,Netherlands,NULL,NULL
+9116,5,2,16,CLA,1523,Richard J.T. Klein,384,Stockholm Environment Institute,Sweden,NULL,NULL
+9090,5,2,16,CLA,1965,Guy F. Midgley,411,South African National Biodiversity Institute,South Africa,NULL,NULL
+10294,5,2,16,CLA,5122,Benjamin L. Preston,113,N/A,USA,NULL,NULL
+8781,5,2,16,LA,54,Mozaharul Alam,NULL,NULL,NULL,NULL,NULL
+9778,5,2,16,LA,241,Frans Berkhout,NULL,NULL,NULL,NULL,NULL
+9910,5,2,16,LA,5657,Kirstin Dow,NULL,NULL,NULL,NULL,NULL
+9988,5,2,16,LA,5813,M. Rebecca Shaw,NULL,NULL,NULL,NULL,NULL
+8734,5,2,16,RE,977,Habiba Gitay,NULL,NULL,NULL,NULL,NULL
+9100,5,2,16,RE,5826,James Thurlow,NULL,NULL,NULL,NULL,NULL
+9779,5,2,16,CA,5814,Wouter Botzen,NULL,NULL,NULL,NULL,NULL
+9030,5,2,16,CA,5815,Halvard Buhaug,NULL,NULL,NULL,NULL,NULL
+9885,5,2,16,CA,5816,Karl W. Butzer,NULL,NULL,NULL,NULL,NULL
+10211,5,2,16,CA,5817,E. Carina H. Keskitalo,101,N/A,Sweden,NULL,NULL
+8835,5,2,16,CA,5818,Yu’e Li,NULL,NULL,NULL,NULL,NULL
+9058,5,2,16,CA,5819,Elena Mateescu,NULL,NULL,NULL,NULL,NULL
+9835,5,2,16,CA,2055,Robert Muir-Wood,NULL,NULL,NULL,NULL,NULL
+9766,5,2,16,CA,5820,Johanna Mustelin,NULL,NULL,NULL,NULL,NULL
+9847,5,2,16,CA,5821,Hannah Reid,NULL,NULL,NULL,NULL,NULL
+8766,5,2,16,CA,5822,Lauren Rickards,300,University of Melbourne,Australia,NULL,NULL
+9097,5,2,16,CA,5823,Sarshen Scorgie,NULL,NULL,NULL,NULL,NULL
+8768,5,2,16,CA,5824,Timothy F. Smith,NULL,NULL,NULL,NULL,NULL
+8780,5,2,16,CA,5825,Adelle Thomas,NULL,NULL,NULL,NULL,NULL
+9866,5,2,16,CA,3176,Paul Watkiss,892,Paul Watkiss Associates,United Kingdom,NULL,NULL
+9772,5,2,16,CA,3255,Johanna Wolf,NULL,NULL,NULL,NULL,NULL
+9144,5,2,17,CLA,5827,Muyeye Chambwera,NULL,NULL,NULL,NULL,NULL
+9928,5,2,17,CLA,5828,Geoffrey Heal,NULL,NULL,NULL,NULL,NULL
+8788,5,2,17,LA,5829,Carolina Dubeux,NULL,NULL,NULL,NULL,NULL
+8870,5,2,17,LA,1090,Stephane Hallegatte,NULL,NULL,NULL,NULL,NULL
+8809,5,2,17,LA,5830,Liza Leclerc,NULL,NULL,NULL,NULL,NULL
+9110,5,2,17,LA,1847,Anil Markandya,408,Basque Centre for Climate Change,Spain,NULL,NULL
+10295,5,2,17,LA,1894,Bruce McCarl,113,N/A,USA,NULL,NULL
+8774,5,2,17,LA,5831,Reinhard Mechler,NULL,NULL,NULL,NULL,NULL
+10296,5,2,17,LA,5832,James E. Neumann,113,N/A,USA,NULL,NULL
+9045,5,2,17,RE,419,Eduardo Calvo Buendia,315,Universidad Nacional Mayor de San Marcos,Peru,NULL,NULL
+9106,5,2,17,RE,1287,Ana Iglesias,NULL,NULL,NULL,NULL,NULL
+9037,5,2,17,RE,5838,Stale Navrud,346,Norwegian University of Life Sciences,Norway,NULL,NULL
+8863,5,2,17,CA,5833,Patrice Dumas,NULL,NULL,NULL,NULL,NULL
+9813,5,2,17,CA,810,Samuel Fankhauser,NULL,NULL,NULL,NULL,NULL
+8891,5,2,17,CA,910,Hans-Martin Fussel,NULL,NULL,NULL,NULL,NULL
+9823,5,2,17,CA,5834,Alistair Hunt,541,University of Bath,United Kingdom,NULL,NULL
+9946,5,2,17,CA,5835,Howard Kunreuther,NULL,NULL,NULL,NULL,NULL
+9859,5,2,17,CA,3011,Richard S.J. Tol,468,University of Sussex,United Kingdom,NULL,NULL
+9867,5,2,17,CA,3176,Paul Watkiss,892,Paul Watkiss Associates,United Kingdom,NULL,NULL
+10011,5,2,17,CA,5836,Richard Woodward,NULL,NULL,NULL,NULL,NULL
+10012,5,2,17,CA,5837,David Zilberman,NULL,NULL,NULL,NULL,NULL
+9768,5,2,18,CLA,577,Wolfgang P. Cramer,NULL,NULL,NULL,NULL,NULL
+10297,5,2,18,CLA,3324,Gary W. Yohe,113,N/A,USA,NULL,NULL
+9877,5,2,18,LA,5839,Maximilian Auffhammer,NULL,NULL,NULL,NULL,NULL
+8794,5,2,18,LA,5841,Maria Assunção Faus da Silva Dias,158,University of Sao Paulo,Brazil,NULL,NULL
+9126,5,2,18,LA,5840,Christian Huggel,246,University of Zurich,Switzerland,NULL,NULL
+9118,5,2,18,LA,2009,Ulf Molau,177,University of Gothenburg,Sweden,NULL,NULL
+9997,5,2,18,LA,2828,Andrew Solow,NULL,NULL,NULL,NULL,NULL
+10200,5,2,18,LA,2882,Daithi A. Stone,95,N/A,South Africa,NULL,NULL
+9049,5,2,18,LA,5842,Lourdes Tibig,437,Manila Observatory,Philippines,NULL,NULL
+9784,5,2,18,RE,1680,Rik Leemans,396,Wageningen University,Netherlands,NULL,NULL
+8877,5,2,18,RE,2698,Bernard Seguin,NULL,NULL,NULL,NULL,NULL
+8767,5,2,18,RE,5850,Neville Smith,NULL,NULL,NULL,NULL,NULL
+10219,5,2,18,CA,315,Laurens M. Bouwer,107,N/A,Netherlands,NULL,NULL
+9886,5,2,18,CA,5843,Mark Carey,NULL,NULL,NULL,NULL,NULL
+10116,5,2,18,CA,538,J. Graham Cogley,20,N/A,Canada,NULL,NULL
+8884,5,2,18,CA,5844,Dim Coumou,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10163,5,2,18,CA,5845,Yuka Otsuki Estrada,51,N/A,Japan,NULL,NULL
+8887,5,2,18,CA,5743,Eberhard Faust,349,Munich Reinsurance Company,Germany,NULL,NULL
+8896,5,2,18,CA,5846,Gerrit Hansen,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+8740,5,2,18,CA,1206,Ove Hoegh-Guldberg,365,University of Queensland,Australia,NULL,NULL
+10361,5,2,18,CA,1248,Joanna I. House,117,N/A,United Kingdom,NULL,NULL
+9932,5,2,18,CA,5847,Solomon Hsiang,NULL,NULL,NULL,NULL,NULL
+8744,5,2,18,CA,1269,Lesley Hughes,368,Macquarie University,Australia,NULL,NULL
+9829,5,2,18,CA,1571,Sari Kovats,358,London School of Hygiene and Tropical Medicine,United Kingdom,NULL,NULL
+8874,5,2,18,CA,5627,Paul Leadley,NULL,NULL,NULL,NULL,NULL
+9954,5,2,18,CA,5114,David B. Lobell,NULL,NULL,NULL,NULL,NULL
+9975,5,2,18,CA,2264,Camille Parmesan,NULL,NULL,NULL,NULL,NULL
+8762,5,2,18,CA,5120,Elvira S. Poloczanska,NULL,NULL,NULL,NULL,NULL
+10144,5,2,18,CA,5848,Hans Otto Pörtner,36,N/A,Germany,NULL,NULL
+9022,5,2,18,CA,5849,Andy Reisinger,442,New Zealand Agricultural Greenhouse Gas Research Centre,New Zealand,NULL,NULL
+8848,5,2,19,CLA,430,Maximiliano Campos,318,Organization of American States,Costa Rica,NULL,NULL
+9971,5,2,19,CLA,2214,Michael Oppenheimer,NULL,NULL,NULL,NULL,NULL
+9864,5,2,19,CLA,3167,Rachel Warren,NULL,NULL,NULL,NULL,NULL
+8882,5,2,19,LA,5851,Joern Birkmann,NULL,NULL,NULL,NULL,NULL
+9956,5,2,19,LA,5852,George Luber,NULL,NULL,NULL,NULL,NULL
+9969,5,2,19,LA,5119,Brian C. O’Neill,NULL,NULL,NULL,NULL,NULL
+8976,5,2,19,LA,2943,Kiyoshi Takahashi,129,National Institute for Environmental Studies,Japan,NULL,NULL
+8798,5,2,19,RE,349,Michael Brklacich,310,Carleton University,Canada,NULL,NULL
+9066,5,2,19,RE,2707,Serguei M. Semenov,NULL,NULL,NULL,NULL,NULL
+10220,5,2,19,CA,241,Frans Berkhout,107,N/A,Netherlands,NULL,NULL
+8784,5,2,19,CA,732,Pauline O. Dube,151,University of Botswana,Botswana,NULL,NULL
+9085,5,2,19,CA,5853,Wendy Foden,478,University of the Witwatersrand,South Africa,NULL,NULL
+8895,5,2,19,CA,5854,Stefan Greiving,NULL,NULL,NULL,NULL,NULL
+9933,5,2,19,CA,5847,Solomon Hsiang,NULL,NULL,NULL,NULL,NULL
+9938,5,2,19,CA,5855,Matt Johnston,NULL,NULL,NULL,NULL,NULL
+9939,5,2,19,CA,1457,Klaus Keller,NULL,NULL,NULL,NULL,NULL
+10298,5,2,19,CA,5201,Joan Kleypas,113,N/A,USA,NULL,NULL
+9944,5,2,19,CA,5266,Robert Kopp,NULL,NULL,NULL,NULL,NULL
+9952,5,2,19,CA,5856,Rachel Licker,NULL,NULL,NULL,NULL,NULL
+9843,5,2,19,CA,5857,Carlos Peres,231,University of East Anglia,United Kingdom,NULL,NULL
+9845,5,2,19,CA,2389,Jeff Price,NULL,NULL,NULL,NULL,NULL
+9979,5,2,19,CA,2521,Alan Robock,NULL,NULL,NULL,NULL,NULL
+9984,5,2,19,CA,5858,Wolfram Schlenker,NULL,NULL,NULL,NULL,NULL
+9998,5,2,19,CA,5859,John Richard Stepp,NULL,NULL,NULL,NULL,NULL
+10362,5,2,19,CA,3011,Richard S.J. Tol,117,N/A,United Kingdom,NULL,NULL
+9792,5,2,19,CA,3080,Detlef P. Van Vuuren,NULL,NULL,NULL,NULL,NULL
+9131,5,2,20,CLA,660,Fatima Denton,NULL,NULL,NULL,NULL,NULL
+10299,5,2,20,CLA,3225,Thomas J. Wilbanks,113,N/A,USA,NULL,NULL
+10207,5,2,20,LA,5860,Achala C. Abeysinghe,98,N/A,Sri Lanka,NULL,NULL
+8799,5,2,20,LA,397,Ian Burton,313,University of Toronto,Canada,NULL,NULL
+8833,5,2,20,LA,5861,Qingzhu Gao,406,Institute of Environment and Sustainable Development in Agriculture,China,NULL,NULL
+9950,5,2,20,LA,1690,Maria-Carmen Lemos,NULL,NULL,NULL,NULL,NULL
+8968,5,2,20,LA,5862,Toshihiko Masui,129,National Institute for Environmental Studies,Japan,NULL,NULL
+10184,5,2,20,LA,5863,Karen L. O’Brien,75,N/A,Norway,NULL,NULL
+8918,5,2,20,LA,5864,Koko Warner,NULL,NULL,NULL,NULL,NULL
+8932,5,2,20,RE,255,Suruchi Bhadwal,NULL,NULL,NULL,NULL,NULL
+8902,5,2,20,RE,5867,Walter Leal,NULL,NULL,NULL,NULL,NULL
+8783,5,2,20,RE,3082,Jean-Pascal van Ypersele,NULL,NULL,NULL,NULL,NULL
+8804,5,2,20,CA,5865,Thea Dickinson,313,University of Toronto,Canada,NULL,NULL
+8822,5,2,20,CA,5866,Kristina Yuzva,NULL,NULL,NULL,NULL,NULL
+9087,5,2,21,CLA,1188,Bruce Charles Hewitson,149,University of Cape Town,South Africa,NULL,NULL
+9936,5,2,21,CLA,1329,Anthony C. Janetos,NULL,NULL,NULL,NULL,NULL
+8854,5,2,21,LA,449,Timothy Carter,322,Finnish Environment Institute,Finland,NULL,NULL
+8950,5,2,21,LA,973,Filippo Giorgi,354,Abdus Salam International Centre for Theoretical Physics,Italy,NULL,NULL
+9827,5,2,21,LA,1384,Richard G. Jones,NULL,NULL,NULL,NULL,NULL
+9056,5,2,21,LA,1607,Won-Tae Kwon,229,National Institute of Meteorological Research,South Korea,NULL,NULL
+9121,5,2,21,LA,5868,E. Lisa F. Schipper,384,Stockholm Environment Institute,Sweden,NULL,NULL
+9960,5,2,21,LA,1922,Linda O. Mearns,NULL,NULL,NULL,NULL,NULL
+10221,5,2,21,LA,5127,Maarten K. van Aalst,107,N/A,Netherlands,NULL,NULL
+9911,5,2,21,RE,719,Thomas E. Downing,NULL,NULL,NULL,NULL,NULL
+9912,5,2,21,RE,736,Phil Duffy,NULL,NULL,NULL,NULL,NULL
+9880,5,2,21,CA,5095,Eren Bilir,NULL,NULL,NULL,NULL,NULL
+9894,5,2,21,CA,5869,Monalisa Chatterjee,NULL,NULL,NULL,NULL,NULL
+10300,5,2,21,CA,5607,Katharine J. Mach,113,N/A,USA,NULL,NULL
+9833,5,2,21,CA,5870,Carol McSweeney,NULL,NULL,NULL,NULL,NULL
+9846,5,2,21,CA,5871,Grace Redmond,NULL,NULL,NULL,NULL,NULL
+9985,5,2,21,CA,5872,Vanessa Schweizer,NULL,NULL,NULL,NULL,NULL
+9102,5,2,21,CA,5874,Claire van Wyk,149,University of Cape Town,South Africa,NULL,NULL
+10010,5,2,21,CA,5873,Luke Wirth,NULL,NULL,NULL,NULL,NULL
+9069,5,2,22,CLA,2122,Isabelle Niang-Diop,NULL,NULL,NULL,NULL,NULL
+9007,5,2,22,CLA,5875,Oliver C. Ruppel,447,University of Stellenbosch,Namibia,NULL,NULL
+10133,5,2,22,LA,5876,Mohamed A. Abdrabo,30,N/A,Egypt,NULL,NULL
+8923,5,2,22,LA,5877,Ama Essel,NULL,NULL,NULL,NULL,NULL
+9089,5,2,22,LA,5878,Christopher Lennard,NULL,NULL,NULL,NULL,NULL
+9972,5,2,22,LA,5879,Jonathan Padgham,NULL,NULL,NULL,NULL,NULL
+9101,5,2,22,LA,5880,Penny Urquhart,381,Independent Consultant,South Africa,NULL,NULL
+8785,5,2,22,RE,732,Pauline O. Dube,151,University of Botswana,Botswana,NULL,NULL
+9948,5,2,22,RE,1668,Neil A. Leary,NULL,NULL,NULL,NULL,NULL
+9028,5,2,22,CA,5881,Ibidun Adelekan,1411,University of Ibadan,Nigeria,NULL,NULL
+9081,5,2,22,CA,5882,Sally Archibald,NULL,NULL,NULL,NULL,NULL
+8796,5,2,22,CA,5883,Michael Balinga,NULL,NULL,NULL,NULL,NULL
+8880,5,2,22,CA,5884,Armineh Barkhordarian,NULL,NULL,NULL,NULL,NULL
+9082,5,2,22,CA,5885,Jane Battersby,NULL,NULL,NULL,NULL,NULL
+9881,5,2,22,CA,5095,Eren Bilir,NULL,NULL,NULL,NULL,NULL
+9883,5,2,22,CA,5886,Marshall Burke,NULL,NULL,NULL,NULL,NULL
+10229,5,2,22,CA,5887,Mohammed Chahed,110,N/A,Tunisia,NULL,NULL
+9895,5,2,22,CA,5869,Monalisa Chatterjee,NULL,NULL,NULL,NULL,NULL
+10178,5,2,22,CA,5888,Chineke Theo Chidiezie,74,N/A,Nigeria,NULL,NULL
+9781,5,2,22,CA,5889,Katrien Descheemaeker,NULL,NULL,NULL,NULL,NULL
+8715,5,2,22,CA,5890,Houria Djoudi,NULL,NULL,NULL,NULL,NULL
+9918,5,2,22,CA,756,Kristie L. Ebi,NULL,NULL,NULL,NULL,NULL
+9067,5,2,22,CA,5891,Papa Demba Fall,NULL,NULL,NULL,NULL,NULL
+10166,5,2,22,CA,5892,Ricardo Fuentes,64,N/A,Mexico,NULL,NULL
+9086,5,2,22,CA,5893,Rebecca Garland,NULL,NULL,NULL,NULL,NULL
+10215,5,2,22,CA,5894,Fatou Gaye,106,N/A,The Gambia,NULL,NULL
+10179,5,2,22,CA,5107,Emiola Gbobaniyi,74,N/A,Nigeria,NULL,NULL
+9924,5,2,22,CA,995,Patrick Gonzalez,NULL,NULL,NULL,NULL,NULL
+9760,5,2,22,CA,5895,Blane Harvey,NULL,NULL,NULL,NULL,NULL
+9926,5,2,22,CA,5896,Mary Hayden,NULL,NULL,NULL,NULL,NULL
+8897,5,2,22,CA,5897,Andreas Hemp,1145,University of Bayreuth,Germany,NULL,NULL
+9004,5,2,22,CA,1196,Karim Hilmi,363,Institut National de Recherche Halieutique,Morocco,NULL,NULL
+9826,5,2,22,CA,5898,Guy Jobbins,1089,Overseas Development Institute,United Kingdom,NULL,NULL
+9937,5,2,22,CA,5899,Jennifer Johnson,NULL,NULL,NULL,NULL,NULL
+9955,5,2,22,CA,5114,David B. Lobell,NULL,NULL,NULL,NULL,NULL
+8875,5,2,22,CA,5900,Bruno Locatelli,NULL,NULL,NULL,NULL,NULL
+9830,5,2,22,CA,5901,Eva Ludi,1089,Overseas Development Institute,United Kingdom,NULL,NULL
+9775,5,2,22,CA,5902,Lars Otto Naess,NULL,NULL,NULL,NULL,NULL
+9145,5,2,22,CA,5903,Mzime R. Ndebele-Murisa,NULL,NULL,NULL,NULL,NULL
+9068,5,2,22,CA,5904,Aminata Ndiaye,336,University Cheikh Anta Diop of Dakar,Senegal,NULL,NULL
+9838,5,2,22,CA,5905,Andrew Newsham,NULL,NULL,NULL,NULL,NULL
+10216,5,2,22,CA,5906,Sirra Njai,106,N/A,The Gambia,NULL,NULL
+10108,5,2,22,CA,5117,Johnson Ndi Nkem,19,N/A,Cameroon,NULL,NULL
+9091,5,2,22,CA,5907,Jane Mukarugwiza Olwoch,NULL,NULL,NULL,NULL,NULL
+9786,5,2,22,CA,5908,Pieter Pauw,NULL,NULL,NULL,NULL,NULL
+8795,5,2,22,CA,5909,Emilia Pramova,NULL,NULL,NULL,NULL,NULL
+8986,5,2,22,CA,5910,Marie-Louise Rakotondrafara,441,Madagascar National Weather Service,Madagascar,NULL,NULL
+8946,5,2,22,CA,5911,Clionadh Raleigh,NULL,NULL,NULL,NULL,NULL
+9093,5,2,22,CA,5123,Debra C. Roberts,446,Ethekwini Municipality,South Africa,NULL,NULL
+9980,5,2,22,CA,5912,Carla Roncoli,NULL,NULL,NULL,NULL,NULL
+9072,5,2,22,CA,5728,Aissa Toure Sarr,471,International Fund for Agricultural Development (IFAD),Senegal,NULL,NULL
+9094,5,2,22,CA,5913,Michael Henry Schleyer,NULL,NULL,NULL,NULL,NULL
+8912,5,2,22,CA,5914,Lena Schulte-Uebbing,NULL,NULL,NULL,NULL,NULL
+9096,5,2,22,CA,2683,Roland Schulze,872,University of KwaZulu-Natal,South Africa,NULL,NULL
+8852,5,2,22,CA,5915,Hussen Seid,NULL,NULL,NULL,NULL,NULL
+9098,5,2,22,CA,5916,Sheona Shackleton,327,Rhodes University,South Africa,NULL,NULL
+9099,5,2,22,CA,5483,Mxolisi Shongwe,262,South African Weather Service,South Africa,NULL,NULL
+9761,5,2,22,CA,2882,Daithi A. Stone,NULL,NULL,NULL,NULL,NULL
+9855,5,2,22,CA,5917,David Thomas,NULL,NULL,NULL,NULL,NULL
+10180,5,2,22,CA,5918,Okoro Ugochukwu,74,N/A,Nigeria,NULL,NULL
+10181,5,2,22,CA,5919,Dike Victor,74,N/A,Nigeria,NULL,NULL
+9103,5,2,22,CA,3110,Katharine Vincent,NULL,NULL,NULL,NULL,NULL
+8919,5,2,22,CA,5864,Koko Warner,NULL,NULL,NULL,NULL,NULL
+9132,5,2,22,CA,5920,Sidat Yaffa,NULL,NULL,NULL,NULL,NULL
+10363,5,2,23,CLA,1571,Sari Kovats,117,N/A,United Kingdom,NULL,NULL
+8957,5,2,23,CLA,5921,Riccardo Valentini,473,University of Tuscia and Euro-Mediterranean Center for Climate Change,Italy,NULL,NULL
+9780,5,2,23,LA,315,Laurens M. Bouwer,NULL,NULL,NULL,NULL,NULL
+8924,5,2,23,LA,5922,Elena Georgopoulou,353,National Observatory of Athens,Greece,NULL,NULL
+8900,5,2,23,LA,5923,Daniela Jacob,372,"Climate Service Center, Hamburg",Germany,NULL,NULL
+8876,5,2,23,LA,1859,Eric Martin,NULL,NULL,NULL,NULL,NULL
+9849,5,2,23,LA,2565,Mark Rounsevell,211,University of Edinburgh,United Kingdom,NULL,NULL
+8878,5,2,23,LA,2839,Jean-Francois Soussana,NULL,NULL,NULL,NULL,NULL
+9776,5,2,23,RE,565,Roman Corobov,NULL,NULL,NULL,NULL,NULL
+9080,5,2,23,RE,1409,Lucka Kajfez-Bogataj,377,University of Ljubljana,Slovenia,NULL,NULL
+9114,5,2,23,RE,5943,Ramón Vallejo,NULL,NULL,NULL,NULL,NULL
+9123,5,2,23,CA,231,Martin Beniston,NULL,NULL,NULL,NULL,NULL
+8949,5,2,23,CA,5924,Maria Vincenza Chiriacò,NULL,NULL,NULL,NULL,NULL
+10135,5,2,23,CA,5925,Philippe Cury,35,N/A,France,NULL,NULL
+9810,5,2,23,CA,5926,Michael Davies,638,University College London,United Kingdom,NULL,NULL
+9819,5,2,23,CA,5927,Paula Harrison,NULL,NULL,NULL,NULL,NULL
+9782,5,2,23,CA,5928,Olaf Jonkeren,NULL,NULL,NULL,NULL,NULL
+9783,5,2,23,CA,5929,Mark Koetse,NULL,NULL,NULL,NULL,NULL
+8857,5,2,23,CA,5930,Markus Lindner,1187,European Forest Institute,Finland,NULL,NULL
+9773,5,2,23,CA,5931,Andreas Matzarakis,NULL,NULL,NULL,NULL,NULL
+8775,5,2,23,CA,5831,Reinhard Mechler,NULL,NULL,NULL,NULL,NULL
+8904,5,2,23,CA,1944,Annette Menzel,799,Technical University of Munich,Germany,NULL,NULL
+9834,5,2,23,CA,5932,Marc Metzger,NULL,NULL,NULL,NULL,NULL
+8952,5,2,23,CA,5933,Luca Montanarella,NULL,NULL,NULL,NULL,NULL
+8953,5,2,23,CA,5934,Antonio Navarra,NULL,NULL,NULL,NULL,NULL
+8907,5,2,23,CA,5935,Juliane Petersen,NULL,NULL,NULL,NULL,NULL
+9844,5,2,23,CA,2391,Martin Price,NULL,NULL,NULL,NULL,NULL
+9065,5,2,23,CA,2481,Boris Revich,NULL,NULL,NULL,NULL,NULL
+9787,5,2,23,CA,5936,Piet Rietveld,NULL,NULL,NULL,NULL,NULL
+8955,5,2,23,CA,5937,Cristina Sabbioni,NULL,NULL,NULL,NULL,NULL
+8925,5,2,23,CA,5938,Yannis Sarafidis,NULL,NULL,NULL,NULL,NULL
+8779,5,2,23,CA,5939,Vegard Skirbekk,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+8956,5,2,23,CA,5940,Donatella Spano,NULL,NULL,NULL,NULL,NULL
+9793,5,2,23,CA,5941,Jan E. Vermaat,NULL,NULL,NULL,NULL,NULL
+9868,5,2,23,CA,3176,Paul Watkiss,892,Paul Watkiss Associates,United Kingdom,NULL,NULL
+9870,5,2,23,CA,5942,Meriwether Wilson,NULL,NULL,NULL,NULL,NULL
+9052,5,2,23,CA,5129,Tomasz Zylicz,656,University of Warsaw,Poland,NULL,NULL
+8963,5,2,24,CLA,5944,Yasuaki Hijioka,129,National Institute for Environmental Studies,Japan,NULL,NULL
+8836,5,2,24,CLA,1726,Erda Lin,NULL,NULL,NULL,NULL,NULL
+8987,5,2,24,CLA,5945,Joy Jacqueline Pereira,NULL,NULL,NULL,NULL,NULL
+8830,5,2,24,LA,5946,Richard T. Corlett,233,Chinese Academy of Sciences,China,NULL,NULL
+8831,5,2,24,LA,5947,Xuefeng Cui,190,Beijing Normal University,China,NULL,NULL
+9063,5,2,24,LA,5110,Gregory E. Insarov,NULL,NULL,NULL,NULL,NULL
+9047,5,2,24,LA,1642,Rodel Lasco,NULL,NULL,NULL,NULL,NULL
+9117,5,2,24,LA,1731,Elisabet Lindgren,400,Karolinska Institutet,Sweden,NULL,NULL
+8945,5,2,24,LA,5948,Akhilesh Surjan,NULL,NULL,NULL,NULL,NULL
+9048,5,2,24,RE,2304,Rosa Perez,437,Manila Observatory,Philippines,NULL,NULL
+8978,5,2,24,RE,5961,Kazuhiko Takeuchi,465,United Nations University,Japan,NULL,NULL
+10301,5,2,24,CA,5949,Elena M. Aizen,113,N/A,USA,NULL,NULL
+9873,5,2,24,CA,5950,Vladimir B. Aizen,NULL,NULL,NULL,NULL,NULL
+8961,5,2,24,CA,5952,Kenshi Baba,NULL,NULL,NULL,NULL,NULL
+8782,5,2,24,CA,5951,Rawshan Ara Begum,NULL,NULL,NULL,NULL,NULL
+9896,5,2,24,CA,5869,Monalisa Chatterjee,NULL,NULL,NULL,NULL,NULL
+8801,5,2,24,CA,538,J. Graham Cogley,328,Trent University,Canada,NULL,NULL
+9905,5,2,24,CA,5103,Noah S. Diffenbaugh,NULL,NULL,NULL,NULL,NULL
+9075,5,2,24,CA,5953,Li Ding,NULL,NULL,NULL,NULL,NULL
+8832,5,2,24,CA,925,Qingxian Gao,NULL,NULL,NULL,NULL,NULL
+8892,5,2,24,CA,5954,Matthias Garschagen,NULL,NULL,NULL,NULL,NULL
+8962,5,2,24,CA,5955,Masahiro Hashizume,NULL,NULL,NULL,NULL,NULL
+8934,5,2,24,CA,1424,Manmohan Kapshe,822,Maulana Azad National Institute of Technology,India,NULL,NULL
+9777,5,2,24,CA,5113,Andrey G. Kostianoy,NULL,NULL,NULL,NULL,NULL
+8757,5,2,24,CA,1911,Kathleen McInnes,NULL,NULL,NULL,NULL,NULL
+8937,5,2,24,CA,5956,Sreeja Nair,NULL,NULL,NULL,NULL,NULL
+8942,5,2,24,CA,5957,S.V.R.K. Prabhakar,NULL,NULL,NULL,NULL,NULL
+8974,5,2,24,CA,2594,Yoshiki Saito,448,National Institute of Advanced Industrial Science and Technology,Japan,NULL,NULL
+9077,5,2,24,CA,5958,Andreas Schaffer,NULL,NULL,NULL,NULL,NULL
+8975,5,2,24,CA,5959,Rajib Shaw,464,Kyoto University,Japan,NULL,NULL
+9762,5,2,24,CA,2882,Daithi A. Stone,NULL,NULL,NULL,NULL,NULL
+9050,5,2,24,CA,5960,Reiner Wassman,NULL,NULL,NULL,NULL,NULL
+10302,5,2,24,CA,3225,Thomas J. Wilbanks,113,N/A,USA,NULL,NULL
+8840,5,2,24,CA,3279,Shaohong Wu,NULL,NULL,NULL,NULL,NULL
+10083,5,2,25,CLA,5962,Roger L. Kitching,6,N/A,Australia,NULL,NULL
+9023,5,2,25,CLA,5849,Andy Reisinger,442,New Zealand Agricultural Greenhouse Gas Research Centre,New Zealand,NULL,NULL
+8727,5,2,25,LA,498,Francis Chiew,NULL,NULL,NULL,NULL,NULL
+8745,5,2,25,LA,1269,Lesley Hughes,368,Macquarie University,Australia,NULL,NULL
+10176,5,2,25,LA,5963,Paul C.D. Newton,73,N/A,New Zealand,NULL,NULL
+10084,5,2,25,LA,5964,Sandra S. Schuster,6,N/A,Australia,NULL,NULL
+9025,5,2,25,LA,5965,Andrew Tait,307,National Institute of Water and Atmosphere,New Zealand,NULL,NULL
+8772,5,2,25,LA,3210,Penny Whetton,NULL,NULL,NULL,NULL,NULL
+9012,5,2,25,RE,844,B. Blair Fitzharris,350,University of Otago,New Zealand,NULL,NULL
+8751,5,2,25,RE,1434,David J. Karoly,300,University of Melbourne,Australia,NULL,NULL
+10085,5,2,25,CA,5094,Jonathon Barnett,6,N/A,Australia,NULL,NULL
+9009,5,2,25,CA,221,Susanne Becken,NULL,NULL,NULL,NULL,NULL
+9010,5,2,25,CA,5966,Paula Blackett,420,AgResearch,New Zealand,NULL,NULL
+8722,5,2,25,CA,5967,Sarah Boulter,NULL,NULL,NULL,NULL,NULL
+8726,5,2,25,CA,5968,Andrew Campbell,NULL,NULL,NULL,NULL,NULL
+9011,5,2,25,CA,5969,Daniel Collins,NULL,NULL,NULL,NULL,NULL
+8729,5,2,25,CA,5970,Jocelyn Davies,NULL,NULL,NULL,NULL,NULL
+8730,5,2,25,CA,5971,Keith Dear,230,Australian National University,Australia,NULL,NULL
+8731,5,2,25,CA,5972,Stephen Dovers,230,Australian National University,Australia,NULL,NULL
+8732,5,2,25,CA,5973,Kyla Finlay,NULL,NULL,NULL,NULL,NULL
+9013,5,2,25,CA,5974,Bruce Glavovic,633,Massey University,New Zealand,NULL,NULL
+8735,5,2,25,CA,1019,Donna Green,125,University of New South Wales,Australia,NULL,NULL
+8736,5,2,25,CA,5975,Don Gunasekera,NULL,NULL,NULL,NULL,NULL
+9014,5,2,25,CA,1083,Simon Hales,NULL,NULL,NULL,NULL,NULL
+8737,5,2,25,CA,5976,John Handmer,NULL,NULL,NULL,NULL,NULL
+9015,5,2,25,CA,5977,Garth Harmsworth,774,Landcare Research,New Zealand,NULL,NULL
+8738,5,2,25,CA,1203,Alistair Hobday,NULL,NULL,NULL,NULL,NULL
+8743,5,2,25,CA,1253,Mark Howden,171,Commonwealth Scientific and Industrial Research Organization (CSIRO),Australia,NULL,NULL
+8746,5,2,25,CA,5978,Graeme Hugo,807,University of Adelaide,Australia,NULL,NULL
+8747,5,2,25,CA,5979,Sue Jackson,311,Griffith University,Australia,NULL,NULL
+8748,5,2,25,CA,5980,David Jones,250,Bureau of Meteorology,Australia,NULL,NULL
+9016,5,2,25,CA,1500,Darren King,NULL,NULL,NULL,NULL,NULL
+9017,5,2,25,CA,1512,Miko Kirschbaum,774,Landcare Research,New Zealand,NULL,NULL
+8753,5,2,25,CA,5981,Jo Luck,NULL,NULL,NULL,NULL,NULL
+8754,5,2,25,CA,5982,Yiheyis Maru,NULL,NULL,NULL,NULL,NULL
+8755,5,2,25,CA,5983,Jan McDonald,163,University of Tasmania,Australia,NULL,NULL
+8758,5,2,25,CA,1911,Kathleen McInnes,NULL,NULL,NULL,NULL,NULL
+9767,5,2,25,CA,5820,Johanna Mustelin,NULL,NULL,NULL,NULL,NULL
+8760,5,2,25,CA,5984,Barbara Norman,NULL,NULL,NULL,NULL,NULL
+9020,5,2,25,CA,5985,Grant Pearce,NULL,NULL,NULL,NULL,NULL
+9021,5,2,25,CA,5986,Susan Peoples,420,AgResearch,New Zealand,NULL,NULL
+10303,5,2,25,CA,5122,Benjamin L. Preston,113,N/A,USA,NULL,NULL
+8763,5,2,25,CA,5987,Joseph Reser,311,Griffith University,Australia,NULL,NULL
+8764,5,2,25,CA,5988,Penny Reyenga,NULL,NULL,NULL,NULL,NULL
+10086,5,2,25,CA,2853,Mark Stafford Smith,6,N/A,Australia,NULL,NULL
+8769,5,2,25,CA,5989,Xiaoming Wang,NULL,NULL,NULL,NULL,NULL
+8770,5,2,25,CA,5990,Leanne Webb,NULL,NULL,NULL,NULL,NULL
+10167,5,2,26,CLA,2545,Patricia Romero Lankao,64,N/A,Mexico,NULL,NULL
+9993,5,2,26,CLA,2803,Joel B. Smith,NULL,NULL,NULL,NULL,NULL
+10117,5,2,26,LA,5991,Debra J. Davidson,20,N/A,Canada,NULL,NULL
+10304,5,2,26,LA,5103,Noah S. Diffenbaugh,113,N/A,USA,NULL,NULL
+10305,5,2,26,LA,5992,Patrick L. Kinney,113,N/A,USA,NULL,NULL
+9941,5,2,26,LA,5993,Paul Kirshen,NULL,NULL,NULL,NULL,NULL
+8808,5,2,26,LA,1570,Paul Kovacs,385,Institute for Catastrophic Loss Reduction,Canada,NULL,NULL
+10168,5,2,26,LA,5994,Lourdes Villers Ruiz,64,N/A,Mexico,NULL,NULL
+8997,5,2,26,RE,2029,Ana Rosa Moreno,NULL,NULL,NULL,NULL,NULL
+8813,5,2,26,RE,2039,Linda Mortsch,164,Environment Canada,Canada,NULL,NULL
+9876,5,2,26,CA,5632,William Anderegg,NULL,NULL,NULL,NULL,NULL
+9891,5,2,26,CA,5995,Jessie Carr,NULL,NULL,NULL,NULL,NULL
+10306,5,2,26,CA,5996,Anthony Cheng,113,N/A,USA,NULL,NULL
+8802,5,2,26,CA,6001,Rob de Loë,766,University of Waterloo,Canada,NULL,NULL
+8805,5,2,26,CA,5865,Thea Dickinson,313,University of Toronto,Canada,NULL,NULL
+9907,5,2,26,CA,5997,Ellen Douglas,NULL,NULL,NULL,NULL,NULL
+9914,5,2,26,CA,5998,Hallie Eakin,NULL,NULL,NULL,NULL,NULL
+9921,5,2,26,CA,5999,Daniel M. Gnatz,NULL,NULL,NULL,NULL,NULL
+9927,5,2,26,CA,5896,Mary Hayden,NULL,NULL,NULL,NULL,NULL
+8995,5,2,26,CA,1357,Blanca Elena Jimenez Cisneros,NULL,NULL,NULL,NULL,NULL
+9962,5,2,26,CA,6002,Michael D. Meyer,NULL,NULL,NULL,NULL,NULL
+9967,5,2,26,CA,6003,Catherine Ngo,NULL,NULL,NULL,NULL,NULL
+8939,5,2,26,CA,6004,Amrutasri Nori-Sarma,NULL,NULL,NULL,NULL,NULL
+8815,5,2,26,CA,6005,Greg Oulahen,385,Institute for Catastrophic Loss Reduction,Canada,NULL,NULL
+9973,5,2,26,CA,6006,Diana Pape,NULL,NULL,NULL,NULL,NULL
+9000,5,2,26,CA,6011,Landy Sánchez Peña,NULL,NULL,NULL,NULL,NULL
+9977,5,2,26,CA,2401,Roger Pulwarty,NULL,NULL,NULL,NULL,NULL
+9978,5,2,26,CA,6008,Ashlinn Quinn,NULL,NULL,NULL,NULL,NULL
+9982,5,2,26,CA,6010,Daniel Runfola,NULL,NULL,NULL,NULL,NULL
+9002,5,2,26,CA,6009,Fabiola S. Sosa-Rodriguez,NULL,NULL,NULL,NULL,NULL
+10006,5,2,26,CA,6012,Bradley H. Udall,NULL,NULL,NULL,NULL,NULL
+10169,5,2,26,CA,6007,Ana Peña del Valle,64,N/A,Mexico,NULL,NULL
+9003,5,2,26,CA,6000,Maria Eugenia Ibarraran Viniegra,NULL,NULL,NULL,NULL,NULL
+8820,5,2,26,CA,6013,Fiona Warren,790,Natural Resources Canada,Canada,NULL,NULL
+10009,5,2,26,CA,6014,Kate Weinberger,NULL,NULL,NULL,NULL,NULL
+10307,5,2,26,CA,3225,Thomas J. Wilbanks,113,N/A,USA,NULL,NULL
+10071,5,2,27,CLA,1815,Graciela Odilia Magrin,5,N/A,Argentina,NULL,NULL
+10101,5,2,27,CLA,1844,José Marengo,16,N/A,Brazil,NULL,NULL
+8860,5,2,27,LA,6015,Jean-Philipe Boulanger,NULL,NULL,NULL,NULL,NULL
+8787,5,2,27,LA,6016,Marcos S. Buckeridge,158,University of Sao Paulo,Brazil,NULL,NULL
+8926,5,2,27,LA,6017,Edwin Castellanos,323,Universidad del Valle de Guatemala,Guatemala,NULL,NULL
+8846,5,2,27,LA,2378,German Poveda,NULL,NULL,NULL,NULL,NULL
+8793,5,2,27,LA,6018,Fabio R. Scarano,NULL,NULL,NULL,NULL,NULL
+8826,5,2,27,LA,6019,Sebastián Vicuña,410,Pontificia Universidad Catolica de Chile,Chile,NULL,NULL
+8716,5,2,27,RE,6032,Leonidas Osvaldo Girardin,355,Fundacion Bariloche,Argentina,NULL,NULL
+8791,5,2,27,RE,6033,Jean Pierre Ometto,NULL,NULL,NULL,NULL,NULL
+10128,5,2,27,CA,6020,Eric Alfaro,25,N/A,Costa Rica,NULL,NULL
+10136,5,2,27,CA,6021,Fabien Anthelme,35,N/A,France,NULL,NULL
+10364,5,2,27,CA,6022,Jonathan Barton,117,N/A,United Kingdom,NULL,NULL
+8881,5,2,27,CA,6023,Nina Becker,NULL,NULL,NULL,NULL,NULL
+10137,5,2,27,CA,6024,Arnaud Bertrand,35,N/A,France,NULL,NULL
+10102,5,2,27,CA,553,Ulisses Confalonieri,16,N/A,Brazil,NULL,NULL
+10103,5,2,27,CA,6025,Amanda Pereira de Souza,16,N/A,Brazil,NULL,NULL
+10204,5,2,27,CA,6026,Carlos Demiguel,97,N/A,Spain,NULL,NULL
+8865,5,2,27,CA,872,Bernard Francou,NULL,NULL,NULL,NULL,NULL
+10122,5,2,27,CA,6027,Rene Garreaud,22,N/A,Chile,NULL,NULL
+10205,5,2,27,CA,5115,Iñigo J. Losada,97,N/A,Spain,NULL,NULL
+10308,5,2,27,CA,6028,Melanie McField,113,N/A,USA,NULL,NULL
+8790,5,2,27,CA,2137,Carlos A. Nobre,596,Ministry of Science and Technology,Brazil,NULL,NULL
+10170,5,2,27,CA,2545,Patricia Romero Lankao,64,N/A,Mexico,NULL,NULL
+10104,5,2,27,CA,6029,Paulo Saldiva,16,N/A,Brazil,NULL,NULL
+10171,5,2,27,CA,6030,Jose Luis Samaniego,64,N/A,Mexico,NULL,NULL
+10072,5,2,27,CA,3021,María Isabel Travasso,5,N/A,Argentina,NULL,NULL
+8719,5,2,27,CA,6031,Ernesto Viglizzo,NULL,NULL,NULL,NULL,NULL
+9141,5,2,27,CA,3107,Alicia Villamizar,477,Universidad Simon Bolivar,Venezuela,NULL,NULL
+9060,5,2,28,CLA,102,Oleg A. Anisimov,294,State Hydrological Institute,Russian Federation,NULL,NULL
+8928,5,2,28,CLA,6034,Joan Nymand Larsen,390,Stefansson Arctic Institute,Iceland,NULL,NULL
+8728,5,2,28,LA,6035,Andrew Constable,330,Australian Antarctic Division,Australia,NULL,NULL
+10309,5,2,28,LA,6036,Anne B. Hollowed,113,N/A,USA,NULL,NULL
+9957,5,2,28,LA,6037,Nancy Maynard,NULL,NULL,NULL,NULL,NULL
+9040,5,2,28,LA,6038,Pål Prestrud,NULL,NULL,NULL,NULL,NULL
+10118,5,2,28,LA,2397,Terry D. Prowse,20,N/A,Canada,NULL,NULL
+10119,5,2,28,LA,2883,John M.R. Stone,20,N/A,Canada,NULL,NULL
+9059,5,2,28,RE,6051,Maria Ananicheva,NULL,NULL,NULL,NULL,NULL
+9893,5,2,28,RE,6052,F. Stuart Chapin III,NULL,NULL,NULL,NULL,NULL
+9805,5,2,28,CA,414,Terry V. Callaghan,NULL,NULL,NULL,NULL,NULL
+9887,5,2,28,CA,5843,Mark Carey,NULL,NULL,NULL,NULL,NULL
+9807,5,2,28,CA,6039,Peter Convey,146,British Antarctic Survey,United Kingdom,NULL,NULL
+8803,5,2,28,CA,6040,Andrew Derocher,335,University of Alberta,Canada,NULL,NULL
+8855,5,2,28,CA,6041,Bruce C. Forbes,NULL,NULL,NULL,NULL,NULL
+9815,5,2,28,CA,6042,Peter T. Fretwell,146,British Antarctic Survey,United Kingdom,NULL,NULL
+9032,5,2,28,CA,6043,Solveig Glomsrød,NULL,NULL,NULL,NULL,NULL
+9822,5,2,28,CA,6044,Dominic Hodgson,146,British Antarctic Survey,United Kingdom,NULL,NULL
+9931,5,2,28,CA,5109,Eileen E. Hofmann,NULL,NULL,NULL,NULL,NULL
+9034,5,2,28,CA,5773,Grete K. Hovelsrud,367,Nordland Research Institute,Norway,NULL,NULL
+8810,5,2,28,CA,6045,Gita L. Ljubicic,310,Carleton University,Canada,NULL,NULL
+9035,5,2,28,CA,1759,Harald Loeng,NULL,NULL,NULL,NULL,NULL
+9836,5,2,28,CA,6046,Eugene Murphy,146,British Antarctic Survey,United Kingdom,NULL,NULL
+8759,5,2,28,CA,6047,Steve Nicol,NULL,NULL,NULL,NULL,NULL
+9038,5,2,28,CA,6048,Anders Oskal,NULL,NULL,NULL,NULL,NULL
+8818,5,2,28,CA,2473,James Reist,676,Fisheries and Oceans Canada,Canada,NULL,NULL
+9861,5,2,28,CA,6049,Phil Trathan,146,British Antarctic Survey,United Kingdom,NULL,NULL
+8771,5,2,28,CA,6050,Barbara Weinecke,NULL,NULL,NULL,NULL,NULL
+8821,5,2,28,CA,3277,Fred Wrona,164,Environment Canada,Canada,NULL,NULL
+10087,5,2,29,CLA,1914,Roger McLean,6,N/A,Australia,NULL,NULL
+10096,5,2,29,CLA,2152,Leonard Nurse,9,N/A,Barbados,NULL,NULL
+9133,5,2,29,LA,31,John Agard,289,University of the West Indies,Trinidad and Tobago,NULL,NULL
+8989,5,2,29,LA,345,Lino Briguglio,NULL,NULL,NULL,NULL,NULL
+8864,5,2,29,LA,6053,Virginie Duvat-Magnan,NULL,NULL,NULL,NULL,NULL
+9795,5,2,29,LA,6054,Netatua Pelesikoti,NULL,NULL,NULL,NULL,NULL
+9860,5,2,29,LA,6055,Emma Tompkins,NULL,NULL,NULL,NULL,NULL
+8853,5,2,29,LA,6056,Arthur Webb,NULL,NULL,NULL,NULL,NULL
+9853,5,2,29,RE,2843,Thomas Spencer,276,University of Cambridge,United Kingdom,NULL,NULL
+8980,5,2,29,RE,6060,Kazuya Yasuhara,412,Ibaraki University,Japan,NULL,NULL
+10177,5,2,29,CA,6057,John Campbell,73,N/A,New Zealand,NULL,NULL
+9134,5,2,29,CA,5098,Dave D. Chadee,289,University of the West Indies,Trinidad and Tobago,NULL,NULL
+9135,5,2,29,CA,6058,Shobha Maharaj,289,University of the West Indies,Trinidad and Tobago,NULL,NULL
+8812,5,2,29,CA,6059,Veronique Morin,NULL,NULL,NULL,NULL,NULL
+9073,5,2,29,CA,2279,Rolph Payet,NULL,NULL,NULL,NULL,NULL
+8819,5,2,29,CA,2693,Daniel Scott,766,University of Waterloo,Canada,NULL,NULL
+9791,5,2,29,CA,5424,Geert Jan van Oldenborgh,NULL,NULL,NULL,NULL,NULL
+8828,5,2,30,CLA,6061,Rongshuo Cai,NULL,NULL,NULL,NULL,NULL
+8741,5,2,30,CLA,1206,Ove Hoegh-Guldberg,365,University of Queensland,Australia,NULL,NULL
+9882,5,2,30,LA,5096,Peter G. Brewer,NULL,NULL,NULL,NULL,NULL
+9919,5,2,30,LA,6063,Victoria J. Fabry,NULL,NULL,NULL,NULL,NULL
+9005,5,2,30,LA,1196,Karim Hilmi,363,Institut National de Recherche Halieutique,Morocco,NULL,NULL
+9055,5,2,30,LA,6064,Sukgeun Jung,375,Jeju National University,South Korea,NULL,NULL
+10088,5,2,30,LA,5120,Elvira S. Poloczanska,6,N/A,Australia,NULL,NULL
+9043,5,2,30,LA,6062,Svein Sundby,341,Institute of Marine Research,Norway,NULL,NULL
+10193,5,2,30,RE,6082,Ly Omar,89,N/A,Senegal,NULL,NULL
+9862,5,2,30,RE,3044,Carol Turley,472,Plymouth Marine Laboratory,United Kingdom,NULL,NULL
+9008,5,2,30,CA,6067,Johann Bell,NULL,NULL,NULL,NULL,NULL
+8723,5,2,30,CA,6075,Christopher J. Brown,365,University of Queensland,Australia,NULL,NULL
+9804,5,2,30,CA,6066,Michael T. Burrows,NULL,NULL,NULL,NULL,NULL
+8829,5,2,30,CA,5306,Long Cao,NULL,NULL,NULL,NULL,NULL
+8806,5,2,30,CA,6068,Simon Donner,326,University of British Columbia,Canada,NULL,NULL
+9031,5,2,30,CA,6070,Arne Eide,NULL,NULL,NULL,NULL,NULL
+9925,5,2,30,CA,6071,Benjamin Halpern,NULL,NULL,NULL,NULL,NULL
+8817,5,2,30,CA,5690,R. Ian Perry,676,Fisheries and Oceans Canada,Canada,NULL,NULL
+9913,5,2,30,CA,6069,C. Mark Eakin,NULL,NULL,NULL,NULL,NULL
+9958,5,2,30,CA,6072,Charles R. McClain,NULL,NULL,NULL,NULL,NULL
+8811,5,2,30,CA,6081,Stewart M. McKinnell,NULL,NULL,NULL,NULL,NULL
+8814,5,2,30,CA,6073,Mary I. O’Connor,326,University of British Columbia,Canada,NULL,NULL
+9976,5,2,30,CA,2264,Camille Parmesan,NULL,NULL,NULL,NULL,NULL
+8765,5,2,30,CA,6074,Anthony J. Richardson,NULL,NULL,NULL,NULL,NULL
+10089,5,2,30,CA,6076,David Schoeman,6,N/A,Australia,NULL,NULL
+9991,5,2,30,CA,6077,Sergio Signorini,NULL,NULL,NULL,NULL,NULL
+9992,5,2,30,CA,6065,William Skirving,NULL,NULL,NULL,NULL,NULL
+9763,5,2,30,CA,2882,Daithi A. Stone,NULL,NULL,NULL,NULL,NULL
+10002,5,2,30,CA,6078,William Sydeman,NULL,NULL,NULL,NULL,NULL
+10007,5,2,30,CA,6080,Ruben van Hooidonk,NULL,NULL,NULL,NULL,NULL
+8844,5,2,30,CA,6079,Rui Zhang,NULL,NULL,NULL,NULL,NULL
+10073,5,2,TS,CLA,201,Vicente Ricardo Barros,5,N/A,Argentina,NULL,NULL
+10310,5,2,TS,CLA,829,Christopher B. Field,113,N/A,USA,NULL,NULL
+10311,5,2,TS,CLA,5607,Katharine J. Mach,113,N/A,USA,NULL,NULL
+10312,5,2,TS,CLA,1869,Michael D. Mastrandrea,113,N/A,USA,NULL,NULL
+9799,5,2,TS,LA,27,W. Neil Adger,131,University of Exeter,United Kingdom,NULL,NULL
+10313,5,2,TS,LA,5742,Douglas J. Arent,113,N/A,USA,NULL,NULL
+8720,5,2,TS,LA,5094,Jonathon Barnett,300,University of Melbourne,Australia,NULL,NULL
+9803,5,2,TS,LA,252,Richard A. Betts,NULL,NULL,NULL,NULL,NULL
+10314,5,2,TS,LA,5095,Eren Bilir,113,N/A,USA,NULL,NULL
+8883,5,2,TS,LA,5851,Joern Birkmann,NULL,NULL,NULL,NULL,NULL
+9889,5,2,TS,LA,5797,JoAnn Carmin,NULL,NULL,NULL,NULL,NULL
+10228,5,2,TS,LA,5098,Dave D. Chadee,109,N/A,Trinidad and Tobago,NULL,NULL
+10365,5,2,TS,LA,5701,Andrew J. Challinor,117,N/A,United Kingdom,NULL,NULL
+9897,5,2,TS,LA,5869,Monalisa Chatterjee,NULL,NULL,NULL,NULL,NULL
+9769,5,2,TS,LA,577,Wolfgang P. Cramer,NULL,NULL,NULL,NULL,NULL
+10120,5,2,TS,LA,5991,Debra J. Davidson,20,N/A,Canada,NULL,NULL
+10164,5,2,TS,LA,5845,Yuka Otsuki Estrada,51,N/A,Japan,NULL,NULL
+8868,5,2,TS,LA,5652,Jean-Pierre Gattuso,352,Centre National de la Recherche Scientifique (CNRS),France,NULL,NULL
+8964,5,2,TS,LA,5944,Yasuaki Hijioka,129,National Institute for Environmental Studies,Japan,NULL,NULL
+8742,5,2,TS,LA,1206,Ove Hoegh-Guldberg,365,University of Queensland,Australia,NULL,NULL
+10126,5,2,TS,LA,5806,He-Qing Huang,23,N/A,China,NULL,NULL
+10191,5,2,TS,LA,5110,Gregory E. Insarov,86,N/A,Russian Federation,NULL,NULL
+8750,5,2,TS,LA,1385,Roger N. Jones,374,Victoria University,Australia,NULL,NULL
+10366,5,2,TS,LA,1571,Sari Kovats,117,N/A,United Kingdom,NULL,NULL
+8929,5,2,TS,LA,6034,Joan Nymand Larsen,390,Stefansson Arctic Institute,Iceland,NULL,NULL
+9109,5,2,TS,LA,5115,Iñigo J. Losada,NULL,NULL,NULL,NULL,NULL
+10105,5,2,TS,LA,1844,José Marengo,16,N/A,Brazil,NULL,NULL
+10090,5,2,TS,LA,1914,Roger McLean,6,N/A,Australia,NULL,NULL
+9961,5,2,TS,LA,1922,Linda O. Mearns,NULL,NULL,NULL,NULL,NULL
+8776,5,2,TS,LA,5831,Reinhard Mechler,NULL,NULL,NULL,NULL,NULL
+10367,5,2,TS,LA,2038,John F. Morton,117,N/A,United Kingdom,NULL,NULL
+9070,5,2,TS,LA,2122,Isabelle Niang-Diop,NULL,NULL,NULL,NULL,NULL
+8972,5,2,TS,LA,2192,Taikan Oki,148,University of Tokyo,Japan,NULL,NULL
+9092,5,2,TS,LA,5907,Jane Mukarugwiza Olwoch,NULL,NULL,NULL,NULL,NULL
+8983,5,2,TS,LA,5783,Maggie Opondo,427,University of Nairobi,Kenya,NULL,NULL
+10091,5,2,TS,LA,5120,Elvira S. Poloczanska,6,N/A,Australia,NULL,NULL
+8909,5,2,TS,LA,5668,Hans-O. Pörtner,NULL,NULL,NULL,NULL,NULL
+9989,5,2,TS,LA,5813,M. Rebecca Shaw,NULL,NULL,NULL,NULL,NULL
+9930,5,2,TS,LA,5805,Margaret Hiza Redsteer,NULL,NULL,NULL,NULL,NULL
+9024,5,2,TS,LA,5849,Andy Reisinger,442,New Zealand Agricultural Greenhouse Gas Research Centre,New Zealand,NULL,NULL
+8944,5,2,TS,LA,5714,Aromar Revi,443,Indian Institute for Human Settlements,India,NULL,NULL
+8999,5,2,TS,LA,2545,Patricia Romero Lankao,NULL,NULL,NULL,NULL,NULL
+10368,5,2,TS,LA,5672,Daniela N. Schmidt,117,N/A,United Kingdom,NULL,NULL
+9996,5,2,TS,LA,2821,William Solecki,NULL,NULL,NULL,NULL,NULL
+10201,5,2,TS,LA,2882,Daithi A. Stone,95,N/A,South Africa,NULL,NULL
+10121,5,2,TS,LA,2883,John M.R. Stone,20,N/A,Canada,NULL,NULL
+10001,5,2,TS,LA,5623,Kenneth M. Strzepek,NULL,NULL,NULL,NULL,NULL
+8850,5,2,TS,LA,2903,Avelino G. Suarez,NULL,NULL,NULL,NULL,NULL
+10005,5,2,TS,LA,5784,Petra Tschakert,NULL,NULL,NULL,NULL,NULL
+8958,5,2,TS,LA,5921,Riccardo Valentini,473,University of Tuscia and Euro-Mediterranean Center for Climate Change,Italy,NULL,NULL
+10222,5,2,TS,LA,5127,Maarten K. van Aalst,107,N/A,Netherlands,NULL,NULL
+8827,5,2,TS,LA,6019,Sebastián Vicuña,410,Pontificia Universidad Catolica de Chile,Chile,NULL,NULL
+9142,5,2,TS,LA,3107,Alicia Villamizar,477,Universidad Simon Bolivar,Venezuela,NULL,NULL
+10202,5,2,TS,LA,3110,Katharine Vincent,95,N/A,South Africa,NULL,NULL
+9865,5,2,TS,LA,3167,Rachel Warren,NULL,NULL,NULL,NULL,NULL
+10315,5,2,TS,LA,6083,Leslie L. White,113,N/A,USA,NULL,NULL
+10316,5,2,TS,LA,3225,Thomas J. Wilbanks,113,N/A,USA,NULL,NULL
+9079,5,2,TS,LA,3258,Poh Poh Wong,NULL,NULL,NULL,NULL,NULL
+10317,5,2,TS,LA,3324,Gary W. Yohe,113,N/A,USA,NULL,NULL
+8824,5,2,TS,RE,5780,Paulina Aldunce,144,University of Chile,Chile,NULL,NULL
+8792,5,2,TS,RE,6033,Jean Pierre Ometto,NULL,NULL,NULL,NULL,NULL
+8985,5,2,TS,RE,5741,Nirivololona Raholijao,NULL,NULL,NULL,NULL,NULL
+8981,5,2,TS,RE,6060,Kazuya Yasuhara,412,Ibaraki University,Japan,NULL,NULL
+9671,5,3,1,CLA,3367,Zhou Dadi,525,Energy Research Institute,China,NULL,NULL
+9642,5,3,1,CLA,3101,David G. Victor,259,University of California San Diego,USA,NULL,NULL
+9155,5,3,1,LA,6084,Essam Hassan Mohamed Ahmed,493,Egyptian Environmental Affairs Agency,Egypt,NULL,NULL
+9252,5,3,1,LA,6085,Pradeep Kumar Dadhich,NULL,NULL,NULL,NULL,NULL
+9511,5,3,1,LA,2201,Jos G.J. Olivier,NULL,NULL,NULL,NULL,NULL
+10145,5,3,1,LA,2540,Hans-Holger Rogner,36,N/A,Germany,NULL,NULL
+9580,5,3,1,LA,6086,Kamel Sheikho,630,King Abdulaziz City for Science and Technology,Saudi Arabia,NULL,NULL
+9668,5,3,1,LA,3299,Mitsutsune Yamaguchi,NULL,NULL,NULL,NULL,NULL
+10094,5,3,1,RE,1042,Amulf Grubler,7,N/A,Austria,NULL,NULL
+9496,5,3,1,RE,6090,Alick Muvundika,605,National Institute for Scientific and Industrial Research,Zambia,NULL,NULL
+10013,5,3,1,CA,6087,Giovanni Baiocchi,414,University of Maryland,USA,NULL,NULL
+9487,5,3,1,CA,6088,Yacob Mulugetta,519,University of Surrey,United Kingdom,NULL,NULL
+9666,5,3,1,CA,6089,Linda Wong,NULL,NULL,NULL,NULL,NULL
+9325,5,3,2,CLA,1058,Shreekant Gupta,386,University of Delhi,India,NULL,NULL
+9430,5,3,2,CLA,5835,Howard Kunreuther,583,University of Pennsylvania,USA,NULL,NULL
+9187,5,3,2,LA,6091,Valentina Bosetti,507,Fondazione Eni Enrico Mattei (FEEM),Italy,NULL,NULL
+9239,5,3,2,LA,6092,Roger Cooke,NULL,NULL,NULL,NULL,NULL
+9275,5,3,2,LA,6093,Varun Dutt,NULL,NULL,NULL,NULL,NULL
+10138,5,3,2,LA,1069,Minh Ha Duong,35,N/A,France,NULL,NULL
+9348,5,3,2,LA,6094,Hermann Held,264,University of Hamburg,Germany,NULL,NULL
+10129,5,3,2,LA,1751,Juan F. Llanes-Regueiro,26,N/A,Cuba,NULL,NULL
+10048,5,3,2,LA,2271,Anthony Patt,NULL,NULL,NULL,NULL,NULL
+9583,5,3,2,LA,6095,Ekundayo Shittu,NULL,NULL,NULL,NULL,NULL
+9653,5,3,2,LA,6096,Elke Weber,185,Columbia University,USA,NULL,NULL
+9280,5,3,2,RE,774,Ismail Elgizouli,NULL,NULL,NULL,NULL,NULL
+10044,5,3,2,RE,6100,Joanne Linnerooth-Bayer,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+10020,5,3,2,CA,6097,Hannes Böttcher,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9250,5,3,2,CA,6098,Heidi Cullen,NULL,NULL,NULL,NULL,NULL
+9379,5,3,2,CA,6099,Sheila Jasanoff,215,Harvard University,USA,NULL,NULL
+9420,5,3,3,CLA,1553,Charles Kolstad,338,Stanford University,USA,NULL,NULL
+10067,5,3,3,CLA,5099,Kevin Chika Urama,646,African Technology Policy Studies (ATPS) Network,Kenya,NULL,NULL
+9191,5,3,3,LA,6101,John Broome,153,University of Oxford,United Kingdom,NULL,NULL
+9201,5,3,3,LA,6102,Annegrete Bruvoll,NULL,NULL,NULL,NULL,NULL
+9307,5,3,3,LA,6104,Don Fullerton,NULL,NULL,NULL,NULL,NULL
+9318,5,3,3,LA,991,Christian Gollier,NULL,NULL,NULL,NULL,NULL
+9335,5,3,3,LA,6105,William Michael Hanemann,NULL,NULL,NULL,NULL,NULL
+9345,5,3,3,LA,6106,Rashid Hassan,NULL,NULL,NULL,NULL,NULL
+9387,5,3,3,LA,6107,Frank Jotzo,230,Australian National University,Australia,NULL,NULL
+9406,5,3,3,LA,6108,Mizan R. Khan,574,North South University,Bangladesh,NULL,NULL
+9470,5,3,3,LA,6109,Lukas Meyer,601,University of Graz,Austria,NULL,NULL
+9492,5,3,3,LA,6110,Luis Mundaca,425,Lund University,Sweden,NULL,NULL
+10172,5,3,3,LA,6103,Micheline Cariño Olvera,64,N/A,Mexico,NULL,NULL
+9165,5,3,3,RE,6120,Marlene Attzs,289,University of the West Indies,Trinidad and Tobago,NULL,NULL
+9188,5,3,3,RE,311,Daniel H. Bouille,355,Fundacion Bariloche,Argentina,NULL,NULL
+9433,5,3,3,RE,1605,Snorre Kverndokk,NULL,NULL,NULL,NULL,NULL
+9150,5,3,3,CA,6111,Philippe Aghion,215,Harvard University,USA,NULL,NULL
+9158,5,3,3,CA,6112,Hunt Allcott,1404,New York University,USA,NULL,NULL
+9175,5,3,3,CA,6113,Gregor Betz,NULL,NULL,NULL,NULL,NULL
+9186,5,3,3,CA,6114,Severin Borenstein,NULL,NULL,NULL,NULL,NULL
+9189,5,3,3,CA,6115,Andrew Brennan,NULL,NULL,NULL,NULL,NULL
+9213,5,3,3,CA,6116,Simon Caney,153,University of Oxford,United Kingdom,NULL,NULL
+9289,5,3,3,CA,6117,Dan Farber,NULL,NULL,NULL,NULL,NULL
+9371,5,3,3,CA,1322,Adam Jaffe,569,Motu Economic and Public Policy Research,New Zealand,NULL,NULL
+9454,5,3,3,CA,6118,Gunnar Luderer,NULL,NULL,NULL,NULL,NULL
+9508,5,3,3,CA,6119,Axel Ockenfels,NULL,NULL,NULL,NULL,NULL
+9532,5,3,3,CA,2372,David Popp,976,Syracuse University,USA,NULL,NULL
+9300,5,3,4,CLA,6121,Marc Fleurbaey,428,Princeton University,USA,NULL,NULL
+9399,5,3,4,CLA,1435,Sivan Kartha,NULL,NULL,NULL,NULL,NULL
+9184,5,3,4,LA,6122,Simon Bolwig,NULL,NULL,NULL,NULL,NULL
+10165,5,3,4,LA,6123,Yoke Ling Chee,60,N/A,Malaysia,NULL,NULL
+9222,5,3,4,LA,6124,Ying Chen,492,Chinese Academy of Social Sciences (CASS),China,NULL,NULL
+9240,5,3,4,LA,6125,Esteve Corbera,NULL,NULL,NULL,NULL,NULL
+9442,5,3,4,LA,1673,Franck Lecocq,NULL,NULL,NULL,NULL,NULL
+9456,5,3,4,LA,6126,Wolfgang Lutz,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+10106,5,3,4,LA,6127,Maria Silvia Muylaert,16,N/A,Brazil,NULL,NULL
+9507,5,3,4,LA,5118,Richard B. Norgaard,NULL,NULL,NULL,NULL,NULL
+9510,5,3,4,LA,6128,Chukwumerije Okereke,204,University of Reading,United Kingdom,NULL,NULL
+9559,5,3,4,LA,2589,Ambuj Sagar,625,Indian Institute of Technology Delhi,India,NULL,NULL
+9527,5,3,4,RE,2339,Luiz Pinguelli Rosa,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
+9558,5,3,4,RE,6136,Matthias Ruth,NULL,NULL,NULL,NULL,NULL
+9565,5,3,4,RE,2624,Jayant Sathaye,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+9166,5,3,4,CA,6129,Paul Baer,509,Georgia Institute of Technology,USA,NULL,NULL
+9194,5,3,4,CA,6130,Donald A. Brown,NULL,NULL,NULL,NULL,NULL
+9303,5,3,4,CA,6131,Josefa Francisco,NULL,NULL,NULL,NULL,NULL
+9346,5,3,4,CA,6132,Michael Zwicky Hauschild,540,Technical University of Denmark,Denmark,NULL,NULL
+9375,5,3,4,CA,6133,Michael Jakob,NULL,NULL,NULL,NULL,NULL
+10061,5,3,4,CA,6134,Heike Schroeder,231,University of East Anglia,United Kingdom,NULL,NULL
+9627,5,3,4,CA,6135,John Thøgersen,NULL,NULL,NULL,NULL,NULL
+10068,5,3,4,CA,5099,Kevin Chika Urama,646,African Technology Policy Studies (ATPS) Network,Kenya,NULL,NULL
+9177,5,3,5,CLA,6137,Gabriel Blanco,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,NULL,NULL
+9314,5,3,5,CLA,6138,Reyer Gerlagh,549,Tilburg University,Netherlands,NULL,NULL
+9619,5,3,5,CLA,6139,Sangwon Suh,544,University of California,USA,NULL,NULL
+9509,5,3,5,LA,6143,Alfred Ofosu Ahenkorah,537,Energy Commission,Ghana,NULL,NULL
+9168,5,3,5,LA,6140,John Barrett,130,University of Leeds,United Kingdom,NULL,NULL
+9256,5,3,5,LA,6141,Heleen C. de Coninck,526,University of Nijmegen,Netherlands,NULL,NULL
+9269,5,3,5,LA,681,Cristobal Felix Diaz Morejon,NULL,NULL,NULL,NULL,NULL
+9465,5,3,5,LA,6142,Ritu Mathur,NULL,NULL,NULL,NULL,NULL
+9499,5,3,5,LA,2099,Nebojsa Nakicenovic,NULL,NULL,NULL,NULL,NULL
+9517,5,3,5,LA,2250,Jiahua Pan,492,Chinese Academy of Social Sciences (CASS),China,NULL,NULL
+9521,5,3,5,LA,6144,Himanshu Pathak,613,Indian Agricultural Research Institute,India,NULL,NULL
+9547,5,3,5,LA,6145,Jake Rice,NULL,NULL,NULL,NULL,NULL
+9548,5,3,5,LA,2492,Richard G. Richels,NULL,NULL,NULL,NULL,NULL
+9593,5,3,5,LA,2809,Steven J. Smith,1462,U.S. Joint Global Change Research Institute,USA,NULL,NULL
+9609,5,3,5,LA,6146,David I. Stern,230,Australian National University,Australia,NULL,NULL
+10065,5,3,5,LA,3017,Ferenc L. Toth,980,International Atomic Energy Agency (IAEA),Austria,NULL,NULL
+9674,5,3,5,LA,3371,Peter P. Zhou,NULL,NULL,NULL,NULL,NULL
+9319,5,3,5,RE,6156,Marcos Gomes,551,Pontifical Catholic University of Rio de Janeiro,Brazil,NULL,NULL
+9641,5,3,5,RE,3095,Aviel Verbruggen,649,University of Antwerp,Belgium,NULL,NULL
+9160,5,3,5,CA,6147,Robert Andres,271,Oak Ridge National Laboratory,USA,NULL,NULL
+10014,5,3,5,CA,6087,Giovanni Baiocchi,414,University of Maryland,USA,NULL,NULL
+9336,5,3,5,CA,6105,William Michael Hanemann,NULL,NULL,NULL,NULL,NULL
+9376,5,3,5,CA,6133,Michael Jakob,NULL,NULL,NULL,NULL,NULL
+9418,5,3,5,CA,6148,Peter Kolp,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9474,5,3,5,CA,6150,Thomas Michielsen,NULL,NULL,NULL,NULL,NULL
+9500,5,3,5,CA,6151,Kaisuke Nansai,NULL,NULL,NULL,NULL,NULL
+9550,5,3,5,CA,6152,Mathis Rogner,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9552,5,3,5,CA,2551,Steven K. Rose,NULL,NULL,NULL,NULL,NULL
+9434,5,3,5,CA,6149,Emilio La Rovere,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
+9563,5,3,5,CA,6153,Estela Santalla,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,NULL,NULL
+9632,5,3,5,CA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,NULL,NULL
+9658,5,3,5,CA,6154,Tommy Wiedmann,NULL,NULL,NULL,NULL,NULL
+9661,5,3,5,CA,6155,Thomas Wilson,505,Electric Power Research Institute (EPRI),USA,NULL,NULL
+9233,5,3,6,CLA,526,Leon Clarke,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+9381,5,3,6,CLA,1353,Kejun Jiang,525,Energy Research Institute,China,NULL,NULL
+9157,5,3,6,LA,6157,Keigo Akimoto,NULL,NULL,NULL,NULL,NULL
+10192,5,3,6,LA,161,Mustafa H. Babiker,88,N/A,Saudi Arabia,NULL,NULL
+9181,5,3,6,LA,6158,Geoffrey Blanford,NULL,NULL,NULL,NULL,NULL
+9297,5,3,6,LA,6159,Karen Fisher-Vanden,195,Pennsylvania State University,USA,NULL,NULL
+9362,5,3,6,LA,1246,Jean-Charles Hourcade,NULL,NULL,NULL,NULL,NULL
+10040,5,3,6,LA,6160,Volker Krey,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9426,5,3,6,LA,6161,Elmar Kriegler,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10146,5,3,6,LA,6162,Andreas Loeschel,36,N/A,Germany,NULL,NULL
+10046,5,3,6,LA,6163,David McCollum,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9515,5,3,6,LA,6164,Sergey Paltsev,320,Massachusetts Institute of Technology,USA,NULL,NULL
+9553,5,3,6,LA,2551,Steven K. Rose,NULL,NULL,NULL,NULL,NULL
+9584,5,3,6,LA,2759,Priyadarshi R. Shukla,NULL,NULL,NULL,NULL,NULL
+9625,5,3,6,LA,6165,Massimo Tavoni,507,Fondazione Eni Enrico Mattei (FEEM),Italy,NULL,NULL
+9636,5,3,6,LA,6166,Bob van der Zwaan,NULL,NULL,NULL,NULL,NULL
+9637,5,3,6,LA,3080,Detlef P. Van Vuuren,NULL,NULL,NULL,NULL,NULL
+9221,5,3,6,RE,6190,Wenying Chen,NULL,NULL,NULL,NULL,NULL
+9657,5,3,6,RE,3205,John P. Weyant,338,Stanford University,USA,NULL,NULL
+10021,5,3,6,CA,6097,Hannes Böttcher,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9209,5,3,6,CA,6167,Katherine Calvin,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+9211,5,3,6,CA,6167,Katherine Calvin,1462,U.S. Joint Global Change Research Institute,USA,NULL,NULL
+10318,5,3,6,CA,5102,Kathryn Daenzer,113,N/A,USA,NULL,NULL
+9305,5,3,6,CA,6178,André Frossard Pereira de Lucena,NULL,NULL,NULL,NULL,NULL
+9262,5,3,6,CA,656,Michel Den Elzen,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
+9268,5,3,6,CA,6168,Subash Dhar,NULL,NULL,NULL,NULL,NULL
+9283,5,3,6,CA,6169,Jiyong Eom,NULL,NULL,NULL,NULL,NULL
+9357,5,3,6,CA,1216,Niklas Höhne,NULL,NULL,NULL,NULL,NULL
+10147,5,3,6,CA,5108,Samuel Höller,36,N/A,Germany,NULL,NULL
+9365,5,3,6,CA,6170,Nathan Hultman,414,University of Maryland,USA,NULL,NULL
+9368,5,3,6,CA,6171,Peter Irvine,NULL,NULL,NULL,NULL,NULL
+10035,5,3,6,CA,6172,Jessica Jewell,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+10039,5,3,6,CA,6173,Nils Johnson,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9397,5,3,6,CA,6174,Amit Kanudia,NULL,NULL,NULL,NULL,NULL
+9403,5,3,6,CA,6175,Ágnes Kelemen,NULL,NULL,NULL,NULL,NULL
+9405,5,3,6,CA,1457,Klaus Keller,NULL,NULL,NULL,NULL,NULL
+9419,5,3,6,CA,6148,Peter Kolp,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9440,5,3,6,CA,6176,Mark Lawrence,NULL,NULL,NULL,NULL,NULL
+10161,5,3,6,CA,6177,Thomas Longden,49,N/A,Italy,NULL,NULL
+9449,5,3,6,CA,1776,Jason A. Lowe,204,University of Reading,United Kingdom,NULL,NULL
+9455,5,3,6,CA,6118,Gunnar Luderer,NULL,NULL,NULL,NULL,NULL
+9460,5,3,6,CA,6179,Giacomo Marangoni,507,Fondazione Eni Enrico Mattei (FEEM),Italy,NULL,NULL
+9481,5,3,6,CA,6180,Nigel Moore,NULL,NULL,NULL,NULL,NULL
+9485,5,3,6,CA,6181,Ioanna Mouratiadou,NULL,NULL,NULL,NULL,NULL
+9525,5,3,6,CA,6182,Nils Petermann,NULL,NULL,NULL,NULL,NULL
+9537,5,3,6,CA,2442,Philip Rasch,NULL,NULL,NULL,NULL,NULL
+9542,5,3,6,CA,2486,Keywan Riahi,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+10056,5,3,6,CA,5456,Joeri Rogelj,725,Swiss Federal Institute of Technology,Switzerland,NULL,NULL
+9567,5,3,6,CA,6183,Michiel Schaeffer,NULL,NULL,NULL,NULL,NULL
+10148,5,3,6,CA,6184,Stefan Schäfer,36,N/A,Germany,NULL,NULL
+9572,5,3,6,CA,5281,Jan Sedláček,NULL,NULL,NULL,NULL,NULL
+9597,5,3,6,CA,6185,Laura Sokka,NULL,NULL,NULL,NULL,NULL
+9638,5,3,6,CA,6187,Naomi Vaughan,231,University of East Anglia,United Kingdom,NULL,NULL
+9647,5,3,6,CA,5610,Christoph von Stechow,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9660,5,3,6,CA,6188,Thilo Wiertz,NULL,NULL,NULL,NULL,NULL
+9615,5,3,6,CA,6186,Ian Sue Wing,242,Boston University,USA,NULL,NULL
+9677,5,3,6,CA,6189,Timm Zwickel,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9170,5,3,7,CLA,208,Igor Alexeyevich Bashmakov,500,Center for Energy Efficiency (CENEF),Russian Federation,NULL,NULL
+9196,5,3,7,CLA,3406,Thomas Bruckner,510,University of Leipzig,Germany,NULL,NULL
+9488,5,3,7,CLA,6088,Yacob Mulugetta,519,University of Surrey,United Kingdom,NULL,NULL
+9228,5,3,7,LA,6191,Helena Chum,297,National Renewable Energy Laboratory (NREL),USA,NULL,NULL
+9257,5,3,7,LA,6192,Angel De la Vega Navarro,NULL,NULL,NULL,NULL,NULL
+10319,5,3,7,LA,762,James Edmonds,113,N/A,USA,NULL,NULL
+9287,5,3,7,LA,803,Andre Faaij,NULL,NULL,NULL,NULL,NULL
+9309,5,3,7,LA,6193,Bundit Fungtammasan,NULL,NULL,NULL,NULL,NULL
+9311,5,3,7,LA,931,Amit Garg,NULL,NULL,NULL,NULL,NULL
+9353,5,3,7,LA,6194,Edgar Hertwich,561,Norwegian University of Science & Technology,Norway,NULL,NULL
+10092,5,3,7,LA,6195,Damon Honnery,6,N/A,Australia,NULL,NULL
+9367,5,3,7,LA,6196,David Infield,566,University of Strathclyde,United Kingdom,NULL,NULL
+9394,5,3,7,LA,1407,Mikiko Kainuma,129,National Institute for Environmental Studies,Japan,NULL,NULL
+9407,5,3,7,LA,6197,Smail Khennas,NULL,NULL,NULL,NULL,NULL
+9409,5,3,7,LA,6198,Suduk Kim,577,Ajou University,South Korea,NULL,NULL
+9506,5,3,7,LA,2133,Hassan Bashir Nimir,487,University of Khartoum,Sudan,NULL,NULL
+9543,5,3,7,LA,2486,Keywan Riahi,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9613,5,3,7,LA,6199,Neil Strachan,638,University College London,United Kingdom,NULL,NULL
+9664,5,3,7,LA,6200,Ryan Wiser,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+9670,5,3,7,LA,3357,Xiliang Zhang,516,Tsinghua University,China,NULL,NULL
+10159,5,3,7,RE,2256,Kirit S. Parikh,44,N/A,India,NULL,NULL
+9588,5,3,7,RE,2785,Jim F. Skea,697,Imperial College London,United Kingdom,NULL,NULL
+9164,5,3,7,CA,6201,Yumiko Asayama,129,National Institute for Environmental Studies,Japan,NULL,NULL
+10015,5,3,7,CA,6087,Giovanni Baiocchi,414,University of Maryland,USA,NULL,NULL
+9223,5,3,7,CA,6202,Francesco Cherubini,NULL,NULL,NULL,NULL,NULL
+9251,5,3,7,CA,6203,Anna Czajkowska,NULL,NULL,NULL,NULL,NULL
+9254,5,3,7,CA,6204,Naim Darghouth,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+10223,5,3,7,CA,6209,David de Jager,107,N/A,Netherlands,NULL,NULL
+10320,5,3,7,CA,6205,James J. Dooley,113,N/A,USA,NULL,NULL
+9317,5,3,7,CA,6206,Thomas Gibon,NULL,NULL,NULL,NULL,NULL
+10032,5,3,7,CA,6207,Haruna Gujba,NULL,NULL,NULL,NULL,NULL
+9350,5,3,7,CA,6216,Ariel Macaspac Hernandez,510,University of Leipzig,Germany,NULL,NULL
+9356,5,3,7,CA,6208,Ben Hoen,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+10036,5,3,7,CA,6172,Jessica Jewell,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9390,5,3,7,CA,6210,Susanne Kadner,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10321,5,3,7,CA,6211,Son H. Kim,113,N/A,USA,NULL,NULL
+9439,5,3,7,CA,6212,Peter Larsen,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+9471,5,3,7,CA,1959,Axel Michaelowa,246,University of Zurich,Switzerland,NULL,NULL
+9476,5,3,7,CA,6213,Andrew Mills,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+9484,5,3,7,CA,6214,Kanako Morita,129,National Institute for Environmental Studies,Japan,NULL,NULL
+9503,5,3,7,CA,6215,Karsten Neuhoff,NULL,NULL,NULL,NULL,NULL
+10149,5,3,7,CA,2540,Hans-Holger Rogner,36,N/A,Germany,NULL,NULL
+9562,5,3,7,CA,6217,Joseph Salvatore,NULL,NULL,NULL,NULL,NULL
+10150,5,3,7,CA,6218,Steffen Schlömer,36,N/A,Germany,NULL,NULL
+9576,5,3,7,CA,5609,Kristin Seyboth,NULL,NULL,NULL,NULL,NULL
+9631,5,3,7,CA,6219,Jigeesha Upadhyay,897,Indian Institute of Management,India,NULL,NULL
+9648,5,3,7,CA,5610,Christoph von Stechow,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9568,5,3,8,CLA,2639,Roberto Schaeffer,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
+9585,5,3,8,CLA,2775,Ralph E. H. Sims,633,Massey University,New Zealand,NULL,NULL
+9243,5,3,8,LA,6220,Felix Creutzig,522,Mercator Research Institute on Global Commons and ClimateChange (MCC),Germany,NULL,NULL
+9248,5,3,8,LA,6221,Xochitl Cruz-Núñez,NULL,NULL,NULL,NULL,NULL
+10107,5,3,8,LA,6222,Marcio D'Agosto,16,N/A,Brazil,NULL,NULL
+9270,5,3,8,LA,6223,Delia Dimitriu,NULL,NULL,NULL,NULL,NULL
+9308,5,3,8,LA,6225,Lew Fulton,544,University of California,USA,NULL,NULL
+9416,5,3,8,LA,1537,Shigeki Kobayashi,NULL,NULL,NULL,NULL,NULL
+9436,5,3,8,LA,6226,Oliver Lah,NULL,NULL,NULL,NULL,NULL
+9467,5,3,8,LA,6227,Alan McKinnon,599,Kühne Logistics University,Germany,NULL,NULL
+9292,5,3,8,LA,6224,Maria Josefina Figueroa Meza,540,Technical University of Denmark,Denmark,NULL,NULL
+9505,5,3,8,LA,6228,Peter Newman,610,Curtin University,Australia,NULL,NULL
+9513,5,3,8,LA,6229,Minggao Ouyang,516,Tsinghua University,China,NULL,NULL
+9571,5,3,8,LA,6230,James Jay Schauer,627,University of Wisconsin-Madison,USA,NULL,NULL
+9602,5,3,8,LA,2846,Daniel Sperling,NULL,NULL,NULL,NULL,NULL
+9628,5,3,8,LA,6231,Geetam Tiwari,150,Indian Institute of Technology,India,NULL,NULL
+9259,5,3,8,RE,6239,Elizabeth Deakin,544,University of California,USA,NULL,NULL
+9393,5,3,8,RE,1406,Suzana Kahn Ribeiro,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
+10322,5,3,8,CA,6232,Adjo A. Amekudzi,113,N/A,USA,NULL,NULL
+9482,5,3,8,CA,6233,Bruno Soares Moreira Cesar Borba,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
+9229,5,3,8,CA,6191,Helena Chum,297,National Renewable Energy Laboratory (NREL),USA,NULL,NULL
+10323,5,3,8,CA,6234,Philippe Crist,113,N/A,USA,NULL,NULL
+9306,5,3,8,CA,6178,André Frossard Pereira de Lucena,NULL,NULL,NULL,NULL,NULL
+9338,5,3,8,CA,6235,Han Hao,516,Tsinghua University,China,NULL,NULL
+9349,5,3,8,CA,6236,Jennifer Helfrich,NULL,NULL,NULL,NULL,NULL
+10162,5,3,8,CA,6177,Thomas Longden,49,N/A,Italy,NULL,NULL
+9523,5,3,8,CA,6237,Paul Peeters,NULL,NULL,NULL,NULL,NULL
+9528,5,3,8,CA,6238,Richard Plevin,NULL,NULL,NULL,NULL,NULL
+9530,5,3,8,CA,2356,Steven Plotkin,975,Argonne National Laboratory,USA,NULL,NULL
+9566,5,3,8,CA,2632,Robert Sausen,NULL,NULL,NULL,NULL,NULL
+9450,5,3,9,CLA,6240,Oswaldo Lucon,594,São Paulo State Environment Secretariat,Brazil,NULL,NULL
+9633,5,3,9,CLA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,NULL,NULL
+9669,5,3,9,LA,6241,Azni Zain Ahmed,653,Universiti Teknologi MARA,Malaysia,NULL,NULL
+9156,5,3,9,LA,3633,Hashem Akbari,494,Concordia University,Canada,NULL,NULL
+9174,5,3,9,LA,250,Paolo Bertoldi,1243,European Commission,Italy,NULL,NULL
+9208,5,3,9,LA,6242,Luisa F. Cabeza,513,University of Lleida,Spain,NULL,NULL
+9286,5,3,9,LA,6243,Nicholas Eyre,NULL,NULL,NULL,NULL,NULL
+9310,5,3,9,LA,6244,Ashok Gadgil,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+9343,5,3,9,LA,1123,Danny Harvey,313,University of Toronto,Canada,NULL,NULL
+9386,5,3,9,LA,6245,Yi Jiang,516,Tsinghua University,China,NULL,NULL
+9448,5,3,9,LA,6246,Enoch Liphoto,NULL,NULL,NULL,NULL,NULL
+9477,5,3,9,LA,1997,Sevastian Mirasgedis,353,National Observatory of Athens,Greece,NULL,NULL
+9495,5,3,9,LA,6247,Shuzo Murakami,604,Building Research Institute,Japan,NULL,NULL
+9518,5,3,9,LA,2255,Jyoti K. Parikh,612,Integrated Research and Action for Development (IRADe),India,NULL,NULL
+9535,5,3,9,LA,6248,Christopher Pyke,616,US Green Building Council,USA,NULL,NULL
+9645,5,3,9,LA,6249,Maria Virginia Vilariño,NULL,NULL,NULL,NULL,NULL
+9195,5,3,9,RE,6252,Marilyn Brown,509,Georgia Institute of Technology,USA,NULL,NULL
+9516,5,3,9,RE,6253,Tamás Pálvölgyi,611,Budapest University of Technology and Economics,Hungary,NULL,NULL
+9284,5,3,9,CA,6169,Jiyong Eom,NULL,NULL,NULL,NULL,NULL
+10031,5,3,9,CA,6250,Peter Graham,NULL,NULL,NULL,NULL,NULL
+9404,5,3,9,CA,6175,Ágnes Kelemen,NULL,NULL,NULL,NULL,NULL
+10041,5,3,9,CA,6160,Volker Krey,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9526,5,3,9,CA,6251,Ksenia Petrichenko,647,Central European University,Hungary,NULL,NULL
+9294,5,3,10,CLA,6254,Manfred Fischedick,542,"Wuppertal Institute for Climate,Environment and Energy",Germany,NULL,NULL
+9555,5,3,10,CLA,2568,Joyashree Roy,623,Jadavpur University,India,NULL,NULL
+9146,5,3,10,LA,6255,Amr Abdel-Aziz,NULL,NULL,NULL,NULL,NULL
+9148,5,3,10,LA,6256,Adolf Acquaye,NULL,NULL,NULL,NULL,NULL
+9159,5,3,10,LA,6257,Julian Allwood,276,University of Cambridge,United Kingdom,NULL,NULL
+9216,5,3,10,LA,460,Jean-Paul Ceron,NULL,NULL,NULL,NULL,NULL
+9313,5,3,10,LA,6258,Yong Geng,NULL,NULL,NULL,NULL,NULL
+9408,5,3,10,LA,1482,Haroon Kheshgi,NULL,NULL,NULL,NULL,NULL
+9438,5,3,10,LA,1634,Alessandro Lanza,NULL,NULL,NULL,NULL,NULL
+9524,5,3,10,LA,6259,Daniel Perczyk,614,Instituto Torcuato di Tella,Argentina,NULL,NULL
+9534,5,3,10,LA,2390,Lynn K. Price,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+9564,5,3,10,LA,6153,Estela Santalla,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,NULL,NULL
+9581,5,3,10,LA,2740,Claudia Sheinbaum Pardo,NULL,NULL,NULL,NULL,NULL
+9624,5,3,10,LA,2950,Kanako Tanaka,642,Japan Science and Technology Agency (JST),Japan,NULL,NULL
+9236,5,3,10,RE,6268,Roland Clift,NULL,NULL,NULL,NULL,NULL
+9502,5,3,10,RE,6269,Valentin Nenov,609,Burgas University,Bulgaria,NULL,NULL
+10016,5,3,10,CA,6087,Giovanni Baiocchi,414,University of Maryland,USA,NULL,NULL
+9210,5,3,10,CA,6167,Katherine Calvin,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+9212,5,3,10,CA,6167,Katherine Calvin,1462,U.S. Joint Global Change Research Institute,USA,NULL,NULL
+9253,5,3,10,CA,5102,Kathryn Daenzer,195,Pennsylvania State University,USA,NULL,NULL
+9255,5,3,10,CA,6260,Shyamsree Dasgupta,623,Jadavpur University,India,NULL,NULL
+10324,5,3,10,CA,630,Stephane De La Rue Du Can,113,N/A,USA,NULL,NULL
+10173,5,3,10,CA,5097,Gian Carlo Delgado,64,N/A,Mexico,NULL,NULL
+9299,5,3,10,CA,6262,Tobias Fleiter,NULL,NULL,NULL,NULL,NULL
+10134,5,3,10,CA,6261,Salah El Haggar,30,N/A,Egypt,NULL,NULL
+9344,5,3,10,CA,6263,Ali Hasanbeigi,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL
+9359,5,3,10,CA,5108,Samuel Höller,542,"Wuppertal Institute for Climate,Environment and Energy",Germany,NULL,NULL
+10037,5,3,10,CA,6172,Jessica Jewell,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9489,5,3,10,CA,6088,Yacob Mulugetta,519,University of Surrey,United Kingdom,NULL,NULL
+9501,5,3,10,CA,6264,Maarten Neelis,NULL,NULL,NULL,NULL,NULL
+10151,5,3,10,CA,6267,María Yetano Roche,36,N/A,Germany,NULL,NULL
+10157,5,3,10,CA,6265,Nickolas Themelis,38,N/A,Greece,NULL,NULL
+10160,5,3,10,CA,6266,Kramadhati S. Venkatagiri,44,N/A,India,NULL,NULL
+9205,5,3,11,CLA,6270,Mercedes Bustamante,512,University of Brasília,Brazil,NULL,NULL
+9590,5,3,11,CLA,2807,Peter Smith,635,University of Aberdeen,United Kingdom,NULL,NULL
+10054,5,3,11,LA,6277,Carmenza Robledo Abad,NULL,NULL,NULL,NULL,NULL
+9154,5,3,11,LA,6271,Helal Ahammad,NULL,NULL,NULL,NULL,NULL
+9232,5,3,11,LA,6272,Harry Clark,442,New Zealand Agricultural Greenhouse Gas Research Centre,New Zealand,NULL,NULL
+9271,5,3,11,LA,6273,Hongmin Dong,NULL,NULL,NULL,NULL,NULL
+10209,5,3,11,LA,781,Elnour Abdalla Elsiddig,99,N/A,Sudan,NULL,NULL
+9330,5,3,11,LA,6274,Helmut Haberl,556,Alpen Adria University,Austria,NULL,NULL
+9342,5,3,11,LA,6275,Richard Harper,559,Murdoch University,Australia,NULL,NULL
+9363,5,3,11,LA,1248,Joanna I. House,160,University of Bristol,United Kingdom,NULL,NULL
+9370,5,3,11,LA,1321,Mostafa Jafari,NULL,NULL,NULL,NULL,NULL
+9462,5,3,11,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
+9466,5,3,11,LA,6276,Cheikh Mbow,336,University Cheikh Anta Diop of Dakar,Senegal,NULL,NULL
+9539,5,3,11,LA,2452,Nijavalli H. Ravindranath,159,Indian Institute of Science,India,NULL,NULL
+9546,5,3,11,LA,2488,Charles W. Rice,619,Kansas State University,USA,NULL,NULL
+9551,5,3,11,LA,6278,Anna Romanovskaya,NULL,NULL,NULL,NULL,NULL
+9603,5,3,11,LA,6279,Frank Sperling,NULL,NULL,NULL,NULL,NULL
+10066,5,3,11,LA,3039,Francesco Tubiello,NULL,NULL,NULL,NULL,NULL
+9429,5,3,11,RE,6293,Thelma Krug,NULL,NULL,NULL,NULL,NULL
+9497,5,3,11,RE,2087,Gert-Jan Nabuurs,NULL,NULL,NULL,NULL,NULL
+9173,5,3,11,CA,6280,Göran Berndes,1086,Chalmers University of Technology,Sweden,NULL,NULL
+9185,5,3,11,CA,6122,Simon Bolwig,NULL,NULL,NULL,NULL,NULL
+10022,5,3,11,CA,6097,Hannes Böttcher,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+10185,5,3,11,CA,6281,Ryan Bright,75,N/A,Norway,NULL,NULL
+9224,5,3,11,CA,6202,Francesco Cherubini,NULL,NULL,NULL,NULL,NULL
+9230,5,3,11,CA,6191,Helena Chum,297,National Renewable Energy Laboratory (NREL),USA,NULL,NULL
+9241,5,3,11,CA,6125,Esteve Corbera,NULL,NULL,NULL,NULL,NULL
+9244,5,3,11,CA,6220,Felix Creutzig,522,Mercator Research Institute on Global Commons and ClimateChange (MCC),Germany,NULL,NULL
+9258,5,3,11,CA,6290,Alexandre de Siqueira Pinto,NULL,NULL,NULL,NULL,NULL
+9261,5,3,11,CA,6282,Mark Delucchi,NULL,NULL,NULL,NULL,NULL
+9288,5,3,11,CA,803,Andre Faaij,NULL,NULL,NULL,NULL,NULL
+9290,5,3,11,CA,6283,Joe Fargione,NULL,NULL,NULL,NULL,NULL
+9337,5,3,11,CA,6284,Gesine Hänsel,NULL,NULL,NULL,NULL,NULL
+9347,5,3,11,CA,6285,Garvin Heath,NULL,NULL,NULL,NULL,NULL
+9352,5,3,11,CA,6286,Mario Herrero,NULL,NULL,NULL,NULL,NULL
+9361,5,3,11,CA,1245,Richard A. Houghton,1031,Woods Hole Research Center,USA,NULL,NULL
+9369,5,3,11,CA,6287,Heather Jacobs,NULL,NULL,NULL,NULL,NULL
+9374,5,3,11,CA,1324,Atul K. Jain,NULL,NULL,NULL,NULL,NULL
+9402,5,3,11,CA,5318,Etsushi Kato,NULL,NULL,NULL,NULL,NULL
+9451,5,3,11,CA,6240,Oswaldo Lucon,594,São Paulo State Environment Secretariat,Brazil,NULL,NULL
+9522,5,3,11,CA,6288,Daniel Pauly,NULL,NULL,NULL,NULL,NULL
+9529,5,3,11,CA,6238,Richard Plevin,NULL,NULL,NULL,NULL,NULL
+9531,5,3,11,CA,6289,Alexander Popp,NULL,NULL,NULL,NULL,NULL
+10051,5,3,11,CA,5699,John R. Porter,NULL,NULL,NULL,NULL,NULL
+9533,5,3,11,CA,5121,Benjamin Poulter,767,Montana State University,USA,NULL,NULL
+9554,5,3,11,CA,2551,Steven K. Rose,NULL,NULL,NULL,NULL,NULL
+9596,5,3,11,CA,6291,Saran Sohi,NULL,NULL,NULL,NULL,NULL
+10063,5,3,11,CA,5345,Benjamin Stocker,NULL,NULL,NULL,NULL,NULL
+9614,5,3,11,CA,6292,Anders Strømman,NULL,NULL,NULL,NULL,NULL
+9620,5,3,11,CA,6139,Sangwon Suh,544,University of California,USA,NULL,NULL
+10224,5,3,11,CA,3073,Jelle Van Minnen,107,N/A,Netherlands,NULL,NULL
+9265,5,3,12,CLA,6294,Shobhakar Dhakal,531,Asian Institute of Technology,Thailand,NULL,NULL
+10325,5,3,12,CLA,5124,Karen C. Seto,113,N/A,USA,NULL,NULL
+9176,5,3,12,LA,6295,Anthony Bigio,502,George Washington University,USA,NULL,NULL
+9180,5,3,12,LA,6296,Hilda Blanco,504,University of Southern California,USA,NULL,NULL
+9260,5,3,12,LA,5097,Gian Carlo Delgado,NULL,NULL,NULL,NULL,NULL
+9264,5,3,12,LA,6297,David Dewar,149,University of Cape Town,South Africa,NULL,NULL
+9364,5,3,12,LA,6298,Luxin Huang,563,China Academy of Urban Planning and Design (CAUPD),China,NULL,NULL
+9366,5,3,12,LA,1292,Atsushi Inaba,565,Kogakuin University,Japan,NULL,NULL
+9396,5,3,12,LA,6299,Arun Kansal,NULL,NULL,NULL,NULL,NULL
+9457,5,3,12,LA,6300,Shuaib Lwasa,595,Makerere University,Uganda,NULL,NULL
+10326,5,3,12,LA,6301,James McMahon,113,N/A,USA,NULL,NULL
+9486,5,3,12,LA,6302,Daniel B. Müller,NULL,NULL,NULL,NULL,NULL
+9494,5,3,12,LA,6303,Jin Murakami,NULL,NULL,NULL,NULL,NULL
+9498,5,3,12,LA,6304,Harini Nagendra,607,Ashoka Trust for Research in Ecology and the Environment (ATREE),India,NULL,NULL
+10327,5,3,12,LA,6305,Anu Ramaswami,113,N/A,USA,NULL,NULL
+9217,5,3,12,RE,6320,Robert Cervero,NULL,NULL,NULL,NULL,NULL
+9629,5,3,12,RE,3016,Julio Torres-Martínez,NULL,NULL,NULL,NULL,NULL
+9172,5,3,12,CA,6306,Antonio Bento,235,Cornell University,USA,NULL,NULL
+10328,5,3,12,CA,6307,Michele Betsill,113,N/A,USA,NULL,NULL
+9202,5,3,12,CA,6308,Harriet Bulkeley,NULL,NULL,NULL,NULL,NULL
+9220,5,3,12,CA,6309,Abel Chavez,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9227,5,3,12,CA,6310,Peter Christensen,NULL,NULL,NULL,NULL,NULL
+9245,5,3,12,CA,6220,Felix Creutzig,522,Mercator Research Institute on Global Commons and ClimateChange (MCC),Germany,NULL,NULL
+9302,5,3,12,CA,6311,Michail Fragkias,NULL,NULL,NULL,NULL,NULL
+9323,5,3,12,CA,6312,Burak Güneralp,409,Texas A&M University,USA,NULL,NULL
+9384,5,3,12,CA,6313,Leiwen Jiang,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+10329,5,3,12,CA,6314,Peter Marcotullio,113,N/A,USA,NULL,NULL
+10047,5,3,12,CA,6163,David McCollum,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9475,5,3,12,CA,6315,Adam Millard-Ball,NULL,NULL,NULL,NULL,NULL
+10152,5,3,12,CA,6316,Peter Pichler,36,N/A,Germany,NULL,NULL
+9561,5,3,12,CA,6317,Serge Salat,NULL,NULL,NULL,NULL,NULL
+10064,5,3,12,CA,6318,Cecilia Tacoli,451,International Institute for Environment and Development (IIED),United Kingdom,NULL,NULL
+9655,5,3,12,CA,6319,Helga Weisz,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9678,5,3,12,CA,6189,Timm Zwickel,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9606,5,3,13,CLA,2862,Robert N. Stavins,215,Harvard University,USA,NULL,NULL
+10127,5,3,13,CLA,3379,Ji Zou,23,N/A,China,NULL,NULL
+9190,5,3,13,LA,6321,Thomas Brewer,508,Georgetown University,USA,NULL,NULL
+9263,5,3,13,LA,656,Michel Den Elzen,530,Netherlands Environmental Assessment Agency,Netherlands,NULL,NULL
+9293,5,3,13,LA,6323,Michael Finus,541,University of Bath,United Kingdom,NULL,NULL
+9237,5,3,13,LA,6322,Mariana Conte Grand,NULL,NULL,NULL,NULL,NULL
+9324,5,3,13,LA,1057,Joyeeta Gupta,NULL,NULL,NULL,NULL,NULL
+9358,5,3,13,LA,1216,Niklas Höhne,NULL,NULL,NULL,NULL,NULL
+9443,5,3,13,LA,6324,Myung-Kyoon Lee,NULL,NULL,NULL,NULL,NULL
+9472,5,3,13,LA,1959,Axel Michaelowa,246,University of Zurich,Switzerland,NULL,NULL
+9519,5,3,13,LA,6325,Matthew Paterson,238,University of Ottawa,Canada,NULL,NULL
+10053,5,3,13,LA,6326,Kilaparti Ramakrishna,NULL,NULL,NULL,NULL,NULL
+9656,5,3,13,LA,6327,Gang Wen,NULL,NULL,NULL,NULL,NULL
+9659,5,3,13,LA,6328,Jonathan Wiener,652,Duke University,USA,NULL,NULL
+9662,5,3,13,LA,3246,Harald Winkler,149,University of Cape Town,South Africa,NULL,NULL
+10034,5,3,13,RE,1311,Antonina Ivanova Boncheva,546,Universidad Autonoma de Baja California Sur (UABCS),Mexico,NULL,NULL
+9483,5,3,13,RE,6339,Jennifer Morgan,589,World Resources Institute,USA,NULL,NULL
+9183,5,3,13,CA,6329,Daniel Bodansky,784,Arizona State University,USA,NULL,NULL
+9218,5,3,13,CA,6330,Gabriel Chan,215,Harvard University,USA,NULL,NULL
+9281,5,3,13,CA,6331,Anita Engels,NULL,NULL,NULL,NULL,NULL
+9372,5,3,13,CA,1322,Adam Jaffe,569,Motu Economic and Public Policy Research,New Zealand,NULL,NULL
+9377,5,3,13,CA,6133,Michael Jakob,NULL,NULL,NULL,NULL,NULL
+9380,5,3,13,CA,6332,T. Jayaraman,NULL,NULL,NULL,NULL,NULL
+9445,5,3,13,CA,6333,Jorge Leiva,NULL,NULL,NULL,NULL,NULL
+9446,5,3,13,CA,6334,Kai Lessmann,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9504,5,3,13,CA,6335,Richard Newell,652,Duke University,USA,NULL,NULL
+9512,5,3,13,CA,6336,Sheila Olmstead,873,Resources for the Future,USA,NULL,NULL
+10330,5,3,13,CA,2352,William A. Pizer,113,N/A,USA,NULL,NULL
+10331,5,3,13,CA,6337,Robert Stowe,113,N/A,USA,NULL,NULL
+9646,5,3,13,CA,6338,Marlene Vinluan,1457,Asian Development Bank,Philippines,NULL,NULL
+9151,5,3,14,CLA,37,Shardul Agrawala,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
+9412,5,3,14,CLA,6340,Stephan Klasen,579,University of Göttingen,Germany,NULL,NULL
+9147,5,3,14,LA,21,Roberto Acosta Moreno,NULL,NULL,NULL,NULL,NULL
+9167,5,3,14,LA,6341,Leonardo Barreto,NULL,NULL,NULL,NULL,NULL
+9242,5,3,14,LA,6342,Thomas Cottier,126,University of Bern,Switzerland,NULL,NULL
+10174,5,3,14,LA,6343,Alba Eritrea Gámez-Vázquez,64,N/A,Mexico,NULL,NULL
+9322,5,3,14,LA,6344,Dabo Guan,NULL,NULL,NULL,NULL,NULL
+9329,5,3,14,LA,6345,Edgar E. Gutierrez-Espeleta,555,Universidad de Costa Rica,Costa Rica,NULL,NULL
+9385,5,3,14,LA,6313,Leiwen Jiang,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+9410,5,3,14,LA,6346,Yong Gun Kim,578,Korea Environment Institute,South Korea,NULL,NULL
+9447,5,3,14,LA,6347,Joanna Lewis,508,Georgetown University,USA,NULL,NULL
+9469,5,3,14,LA,6348,Mohammed Messouli,600,Université Cadi Ayyad,Morocco,NULL,NULL
+9538,5,3,14,LA,6349,Michael Rauscher,NULL,NULL,NULL,NULL,NULL
+9630,5,3,14,LA,6350,Noim Uddin,125,University of New South Wales,Australia,NULL,NULL
+9639,5,3,14,LA,6351,Anthony Venables,153,University of Oxford,United Kingdom,NULL,NULL
+10024,5,3,14,RE,6357,Volodymyr Demkine,996,United Nations Environment Programme (UNEP),Kenya,NULL,NULL
+9334,5,3,14,RE,1093,Kirsten Halsnaes,NULL,NULL,NULL,NULL,NULL
+9298,5,3,14,CA,6352,Christian Flachsland,NULL,NULL,NULL,NULL,NULL
+9360,5,3,14,CA,6353,Kateryna Holzer,NULL,NULL,NULL,NULL,NULL
+10369,5,3,14,CA,1248,Joanna I. House,117,N/A,United Kingdom,NULL,NULL
+10038,5,3,14,CA,6172,Jessica Jewell,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9415,5,3,14,CA,6354,Brigitte Knopf,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9441,5,3,14,CA,6355,Peter Lawrence,166,National Center for Atmospheric Research (NCAR),USA,NULL,NULL
+9473,5,3,14,CA,1959,Axel Michaelowa,246,University of Zurich,Switzerland,NULL,NULL
+10060,5,3,14,CA,6356,Victoria Schreitter,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
+9599,5,3,15,CLA,6358,Eswaran Somanathan,636,"Indian Statistical Institute,Delhi",India,NULL,NULL
+9610,5,3,15,CLA,6359,Thomas Sterner,NULL,NULL,NULL,NULL,NULL
+9616,5,3,15,CLA,2911,Taishi Sugiyama,639,Central Research Institute of Electric Power Industry,Japan,NULL,NULL
+9225,5,3,15,LA,6360,Donald Chimanikire,517,University of Zimbabwe,Zimbabwe,NULL,NULL
+9272,5,3,15,LA,6361,Navroz K. Dubash,534,Centre for Policy Research,India,NULL,NULL
+9285,5,3,15,LA,6362,Joseph Kow Essandoh-Yeddu,537,Energy Commission,Ghana,NULL,NULL
+9291,5,3,15,LA,6363,Solomone Fifita,NULL,NULL,NULL,NULL,NULL
+9321,5,3,15,LA,6364,Lawrence Goulder,338,Stanford University,USA,NULL,NULL
+9373,5,3,15,LA,1322,Adam Jaffe,569,Motu Economic and Public Policy Research,New Zealand,NULL,NULL
+9435,5,3,15,LA,6365,Xavier Labandeira,585,University of Vigo,Spain,NULL,NULL
+9459,5,3,15,LA,6366,Shunsuke Managi,NULL,NULL,NULL,NULL,NULL
+9479,5,3,15,LA,6367,Catherine Mitchell,131,University of Exeter,United Kingdom,NULL,NULL
+9480,5,3,15,LA,2018,Juan Pablo Montero,NULL,NULL,NULL,NULL,NULL
+9626,5,3,15,LA,6368,Fei Teng,516,Tsinghua University,China,NULL,NULL
+9681,5,3,15,LA,5129,Tomasz Zylicz,656,University of Warsaw,Poland,NULL,NULL
+9378,5,3,15,RE,6387,Martin Jänicke,183,Freie Universität Berlin,Germany,NULL,NULL
+9573,5,3,15,RE,2713,Ronaldo Seroa da Motta,NULL,NULL,NULL,NULL,NULL
+9623,5,3,15,RE,6388,Nadir Mohamed Awad Suliman,NULL,NULL,NULL,NULL,NULL
+9161,5,3,15,CA,6369,Arild Angelsen,NULL,NULL,NULL,NULL,NULL
+9162,5,3,15,CA,6370,Kazumasu Aoki,NULL,NULL,NULL,NULL,NULL
+9163,5,3,15,CA,6371,Kenji Asano,NULL,NULL,NULL,NULL,NULL
+10332,5,3,15,CA,6307,Michele Betsill,113,N/A,USA,NULL,NULL
+9536,5,3,15,CA,6372,Rishikesh Ram Bhandary,962,Tufts University,USA,NULL,NULL
+10023,5,3,15,CA,6373,Nils Axel Braathen,NULL,NULL,NULL,NULL,NULL
+9203,5,3,15,CA,6308,Harriet Bulkeley,NULL,NULL,NULL,NULL,NULL
+9204,5,3,15,CA,6374,Dallas Burtraw,873,Resources for the Future,USA,NULL,NULL
+9214,5,3,15,CA,6375,Ann Carlson,NULL,NULL,NULL,NULL,NULL
+10028,5,3,15,CA,6376,Luis Gomez-Echeverri,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9332,5,3,15,CA,1079,Erik Haites,535,Margaree Consultants Inc.,Canada,NULL,NULL
+9388,5,3,15,CA,6107,Frank Jotzo,230,Australian National University,Australia,NULL,NULL
+9395,5,3,15,CA,1417,Milind Kandlikar,NULL,NULL,NULL,NULL,NULL
+9411,5,3,15,CA,6377,Osamu Kimura,639,Central Research Institute of Electric Power Industry,Japan,NULL,NULL
+9417,5,3,15,CA,6378,Gunnar Kohlin,NULL,NULL,NULL,NULL,NULL
+9423,5,3,15,CA,6379,Hidenori Komatsu,639,Central Research Institute of Electric Power Industry,Japan,NULL,NULL
+9461,5,3,15,CA,6380,Andrew Marquard,149,University of Cape Town,South Africa,NULL,NULL
+9468,5,3,15,CA,6381,Michael Mehling,NULL,NULL,NULL,NULL,NULL
+10333,5,3,15,CA,6382,Duane Muller,113,N/A,USA,NULL,NULL
+9493,5,3,15,CA,6110,Luis Mundaca,425,Lund University,Sweden,NULL,NULL
+9514,5,3,15,CA,6383,Michael Pahle,NULL,NULL,NULL,NULL,NULL
+9520,5,3,15,CA,6325,Matthew Paterson,238,University of Ottawa,Canada,NULL,NULL
+9549,5,3,15,CA,6384,Charles Roger,NULL,NULL,NULL,NULL,NULL
+9577,5,3,15,CA,5609,Kristin Seyboth,NULL,NULL,NULL,NULL,NULL
+9604,5,3,15,CA,6385,Elisheba Spiller,458,Environmental Defense Fund,USA,NULL,NULL
+9649,5,3,15,CA,5610,Christoph von Stechow,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9652,5,3,15,CA,3176,Paul Watkiss,892,Paul Watkiss Associates,United Kingdom,NULL,NULL
+9663,5,3,15,CA,3246,Harald Winkler,149,University of Cape Town,South Africa,NULL,NULL
+9667,5,3,15,CA,6386,Bridget Woodman,NULL,NULL,NULL,NULL,NULL
+9326,5,3,16,CLA,1059,Sujata Gupta,1457,Asian Development Bank,Philippines,NULL,NULL
+9339,5,3,16,CLA,1112,Jochen Harnisch,558,KFW German Development Bank,Germany,NULL,NULL
+9169,5,3,16,LA,6389,Dipal Chandra Barua,499,Bright Green Energy Foundation,Bangladesh,NULL,NULL
+9226,5,3,16,LA,6390,Lloyd Chingambo,518,Africa Carbon Credit Exchange,Zambia,NULL,NULL
+9458,5,3,16,LA,6396,Haroldo de Oliveira Machado-Filho,NULL,NULL,NULL,NULL,NULL
+9304,5,3,16,LA,6391,Paul Frankel,NULL,NULL,NULL,NULL,NULL
+10029,5,3,16,LA,6376,Luis Gomez-Echeverri,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9333,5,3,16,LA,1079,Erik Haites,535,Margaree Consultants Inc.,Canada,NULL,NULL
+10033,5,3,16,LA,6393,Yongfu Huang,NULL,NULL,NULL,NULL,NULL
+9424,5,3,16,LA,6394,Raymond Kopp,873,Resources for the Future,USA,NULL,NULL
+9444,5,3,16,LA,6395,Benoit Lefèvre,NULL,NULL,NULL,NULL,NULL
+9464,5,3,16,LA,6397,Emanuele Massetti,NULL,NULL,NULL,NULL,NULL
+9312,5,3,16,LA,6392,Raúl Jorge Garrido Vázquez,NULL,NULL,NULL,NULL,NULL
+9215,5,3,16,RE,445,Carlo Carraro,507,Fondazione Eni Enrico Mattei (FEEM),Italy,NULL,NULL
+9398,5,3,16,RE,6402,Mohammed Said Karrouk,572,University Hassan II,Morocco,NULL,NULL
+10206,5,3,16,RE,6403,Ignacio Pérez-Arriaga,97,N/A,Spain,NULL,NULL
+9282,5,3,16,CA,6398,Katrin Enting,558,KFW German Development Bank,Germany,NULL,NULL
+9425,5,3,16,CA,6401,Silvia Kreibiehl,NULL,NULL,NULL,NULL,NULL
+9605,5,3,16,CA,6399,Martin Stadelmann,246,University of Zurich,Switzerland,NULL,NULL
+10070,5,3,16,CA,6400,Murray Ward,NULL,NULL,NULL,NULL,NULL
+9200,5,3,TS,CLA,6404,Steffen Brunner,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9277,5,3,TS,CLA,760,Ottmar Edenhofer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9392,5,3,TS,CLA,6210,Susanne Kadner,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10155,5,3,TS,CLA,5116,Jan Christoph Minx,36,N/A,Germany,NULL,NULL
+10131,5,3,TS,CLA,2329,Ramon Pichs-Madruga,26,N/A,Cuba,NULL,NULL
+9598,5,3,TS,CLA,2817,Youba Sokona,1170,IPCC,Switzerland,NULL,NULL
+9153,5,3,TS,LA,37,Shardul Agrawala,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
+10018,5,3,TS,LA,6087,Giovanni Baiocchi,414,University of Maryland,USA,NULL,NULL
+9171,5,3,TS,LA,208,Igor Alexeyevich Bashmakov,500,Center for Energy Efficiency (CENEF),Russian Federation,NULL,NULL
+9179,5,3,TS,LA,6137,Gabriel Blanco,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,NULL,NULL
+9193,5,3,TS,LA,6101,John Broome,153,University of Oxford,United Kingdom,NULL,NULL
+9198,5,3,TS,LA,3406,Thomas Bruckner,510,University of Leipzig,Germany,NULL,NULL
+9207,5,3,TS,LA,6270,Mercedes Bustamante,512,University of Brasília,Brazil,NULL,NULL
+9235,5,3,TS,LA,526,Leon Clarke,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+9247,5,3,TS,LA,6220,Felix Creutzig,522,Mercator Research Institute on Global Commons and ClimateChange (MCC),Germany,NULL,NULL
+9249,5,3,TS,LA,6221,Xochitl Cruz-Núñez,NULL,NULL,NULL,NULL,NULL
+9673,5,3,TS,LA,3367,Zhou Dadi,525,Energy Research Institute,China,NULL,NULL
+9267,5,3,TS,LA,6294,Shobhakar Dhakal,531,Asian Institute of Technology,Thailand,NULL,NULL
+9274,5,3,TS,LA,6361,Navroz K. Dubash,534,Centre for Policy Research,India,NULL,NULL
+9279,5,3,TS,LA,6405,Patrick Eickemeier,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10026,5,3,TS,LA,6406,Ellie Farahani,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9296,5,3,TS,LA,6254,Manfred Fischedick,542,"Wuppertal Institute for Climate,Environment and Energy",Germany,NULL,NULL
+9301,5,3,TS,LA,6121,Marc Fleurbaey,428,Princeton University,USA,NULL,NULL
+9316,5,3,TS,LA,6138,Reyer Gerlagh,549,Tilburg University,Netherlands,NULL,NULL
+10030,5,3,TS,LA,6376,Luis Gomez-Echeverri,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9238,5,3,TS,LA,6322,Mariana Conte Grand,NULL,NULL,NULL,NULL,NULL
+9328,5,3,TS,LA,1059,Sujata Gupta,1457,Asian Development Bank,Philippines,NULL,NULL
+9341,5,3,TS,LA,1112,Jochen Harnisch,558,KFW German Development Bank,Germany,NULL,NULL
+9383,5,3,TS,LA,1353,Kejun Jiang,525,Energy Research Institute,China,NULL,NULL
+9389,5,3,TS,LA,6107,Frank Jotzo,230,Australian National University,Australia,NULL,NULL
+9401,5,3,TS,LA,1435,Sivan Kartha,NULL,NULL,NULL,NULL,NULL
+9414,5,3,TS,LA,6340,Stephan Klasen,579,University of Göttingen,Germany,NULL,NULL
+9422,5,3,TS,LA,1553,Charles Kolstad,338,Stanford University,USA,NULL,NULL
+10043,5,3,TS,LA,6160,Volker Krey,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9432,5,3,TS,LA,5835,Howard Kunreuther,583,University of Pennsylvania,USA,NULL,NULL
+9453,5,3,TS,LA,6240,Oswaldo Lucon,594,São Paulo State Environment Secretariat,Brazil,NULL,NULL
+9463,5,3,TS,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
+9491,5,3,TS,LA,6088,Yacob Mulugetta,519,University of Surrey,United Kingdom,NULL,NULL
+10334,5,3,TS,LA,5118,Richard B. Norgaard,113,N/A,USA,NULL,NULL
+10050,5,3,TS,LA,2271,Anthony Patt,NULL,NULL,NULL,NULL,NULL
+9541,5,3,TS,LA,2452,Nijavalli H. Ravindranath,159,Indian Institute of Science,India,NULL,NULL
+9545,5,3,TS,LA,2486,Keywan Riahi,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9557,5,3,TS,LA,2568,Joyashree Roy,623,Jadavpur University,India,NULL,NULL
+9560,5,3,TS,LA,2589,Ambuj Sagar,625,Indian Institute of Technology Delhi,India,NULL,NULL
+9570,5,3,TS,LA,2639,Roberto Schaeffer,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
+10156,5,3,TS,LA,6218,Steffen Schlömer,36,N/A,Germany,NULL,NULL
+9575,5,3,TS,LA,5124,Karen C. Seto,629,Yale University,USA,NULL,NULL
+9579,5,3,TS,LA,5609,Kristin Seyboth,NULL,NULL,NULL,NULL,NULL
+9587,5,3,TS,LA,2775,Ralph E. H. Sims,633,Massey University,New Zealand,NULL,NULL
+9592,5,3,TS,LA,2807,Peter Smith,635,University of Aberdeen,United Kingdom,NULL,NULL
+9601,5,3,TS,LA,6358,Eswaran Somanathan,636,"Indian Statistical Institute,Delhi",India,NULL,NULL
+9608,5,3,TS,LA,2862,Robert N. Stavins,215,Harvard University,USA,NULL,NULL
+9612,5,3,TS,LA,6359,Thomas Sterner,NULL,NULL,NULL,NULL,NULL
+9618,5,3,TS,LA,2911,Taishi Sugiyama,639,Central Research Institute of Electric Power Industry,Japan,NULL,NULL
+9622,5,3,TS,LA,6139,Sangwon Suh,544,University of California,USA,NULL,NULL
+10069,5,3,TS,LA,5099,Kevin Chika Urama,646,African Technology Policy Studies (ATPS) Network,Kenya,NULL,NULL
+9635,5,3,TS,LA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,NULL,NULL
+9640,5,3,TS,LA,6351,Anthony Venables,153,University of Oxford,United Kingdom,NULL,NULL
+9644,5,3,TS,LA,3101,David G. Victor,259,University of California San Diego,USA,NULL,NULL
+9651,5,3,TS,LA,5610,Christoph von Stechow,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9654,5,3,TS,LA,6096,Elke Weber,185,Columbia University,USA,NULL,NULL
+9676,5,3,TS,LA,3379,Ji Zou,655,National Center for Climate Strategy Study and International Cooperation (NRDC),China,NULL,NULL
+9680,5,3,TS,LA,6189,Timm Zwickel,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9351,5,3,TS,RE,6407,Tomás Hernández-Tejeda,NULL,NULL,NULL,NULL,NULL
+10052,5,3,TS,RE,6408,Roberta Quadrelli,911,International Energy Agency,France,NULL,NULL
+10055,5,3,TS,CA,6277,Carmenza Robledo Abad,NULL,NULL,NULL,NULL,NULL
+9149,5,3,TS,CA,6256,Adolf Acquaye,NULL,NULL,NULL,NULL,NULL
+9182,5,3,TS,CA,276,Kornelis Blok,NULL,NULL,NULL,NULL,NULL
+9219,5,3,TS,CA,6330,Gabriel Chan,215,Harvard University,USA,NULL,NULL
+10187,5,3,TS,CA,900,Jan Fuglestvedt,75,N/A,Norway,NULL,NULL
+9355,5,3,TS,CA,6194,Edgar Hertwich,561,Norwegian University of Science & Technology,Norway,NULL,NULL
+9428,5,3,TS,CA,6161,Elmar Kriegler,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9437,5,3,TS,CA,6226,Oliver Lah,NULL,NULL,NULL,NULL,NULL
+9478,5,3,TS,CA,1997,Sevastian Mirasgedis,353,National Observatory of Athens,Greece,NULL,NULL
+9582,5,3,TS,CA,2740,Claudia Sheinbaum Pardo,NULL,NULL,NULL,NULL,NULL
+9595,5,3,TS,CA,2809,Steven J. Smith,1462,U.S. Joint Global Change Research Institute,USA,NULL,NULL
+10226,5,3,TS,CA,3080,Detlef P. Van Vuuren,107,N/A,Netherlands,NULL,NULL
+9152,5,3,SPM,LA,37,Shardul Agrawala,331,Organization for Economic Cooperation and Development (OECD),France,NULL,NULL
+10019,5,3,SPM,LA,208,Igor Alexeyevich Bashmakov,500,Center for Energy Efficiency (CENEF),Russian Federation,NULL,NULL
+9178,5,3,SPM,LA,6137,Gabriel Blanco,503,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,NULL,NULL
+9192,5,3,SPM,LA,6101,John Broome,153,University of Oxford,United Kingdom,NULL,NULL
+9197,5,3,SPM,LA,3406,Thomas Bruckner,510,University of Leipzig,Germany,NULL,NULL
+9199,5,3,SPM,LA,6404,Steffen Brunner,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9206,5,3,SPM,LA,6270,Mercedes Bustamante,512,University of Brasília,Brazil,NULL,NULL
+9234,5,3,SPM,LA,526,Leon Clarke,256,Pacific Northwest National Laboratory,USA,NULL,NULL
+9246,5,3,SPM,LA,6220,Felix Creutzig,522,Mercator Research Institute on Global Commons and ClimateChange (MCC),Germany,NULL,NULL
+9672,5,3,SPM,LA,3367,Zhou Dadi,525,Energy Research Institute,China,NULL,NULL
+9266,5,3,SPM,LA,6294,Shobhakar Dhakal,531,Asian Institute of Technology,Thailand,NULL,NULL
+9273,5,3,SPM,LA,6361,Navroz K. Dubash,534,Centre for Policy Research,India,NULL,NULL
+9276,5,3,SPM,LA,760,Ottmar Edenhofer,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9278,5,3,SPM,LA,6405,Patrick Eickemeier,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10025,5,3,SPM,LA,6406,Ellie Farahani,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9295,5,3,SPM,LA,6254,Manfred Fischedick,542,"Wuppertal Institute for Climate,Environment and Energy",Germany,NULL,NULL
+10027,5,3,SPM,LA,6121,Marc Fleurbaey,428,Princeton University,USA,NULL,NULL
+9315,5,3,SPM,LA,6138,Reyer Gerlagh,549,Tilburg University,Netherlands,NULL,NULL
+9320,5,3,SPM,LA,6376,Luis Gomez-Echeverri,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9327,5,3,SPM,LA,1059,Sujata Gupta,1457,Asian Development Bank,Philippines,NULL,NULL
+9340,5,3,SPM,LA,1112,Jochen Harnisch,558,KFW German Development Bank,Germany,NULL,NULL
+9382,5,3,SPM,LA,1353,Kejun Jiang,525,Energy Research Institute,China,NULL,NULL
+9391,5,3,SPM,LA,6210,Susanne Kadner,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9400,5,3,SPM,LA,1435,Sivan Kartha,NULL,NULL,NULL,NULL,NULL
+9413,5,3,SPM,LA,6340,Stephan Klasen,579,University of Göttingen,Germany,NULL,NULL
+9421,5,3,SPM,LA,1553,Charles Kolstad,338,Stanford University,USA,NULL,NULL
+10042,5,3,SPM,LA,6160,Volker Krey,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9431,5,3,SPM,LA,5835,Howard Kunreuther,583,University of Pennsylvania,USA,NULL,NULL
+9452,5,3,SPM,LA,6240,Oswaldo Lucon,594,São Paulo State Environment Secretariat,Brazil,NULL,NULL
+10045,5,3,SPM,LA,1863,Omar Masera,236,Universidad Nacional Autonoma de Mexico (UNAM),Mexico,NULL,NULL
+10153,5,3,SPM,LA,5116,Jan Christoph Minx,36,N/A,Germany,NULL,NULL
+9490,5,3,SPM,LA,6088,Yacob Mulugetta,519,University of Surrey,United Kingdom,NULL,NULL
+10049,5,3,SPM,LA,2271,Anthony Patt,NULL,NULL,NULL,NULL,NULL
+10130,5,3,SPM,LA,2329,Ramon Pichs-Madruga,26,N/A,Cuba,NULL,NULL
+9540,5,3,SPM,LA,2452,Nijavalli H. Ravindranath,159,Indian Institute of Science,India,NULL,NULL
+9544,5,3,SPM,LA,2486,Keywan Riahi,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+9556,5,3,SPM,LA,2568,Joyashree Roy,623,Jadavpur University,India,NULL,NULL
+9569,5,3,SPM,LA,2639,Roberto Schaeffer,342,Federal University of Rio de Janeiro,Brazil,NULL,NULL
+10154,5,3,SPM,LA,6218,Steffen Schlömer,36,N/A,Germany,NULL,NULL
+9574,5,3,SPM,LA,5124,Karen C. Seto,629,Yale University,USA,NULL,NULL
+9578,5,3,SPM,LA,5609,Kristin Seyboth,NULL,NULL,NULL,NULL,NULL
+9586,5,3,SPM,LA,2775,Ralph E. H. Sims,633,Massey University,New Zealand,NULL,NULL
+9589,5,3,SPM,LA,2785,Jim F. Skea,697,Imperial College London,United Kingdom,NULL,NULL
+9591,5,3,SPM,LA,2807,Peter Smith,635,University of Aberdeen,United Kingdom,NULL,NULL
+10062,5,3,SPM,LA,2817,Youba Sokona,1170,IPCC,Switzerland,NULL,NULL
+9600,5,3,SPM,LA,6358,Eswaran Somanathan,636,"Indian Statistical Institute,Delhi",India,NULL,NULL
+9607,5,3,SPM,LA,2862,Robert N. Stavins,215,Harvard University,USA,NULL,NULL
+9611,5,3,SPM,LA,6359,Thomas Sterner,NULL,NULL,NULL,NULL,NULL
+9617,5,3,SPM,LA,2911,Taishi Sugiyama,639,Central Research Institute of Electric Power Industry,Japan,NULL,NULL
+9621,5,3,SPM,LA,6139,Sangwon Suh,544,University of California,USA,NULL,NULL
+10370,5,3,SPM,LA,5099,Kevin Chika Urama,117,N/A,United Kingdom,NULL,NULL
+9634,5,3,SPM,LA,3056,Diana Ürge-Vorsatz,647,Central European University,Hungary,NULL,NULL
+9643,5,3,SPM,LA,3101,David G. Victor,259,University of California San Diego,USA,NULL,NULL
+9650,5,3,SPM,LA,5610,Christoph von Stechow,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+9675,5,3,SPM,LA,3379,Ji Zou,655,National Center for Climate Strategy Study and International Cooperation (NRDC),China,NULL,NULL
+9679,5,3,SPM,LA,6189,Timm Zwickel,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10017,5,3,SPM,CA,6087,Giovanni Baiocchi,414,University of Maryland,USA,NULL,NULL
+9231,5,3,SPM,CA,6191,Helena Chum,297,National Renewable Energy Laboratory (NREL),USA,NULL,NULL
+10186,5,3,SPM,CA,900,Jan Fuglestvedt,75,N/A,Norway,NULL,NULL
+9331,5,3,SPM,CA,6274,Helmut Haberl,556,Alpen Adria University,Austria,NULL,NULL
+9354,5,3,SPM,CA,6194,Edgar Hertwich,561,Norwegian University of Science & Technology,Norway,NULL,NULL
+9427,5,3,SPM,CA,6161,Elmar Kriegler,200,Potsdam Institute for Climate Impact Research,Germany,NULL,NULL
+10057,5,3,SPM,CA,5456,Joeri Rogelj,725,Swiss Federal Institute of Technology,Switzerland,NULL,NULL
+10058,5,3,SPM,CA,2540,Hans-Holger Rogner,376,International Institute for Applied Systems Analysis (IIASA),Austria,NULL,NULL
+10059,5,3,SPM,CA,6183,Michiel Schaeffer,NULL,NULL,NULL,NULL,NULL
+9594,5,3,SPM,CA,2809,Steven J. Smith,1462,U.S. Joint Global Change Research Institute,USA,NULL,NULL
+10225,5,3,SPM,CA,3080,Detlef P. Van Vuuren,107,N/A,Netherlands,NULL,NULL
+9665,5,3,SPM,CA,6200,Ryan Wiser,181,Lawrence Berkeley National Laboratory,USA,NULL,NULL

@@ -321,3 +321,99 @@ AR,Role Symbol,Role,WMO Symbol,WMO Region,Total WMO Region Participations,% WMO 
 4,CA,Contributing Author,SAM,South America,6,0.6579,912
 4,CA,Contributing Author,SAM,South America,6,0.6579,912
 4,CA,Contributing Author,AFR,Africa,5,0.5482,912
+5,CLA,Coordinating Lead Author,EUR,Europe,344,243.9716,141
+5,CLA,Coordinating Lead Author,NAC,"North America, Central America and the Caribbean",322,228.3688,141
+5,CLA,Coordinating Lead Author,EUR,Europe,179,126.9504,141
+5,CLA,Coordinating Lead Author,NAC,"North America, Central America and the Caribbean",129,91.4894,141
+5,CLA,Coordinating Lead Author,ASI,Asia,92,65.2482,141
+5,CLA,Coordinating Lead Author,SWP,South-West Pacific,59,41.8440,141
+5,CLA,Coordinating Lead Author,SWP,South-West Pacific,48,34.0426,141
+5,CLA,Coordinating Lead Author,EUR,Europe,39,27.6596,141
+5,CLA,Coordinating Lead Author,AFR,Africa,38,26.9504,141
+5,CLA,Coordinating Lead Author,ASI,Asia,36,25.5319,141
+5,CLA,Coordinating Lead Author,EUR,Europe,32,22.6950,141
+5,CLA,Coordinating Lead Author,AFR,Africa,28,19.8582,141
+5,CLA,Coordinating Lead Author,NAC,"North America, Central America and the Caribbean",26,18.4397,141
+5,CLA,Coordinating Lead Author,SAM,South America,25,17.7305,141
+5,CLA,Coordinating Lead Author,NAC,"North America, Central America and the Caribbean",19,13.4752,141
+5,CLA,Coordinating Lead Author,SAM,South America,17,12.0567,141
+5,CLA,Coordinating Lead Author,ASI,Asia,16,11.3475,141
+5,CLA,Coordinating Lead Author,SWP,South-West Pacific,12,8.5106,141
+5,CLA,Coordinating Lead Author,SAM,South America,9,6.3830,141
+5,CLA,Coordinating Lead Author,ASI,Asia,8,5.6738,141
+5,CLA,Coordinating Lead Author,SAM,South America,8,5.6738,141
+5,CLA,Coordinating Lead Author,SWP,South-West Pacific,8,5.6738,141
+5,CLA,Coordinating Lead Author,AFR,Africa,5,3.5461,141
+5,CLA,Coordinating Lead Author,AFR,Africa,5,3.5461,141
+5,LA,Lead Author,EUR,Europe,344,43.6548,788
+5,LA,Lead Author,NAC,"North America, Central America and the Caribbean",322,40.8629,788
+5,LA,Lead Author,EUR,Europe,179,22.7157,788
+5,LA,Lead Author,NAC,"North America, Central America and the Caribbean",129,16.3706,788
+5,LA,Lead Author,ASI,Asia,92,11.6751,788
+5,LA,Lead Author,SWP,South-West Pacific,59,7.4873,788
+5,LA,Lead Author,SWP,South-West Pacific,48,6.0914,788
+5,LA,Lead Author,EUR,Europe,39,4.9492,788
+5,LA,Lead Author,AFR,Africa,38,4.8223,788
+5,LA,Lead Author,ASI,Asia,36,4.5685,788
+5,LA,Lead Author,EUR,Europe,32,4.0609,788
+5,LA,Lead Author,AFR,Africa,28,3.5533,788
+5,LA,Lead Author,NAC,"North America, Central America and the Caribbean",26,3.2995,788
+5,LA,Lead Author,SAM,South America,25,3.1726,788
+5,LA,Lead Author,NAC,"North America, Central America and the Caribbean",19,2.4112,788
+5,LA,Lead Author,SAM,South America,17,2.1574,788
+5,LA,Lead Author,ASI,Asia,16,2.0305,788
+5,LA,Lead Author,SWP,South-West Pacific,12,1.5228,788
+5,LA,Lead Author,SAM,South America,9,1.1421,788
+5,LA,Lead Author,ASI,Asia,8,1.0152,788
+5,LA,Lead Author,SAM,South America,8,1.0152,788
+5,LA,Lead Author,SWP,South-West Pacific,8,1.0152,788
+5,LA,Lead Author,AFR,Africa,5,0.6345,788
+5,LA,Lead Author,AFR,Africa,5,0.6345,788
+5,RE,Review Editor,EUR,Europe,344,215.0000,160
+5,RE,Review Editor,NAC,"North America, Central America and the Caribbean",322,201.2500,160
+5,RE,Review Editor,EUR,Europe,179,111.8750,160
+5,RE,Review Editor,NAC,"North America, Central America and the Caribbean",129,80.6250,160
+5,RE,Review Editor,ASI,Asia,92,57.5000,160
+5,RE,Review Editor,SWP,South-West Pacific,59,36.8750,160
+5,RE,Review Editor,SWP,South-West Pacific,48,30.0000,160
+5,RE,Review Editor,EUR,Europe,39,24.3750,160
+5,RE,Review Editor,AFR,Africa,38,23.7500,160
+5,RE,Review Editor,ASI,Asia,36,22.5000,160
+5,RE,Review Editor,EUR,Europe,32,20.0000,160
+5,RE,Review Editor,AFR,Africa,28,17.5000,160
+5,RE,Review Editor,NAC,"North America, Central America and the Caribbean",26,16.2500,160
+5,RE,Review Editor,SAM,South America,25,15.6250,160
+5,RE,Review Editor,NAC,"North America, Central America and the Caribbean",19,11.8750,160
+5,RE,Review Editor,SAM,South America,17,10.6250,160
+5,RE,Review Editor,ASI,Asia,16,10.0000,160
+5,RE,Review Editor,SWP,South-West Pacific,12,7.5000,160
+5,RE,Review Editor,SAM,South America,9,5.6250,160
+5,RE,Review Editor,ASI,Asia,8,5.0000,160
+5,RE,Review Editor,SAM,South America,8,5.0000,160
+5,RE,Review Editor,SWP,South-West Pacific,8,5.0000,160
+5,RE,Review Editor,AFR,Africa,5,3.1250,160
+5,RE,Review Editor,AFR,Africa,5,3.1250,160
+5,CA,Contributing Author,EUR,Europe,344,22.6763,1517
+5,CA,Contributing Author,NAC,"North America, Central America and the Caribbean",322,21.2261,1517
+5,CA,Contributing Author,EUR,Europe,179,11.7996,1517
+5,CA,Contributing Author,NAC,"North America, Central America and the Caribbean",129,8.5036,1517
+5,CA,Contributing Author,ASI,Asia,92,6.0646,1517
+5,CA,Contributing Author,SWP,South-West Pacific,59,3.8893,1517
+5,CA,Contributing Author,SWP,South-West Pacific,48,3.1641,1517
+5,CA,Contributing Author,EUR,Europe,39,2.5709,1517
+5,CA,Contributing Author,AFR,Africa,38,2.5049,1517
+5,CA,Contributing Author,ASI,Asia,36,2.3731,1517
+5,CA,Contributing Author,EUR,Europe,32,2.1094,1517
+5,CA,Contributing Author,AFR,Africa,28,1.8457,1517
+5,CA,Contributing Author,NAC,"North America, Central America and the Caribbean",26,1.7139,1517
+5,CA,Contributing Author,SAM,South America,25,1.6480,1517
+5,CA,Contributing Author,NAC,"North America, Central America and the Caribbean",19,1.2525,1517
+5,CA,Contributing Author,SAM,South America,17,1.1206,1517
+5,CA,Contributing Author,ASI,Asia,16,1.0547,1517
+5,CA,Contributing Author,SWP,South-West Pacific,12,0.7910,1517
+5,CA,Contributing Author,SAM,South America,9,0.5933,1517
+5,CA,Contributing Author,ASI,Asia,8,0.5274,1517
+5,CA,Contributing Author,SAM,South America,8,0.5274,1517
+5,CA,Contributing Author,SWP,South-West Pacific,8,0.5274,1517
+5,CA,Contributing Author,AFR,Africa,5,0.3296,1517
+5,CA,Contributing Author,AFR,Africa,5,0.3296,1517
